@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Font Awesome Icon Gallery</title>
+    <link rel="stylesheet" href="css/fontawesome.css" />
+    <link rel="stylesheet" href="css/solid.css" />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #08111f;
+        --bg-soft: #0d1730;
+        --panel: rgba(10, 18, 34, 0.74);
+        --panel-strong: rgba(14, 24, 44, 0.92);
+        --line: rgba(148, 163, 184, 0.18);
+        --text: #ecf2ff;
+        --muted: #a7b4ce;
+        --accent: #68e1fd;
+        --accent-2: #9f7aea;
+        --shadow: 0 30px 80px rgba(2, 6, 23, 0.45);
+        --radius-xl: 30px;
+        --radius-lg: 22px;
+        --radius-md: 16px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family:
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        background:
+          radial-gradient(
+            circle at top left,
+            rgba(104, 225, 253, 0.16),
+            transparent 30%
+          ),
+          radial-gradient(
+            circle at 85% 15%,
+            rgba(159, 122, 234, 0.2),
+            transparent 28%
+          ),
+          linear-gradient(160deg, #050912 0%, var(--bg) 42%, #04070d 100%);
+        color: var(--text);
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+        background-size: 72px 72px;
+        mask-image: linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.6),
+          transparent 85%
+        );
+        opacity: 0.22;
+      }
+
+      .wrap {
+        position: relative;
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 32px 0 56px;
+      }
+
+      .hero {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: var(--radius-xl);
+        background: linear-gradient(
+          180deg,
+          rgba(12, 20, 37, 0.95),
+          rgba(8, 13, 24, 0.8)
+        );
+        box-shadow: var(--shadow);
+        padding: clamp(24px, 4vw, 44px);
+      }
+
+      .hero::before,
+      .hero::after {
+        content: "";
+        position: absolute;
+        border-radius: 999px;
+        filter: blur(10px);
+        opacity: 0.85;
+      }
+
+      .hero::before {
+        width: 280px;
+        height: 280px;
+        right: -120px;
+        top: -140px;
+        background: radial-gradient(
+          circle,
+          rgba(104, 225, 253, 0.24) 0%,
+          transparent 68%
+        );
+      }
+
+      .hero::after {
+        width: 220px;
+        height: 220px;
+        left: -90px;
+        bottom: -110px;
+        background: radial-gradient(
+          circle,
+          rgba(159, 122, 234, 0.22) 0%,
+          transparent 66%
+        );
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin: 0 0 18px;
+        padding: 10px 14px;
+        border-radius: 999px;
+        border: 1px solid rgba(104, 225, 253, 0.2);
+        background: rgba(104, 225, 253, 0.08);
+        color: var(--accent);
+        font-size: 0.85rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .eyebrow span {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 0 6px rgba(104, 225, 253, 0.12);
+      }
+
+      .hero-grid {
+        display: grid;
+        grid-template-columns: 1.5fr 0.95fr;
+        gap: 28px;
+        align-items: center;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(2.4rem, 5vw, 4.9rem);
+        line-height: 0.95;
+        letter-spacing: -0.06em;
+      }
+
+      .headline-accent {
+        display: block;
+        background: linear-gradient(
+          90deg,
+          #ffffff 0%,
+          #dbeafe 35%,
+          var(--accent) 100%
+        );
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+
+      .lede {
+        max-width: 62ch;
+        margin: 18px 0 0;
+        color: var(--muted);
+        font-size: 1.03rem;
+        line-height: 1.7;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 14px;
+      }
+
+      .stat {
+        padding: 16px 18px;
+        border-radius: var(--radius-md);
+        border: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.03);
+        backdrop-filter: blur(18px);
+      }
+
+      .stat strong {
+        display: block;
+        font-size: 1.35rem;
+        letter-spacing: -0.03em;
+      }
+
+      .stat span {
+        display: block;
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .canvas {
+        display: grid;
+        place-items: center;
+        min-height: 280px;
+        border-radius: 26px;
+        border: 1px solid rgba(104, 225, 253, 0.2);
+        background:
+          radial-gradient(
+            circle at 50% 35%,
+            rgba(104, 225, 253, 0.18),
+            transparent 40%
+          ),
+          linear-gradient(180deg, rgba(10, 17, 31, 0.96), rgba(5, 10, 20, 0.98));
+        position: relative;
+        overflow: hidden;
+      }
+
+      .canvas::before {
+        content: "";
+        position: absolute;
+        inset: 18px;
+        border-radius: 22px;
+        border: 1px dashed rgba(167, 180, 206, 0.2);
+      }
+
+      .icon-shell {
+        position: relative;
+        display: grid;
+        place-items: center;
+        width: 160px;
+        aspect-ratio: 1;
+        border-radius: 34px;
+        background: linear-gradient(
+          180deg,
+          rgba(104, 225, 253, 0.2),
+          rgba(159, 122, 234, 0.14)
+        );
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        box-shadow:
+          inset 0 1px 0 rgba(255, 255, 255, 0.12),
+          0 24px 60px rgba(0, 0, 0, 0.35);
+      }
+
+      .icon-shell::before {
+        content: "";
+        position: absolute;
+        inset: 14px;
+        border-radius: 24px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.03),
+          rgba(255, 255, 255, 0)
+        );
+      }
+
+      .hero-icon {
+        position: relative;
+        z-index: 1;
+        font-size: 5rem;
+        color: #f8fbff;
+        text-shadow: 0 16px 30px rgba(0, 0, 0, 0.45);
+      }
+
+      .hero-tag {
+        margin-top: 16px;
+        font-size: 0.88rem;
+        color: var(--muted);
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .toolbar {
+        margin-top: 24px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+        justify-content: space-between;
+        padding: 16px 18px;
+        border-radius: 20px;
+        border: 1px solid var(--line);
+        background: rgba(7, 12, 22, 0.66);
+        backdrop-filter: blur(18px);
+      }
+
+      .search {
+        flex: 1 1 340px;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 14px 16px;
+        border-radius: 16px;
+        border: 1px solid rgba(148, 163, 184, 0.16);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--muted);
+      }
+
+      .search i {
+        color: var(--accent);
+      }
+
+      .search input {
+        width: 100%;
+        border: 0;
+        outline: none;
+        background: transparent;
+        color: var(--text);
+        font: inherit;
+      }
+
+      .legend {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .pill {
+        padding: 9px 12px;
+        border-radius: 999px;
+        border: 1px solid rgba(104, 225, 253, 0.18);
+        background: rgba(104, 225, 253, 0.08);
+        color: #d9f8ff;
+      }
+
+      .gallery {
+        margin-top: 22px;
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 18px;
+        justify-items: center;
+      }
+
+      .card {
+        position: relative;
+        min-height: 160px;
+        width: 100%;
+        max-width: 220px;
+        padding: 22px;
+        border-radius: var(--radius-lg);
+        border: 1px solid var(--line);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: linear-gradient(
+          180deg,
+          rgba(11, 19, 34, 0.92),
+          rgba(8, 13, 24, 0.92)
+        );
+        box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
+        overflow: hidden;
+        transition:
+          transform 180ms ease,
+          border-color 180ms ease,
+          box-shadow 180ms ease;
+      }
+
+      .card:hover {
+        transform: translateY(-4px);
+        border-color: rgba(104, 225, 253, 0.38);
+        box-shadow: 0 24px 60px rgba(0, 0, 0, 0.3);
+      }
+
+      .card::after {
+        content: "";
+        position: absolute;
+        inset: auto -22% -36% auto;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        background: radial-gradient(
+          circle,
+          rgba(104, 225, 253, 0.12),
+          transparent 64%
+        );
+        pointer-events: none;
+      }
+
+      .icon-mark {
+        display: grid;
+        place-items: center;
+        width: 84px;
+        height: 84px;
+        border-radius: 22px;
+        background: linear-gradient(
+          180deg,
+          rgba(104, 225, 253, 0.18),
+          rgba(159, 122, 234, 0.1)
+        );
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        margin-bottom: 18px;
+      }
+
+      .icon-mark i {
+        font-size: 2.3rem;
+        color: #f5fbff;
+      }
+
+      .card h2 {
+        margin: 0;
+        font-size: 1.15rem;
+        letter-spacing: -0.03em;
+      }
+
+      .card p {
+        margin: 10px 0 0;
+        color: var(--muted);
+        line-height: 1.6;
+        font-size: 0.95rem;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+        color: #d8e4ff;
+        font-size: 0.84rem;
+      }
+
+      .meta span {
+        padding: 8px 10px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(148, 163, 184, 0.16);
+      }
+
+      .card.add-new {
+        border-style: dashed;
+        background: linear-gradient(
+          180deg,
+          rgba(12, 20, 37, 0.7),
+          rgba(6, 10, 18, 0.85)
+        );
+      }
+
+      .add-new .icon-mark {
+        background: rgba(255, 255, 255, 0.03);
+      }
+
+      .add-new .icon-mark i {
+        color: var(--accent);
+      }
+
+      .footer-note {
+        margin-top: 18px;
+        color: var(--muted);
+        font-size: 0.92rem;
+        text-align: center;
+      }
+
+      @media (max-width: 920px) {
+        .hero-grid,
+        .gallery,
+        .stats {
+          grid-template-columns: 1fr;
+        }
+
+        .canvas {
+          min-height: 230px;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .wrap {
+          width: min(100% - 20px, 1180px);
+          padding-top: 18px;
+          padding-bottom: 28px;
+        }
+
+        .hero,
+        .toolbar,
+        .card {
+          border-radius: 22px;
+        }
+
+        .search {
+          flex-basis: 100%;
+        }
+
+        h1 {
+          font-size: 2.35rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <section class="hero" aria-labelledby="gallery-title">
+        <div class="hero-grid">
+          <div>
+            <p class="eyebrow"><span></span> Icon Gallery Starter</p>
+            <h1 id="gallery-title">
+              Build a clean
+              <span class="headline-accent">Font Awesome gallery</span>
+            </h1>
+            <p class="lede">
+              This page is set up as a polished icon wall. Add new cards below
+              whenever you want to expand the collection, keep the naming
+              consistent, and the layout will keep looking intentional.
+            </p>
+            <div class="stats" aria-label="Gallery stats">
+              <div class="stat">
+                <strong>1000</strong>
+                <span>starter icon added</span>
+              </div>
+              <div class="stat">
+                <strong>Ready</strong>
+                <span>for more cards</span>
+              </div>
+              <div class="stat">
+                <strong>Clean</strong>
+                <span>gallery layout</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="canvas" aria-label="Featured icon preview">
+            <div class="icon-shell">
+              <i class="fa-solid fa-house hero-icon" aria-hidden="true"></i>
+            </div>
+            <div class="hero-tag">fa-solid fa-house</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Gallery tools">
+        <label class="search" for="icon-search">
+          <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+          <input
+            id="icon-search"
+            type="search"
+            placeholder="Search icons later by name, style, or category..."
+          />
+        </label>
+        <div class="legend">
+          <span class="pill">Drag in more icons</span>
+          <span>Keep the same card pattern for a consistent gallery</span>
+        </div>
+      </section>
+
+      <section class="gallery" aria-label="Icon gallery">
+        <article class="card">
+          <div class="icon-mark">
+            <i class="fa-solid fa-house" aria-hidden="true"></i>
+          </div>
+          <h2>House</h2>
+        </article>
+
+        <article class="card">
+          <div class="icon-mark">
+            <i class="fa-solid fa-circle-user" aria-hidden="true"></i>
+          </div>
+          <h2>Circle User</h2>
+        </article>
+
+        <article class="card">
+          <div class="icon-mark">
+            <i class="fa-solid fa-image"></i>
+          </div>
+          <h2>Image</h2>
+        </article>
+
+        <article class="card">
+          <div class="icon-mark">
+            <i class="fa-solid fa-file"></i>
+          </div>
+          <h2>File</h2>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

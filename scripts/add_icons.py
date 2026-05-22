@@ -4,6 +4,7 @@ add_icons.py
 
 Usage:
   python scripts/add_icons.py --input scripts/icons.csv --index index.html --take 9 --dry-run
+    python scripts/add_icons.py 9
 
 This script reads an icons CSV (classes,name), takes the next N entries,
 replaces the contents of the `<section class="gallery">` in `index.html`
@@ -17,15 +18,19 @@ import csv
 import datetime
 import os
 import re
-import shutil
 import subprocess
 import sys
 import random
 
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(SCRIPT_DIR)
+
 def parse_args():
     p = argparse.ArgumentParser(description="Inject icons into index.html and optionally commit/push")
-    p.add_argument("--input", default="scripts/icons.csv", help="CSV file with icon rows: classes,name or <i ...></i>,name")
-    p.add_argument("--index", default="index.html", help="Path to index.html to edit")
+    p.add_argument("count", nargs="?", type=int, help="How many icons to take from input file")
+    p.add_argument("--input", default=os.path.join(SCRIPT_DIR, "icons.csv"), help="CSV file with icon rows: classes,name or <i ...></i>,name")
+    p.add_argument("--index", default=os.path.join(REPO_ROOT, "index.html"), help="Path to index.html to edit")
     p.add_argument("--take", type=int, default=9, help="How many icons to take from input file")
     p.add_argument("--dry-run", action="store_true", help="Don't write files or run git commands; print output")
     p.add_argument("--commit", action="store_true", help="Commit and push changes via git")
@@ -82,19 +87,7 @@ def generate_card(cls, name):
         else:
                 icon_html = f'<i class="{cls}" aria-hidden="true"></i>'
 
-        return f'''        <article class="card">
-                    <div class="icon-mark">
-                        {icon_html}
-                    </div>
-                    <h2>{name}</h2>
-                </article>'''
-
-
-def backup(path):
-    ts = datetime.datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')
-    bak = f"{path}.bak.{ts}"
-    shutil.copy2(path, bak)
-    return bak
+        return f'''        <article class="card"><div class="icon-mark">{icon_html}</div><h2>{name}</h2></article>'''
 
 
 def replace_gallery(index_path, cards_html, dry_run=False):
@@ -108,7 +101,7 @@ def replace_gallery(index_path, cards_html, dry_run=False):
 
     start, old_inner, end = m.group(1), m.group(2), m.group(3)
     # Append new cards before the closing </section>
-    append_html = "\n" + "\n\n".join(cards_html) + "\n"
+    append_html = "\n" + "\n".join(cards_html) + "\n"
     insert_at = m.start(3)
     new_html = html[:insert_at] + append_html + html[insert_at:]
 
@@ -117,10 +110,9 @@ def replace_gallery(index_path, cards_html, dry_run=False):
         print(append_html)
         return new_html
 
-    bak = backup(index_path)
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(new_html)
-    return bak
+    return None
 
 
 def git_commit_and_push(paths, message, token_env=None):
@@ -170,7 +162,8 @@ def main():
         print(f"No icons found in {args.input}")
         return 1
 
-    take = min(args.take, len(icons))
+    requested_take = args.count if args.count is not None else args.take
+    take = min(requested_take, len(icons))
     selected = icons[:take]
     remaining = icons[take:]
 
@@ -181,9 +174,7 @@ def main():
         print(f"Would remove {take} entries from {args.input} and write remaining {len(remaining)} back.")
         return 0
 
-    # write new index.html (after backup)
-    bak = replace_gallery(args.index, cards, dry_run=False)
-    print(f"Backed up {args.index} -> {bak}")
+    replace_gallery(args.index, cards, dry_run=False)
 
     # rotate input
     write_icons(remaining, args.input)

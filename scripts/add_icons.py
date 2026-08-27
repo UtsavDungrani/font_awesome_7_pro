@@ -57,12 +57,18 @@ def read_icons(path):
                 continue
             if len(r) == 1:
                 part = r[0].strip()
-                # allow "<i class='fa ...'></i> Name" separated by whitespace
                 if "," in part:
                     cls, name = part.split(',', 1)
                     rows.append((cls.strip(), name.strip()))
                 else:
-                    continue
+                    # Match "<i ...></i> Name" or "<i ...></i>Name"
+                    m = re.match(r'^(<i\s+[^>]*>.*?</i>)\s*(.*)$', part, re.IGNORECASE)
+                    if m:
+                        cls = m.group(1).strip()
+                        name = m.group(2).strip()
+                        rows.append((cls, name))
+                    else:
+                        continue
             else:
                 cls = r[0].strip()
                 name = r[1].strip()

@@ -47,6 +47,9 @@ def parse_args():
     p.add_argument("--dry-run", action="store_true",
                    help="print the batch without writing or committing")
     p.add_argument("--commit", action="store_true", help="commit and push the batch")
+    p.add_argument("--no-push", action="store_true",
+                   help="with --commit, commit only; useful when several "
+                        "batches are committed before one push")
     p.add_argument("--token-env", default="GITHUB_TOKEN",
                    help="env var holding a GitHub token for HTTPS push (optional)")
     p.add_argument("--message", default=None,
@@ -100,9 +103,12 @@ def redact(text, secret):
     return text.replace(secret, "***") if secret else text
 
 
-def commit_and_push(paths, message, token_env=None):
+def commit_and_push(paths, message, token_env=None, push=True):
     git("add", *paths)
     git("commit", "-m", message)
+
+    if not push:
+        return
 
     branch = subprocess.check_output(
         ["git", "-C", REPO_ROOT, "rev-parse", "--abbrev-ref", "HEAD"]
@@ -173,15 +179,17 @@ def main():
 
     if args.commit:
         names = ", ".join(row[3] for row in batch)
-        template = args.message or "Add {count} icons: {names}"
+        template = args.message or "Add {count} icon{plural}: {names}"
         message = template.format(
             count=take,
+            plural=plural,
             names=names,
             date=datetime.date.today().isoformat(),
         )
         try:
-            commit_and_push([args.published, args.queue], message)
-            print("Committed and pushed.")
+            commit_and_push([args.published, args.queue], message,
+                            token_env=args.token_env, push=not args.no_push)
+            print("Committed." if args.no_push else "Committed and pushed.")
         except (subprocess.CalledProcessError, RuntimeError) as e:
             print("Git command failed:", redact(str(e), os.environ.get(args.token_env)))
             return 1

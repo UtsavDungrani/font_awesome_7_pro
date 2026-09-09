@@ -1,0 +1,110 @@
+name: Publish icon batches
+
+# Runs on GitHub's servers, so it does not matter whether the laptop is on.
+#
+# The contribution graph counts commits per day rather than per hour, so one
+# run that makes COMMITS_PER_DAY commits produces exactly the same squares as
+# spreading them across the day - and uses a fraction of the Actions minutes.
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 IST. GitHub may delay scheduled runs under load.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      commits:
+        description: "Commits to make this run"
+        required: false
+        default: "20"
+      icons:
+        description: "Icons per commit"
+        required: false
+        default: "9"
+
+# Never let two runs push over each other.
+concurrency:
+  group: publish-icons
+  cancel-in-progress: false
+
+env:
+  # 20 x 9 = 180 icons a day, which empties the queue in about a year.
+  # For a longer run, drop ICONS_PER_COMMIT to 2 (40 a day, ~4.3 years).
+  COMMITS_PER_DAY: "20"
+  ICONS_PER_COMMIT: "9"
+  # Contributions are attributed by email, so this has to be an address
+  # verified on the account that should get the green squares.
+  COMMIT_NAME: "Utsav Dungrani"
+  COMMIT_EMAIL: "utsavdungrani7@gmail.com"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Configure the committer
+        run: |
+          git config user.name  "$COMMIT_NAME"
+          git config user.email "$COMMIT_EMAIL"
+
+      - name: Publish the batches
+        env:
+          # Manual input wins, then a repository variable (Settings > Secrets
+          # and variables > Actions > Variables), then the default above.
+          COMMITS: ${{ github.event.inputs.commits || vars.COMMITS_PER_DAY || env.COMMITS_PER_DAY }}
+          ICONS: ${{ github.event.inputs.icons || vars.ICONS_PER_COMMIT || env.ICONS_PER_COMMIT }}
+        run: |
+          set -euo pipefail
+
+          made=0
+          for _ in $(seq 1 "$COMMITS"); do
+            # Commit each batch on its own, then push once at the end.
+            if ! python scripts/add_icons.py "$ICONS" --commit --no-push; then
+              echo "Queue is empty after $made commit(s) - stopping early."
+              break
+            fi
+            made=$((made + 1))
+          done
+
+          {
+            echo "made=$made"
+            echo "icons_each=$ICONS"
+          } >> "$GITHUB_ENV"
+
+      - name: Push
+        if: env.made != '0'
+        run: |
+          set -euo pipefail
+          # Retry once in case something else pushed while this run was going.
+          git push || {
+            git pull --rebase
+            git push
+          }
+
+      - name: Summary
+        run: |
+          set -euo pipefail
+          queued=$(( $(wc -l < scripts/icons.csv) - 1 ))
+          published=$(grep -c '^"' data/published.js || true)
+          per_day=$(( made * icons_each ))
+
+          {
+            echo "### Icon batches"
+            echo ""
+            echo "| | |"
+            echo "|---|---|"
+            echo "| Commits this run | ${made} |"
+            echo "| Icons published today | ${per_day} |"
+            echo "| On the gallery | ${published} |"
+            echo "| Still queued | ${queued} |"
+            if [ "$per_day" -gt 0 ]; then
+              echo "| Days of queue left | $(( queued / per_day )) |"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

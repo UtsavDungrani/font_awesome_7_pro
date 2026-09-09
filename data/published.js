@@ -53,5 +53,14 @@ window.FA_PUBLISHED = [
 "snowmobile-blank:3",
 "cloud-showers:23",
 "message-sms:0",
-"rocket-launch:29"
+"rocket-launch:29",
+"lock-open:23",
+"location-pin-lock:8",
+"book-font:9",
+"pie:1",
+"car-burst:7",
+"user-nurse-hair-long:21",
+"road-circle-check:24",
+"moon-stars:19",
+"share-all:22"
 ];

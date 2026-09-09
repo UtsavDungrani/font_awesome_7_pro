@@ -2,205 +2,192 @@
 """
 add_icons.py
 
+Publishes the next batch of icons to the gallery.
+
+scripts/icons.csv is the pending queue that build_icon_data.py fills, one
+icon-and-style pair per row. This script moves the next N rows out of it and
+into data/published.js, which is the list index.html renders. Rows leave the
+queue as they are published, so a batch is never repeated.
+
+The gallery is driven by that published list, so a batch of 9 adds 9 cards.
+
 Usage:
-  python scripts/add_icons.py --input scripts/icons.csv --index index.html --take 9 --dry-run
-    python scripts/add_icons.py 9
-
-This script reads an icons CSV (classes,name), takes the next N entries,
-replaces the contents of the `<section class="gallery">` in `index.html`
-with generated card markup, and optionally commits & pushes the change.
-
-It moves used entries out of the input CSV so they won't be reused.
+  python scripts/add_icons.py                      # stage the next 9
+  python scripts/add_icons.py 9 --commit           # stage 9, commit and push
+  python scripts/add_icons.py --take 45 --dry-run  # show a day's worth
 """
 
 import argparse
 import csv
 import datetime
+import json
 import os
 import re
 import subprocess
 import sys
-import random
-
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 
+QUEUE_PATH = os.path.join(SCRIPT_DIR, "icons.csv")
+PUBLISHED_PATH = os.path.join(REPO_ROOT, "data", "published.js")
+
+HEADER = "/* Icons published to the gallery. scripts/add_icons.py appends here. */"
+ENTRY = re.compile(r'"([a-z0-9-]+:\d+)"')
+
+
 def parse_args():
-    p = argparse.ArgumentParser(description="Inject icons into index.html and optionally commit/push")
-    p.add_argument("count", nargs="?", type=int, help="How many icons to take from input file")
-    p.add_argument("--input", default=os.path.join(SCRIPT_DIR, "icons.csv"), help="CSV file with icon rows: classes,name or <i ...></i>,name")
-    p.add_argument("--index", default=os.path.join(REPO_ROOT, "index.html"), help="Path to index.html to edit")
-    p.add_argument("--take", type=int, default=9, help="How many icons to take from input file")
-    p.add_argument("--dry-run", action="store_true", help="Don't write files or run git commands; print output")
-    p.add_argument("--commit", action="store_true", help="Commit and push changes via git")
-    p.add_argument("--token-env", default="GITHUB_TOKEN", help="Environment variable name that contains a GitHub token for HTTPS push (optional)")
-    p.add_argument("--message", default=None, help="Commit message template; use {datetime} and {rand} tokens")
+    p = argparse.ArgumentParser(description="Publish the next batch of icons")
+    p.add_argument("count", nargs="?", type=int,
+                   help="how many icons to publish (default: --take)")
+    p.add_argument("--take", type=int, default=9,
+                   help="batch size when no count is given (default: 9)")
+    p.add_argument("--queue", default=QUEUE_PATH, help="pending queue CSV")
+    p.add_argument("--published", default=PUBLISHED_PATH, help="published list JS")
+    p.add_argument("--dry-run", action="store_true",
+                   help="print the batch without writing or committing")
+    p.add_argument("--commit", action="store_true", help="commit and push the batch")
+    p.add_argument("--token-env", default="GITHUB_TOKEN",
+                   help="env var holding a GitHub token for HTTPS push (optional)")
+    p.add_argument("--message", default=None,
+                   help="commit message template; {count} {names} {date} are available")
     return p.parse_args()
 
 
-def extract_class_from_itag(itag):
-    m = re.search(r'class\s*=\s*"([^"]+)"', itag)
-    if m:
-        return m.group(1).strip()
-    return itag.strip()
-
-
-def read_icons(path):
-    rows = []
+def read_queue(path):
+    """Remaining rows, plus the header so it can be written back."""
     if not os.path.exists(path):
-        return rows
-    with open(path, newline='', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        for r in reader:
-            if not r:
-                continue
-            if len(r) == 1:
-                part = r[0].strip()
-                if "," in part:
-                    cls, name = part.split(',', 1)
-                    rows.append((cls.strip(), name.strip()))
-                else:
-                    # Match "<i ...></i> Name" or "<i ...></i>Name"
-                    m = re.match(r'^(<i\s+[^>]*>.*?</i>)\s*(.*)$', part, re.IGNORECASE)
-                    if m:
-                        cls = m.group(1).strip()
-                        name = m.group(2).strip()
-                        rows.append((cls, name))
-                    else:
-                        continue
-            else:
-                cls = r[0].strip()
-                name = r[1].strip()
-                # keep the full <i...> tag verbatim if provided in the CSV
-                rows.append((cls, name))
-    return rows
+        return [], []
+    with open(path, newline="", encoding="utf-8") as f:
+        rows = list(csv.reader(f))
+    if not rows:
+        return [], []
+    header, body = rows[0], rows[1:]
+    # Tolerate a queue saved without its header row.
+    if header and header[0] != "name":
+        return ["name", "style", "classes", "label", "style_label"], rows
+    return header, body
 
 
-def write_icons(remaining, path):
-    with open(path, 'w', newline='', encoding='utf-8') as f:
+def write_queue(path, header, rows):
+    with open(path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        for cls, name in remaining:
-            writer.writerow([cls, name])
+        writer.writerow(header)
+        writer.writerows(rows)
 
 
-def generate_card(cls, name):
-        # If the CSV provided a full <i ...></i> tag, use it verbatim.
-        s = cls.strip()
-        if s.startswith('<') and s.endswith('>'):
-                # assume the user provided a full element like: <i class="fa-solid fa-thumbs-up"></i>
-                icon_html = s
-        else:
-                icon_html = f'<i class="{cls}" aria-hidden="true"></i>'
-
-        return f'''        <article class="card"><div class="icon-mark">{icon_html}</div><h2>{name}</h2></article>'''
+def read_published(path):
+    if not os.path.exists(path):
+        return []
+    return ENTRY.findall(open(path, encoding="utf-8").read())
 
 
-def replace_gallery(index_path, cards_html, dry_run=False):
-    with open(index_path, 'r', encoding='utf-8') as f:
-        html = f.read()
-
-    pattern = re.compile(r'(<section[^>]*class="gallery"[^>]*>)(.*?)(</section>)', re.DOTALL)
-    m = pattern.search(html)
-    if not m:
-        raise RuntimeError("Could not find gallery <section> in index.html")
-
-    start, old_inner, end = m.group(1), m.group(2), m.group(3)
-    # Append new cards before the closing </section>
-    append_html = "\n" + "\n".join(cards_html) + "\n"
-    insert_at = m.start(3)
-    new_html = html[:insert_at] + append_html + html[insert_at:]
-
-    if dry_run:
-        print("--- DRY RUN: Generated gallery append HTML ---\n")
-        print(append_html)
-        return new_html
-
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(new_html)
-    return None
+def write_published(path, keys):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(HEADER + "\n")
+        f.write("window.FA_PUBLISHED = [\n")
+        f.write(",\n".join(json.dumps(k) for k in keys))
+        f.write("\n];\n")
 
 
-def git_commit_and_push(paths, message, token_env=None):
-    # add and commit
-    subprocess.check_call(["git", "add"] + paths)
-    subprocess.check_call(["git", "commit", "-m", message])
+def git(*args):
+    subprocess.check_call(["git", "-C", REPO_ROOT] + list(args))
 
-    # determine current branch
-    branch = subprocess.check_output(["git", "rev-parse", "--abbrev-ref", "HEAD"]).decode().strip()
 
-    token = None
-    if token_env:
-        token = os.environ.get(token_env)
+def redact(text, secret):
+    """Keep a token out of console output and scripts/logs/."""
+    return text.replace(secret, "***") if secret else text
 
-    # If a token is provided, attempt a one-off https push using the token
+
+def commit_and_push(paths, message, token_env=None):
+    git("add", *paths)
+    git("commit", "-m", message)
+
+    branch = subprocess.check_output(
+        ["git", "-C", REPO_ROOT, "rev-parse", "--abbrev-ref", "HEAD"]
+    ).decode().strip()
+
+    token = os.environ.get(token_env) if token_env else None
     if token:
-        try:
-            origin = subprocess.check_output(["git", "remote", "get-url", "origin"]).decode().strip()
-        except subprocess.CalledProcessError:
-            origin = None
+        origin = subprocess.check_output(
+            ["git", "-C", REPO_ROOT, "remote", "get-url", "origin"]
+        ).decode().strip()
 
         push_url = None
-        if origin:
-            if origin.startswith("git@"):
-                m = re.match(r"git@([^:]+):(.+)", origin)
-                if m:
-                    host = m.group(1)
-                    path = m.group(2)
-                    push_url = f"https://{host}/{path}"
-            elif origin.startswith("https://"):
-                push_url = origin
+        if origin.startswith("git@"):
+            match = re.match(r"git@([^:]+):(.+)", origin)
+            if match:
+                push_url = f"https://{match.group(1)}/{match.group(2)}"
+        elif origin.startswith("https://"):
+            push_url = origin
 
         if push_url:
-            # inject token into https url
-            push_url_with_token = push_url.replace("https://", f"https://{token}@")
-            subprocess.check_call(["git", "push", push_url_with_token, f"HEAD:refs/heads/{branch}"])
+            authed = push_url.replace("https://", f"https://{token}@")
+            try:
+                git("push", authed, f"HEAD:refs/heads/{branch}")
+            except subprocess.CalledProcessError as e:
+                # The failed command carries the token, so never let it reach
+                # the console or the log file.
+                raise RuntimeError(redact(str(e), token)) from None
             return
 
-    # default push using local git config (ssh or credential helper)
-    subprocess.check_call(["git", "push", "origin", branch])
+    git("push", "origin", branch)
 
 
 def main():
     args = parse_args()
-    icons = read_icons(args.input)
-    if not icons:
-        print(f"No icons found in {args.input}")
+
+    header, queued = read_queue(args.queue)
+    if not queued:
+        print(f"Queue is empty: {os.path.relpath(args.queue, REPO_ROOT)}")
+        print("Refill it with: python scripts/build_icon_data.py --queue")
         return 1
 
-    requested_take = args.count if args.count is not None else args.take
-    take = min(requested_take, len(icons))
-    selected = icons[:take]
-    remaining = icons[take:]
+    take = min(args.count if args.count is not None else args.take, len(queued))
+    batch, remaining = queued[:take], queued[take:]
 
-    cards = [generate_card(cls, name) for cls, name in selected]
+    for name, style, classes, label, style_label in batch:
+        print(f"  {label} ({style_label})".ljust(48) + classes)
+
+    plural = "" if take == 1 else "s"
 
     if args.dry_run:
-        replace_gallery(args.index, cards, dry_run=True)
-        print(f"Would remove {take} entries from {args.input} and write remaining {len(remaining)} back.")
+        print(f"\nDry run: {take} icon{plural} would be published, "
+              f"{len(remaining)} left in the queue.")
         return 0
 
-    replace_gallery(args.index, cards, dry_run=False)
+    published = read_published(args.published)
+    known = set(published)
+    for name, style, _classes, _label, _style_label in batch:
+        key = f"{name}:{style}"
+        if key not in known:
+            published.append(key)
+            known.add(key)
 
-    # rotate input
-    write_icons(remaining, args.input)
-    print(f"Wrote remaining {len(remaining)} entries back to {args.input}")
+    write_published(args.published, published)
+    write_queue(args.queue, header, remaining)
+
+    print(f"\nPublished {take} icon{plural} ({len(published)} total, "
+          f"{len(remaining)} still queued).")
 
     if args.commit:
-        now = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-        rand = random.randint(1000, 9999)
-        if args.message:
-            msg = args.message.format(datetime=now, rand=rand)
-        else:
-            msg = f"Add {take} icons: {now} ({rand})"
+        names = ", ".join(row[3] for row in batch)
+        template = args.message or "Add {count} icons: {names}"
+        message = template.format(
+            count=take,
+            names=names,
+            date=datetime.date.today().isoformat(),
+        )
         try:
-            git_commit_and_push([args.index, args.input], msg)
-            print("Committed and pushed changes.")
-        except subprocess.CalledProcessError as e:
-            print("Git command failed:", e)
+            commit_and_push([args.published, args.queue], message)
+            print("Committed and pushed.")
+        except (subprocess.CalledProcessError, RuntimeError) as e:
+            print("Git command failed:", redact(str(e), os.environ.get(args.token_env)))
             return 1
 
     return 0
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     sys.exit(main())

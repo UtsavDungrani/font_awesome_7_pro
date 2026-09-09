@@ -199,6 +199,7 @@
 
       .headline-accent {
         display: block;
+        padding-bottom: 0.08em; /* line-height 0.95 was clipping descenders */
         background: linear-gradient(
           90deg,
           #ffffff 0%,
@@ -453,6 +454,143 @@
         text-align: center;
       }
 
+      /* --- gallery cards are buttons: click to copy the icon classes --- */
+      .card {
+        font: inherit;
+        color: inherit;
+        cursor: pointer;
+        text-align: center;
+        appearance: none;
+      }
+
+      .card .icon-mark {
+        margin-bottom: 12px;
+      }
+
+      .card h2 {
+        font-size: 0.82rem;
+        line-height: 1.25;
+        overflow-wrap: anywhere;
+      }
+
+      .card-style {
+        margin-top: 6px;
+        font-size: 0.68rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+
+      .card.is-copied {
+        border-color: rgba(104, 225, 253, 0.6);
+      }
+
+      .card.is-copied .card-style {
+        color: var(--accent);
+      }
+
+      /* --- toolbar controls --- */
+      .control {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 14px;
+        border-radius: 16px;
+        border: 1px solid rgba(148, 163, 184, 0.16);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+
+      .control select {
+        border: 0;
+        outline: none;
+        background: transparent;
+        color: var(--text);
+        font: inherit;
+        cursor: pointer;
+        max-width: 220px;
+      }
+
+      .control select option {
+        background: var(--bg-soft);
+        color: var(--text);
+      }
+
+      .count {
+        color: var(--muted);
+        font-size: 0.9rem;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .count strong {
+        color: var(--text);
+      }
+
+      /* --- pagination --- */
+      .pager {
+        margin-top: 22px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+        padding: 16px 18px;
+        border-radius: 20px;
+        border: 1px solid var(--line);
+        background: rgba(7, 12, 22, 0.66);
+      }
+
+      .pager button {
+        min-width: 42px;
+        padding: 10px 14px;
+        border-radius: 12px;
+        border: 1px solid rgba(148, 163, 184, 0.18);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--text);
+        font: inherit;
+        cursor: pointer;
+        transition:
+          border-color 160ms ease,
+          background 160ms ease;
+      }
+
+      .pager button:hover:not(:disabled) {
+        border-color: rgba(104, 225, 253, 0.45);
+        background: rgba(104, 225, 253, 0.1);
+      }
+
+      .pager button:disabled {
+        opacity: 0.35;
+        cursor: default;
+      }
+
+      .pager .jump {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+
+      .pager .jump input {
+        width: 84px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        border: 1px solid rgba(148, 163, 184, 0.18);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--text);
+        font: inherit;
+        text-align: center;
+      }
+
+      .empty {
+        grid-column: 1 / -1;
+        padding: 56px 16px;
+        text-align: center;
+        color: var(--muted);
+      }
+
       /* Responsive column adjustments for narrower viewports */
       @media (max-width: 1400px) {
         .gallery {
@@ -559,22 +697,23 @@
               <span class="headline-accent">Font Awesome gallery</span>
             </h1>
             <p class="lede">
-              This page is set up as a polished icon wall. Add new cards below
-              whenever you want to expand the collection, keep the naming
-              consistent, and the layout will keep looking intentional.
+              A growing wall of Font Awesome Pro icons, read straight from the
+              fonts in <code>webfonts/</code> so nothing renders as a blank box.
+              A new batch is published every day. Search by name or alias,
+              filter by style, and click any card to copy its classes.
             </p>
             <div class="stats" aria-label="Gallery stats">
               <div class="stat">
-                <strong>1000</strong>
-                <span>starter icon added</span>
+                <strong id="stat-icons">&mdash;</strong>
+                <span>icons published</span>
               </div>
               <div class="stat">
-                <strong>Ready</strong>
-                <span>for more cards</span>
+                <strong id="stat-styles">&mdash;</strong>
+                <span>installed styles</span>
               </div>
               <div class="stat">
-                <strong>Clean</strong>
-                <span>gallery layout</span>
+                <strong id="stat-combos">&mdash;</strong>
+                <span>in the full catalog</span>
               </div>
             </div>
           </div>
@@ -594,65 +733,238 @@
           <input
             id="icon-search"
             type="search"
-            placeholder="Search icons later by name, style, or category..."
+            placeholder="Search published icons by name or alias..."
           />
         </label>
-        <div class="legend">
-          <span class="pill">Drag in more icons</span>
-          <span>Keep the same card pattern for a consistent gallery</span>
-        </div>
+        <label class="control" for="style-filter">
+          <i class="fa-solid fa-layer-group" aria-hidden="true"></i>
+          <select id="style-filter">
+            <option value="">All styles</option>
+          </select>
+        </label>
+        <p class="count" id="result-count" role="status" aria-live="polite">
+          Loading icons&hellip;
+        </p>
       </section>
 
-      <section class="gallery" aria-label="Icon gallery">
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-house" aria-hidden="true"></i></div><h2>House</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-circle-user" aria-hidden="true"></i></div><h2>Circle User</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-image"></i></div><h2>Image</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-file"></i></div><h2>File</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-camera"></i></div><h2>Camera</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-calendar"></i></div><h2>Calendar</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-cloud"></i></div><h2>Cloud</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-alarm-clock"></i></div><h2>Alarm clock</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-truck"></i></div><h2>Truck</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-thumbs-up"></i></div><h2>Thumbs up</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-face-smile"></i></div><h2>Face smile</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-headphones"></i></div><h2>Headphones</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-bell"></i></div><h2>Bell</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-user"></i></div><h2>User</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-comment"></i></div><h2>Comment</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-envelope"></i></div><h2>Envelope</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-globe"></i></div><h2>Globe</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-trophy"></i></div><h2>Trophy</h2></article>
-      
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-hand"></i></div><h2>Hand</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-eye"></i></div><h2>Eye</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-inbox"></i></div><h2>Inbox</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-print"></i></div><h2>Print</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-suitcase"></i></div><h2>Suitcase</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-volume"></i></div><h2>Volume</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-magnifying-glass"></i></div><h2>Magnifying Glass</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-check"></i></div><h2>Check</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-solid fa-download"></i></div><h2>Download</h2></article>
+      <section class="gallery" id="gallery" aria-label="Icon gallery"></section>
 
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-font-awesome"></i></div><h2>Font awesome</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-web-awesome"></i></div><h2>Web awesome</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-github"></i></div><h2>Github</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-facebook"></i></div><h2>Facebook</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-linkedin"></i></div><h2>Linkedin</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-discord"></i></div><h2>Discord</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-slack"></i></div><h2>Slack</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-algolia"></i></div><h2>Algolia</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-figma"></i></div><h2>Figma</h2></article>
-
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-youtube"></i></div><h2>Youtube</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-reddit"></i></div><h2>Reddit</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-apple"></i></div><h2>Apple</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-google"></i></div><h2>Google</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-twitch"></i></div><h2>Twitch</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-pied-piper-hat"></i></div><h2>Pied piper hat</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-kickstarter"></i></div><h2>Kickstarter</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-docker"></i></div><h2>Docker</h2></article>
-        <article class="card"><div class="icon-mark"><i class="fa-brands fa-rebel"></i></div><h2>Rebel</h2></article>
-</section>
+      <nav class="pager" id="pager" aria-label="Gallery pages" hidden>
+        <button type="button" id="page-first" title="First page">&laquo;</button>
+        <button type="button" id="page-prev">&lsaquo; Prev</button>
+        <span class="jump">
+          Page
+          <input
+            id="page-input"
+            type="number"
+            min="1"
+            value="1"
+            aria-label="Page number"
+          />
+          of <span id="page-total">1</span>
+        </span>
+        <button type="button" id="page-next">Next &rsaquo;</button>
+        <button type="button" id="page-last" title="Last page">&raquo;</button>
+      </nav>
     </main>
+
+    <script src="data/catalog.js"></script>
+    <script src="data/published.js"></script>
+    <script>
+      (function () {
+        var data = window.FA_CATALOG;
+        var gallery = document.getElementById("gallery");
+        var pager = document.getElementById("pager");
+        var searchInput = document.getElementById("icon-search");
+        var styleSelect = document.getElementById("style-filter");
+        var countEl = document.getElementById("result-count");
+        var pageInput = document.getElementById("page-input");
+        var pageTotal = document.getElementById("page-total");
+
+        if (!data) {
+          countEl.textContent =
+            "data/catalog.js is missing - run: python scripts/build_icon_data.py";
+          return;
+        }
+
+        // 20 rows of 9 columns, the same page size fontawesome.com uses.
+        var PER_PAGE = 180;
+
+        /* The gallery shows what data/published.js lists, not the whole
+           catalog - scripts/add_icons.py appends a batch at a time. Entries
+           are "iconName:styleIndex"; anything the catalog no longer knows is
+           skipped rather than rendered as a blank card. */
+        var published = window.FA_PUBLISHED || [];
+        var cardName = [];
+        var cardStyle = [];
+        var haystacks = [];
+
+        for (var i = 0; i < published.length; i++) {
+          var parts = published[i].split(":");
+          var entry = data.icons[parts[0]];
+          var styleIndex = Number(parts[1]);
+          if (!entry || !data.styles[styleIndex]) continue;
+
+          cardName.push(parts[0]);
+          cardStyle.push(styleIndex);
+          haystacks.push(
+            (parts[0] + " " + entry[3].join(" ") + " " + data.styles[styleIndex][1])
+              .toLowerCase()
+          );
+        }
+
+        var allCards = [];
+        for (var c = 0; c < cardName.length; c++) allCards.push(c);
+
+        var matches = allCards;
+        var page = 1;
+
+        data.styles.forEach(function (style, index) {
+          var option = document.createElement("option");
+          option.value = String(index);
+          option.textContent = style[1];
+          styleSelect.appendChild(option);
+        });
+
+        function pageCount() {
+          return Math.max(1, Math.ceil(matches.length / PER_PAGE));
+        }
+
+        function render() {
+          var start = (page - 1) * PER_PAGE;
+          var end = Math.min(start + PER_PAGE, matches.length);
+          var html = "";
+
+          for (var k = start; k < end; k++) {
+            var card = matches[k];
+            var icon = data.icons[cardName[card]];
+            var style = data.styles[cardStyle[card]];
+            var classes = style[0] + " fa-" + cardName[card];
+            html +=
+              '<button type="button" class="card" data-classes="' +
+              classes +
+              '" title="' +
+              classes +
+              '"><div class="icon-mark"><i class="' +
+              classes +
+              '" aria-hidden="true"></i></div><h2>' +
+              icon[0] +
+              '</h2><span class="card-style">' +
+              style[1] +
+              "</span></button>";
+          }
+
+          gallery.innerHTML =
+            html || '<p class="empty">No icons match that search.</p>';
+
+          var total = pageCount();
+          pageTotal.textContent = total.toLocaleString();
+          pageInput.value = page;
+          pageInput.max = total;
+          pager.hidden = matches.length <= PER_PAGE;
+          document.getElementById("page-first").disabled = page === 1;
+          document.getElementById("page-prev").disabled = page === 1;
+          document.getElementById("page-next").disabled = page === total;
+          document.getElementById("page-last").disabled = page === total;
+
+          countEl.innerHTML =
+            "<strong>" +
+            matches.length.toLocaleString() +
+            "</strong> icon" +
+            (matches.length === 1 ? "" : "s") +
+            " &middot; showing " +
+            (matches.length ? (start + 1).toLocaleString() : 0) +
+            "&ndash;" +
+            end.toLocaleString();
+        }
+
+        function applyFilters() {
+          var term = searchInput.value.trim().toLowerCase();
+          var styleChoice = styleSelect.value === "" ? -1 : Number(styleSelect.value);
+
+          if (!term && styleChoice === -1) {
+            matches = allCards;
+          } else {
+            matches = [];
+            for (var k = 0; k < allCards.length; k++) {
+              if (styleChoice !== -1 && cardStyle[k] !== styleChoice) continue;
+              if (term && haystacks[k].indexOf(term) === -1) continue;
+              matches.push(k);
+            }
+          }
+
+          page = 1;
+          render();
+        }
+
+        function goTo(next) {
+          var total = pageCount();
+          page = Math.min(Math.max(1, next), total);
+          render();
+          gallery.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+
+        document.getElementById("page-first").onclick = function () { goTo(1); };
+        document.getElementById("page-prev").onclick = function () { goTo(page - 1); };
+        document.getElementById("page-next").onclick = function () { goTo(page + 1); };
+        document.getElementById("page-last").onclick = function () { goTo(pageCount()); };
+
+        pageInput.addEventListener("change", function () {
+          goTo(Number(pageInput.value) || 1);
+        });
+
+        var searchTimer;
+        searchInput.addEventListener("input", function () {
+          clearTimeout(searchTimer);
+          searchTimer = setTimeout(applyFilters, 150);
+        });
+        styleSelect.addEventListener("change", applyFilters);
+
+        /* Copy the classes for whichever card was clicked. navigator.clipboard
+           is unavailable when the page is opened straight off disk, so fall
+           back to a throwaway textarea. */
+        function copy(text) {
+          if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text);
+            return;
+          }
+          var scratch = document.createElement("textarea");
+          scratch.value = text;
+          scratch.setAttribute("readonly", "");
+          scratch.style.position = "fixed";
+          scratch.style.opacity = "0";
+          document.body.appendChild(scratch);
+          scratch.select();
+          try {
+            document.execCommand("copy");
+          } catch (err) {
+            /* clipboard unavailable - the title attribute still shows it */
+          }
+          document.body.removeChild(scratch);
+        }
+
+        gallery.addEventListener("click", function (event) {
+          var card = event.target.closest(".card");
+          if (!card) return;
+          copy(card.dataset.classes);
+          card.classList.add("is-copied");
+          var label = card.querySelector(".card-style");
+          var original = label.textContent;
+          label.textContent = "Copied";
+          setTimeout(function () {
+            card.classList.remove("is-copied");
+            label.textContent = original;
+          }, 900);
+        });
+
+        document.getElementById("stat-icons").textContent =
+          allCards.length.toLocaleString();
+        document.getElementById("stat-styles").textContent = data.styles.length;
+        document.getElementById("stat-combos").textContent =
+          data.combinationCount.toLocaleString();
+
+        render();
+      })();
+    </script>
   </body>
 </html>

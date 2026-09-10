@@ -62,5 +62,14 @@ window.FA_PUBLISHED = [
 "user-nurse-hair-long:21",
 "road-circle-check:24",
 "moon-stars:19",
-"share-all:22"
+"share-all:22",
+"hat-cowboy-side:20",
+"camera-movie:7",
+"broom:9",
+"memo-pad:9",
+"comment-music:22",
+"clock-ten-thirty:2",
+"arrow-up-square-triangle:21",
+"folder-user:18",
+"info-square:7"
 ];

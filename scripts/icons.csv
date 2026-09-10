@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-life-ring,29,fa-utility-duo fa-semibold fa-life-ring,Life Ring,Utility Duo Semibold
-barcode-read,6,fa-duotone fa-barcode-read,Barcode Read,Duotone Solid
-square-microphone,7,fa-duotone fa-light fa-square-microphone,Square Microphone,Duotone Light
-headphones-slash,23,fa-sharp-duotone fa-solid fa-headphones-slash,Headphones Slash,Sharp Duotone Solid
-people-roof,21,fa-sharp-duotone fa-light fa-people-roof,People Roof,Sharp Duotone Light
-pinata,19,fa-sharp fa-solid fa-pinata,Pinata,Sharp Solid
-bin-bottles-recycle,24,fa-sharp-duotone fa-thin fa-bin-bottles-recycle,Bin Bottles Recycle,Sharp Duotone Thin
-typewriter,19,fa-sharp fa-solid fa-typewriter,Typewriter,Sharp Solid
-octagon-exclamation,22,fa-sharp-duotone fa-regular fa-octagon-exclamation,Octagon Exclamation,Sharp Duotone Regular
 user-nurse,1,fa-regular fa-user-nurse,User Nurse,Regular
 arrow-down-wide-short,27,fa-thumbprint fa-light fa-arrow-down-wide-short,Arrow Down Wide Short,Thumbprint Light
 fort,7,fa-duotone fa-light fa-fort,Fort,Duotone Light

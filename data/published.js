@@ -107,5 +107,14 @@ window.FA_PUBLISHED = [
 "window-alt:22",
 "bandcamp:4",
 "code-fork:3",
-"turn-left-up:2"
+"turn-left-up:2",
+"life-ring:29",
+"barcode-read:6",
+"square-microphone:7",
+"headphones-slash:23",
+"people-roof:21",
+"pinata:19",
+"bin-bottles-recycle:24",
+"typewriter:19",
+"octagon-exclamation:22"
 ];

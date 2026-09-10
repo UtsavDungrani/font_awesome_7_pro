@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-binary,0,fa-solid fa-file-binary,File Binary,Solid
-cart-xmark,0,fa-solid fa-cart-xmark,Cart Xmark,Solid
-staylinked,4,fa-brands fa-staylinked,Staylinked,Brands
-circle-z,19,fa-sharp fa-solid fa-circle-z,Circle Z,Sharp Solid
-pause,15,fa-notdog fa-solid fa-pause,Pause,Notdog Solid
-conveyor-belt-arm,3,fa-thin fa-conveyor-belt-arm,Conveyor Belt Arm,Thin
-columns,21,fa-sharp-duotone fa-light fa-columns,Columns,Sharp Duotone Light
-circle-w,8,fa-duotone fa-regular fa-circle-w,Circle W,Duotone Regular
-bed-alt,18,fa-sharp fa-regular fa-bed-alt,Bed Alt,Sharp Regular
 face-grin-beam-sweat,21,fa-sharp-duotone fa-light fa-face-grin-beam-sweat,Face Grin Beam Sweat,Sharp Duotone Light
 sun-haze,18,fa-sharp fa-regular fa-sun-haze,Sun Haze,Sharp Regular
 qrcode,2,fa-light fa-qrcode,Qrcode,Light

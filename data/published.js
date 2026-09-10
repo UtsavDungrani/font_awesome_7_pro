@@ -152,5 +152,14 @@ window.FA_PUBLISHED = [
 "magnifying-glass-dollar:3",
 "blog:22",
 "traffic-light-slow:9",
-"sistrix:4"
+"sistrix:4",
+"file-binary:0",
+"cart-xmark:0",
+"staylinked:4",
+"circle-z:19",
+"pause:15",
+"conveyor-belt-arm:3",
+"columns:21",
+"circle-w:8",
+"bed-alt:18"
 ];

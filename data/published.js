@@ -206,5 +206,14 @@ window.FA_PUBLISHED = [
 "cannabis:8",
 "user-shield:22",
 "opera:4",
-"circle-z:8"
+"circle-z:8",
+"book-open-lines:22",
+"lira-sign:1",
+"face-weary:20",
+"socks:8",
+"car-tunnel:17",
+"alarm-clock:19",
+"circle-c:0",
+"grill-fire:20",
+"house-flag:3"
 ];

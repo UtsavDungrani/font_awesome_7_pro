@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-raindrops,9,fa-duotone fa-thin fa-raindrops,Raindrops,Duotone Thin
-magnifying-glass-waveform,18,fa-sharp fa-regular fa-magnifying-glass-waveform,Magnifying Glass Waveform,Sharp Regular
-glass-martini,20,fa-sharp fa-thin fa-glass-martini,Glass Martini,Sharp Thin
-bullseye-arrow,3,fa-thin fa-bullseye-arrow,Bullseye Arrow,Thin
-car-side-bolt,17,fa-sharp fa-light fa-car-side-bolt,Car Side Bolt,Sharp Light
-clinic-medical,18,fa-sharp fa-regular fa-clinic-medical,Clinic Medical,Sharp Regular
-folder-cog,2,fa-light fa-folder-cog,Folder Cog,Light
-try,24,fa-sharp-duotone fa-thin fa-try,Try,Sharp Duotone Thin
-level-up-alt,20,fa-sharp fa-thin fa-level-up-alt,Level Up Alt,Sharp Thin
 id-card-alt,3,fa-thin fa-id-card-alt,Id Card Alt,Thin
 eye-dropper-half,19,fa-sharp fa-solid fa-eye-dropper-half,Eye Dropper Half,Sharp Solid
 tickets-perforated,24,fa-sharp-duotone fa-thin fa-tickets-perforated,Tickets Perforated,Sharp Duotone Thin

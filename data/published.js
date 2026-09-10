@@ -188,5 +188,14 @@ window.FA_PUBLISHED = [
 "flux-capacitor:1",
 "clock-ten:21",
 "wheat-alt:24",
-"rainbow:1"
+"rainbow:1",
+"raindrops:9",
+"magnifying-glass-waveform:18",
+"glass-martini:20",
+"bullseye-arrow:3",
+"car-side-bolt:17",
+"clinic-medical:18",
+"folder-cog:2",
+"try:24",
+"level-up-alt:20"
 ];

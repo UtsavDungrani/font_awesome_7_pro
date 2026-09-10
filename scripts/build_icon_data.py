@@ -60,17 +60,21 @@ QUEUE_PATH = os.path.join(SCRIPT_DIR, "icons.csv")
 # order, so a rebuild after an upgrade does not reshuffle what is left.
 SHUFFLE_SEED = 20260909
 
-# Icons live in the Private Use Area; ignore the handful of ASCII glyphs
-# (space, etc.) that the fonts also carry.
-PUA_START, PUA_END = 0xE000, 0xF8FF
-
 BACKSLASH = chr(92)
 
-# .fa-one, .fa-two { --fa: "\f015"; }
+# Where the icon names live. 7.3 renamed this from fontawesome.css to all.css
+# and minified it; both shapes parse the same way.
+NAME_FILES = ("all.css", "fontawesome.css")
+
+# .fa-one,.fa-two{--fa:"\f015"} - the value is read separately, because 7.3
+# writes some icons as escaped ASCII (\$, \%) or bare characters ("A") rather
+# than always as a hex codepoint.
 NAME_RULE = re.compile(
     r"((?:\.fa-[a-z0-9-]+\s*,\s*)*\.fa-[a-z0-9-]+)\s*\{\s*--fa:\s*"
-    r'"' + BACKSLASH + BACKSLASH + r'([0-9a-fA-F]+)"\s*;?\s*\}'
+    r'"((?:[^"' + BACKSLASH + BACKSLASH + r']|'
+    + BACKSLASH + BACKSLASH + r'.)*)"\s*;?\s*\}'
 )
+HEX_ESCAPE = re.compile(r"[0-9a-fA-F]{1,6}")
 FONT_SRC = re.compile(r"src:\s*url\(\.\./webfonts/([^)]+)\)")
 FONT_WEIGHT = re.compile(r"@font-face\{[^}]*?font-weight:\s*(\d+)")
 FAMILY_RULE = re.compile(r"([^{}]*)\{[^{}]*--fa-family:\s*var\(--fa-family-[a-z-]+\)")
@@ -92,13 +96,40 @@ WEIGHT_NAMES = {
 }
 
 
+def decode_value(value):
+    r"""A --fa: value -> codepoint.
+
+    '\f015' is a hex escape, '\$' escapes a literal character, and 'A' is a
+    bare one. The letter, digit and punctuation icons added in 7.3 use the
+    last two, so reading only hex would silently drop 55 icons.
+    """
+    if value.startswith(BACKSLASH):
+        body = value[1:].rstrip()
+        if HEX_ESCAPE.fullmatch(body):
+            return int(body, 16)
+        return ord(value[1]) if len(value) > 1 else None
+    return ord(value) if len(value) == 1 else None
+
+
+def names_path():
+    for name in NAME_FILES:
+        candidate = os.path.join(CSS_DIR, name)
+        if os.path.exists(candidate):
+            return candidate
+    raise SystemExit(
+        "No icon name stylesheet found. Expected one of: " + ", ".join(NAME_FILES)
+    )
+
+
 def read_names(path):
     """codepoint -> [name, alias, ...] from a name-bearing stylesheet."""
     css = open(path, encoding="utf-8").read()
     found = {}
-    for selector, hex_cp in NAME_RULE.findall(css):
-        names = re.findall(r"\.fa-([a-z0-9-]+)", selector)
-        found[int(hex_cp, 16)] = names
+    for selector, value in NAME_RULE.findall(css):
+        codepoint = decode_value(value)
+        if codepoint is None:
+            continue
+        found[codepoint] = re.findall(r"\.fa-([a-z0-9-]+)", selector)
     return found
 
 
@@ -121,8 +152,10 @@ def read_styles():
     """One entry per installed style, with the codepoints it can draw."""
     styles = []
     for css_path in sorted(glob.glob(os.path.join(CSS_DIR, "*.css"))):
-        if os.path.basename(css_path) == "fontawesome.css":
-            continue  # names only, no font of its own
+        # These carry the names, and all.css bundles every @font-face, so
+        # neither describes a style of its own.
+        if os.path.basename(css_path) in NAME_FILES:
+            continue
 
         css = open(css_path, encoding="utf-8").read()
         src = FONT_SRC.search(css)
@@ -134,8 +167,12 @@ def read_styles():
             print(f"  skip {os.path.basename(css_path)}: missing {src.group(1)}")
             continue
 
+        # Every codepoint the font draws. Filtering to the Private Use Area
+        # here would drop the letter, digit and punctuation icons, which sit
+        # at their ASCII codepoints; unnamed glyphs are excluded later by
+        # intersecting against the names instead.
         font = TTFont(font_path, lazy=True)
-        codepoints = {c for c in font.getBestCmap() if PUA_START <= c <= PUA_END}
+        codepoints = set(font.getBestCmap())
         font.close()
 
         families = classes_in(FAMILY_RULE.findall(css))
@@ -183,9 +220,13 @@ def read_styles():
 
 
 def build():
-    print("Reading icon names...")
-    classic = read_names(os.path.join(CSS_DIR, "fontawesome.css"))
+    source = names_path()
+    print(f"Reading icon names from {os.path.basename(source)}...")
+    named = read_names(source)
     brands = read_names(os.path.join(CSS_DIR, "brands.css"))
+    # The name file covers brands too, so the brands sheet is what identifies
+    # which codepoints belong to that family.
+    classic = {cp: names for cp, names in named.items() if cp not in brands}
     print(f"  classic: {len(classic)} codepoints")
     print(f"  brands:  {len(brands)} codepoints")
 
@@ -201,10 +242,12 @@ def build():
     icons = []
     combinations = 0
 
-    # A codepoint can be both classic and brand; keep them as separate icons
-    # so each is shown in the family it belongs to.
-    for source, is_brand in ((classic, False), (brands, True)):
-        for codepoint, names in source.items():
+    # Brand names come from the shared name file too, which carries their
+    # aliases; the brands sheet only says which codepoints are brands.
+    brand_named = {cp: named.get(cp, names) for cp, names in brands.items()}
+
+    for group, is_brand in ((classic, False), (brand_named, True)):
+        for codepoint, names in group.items():
             mask = 0
             for index, style in enumerate(styles):
                 if codepoint not in style["codepoints"]:
@@ -230,7 +273,7 @@ def build():
 
 
 def fa_version():
-    header = open(os.path.join(CSS_DIR, "fontawesome.css"), encoding="utf-8").read(400)
+    header = open(names_path(), encoding="utf-8").read(400)
     found = VERSION.search(header)
     return found.group(1) if found else "unknown"
 

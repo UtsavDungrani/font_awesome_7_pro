@@ -224,5 +224,14 @@ window.FA_PUBLISHED = [
 "eye-dropper-full:20",
 "spoon:6",
 "arrow-circle-down:2",
-"certificate:22"
+"certificate:22",
+"dial-low:8",
+"diagram-sankey:1",
+"share-alt:12",
+"user-message:24",
+"toilet-paper-slash:21",
+"rocket-vertical:1",
+"peapod:6",
+"memo:8",
+"table-rows-remove-below:20"
 ];

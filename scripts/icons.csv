@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dial-low,8,fa-duotone fa-regular fa-dial-low,Dial Low,Duotone Regular
-diagram-sankey,1,fa-regular fa-diagram-sankey,Diagram Sankey,Regular
-share-alt,12,fa-jelly fa-regular fa-share-alt,Share Alt,Jelly Regular
-user-message,24,fa-sharp-duotone fa-thin fa-user-message,User Message,Sharp Duotone Thin
-toilet-paper-slash,21,fa-sharp-duotone fa-light fa-toilet-paper-slash,Toilet Paper Slash,Sharp Duotone Light
-rocket-vertical,1,fa-regular fa-rocket-vertical,Rocket Vertical,Regular
-peapod,6,fa-duotone fa-peapod,Peapod,Duotone Solid
-memo,8,fa-duotone fa-regular fa-memo,Memo,Duotone Regular
-table-rows-remove-below,20,fa-sharp fa-thin fa-table-rows-remove-below,Table Rows Remove Below,Sharp Thin
 sparkle,9,fa-duotone fa-thin fa-sparkle,Sparkle,Duotone Thin
 sandwich,19,fa-sharp fa-solid fa-sandwich,Sandwich,Sharp Solid
 signal-stream-slash,20,fa-sharp fa-thin fa-signal-stream-slash,Signal Stream Slash,Sharp Thin

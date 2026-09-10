@@ -179,5 +179,14 @@ window.FA_PUBLISHED = [
 "frosty-head:20",
 "square-tugrik:20",
 "ping-pong-paddle-ball:8",
-"square-rupiah:20"
+"square-rupiah:20",
+"building-un:18",
+"soap:9",
+"film:22",
+"gauge-high:22",
+"lock-keyhole-open:24",
+"flux-capacitor:1",
+"clock-ten:21",
+"wheat-alt:24",
+"rainbow:1"
 ];

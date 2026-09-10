@@ -143,5 +143,14 @@ window.FA_PUBLISHED = [
 "hand-holding-hand:20",
 "box-isometric:6",
 "claw-marks:20",
-"ticket:16"
+"ticket:16",
+"chevron-right:7",
+"shuttle-space:19",
+"file-caret-down:1",
+"album-circle-plus:9",
+"comment-arrow-down:9",
+"magnifying-glass-dollar:3",
+"blog:22",
+"traffic-light-slow:9",
+"sistrix:4"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chevron-right,7,fa-duotone fa-light fa-chevron-right,Chevron Right,Duotone Light
-shuttle-space,19,fa-sharp fa-solid fa-shuttle-space,Shuttle Space,Sharp Solid
-file-caret-down,1,fa-regular fa-file-caret-down,File Caret Down,Regular
-album-circle-plus,9,fa-duotone fa-thin fa-album-circle-plus,Album Circle Plus,Duotone Thin
-comment-arrow-down,9,fa-duotone fa-thin fa-comment-arrow-down,Comment Arrow Down,Duotone Thin
-magnifying-glass-dollar,3,fa-thin fa-magnifying-glass-dollar,Magnifying Glass Dollar,Thin
-blog,22,fa-sharp-duotone fa-regular fa-blog,Blog,Sharp Duotone Regular
-traffic-light-slow,9,fa-duotone fa-thin fa-traffic-light-slow,Traffic Light Slow,Duotone Thin
-sistrix,4,fa-brands fa-sistrix,Sistrix,Brands
 file-binary,0,fa-solid fa-file-binary,File Binary,Solid
 cart-xmark,0,fa-solid fa-cart-xmark,Cart Xmark,Solid
 staylinked,4,fa-brands fa-staylinked,Staylinked,Brands

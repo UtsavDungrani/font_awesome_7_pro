@@ -98,5 +98,14 @@ window.FA_PUBLISHED = [
 "meter:21",
 "arrow-up-z-a:1",
 "photo-film:3",
-"face-persevering:1"
+"face-persevering:1",
+"objects-align-center-vertical:2",
+"boombox:17",
+"chevron-down:7",
+"envelope-badge:1",
+"computer-mouse-button-right:18",
+"window-alt:22",
+"bandcamp:4",
+"code-fork:3",
+"turn-left-up:2"
 ];

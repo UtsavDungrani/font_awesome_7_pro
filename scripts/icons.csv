@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-objects-align-center-vertical,2,fa-light fa-objects-align-center-vertical,Objects Align Center Vertical,Light
-boombox,17,fa-sharp fa-light fa-boombox,Boombox,Sharp Light
-chevron-down,7,fa-duotone fa-light fa-chevron-down,Chevron Down,Duotone Light
-envelope-badge,1,fa-regular fa-envelope-badge,Envelope Badge,Regular
-computer-mouse-button-right,18,fa-sharp fa-regular fa-computer-mouse-button-right,Computer Mouse Button Right,Sharp Regular
-window-alt,22,fa-sharp-duotone fa-regular fa-window-alt,Window Alt,Sharp Duotone Regular
-bandcamp,4,fa-brands fa-bandcamp,Bandcamp,Brands
-code-fork,3,fa-thin fa-code-fork,Code Fork,Thin
-turn-left-up,2,fa-light fa-turn-left-up,Turn Left Up,Light
 life-ring,29,fa-utility-duo fa-semibold fa-life-ring,Life Ring,Utility Duo Semibold
 barcode-read,6,fa-duotone fa-barcode-read,Barcode Read,Duotone Solid
 square-microphone,7,fa-duotone fa-light fa-square-microphone,Square Microphone,Duotone Light

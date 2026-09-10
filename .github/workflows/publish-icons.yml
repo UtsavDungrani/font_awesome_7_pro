@@ -2,24 +2,34 @@ name: Publish icon batches
 
 # Runs on GitHub's servers, so it does not matter whether the laptop is on.
 #
-# The contribution graph counts commits per day rather than per hour, so one
-# run that makes COMMITS_PER_DAY commits produces exactly the same squares as
-# spreading them across the day - and uses a fraction of the Actions minutes.
+# To look completely natural and human:
+# 1. Runs late evening (16:30 UTC = 22:00 IST) and backdates commits across
+#    today's normal waking hours (e.g. 10 AM, 2 PM, 5 PM, 8 PM).
+# 2. Makes a randomized number of commits per day (between 3 and 10).
+# 3. Incorporates occasional rest days (~15% weekday, ~25% weekend).
 
 on:
   schedule:
-    # 03:30 UTC = 09:00 IST. GitHub may delay scheduled runs under load.
-    - cron: "30 3 * * *"
+    # 16:30 UTC = 22:00 IST. GitHub may delay scheduled runs under load.
+    - cron: "30 16 * * *"
   workflow_dispatch:
     inputs:
-      commits:
-        description: "Commits to make this run"
+      min_commits:
+        description: "Minimum commits this run"
         required: false
-        default: "20"
+        default: "3"
+      max_commits:
+        description: "Maximum commits this run"
+        required: false
+        default: "10"
       icons:
         description: "Icons per commit"
         required: false
         default: "9"
+      allow_skip:
+        description: "Allow rest day skip on manual run (true/false)"
+        required: false
+        default: "false"
 
 # Never let two runs push over each other.
 concurrency:
@@ -27,9 +37,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # 20 x 9 = 180 icons a day, which empties the queue in about a year.
-  # For a longer run, drop ICONS_PER_COMMIT to 2 (40 a day, ~4.3 years).
-  COMMITS_PER_DAY: "20"
+  DEFAULT_MIN_COMMITS: "3"
+  DEFAULT_MAX_COMMITS: "10"
   ICONS_PER_COMMIT: "9"
   # Contributions are attributed by email, so this has to be an address
   # verified on the account that should get the green squares.
@@ -56,27 +65,27 @@ jobs:
 
       - name: Publish the batches
         env:
-          # Manual input wins, then a repository variable (Settings > Secrets
-          # and variables > Actions > Variables), then the default above.
-          COMMITS: ${{ github.event.inputs.commits || vars.COMMITS_PER_DAY || env.COMMITS_PER_DAY }}
+          MIN_COMMITS: ${{ github.event.inputs.min_commits || vars.MIN_COMMITS || env.DEFAULT_MIN_COMMITS }}
+          MAX_COMMITS: ${{ github.event.inputs.max_commits || vars.MAX_COMMITS || env.DEFAULT_MAX_COMMITS }}
           ICONS: ${{ github.event.inputs.icons || vars.ICONS_PER_COMMIT || env.ICONS_PER_COMMIT }}
+          ALLOW_SKIP: ${{ github.event.inputs.allow_skip || 'false' }}
+          IS_SCHEDULED: ${{ github.event_name == 'schedule' }}
         run: |
           set -euo pipefail
 
-          made=0
-          for _ in $(seq 1 "$COMMITS"); do
-            # Commit each batch on its own, then push once at the end.
-            if ! python scripts/add_icons.py "$ICONS" --commit --no-push; then
-              echo "Queue is empty after $made commit(s) - stopping early."
-              break
-            fi
-            made=$((made + 1))
-          done
+          EXTRA_FLAGS=()
+          if [ "$IS_SCHEDULED" = "true" ] || [ "$ALLOW_SKIP" = "true" ]; then
+            EXTRA_FLAGS+=(--rest-day-chance 0.15 --weekend-rest-chance 0.25)
+          else
+            EXTRA_FLAGS+=(--force)
+          fi
 
-          {
-            echo "made=$made"
-            echo "icons_each=$ICONS"
-          } >> "$GITHUB_ENV"
+          python scripts/add_icons.py "$ICONS" \
+            --min-batches "$MIN_COMMITS" \
+            --max-batches "$MAX_COMMITS" \
+            --spread-timestamps \
+            --commit --no-push \
+            "${EXTRA_FLAGS[@]}"
 
       - name: Push
         if: env.made != '0'
@@ -88,23 +97,3 @@ jobs:
             git push
           }
 
-      - name: Summary
-        run: |
-          set -euo pipefail
-          queued=$(( $(wc -l < scripts/icons.csv) - 1 ))
-          published=$(grep -c '^"' data/published.js || true)
-          per_day=$(( made * icons_each ))
-
-          {
-            echo "### Icon batches"
-            echo ""
-            echo "| | |"
-            echo "|---|---|"
-            echo "| Commits this run | ${made} |"
-            echo "| Icons published today | ${per_day} |"
-            echo "| On the gallery | ${published} |"
-            echo "| Still queued | ${queued} |"
-            if [ "$per_day" -gt 0 ]; then
-              echo "| Days of queue left | $(( queued / per_day )) |"
-            fi
-          } >> "$GITHUB_STEP_SUMMARY"

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-sparkle,9,fa-duotone fa-thin fa-sparkle,Sparkle,Duotone Thin
-sandwich,19,fa-sharp fa-solid fa-sandwich,Sandwich,Sharp Solid
-signal-stream-slash,20,fa-sharp fa-thin fa-signal-stream-slash,Signal Stream Slash,Sharp Thin
-people-arrows,2,fa-light fa-people-arrows,People Arrows,Light
-toilet-paper-reverse-slash,18,fa-sharp fa-regular fa-toilet-paper-reverse-slash,Toilet Paper Reverse Slash,Sharp Regular
-ruler-horizontal,23,fa-sharp-duotone fa-solid fa-ruler-horizontal,Ruler Horizontal,Sharp Duotone Solid
-file-ppt,17,fa-sharp fa-light fa-file-ppt,File Ppt,Sharp Light
-capsules,6,fa-duotone fa-capsules,Capsules,Duotone Solid
-sun-plant-wilt,18,fa-sharp fa-regular fa-sun-plant-wilt,Sun Plant Wilt,Sharp Regular
 dewpoint,2,fa-light fa-dewpoint,Dewpoint,Light
 mug-tea,9,fa-duotone fa-thin fa-mug-tea,Mug Tea,Duotone Thin
 phone-hangup,3,fa-thin fa-phone-hangup,Phone Hangup,Thin

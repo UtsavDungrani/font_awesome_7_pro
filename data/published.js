@@ -233,5 +233,14 @@ window.FA_PUBLISHED = [
 "rocket-vertical:1",
 "peapod:6",
 "memo:8",
-"table-rows-remove-below:20"
+"table-rows-remove-below:20",
+"sparkle:9",
+"sandwich:19",
+"signal-stream-slash:20",
+"people-arrows:2",
+"toilet-paper-reverse-slash:18",
+"ruler-horizontal:23",
+"file-ppt:17",
+"capsules:6",
+"sun-plant-wilt:18"
 ];

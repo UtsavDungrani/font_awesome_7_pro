@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-nurse,1,fa-regular fa-user-nurse,User Nurse,Regular
-arrow-down-wide-short,27,fa-thumbprint fa-light fa-arrow-down-wide-short,Arrow Down Wide Short,Thumbprint Light
-fort,7,fa-duotone fa-light fa-fort,Fort,Duotone Light
-arrow-down-from-arc,0,fa-solid fa-arrow-down-from-arc,Arrow Down From Arc,Solid
-mobile-signal,0,fa-solid fa-mobile-signal,Mobile Signal,Solid
-arrows-rotate,1,fa-regular fa-arrows-rotate,Arrows Rotate,Regular
-user-alt-slash,8,fa-duotone fa-regular fa-user-alt-slash,User Alt Slash,Duotone Regular
-hotdog,17,fa-sharp fa-light fa-hotdog,Hotdog,Sharp Light
-face-sunglasses,17,fa-sharp fa-light fa-face-sunglasses,Face Sunglasses,Sharp Light
 u-turn-down-left,7,fa-duotone fa-light fa-u-turn-down-left,U Turn Down Left,Duotone Light
 minus-square,6,fa-duotone fa-minus-square,Minus Square,Duotone Solid
 trash-can-arrow-up,23,fa-sharp-duotone fa-solid fa-trash-can-arrow-up,Trash Can Arrow Up,Sharp Duotone Solid

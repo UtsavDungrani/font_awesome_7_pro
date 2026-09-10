@@ -116,5 +116,14 @@ window.FA_PUBLISHED = [
 "pinata:19",
 "bin-bottles-recycle:24",
 "typewriter:19",
-"octagon-exclamation:22"
+"octagon-exclamation:22",
+"user-nurse:1",
+"arrow-down-wide-short:27",
+"fort:7",
+"arrow-down-from-arc:0",
+"mobile-signal:0",
+"arrows-rotate:1",
+"user-alt-slash:8",
+"hotdog:17",
+"face-sunglasses:17"
 ];

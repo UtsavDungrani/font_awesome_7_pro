@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-box,14,fa-jelly-fill fa-regular fa-box,Box,Jelly Fill Regular
-angry,19,fa-sharp fa-solid fa-angry,Angry,Sharp Solid
-microchip,7,fa-duotone fa-light fa-microchip,Microchip,Duotone Light
-clock-six,1,fa-regular fa-clock-six,Clock Six,Regular
-hat-winter,9,fa-duotone fa-thin fa-hat-winter,Hat Winter,Duotone Thin
-eye-dropper-full,20,fa-sharp fa-thin fa-eye-dropper-full,Eye Dropper Full,Sharp Thin
-spoon,6,fa-duotone fa-spoon,Spoon,Duotone Solid
-arrow-circle-down,2,fa-light fa-arrow-circle-down,Arrow Circle Down,Light
-certificate,22,fa-sharp-duotone fa-regular fa-certificate,Certificate,Sharp Duotone Regular
 dial-low,8,fa-duotone fa-regular fa-dial-low,Dial Low,Duotone Regular
 diagram-sankey,1,fa-regular fa-diagram-sankey,Diagram Sankey,Regular
 share-alt,12,fa-jelly fa-regular fa-share-alt,Share Alt,Jelly Regular

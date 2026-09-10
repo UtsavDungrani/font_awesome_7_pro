@@ -215,5 +215,14 @@ window.FA_PUBLISHED = [
 "alarm-clock:19",
 "circle-c:0",
 "grill-fire:20",
-"house-flag:3"
+"house-flag:3",
+"box:14",
+"angry:19",
+"microchip:7",
+"clock-six:1",
+"hat-winter:9",
+"eye-dropper-full:20",
+"spoon:6",
+"arrow-circle-down:2",
+"certificate:22"
 ];

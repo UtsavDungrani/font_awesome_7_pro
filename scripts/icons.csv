@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-angle-right,25,fa-slab fa-regular fa-angle-right,Angle Right,Slab Regular
-hand-holding-heart,18,fa-sharp fa-regular fa-hand-holding-heart,Hand Holding Heart,Sharp Regular
-battery-4,8,fa-duotone fa-regular fa-battery-4,Battery 4,Duotone Regular
-face-zany,20,fa-sharp fa-thin fa-face-zany,Face Zany,Sharp Thin
-file-signature,24,fa-sharp-duotone fa-thin fa-file-signature,File Signature,Sharp Duotone Thin
-hand-holding-hand,20,fa-sharp fa-thin fa-hand-holding-hand,Hand Holding Hand,Sharp Thin
-box-isometric,6,fa-duotone fa-box-isometric,Box Isometric,Duotone Solid
-claw-marks,20,fa-sharp fa-thin fa-claw-marks,Claw Marks,Sharp Thin
-ticket,16,fa-notdog-duo fa-solid fa-ticket,Ticket,Notdog Duo Solid
 chevron-right,7,fa-duotone fa-light fa-chevron-right,Chevron Right,Duotone Light
 shuttle-space,19,fa-sharp fa-solid fa-shuttle-space,Shuttle Space,Sharp Solid
 file-caret-down,1,fa-regular fa-file-caret-down,File Caret Down,Regular

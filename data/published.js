@@ -134,5 +134,14 @@ window.FA_PUBLISHED = [
 "sidebar-flip:1",
 "person-pinball:0",
 "pump-medical:20",
-"ball-pile:2"
+"ball-pile:2",
+"angle-right:25",
+"hand-holding-heart:18",
+"battery-4:8",
+"face-zany:20",
+"file-signature:24",
+"hand-holding-hand:20",
+"box-isometric:6",
+"claw-marks:20",
+"ticket:16"
 ];

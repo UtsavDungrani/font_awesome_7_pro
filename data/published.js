@@ -197,5 +197,14 @@ window.FA_PUBLISHED = [
 "clinic-medical:18",
 "folder-cog:2",
 "try:24",
-"level-up-alt:20"
+"level-up-alt:20",
+"id-card-alt:3",
+"eye-dropper-half:19",
+"tickets-perforated:24",
+"gpu:7",
+"rupiah-sign:20",
+"cannabis:8",
+"user-shield:22",
+"opera:4",
+"circle-z:8"
 ];

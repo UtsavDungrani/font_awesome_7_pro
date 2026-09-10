@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-id-card-alt,3,fa-thin fa-id-card-alt,Id Card Alt,Thin
-eye-dropper-half,19,fa-sharp fa-solid fa-eye-dropper-half,Eye Dropper Half,Sharp Solid
-tickets-perforated,24,fa-sharp-duotone fa-thin fa-tickets-perforated,Tickets Perforated,Sharp Duotone Thin
-gpu,7,fa-duotone fa-light fa-gpu,Gpu,Duotone Light
-rupiah-sign,20,fa-sharp fa-thin fa-rupiah-sign,Rupiah Sign,Sharp Thin
-cannabis,8,fa-duotone fa-regular fa-cannabis,Cannabis,Duotone Regular
-user-shield,22,fa-sharp-duotone fa-regular fa-user-shield,User Shield,Sharp Duotone Regular
-opera,4,fa-brands fa-opera,Opera,Brands
-circle-z,8,fa-duotone fa-regular fa-circle-z,Circle Z,Duotone Regular
 book-open-lines,22,fa-sharp-duotone fa-regular fa-book-open-lines,Book Open Lines,Sharp Duotone Regular
 lira-sign,1,fa-regular fa-lira-sign,Lira Sign,Regular
 face-weary,20,fa-sharp fa-thin fa-face-weary,Face Weary,Sharp Thin

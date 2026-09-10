@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-lines,0,fa-solid fa-comment-lines,Comment Lines,Solid
-sneaker,3,fa-thin fa-sneaker,Sneaker,Thin
-tally-4,24,fa-sharp-duotone fa-thin fa-tally-4,Tally 4,Sharp Duotone Thin
-location-arrow,12,fa-jelly fa-regular fa-location-arrow,Location Arrow,Jelly Regular
-wave,20,fa-sharp fa-thin fa-wave,Wave,Sharp Thin
-frosty-head,20,fa-sharp fa-thin fa-frosty-head,Frosty Head,Sharp Thin
-square-tugrik,20,fa-sharp fa-thin fa-square-tugrik,Square Tugrik,Sharp Thin
-ping-pong-paddle-ball,8,fa-duotone fa-regular fa-ping-pong-paddle-ball,Ping Pong Paddle Ball,Duotone Regular
-square-rupiah,20,fa-sharp fa-thin fa-square-rupiah,Square Rupiah,Sharp Thin
 building-un,18,fa-sharp fa-regular fa-building-un,Building Un,Sharp Regular
 soap,9,fa-duotone fa-thin fa-soap,Soap,Duotone Thin
 film,22,fa-sharp-duotone fa-regular fa-film,Film,Sharp Duotone Regular

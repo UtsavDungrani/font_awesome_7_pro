@@ -170,5 +170,14 @@ window.FA_PUBLISHED = [
 "right-left-large:0",
 "palette-boxes:18",
 "otter:23",
-"list-dots:24"
+"list-dots:24",
+"comment-lines:0",
+"sneaker:3",
+"tally-4:24",
+"location-arrow:12",
+"wave:20",
+"frosty-head:20",
+"square-tugrik:20",
+"ping-pong-paddle-ball:8",
+"square-rupiah:20"
 ];

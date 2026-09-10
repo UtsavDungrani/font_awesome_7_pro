@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-anchor,2,fa-light fa-anchor,Anchor,Light
-sprinkler,24,fa-sharp-duotone fa-thin fa-sprinkler,Sprinkler,Sharp Duotone Thin
-arrow-alt-square-right,8,fa-duotone fa-regular fa-arrow-alt-square-right,Arrow Alt Square Right,Duotone Regular
-browser,24,fa-sharp-duotone fa-thin fa-browser,Browser,Sharp Duotone Thin
-car-side-bolt,24,fa-sharp-duotone fa-thin fa-car-side-bolt,Car Side Bolt,Sharp Duotone Thin
-meter,21,fa-sharp-duotone fa-light fa-meter,Meter,Sharp Duotone Light
-arrow-up-z-a,1,fa-regular fa-arrow-up-z-a,Arrow Up Z A,Regular
-photo-film,3,fa-thin fa-photo-film,Photo Film,Thin
-face-persevering,1,fa-regular fa-face-persevering,Face Persevering,Regular
 objects-align-center-vertical,2,fa-light fa-objects-align-center-vertical,Objects Align Center Vertical,Light
 boombox,17,fa-sharp fa-light fa-boombox,Boombox,Sharp Light
 chevron-down,7,fa-duotone fa-light fa-chevron-down,Chevron Down,Duotone Light

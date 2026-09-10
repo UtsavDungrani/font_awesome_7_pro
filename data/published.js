@@ -89,5 +89,14 @@ window.FA_PUBLISHED = [
 "head-side-cough:20",
 "scanner-touchscreen:24",
 "arrow-alt-to-right:21",
-"file-ppt:2"
+"file-ppt:2",
+"anchor:2",
+"sprinkler:24",
+"arrow-alt-square-right:8",
+"browser:24",
+"car-side-bolt:24",
+"meter:21",
+"arrow-up-z-a:1",
+"photo-film:3",
+"face-persevering:1"
 ];

@@ -161,5 +161,14 @@ window.FA_PUBLISHED = [
 "conveyor-belt-arm:3",
 "columns:21",
 "circle-w:8",
-"bed-alt:18"
+"bed-alt:18",
+"face-grin-beam-sweat:21",
+"sun-haze:18",
+"qrcode:2",
+"house-flood-water:18",
+"file-image:9",
+"right-left-large:0",
+"palette-boxes:18",
+"otter:23",
+"list-dots:24"
 ];

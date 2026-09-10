@@ -80,5 +80,14 @@ window.FA_PUBLISHED = [
 "heart-circle-check:21",
 "squareapore-dollar:24",
 "sensor:3",
-"mars-double:6"
+"mars-double:6",
+"comment-alt-slash:6",
+"microphone-signal-meter:7",
+"check-circle:0",
+"lychee:21",
+"gitlab:4",
+"head-side-cough:20",
+"scanner-touchscreen:24",
+"arrow-alt-to-right:21",
+"file-ppt:2"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trash-arrow-turn-left,8,fa-duotone fa-regular fa-trash-arrow-turn-left,Trash Arrow Turn Left,Duotone Regular
-arrow-up-square-triangle,24,fa-sharp-duotone fa-thin fa-arrow-up-square-triangle,Arrow Up Square Triangle,Sharp Duotone Thin
-user-tie-hair,17,fa-sharp fa-light fa-user-tie-hair,User Tie Hair,Sharp Light
-paintbrush-slash,0,fa-solid fa-paintbrush-slash,Paintbrush Slash,Solid
-pause,28,fa-utility fa-semibold fa-pause,Pause,Utility Semibold
-heart-circle-check,21,fa-sharp-duotone fa-light fa-heart-circle-check,Heart Circle Check,Sharp Duotone Light
-squareapore-dollar,24,fa-sharp-duotone fa-thin fa-squareapore-dollar,Squareapore Dollar,Sharp Duotone Thin
-sensor,3,fa-thin fa-sensor,Sensor,Thin
-mars-double,6,fa-duotone fa-mars-double,Mars Double,Duotone Solid
 comment-alt-slash,6,fa-duotone fa-comment-alt-slash,Comment Alt Slash,Duotone Solid
 microphone-signal-meter,7,fa-duotone fa-light fa-microphone-signal-meter,Microphone Signal Meter,Duotone Light
 check-circle,0,fa-solid fa-check-circle,Check Circle,Solid

@@ -71,5 +71,14 @@ window.FA_PUBLISHED = [
 "clock-ten-thirty:2",
 "arrow-up-square-triangle:21",
 "folder-user:18",
-"info-square:7"
+"info-square:7",
+"trash-arrow-turn-left:8",
+"arrow-up-square-triangle:24",
+"user-tie-hair:17",
+"paintbrush-slash:0",
+"pause:28",
+"heart-circle-check:21",
+"squareapore-dollar:24",
+"sensor:3",
+"mars-double:6"
 ];

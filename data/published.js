@@ -125,5 +125,14 @@ window.FA_PUBLISHED = [
 "arrows-rotate:1",
 "user-alt-slash:8",
 "hotdog:17",
-"face-sunglasses:17"
+"face-sunglasses:17",
+"u-turn-down-left:7",
+"minus-square:6",
+"trash-can-arrow-up:23",
+"glass:8",
+"book-arrow-up:1",
+"sidebar-flip:1",
+"person-pinball:0",
+"pump-medical:20",
+"ball-pile:2"
 ];

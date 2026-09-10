@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-u-turn-down-left,7,fa-duotone fa-light fa-u-turn-down-left,U Turn Down Left,Duotone Light
-minus-square,6,fa-duotone fa-minus-square,Minus Square,Duotone Solid
-trash-can-arrow-up,23,fa-sharp-duotone fa-solid fa-trash-can-arrow-up,Trash Can Arrow Up,Sharp Duotone Solid
-glass,8,fa-duotone fa-regular fa-glass,Glass,Duotone Regular
-book-arrow-up,1,fa-regular fa-book-arrow-up,Book Arrow Up,Regular
-sidebar-flip,1,fa-regular fa-sidebar-flip,Sidebar Flip,Regular
-person-pinball,0,fa-solid fa-person-pinball,Person Pinball,Solid
-pump-medical,20,fa-sharp fa-thin fa-pump-medical,Pump Medical,Sharp Thin
-ball-pile,2,fa-light fa-ball-pile,Ball Pile,Light
 angle-right,25,fa-slab fa-regular fa-angle-right,Angle Right,Slab Regular
 hand-holding-heart,18,fa-sharp fa-regular fa-hand-holding-heart,Hand Holding Heart,Sharp Regular
 battery-4,8,fa-duotone fa-regular fa-battery-4,Battery 4,Duotone Regular

@@ -242,5 +242,14 @@ window.FA_PUBLISHED = [
 "ruler-horizontal:25",
 "file-ppt:19",
 "capsules:6",
-"sun-plant-wilt:20"
+"sun-plant-wilt:20",
+"viruses:3",
+"anchor:3",
+"sack:7",
+"note-medical:25",
+"leo:20",
+"book:13",
+"o:22",
+"comment-alt-quote:26",
+"cart-arrow-down:8"
 ];

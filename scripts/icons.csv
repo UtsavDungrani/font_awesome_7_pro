@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-viruses,3,fa-thin fa-viruses,Viruses,Thin
-anchor,3,fa-thin fa-anchor,Anchor,Thin
-sack,7,fa-duotone fa-light fa-sack,Sack,Duotone Light
-note-medical,25,fa-sharp-duotone fa-solid fa-note-medical,Note Medical,Sharp Duotone Solid
-leo,20,fa-sharp fa-regular fa-leo,Leo,Sharp Regular
-book,13,fa-jelly-duo fa-regular fa-book,Book,Jelly Duo Regular
-o,22,fa-sharp fa-thin fa-o,O,Sharp Thin
-comment-alt-quote,26,fa-sharp-duotone fa-thin fa-comment-alt-quote,Comment Alt Quote,Sharp Duotone Thin
-cart-arrow-down,8,fa-duotone fa-regular fa-cart-arrow-down,Cart Arrow Down,Duotone Regular
 arrow-progress,9,fa-duotone fa-thin fa-arrow-progress,Arrow Progress,Duotone Thin
 files-medical,24,fa-sharp-duotone fa-regular fa-files-medical,Files Medical,Sharp Duotone Regular
 dash,2,fa-light fa-dash,Dash,Light

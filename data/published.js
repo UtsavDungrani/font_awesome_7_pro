@@ -251,5 +251,14 @@ window.FA_PUBLISHED = [
 "book:13",
 "o:22",
 "comment-alt-quote:26",
-"cart-arrow-down:8"
+"cart-arrow-down:8",
+"arrow-progress:9",
+"files-medical:24",
+"dash:2",
+"dot:19",
+"album-circle-plus:1",
+"transporter-7:6",
+"tent-arrow-left-right:0",
+"family-pants:7",
+"lungs:6"
 ];

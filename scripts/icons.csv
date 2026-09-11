@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-7,0,fa-solid fa-circle-7,Circle 7,Solid
-ship,2,fa-light fa-ship,Ship,Light
-person-ski-jumping,3,fa-thin fa-person-ski-jumping,Person Ski Jumping,Thin
-user-microphone,8,fa-duotone fa-regular fa-user-microphone,User Microphone,Duotone Regular
-voicemail,19,fa-sharp fa-light fa-voicemail,Voicemail,Sharp Light
-rectangle-api,3,fa-thin fa-rectangle-api,Rectangle Api,Thin
-ornament,23,fa-sharp-duotone fa-light fa-ornament,Ornament,Sharp Duotone Light
-coin-vertical,2,fa-light fa-coin-vertical,Coin Vertical,Light
-steak,26,fa-sharp-duotone fa-thin fa-steak,Steak,Sharp Duotone Thin
 caret-large-left,24,fa-sharp-duotone fa-regular fa-caret-large-left,Caret Large Left,Sharp Duotone Regular
 table-cells-row-lock,1,fa-regular fa-table-cells-row-lock,Table Cells Row Lock,Regular
 send-back,19,fa-sharp fa-light fa-send-back,Send Back,Sharp Light

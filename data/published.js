@@ -260,5 +260,14 @@ window.FA_PUBLISHED = [
 "transporter-7:6",
 "tent-arrow-left-right:0",
 "family-pants:7",
-"lungs:6"
+"lungs:6",
+"circle-7:0",
+"ship:2",
+"person-ski-jumping:3",
+"user-microphone:8",
+"voicemail:19",
+"rectangle-api:3",
+"ornament:23",
+"coin-vertical:2",
+"steak:26"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-gauge-simple,22,fa-sharp fa-thin fa-gauge-simple,Gauge Simple,Sharp Thin
-earth-europe,3,fa-thin fa-earth-europe,Earth Europe,Thin
-unicycle,20,fa-sharp fa-regular fa-unicycle,Unicycle,Sharp Regular
-life-ring,27,fa-slab fa-regular fa-life-ring,Life Ring,Slab Regular
-heart,31,fa-thumbprint fa-light fa-heart,Heart,Thumbprint Light
-transporter-5,26,fa-sharp-duotone fa-thin fa-transporter-5,Transporter 5,Sharp Duotone Thin
-square-y,3,fa-thin fa-square-y,Square Y,Thin
-hard-drive,22,fa-sharp fa-thin fa-hard-drive,Hard Drive,Sharp Thin
-bring-front,8,fa-duotone fa-regular fa-bring-front,Bring Front,Duotone Regular
 thumbs-down,8,fa-duotone fa-regular fa-thumbs-down,Thumbs Down,Duotone Regular
 circle-plus,25,fa-sharp-duotone fa-solid fa-circle-plus,Circle Plus,Sharp Duotone Solid
 chevron-circle-down,9,fa-duotone fa-thin fa-chevron-circle-down,Chevron Circle Down,Duotone Thin

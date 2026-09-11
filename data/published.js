@@ -350,5 +350,14 @@ window.FA_PUBLISHED = [
 "circle-manat:24",
 "print:31",
 "teddy-bear:23",
-"transporter-4:8"
+"transporter-4:8",
+"gauge-simple:22",
+"earth-europe:3",
+"unicycle:20",
+"life-ring:27",
+"heart:31",
+"transporter-5:26",
+"square-y:3",
+"hard-drive:22",
+"bring-front:8"
 ];

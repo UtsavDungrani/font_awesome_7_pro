@@ -332,5 +332,14 @@ window.FA_PUBLISHED = [
 "square-turkish-lira:23",
 "subway:23",
 "bulldozer:24",
-"link-simple:26"
+"link-simple:26",
+"shield-cat:24",
+"dollar-square:6",
+"chess-pawn:6",
+"sink:26",
+"arrow-right-rotate:3",
+"file-heart:21",
+"calendar-check:7",
+"eye-dropper:0",
+"franc-sign:21"
 ];

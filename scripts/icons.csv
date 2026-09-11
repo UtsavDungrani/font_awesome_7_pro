@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-shield-cat,24,fa-sharp-duotone fa-regular fa-shield-cat,Shield Cat,Sharp Duotone Regular
-dollar-square,6,fa-duotone fa-dollar-square,Dollar Square,Duotone Solid
-chess-pawn,6,fa-duotone fa-chess-pawn,Chess Pawn,Duotone Solid
-sink,26,fa-sharp-duotone fa-thin fa-sink,Sink,Sharp Duotone Thin
-arrow-right-rotate,3,fa-thin fa-arrow-right-rotate,Arrow Right Rotate,Thin
-file-heart,21,fa-sharp fa-solid fa-file-heart,File Heart,Sharp Solid
-calendar-check,7,fa-duotone fa-light fa-calendar-check,Calendar Check,Duotone Light
-eye-dropper,0,fa-solid fa-eye-dropper,Eye Dropper,Solid
-franc-sign,21,fa-sharp fa-solid fa-franc-sign,Franc Sign,Sharp Solid
 cloud-rainbow,24,fa-sharp-duotone fa-regular fa-cloud-rainbow,Cloud Rainbow,Sharp Duotone Regular
 clothes-hanger,22,fa-sharp fa-thin fa-clothes-hanger,Clothes Hanger,Sharp Thin
 grid-2-minus,2,fa-light fa-grid-2-minus,Grid 2 Minus,Light

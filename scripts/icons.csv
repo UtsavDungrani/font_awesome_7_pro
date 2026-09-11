@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chest-drawers,8,fa-duotone fa-regular fa-chest-drawers,Chest Drawers,Duotone Regular
-tombstone,19,fa-sharp fa-light fa-tombstone,Tombstone,Sharp Light
-octagon-check,20,fa-sharp fa-regular fa-octagon-check,Octagon Check,Sharp Regular
-box-check,21,fa-sharp fa-solid fa-box-check,Box Check,Sharp Solid
-file-dashed-line,3,fa-thin fa-file-dashed-line,File Dashed Line,Thin
-naira-sign,19,fa-sharp fa-light fa-naira-sign,Naira Sign,Sharp Light
-table-cells-rows,23,fa-sharp-duotone fa-light fa-table-cells-rows,Table Cells Rows,Sharp Duotone Light
-underline,9,fa-duotone fa-thin fa-underline,Underline,Duotone Thin
-meter-bolt,2,fa-light fa-meter-bolt,Meter Bolt,Light
 tickets-simple,19,fa-sharp fa-light fa-tickets-simple,Tickets Simple,Sharp Light
 money-bills,23,fa-sharp-duotone fa-light fa-money-bills,Money Bills,Sharp Duotone Light
 computer-mouse-button-left,2,fa-light fa-computer-mouse-button-left,Computer Mouse Button Left,Light

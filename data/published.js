@@ -296,5 +296,14 @@ window.FA_PUBLISHED = [
 "swords:3",
 "star-sharp-half:6",
 "google-pay:4",
-"pen-nib-slash:8"
+"pen-nib-slash:8",
+"chest-drawers:8",
+"tombstone:19",
+"octagon-check:20",
+"box-check:21",
+"file-dashed-line:3",
+"naira-sign:19",
+"table-cells-rows:23",
+"underline:9",
+"meter-bolt:2"
 ];

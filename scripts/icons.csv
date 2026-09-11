@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-credit-card,10,fa-etch fa-solid fa-credit-card,Credit Card,Etch Solid
-face-cowboy-hat,26,fa-sharp-duotone fa-thin fa-face-cowboy-hat,Face Cowboy Hat,Sharp Duotone Thin
-pants,2,fa-light fa-pants,Pants,Light
-network-wired,7,fa-duotone fa-light fa-network-wired,Network Wired,Duotone Light
-rupee,23,fa-sharp-duotone fa-light fa-rupee,Rupee,Sharp Duotone Light
-location-question,9,fa-duotone fa-thin fa-location-question,Location Question,Duotone Thin
-moon-stars,8,fa-duotone fa-regular fa-moon-stars,Moon Stars,Duotone Regular
-padel-ball,3,fa-thin fa-padel-ball,Padel Ball,Thin
-cup-straw-swoosh,25,fa-sharp-duotone fa-solid fa-cup-straw-swoosh,Cup Straw Swoosh,Sharp Duotone Solid
 comment-middle-top,1,fa-regular fa-comment-middle-top,Comment Middle Top,Regular
 arrow-left-rotate,21,fa-sharp fa-solid fa-arrow-left-rotate,Arrow Left Rotate,Sharp Solid
 user-tie-hair,20,fa-sharp fa-regular fa-user-tie-hair,User Tie Hair,Sharp Regular

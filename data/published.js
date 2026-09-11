@@ -278,5 +278,14 @@ window.FA_PUBLISHED = [
 "arrow-left-long-to-line:26",
 "planet-ringed:19",
 "shoelace:4",
-"envelope:22"
+"envelope:22",
+"credit-card:10",
+"face-cowboy-hat:26",
+"pants:2",
+"network-wired:7",
+"rupee:23",
+"location-question:9",
+"moon-stars:8",
+"padel-ball:3",
+"cup-straw-swoosh:25"
 ];

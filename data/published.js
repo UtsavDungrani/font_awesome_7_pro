@@ -305,5 +305,14 @@ window.FA_PUBLISHED = [
 "naira-sign:19",
 "table-cells-rows:23",
 "underline:9",
-"meter-bolt:2"
+"meter-bolt:2",
+"tickets-simple:19",
+"money-bills:23",
+"computer-mouse-button-left:2",
+"wheat-awn-slash:3",
+"court-sport:26",
+"ship:15",
+"stadium:20",
+"typewriter:25",
+"comment-alt-slash:24"
 ];

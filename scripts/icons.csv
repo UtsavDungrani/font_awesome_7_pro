@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tickets-simple,19,fa-sharp fa-light fa-tickets-simple,Tickets Simple,Sharp Light
-money-bills,23,fa-sharp-duotone fa-light fa-money-bills,Money Bills,Sharp Duotone Light
-computer-mouse-button-left,2,fa-light fa-computer-mouse-button-left,Computer Mouse Button Left,Light
-wheat-awn-slash,3,fa-thin fa-wheat-awn-slash,Wheat Awn Slash,Thin
-court-sport,26,fa-sharp-duotone fa-thin fa-court-sport,Court Sport,Sharp Duotone Thin
-ship,15,fa-mosaic fa-solid fa-ship,Ship,Mosaic Solid
-stadium,20,fa-sharp fa-regular fa-stadium,Stadium,Sharp Regular
-typewriter,25,fa-sharp-duotone fa-solid fa-typewriter,Typewriter,Sharp Duotone Solid
-comment-alt-slash,24,fa-sharp-duotone fa-regular fa-comment-alt-slash,Comment Alt Slash,Sharp Duotone Regular
 stackpath,4,fa-brands fa-stackpath,Stackpath,Brands
 plug,22,fa-sharp fa-thin fa-plug,Plug,Sharp Thin
 music-slash,7,fa-duotone fa-light fa-music-slash,Music Slash,Duotone Light

@@ -287,5 +287,14 @@ window.FA_PUBLISHED = [
 "location-question:9",
 "moon-stars:8",
 "padel-ball:3",
-"cup-straw-swoosh:25"
+"cup-straw-swoosh:25",
+"comment-middle-top:1",
+"arrow-left-rotate:21",
+"user-tie-hair:20",
+"plug-circle-exclamation:19",
+"table-cells-columns:3",
+"swords:3",
+"star-sharp-half:6",
+"google-pay:4",
+"pen-nib-slash:8"
 ];

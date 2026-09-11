@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-middle-top,1,fa-regular fa-comment-middle-top,Comment Middle Top,Regular
-arrow-left-rotate,21,fa-sharp fa-solid fa-arrow-left-rotate,Arrow Left Rotate,Sharp Solid
-user-tie-hair,20,fa-sharp fa-regular fa-user-tie-hair,User Tie Hair,Sharp Regular
-plug-circle-exclamation,19,fa-sharp fa-light fa-plug-circle-exclamation,Plug Circle Exclamation,Sharp Light
-table-cells-columns,3,fa-thin fa-table-cells-columns,Table Cells Columns,Thin
-swords,3,fa-thin fa-swords,Swords,Thin
-star-sharp-half,6,fa-duotone fa-star-sharp-half,Star Sharp Half,Duotone Solid
-google-pay,4,fa-brands fa-google-pay,Google Pay,Brands
-pen-nib-slash,8,fa-duotone fa-regular fa-pen-nib-slash,Pen Nib Slash,Duotone Regular
 chest-drawers,8,fa-duotone fa-regular fa-chest-drawers,Chest Drawers,Duotone Regular
 tombstone,19,fa-sharp fa-light fa-tombstone,Tombstone,Sharp Light
 octagon-check,20,fa-sharp fa-regular fa-octagon-check,Octagon Check,Sharp Regular

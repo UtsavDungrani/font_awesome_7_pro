@@ -323,5 +323,14 @@ window.FA_PUBLISHED = [
 "lari-sign:0",
 "microphone-alt-slash:19",
 "chart-diagram:0",
-"envelope-heart:21"
+"envelope-heart:21",
+"object-intersect:19",
+"comment-plus:9",
+"battery-bolt:20",
+"arrow-circle-up:8",
+"rabbit-fast:2",
+"square-turkish-lira:23",
+"subway:23",
+"bulldozer:24",
+"link-simple:26"
 ];

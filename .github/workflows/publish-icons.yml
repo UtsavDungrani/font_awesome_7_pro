@@ -10,8 +10,11 @@ name: Publish icon batches
 
 on:
   schedule:
-    # 16:30 UTC = 22:00 IST. GitHub may delay scheduled runs under load.
-    - cron: "30 16 * * *"
+    # 14:30 UTC = 20:00 IST. GitHub delays scheduled runs by up to a few hours
+    # under load, so this leaves four hours of headroom before midnight IST -
+    # past midnight the commit timestamps would split across two dates and
+    # weaken both days on the contribution graph.
+    - cron: "30 14 * * *"
   workflow_dispatch:
     inputs:
       min_commits:

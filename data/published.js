@@ -341,5 +341,14 @@ window.FA_PUBLISHED = [
 "file-heart:21",
 "calendar-check:7",
 "eye-dropper:0",
-"franc-sign:21"
+"franc-sign:21",
+"cloud-rainbow:24",
+"clothes-hanger:22",
+"grid-2-minus:2",
+"austral-sign:6",
+"person-dress-burst:24",
+"circle-manat:24",
+"print:31",
+"teddy-bear:23",
+"transporter-4:8"
 ];

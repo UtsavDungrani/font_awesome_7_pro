@@ -314,5 +314,14 @@ window.FA_PUBLISHED = [
 "ship:15",
 "stadium:20",
 "typewriter:25",
-"comment-alt-slash:24"
+"comment-alt-slash:24",
+"stackpath:4",
+"plug:22",
+"music-slash:7",
+"person-dress-fairy:1",
+"arrow-down-short-wide:2",
+"lari-sign:0",
+"microphone-alt-slash:19",
+"chart-diagram:0",
+"envelope-heart:21"
 ];

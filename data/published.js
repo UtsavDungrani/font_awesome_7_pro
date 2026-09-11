@@ -269,5 +269,14 @@ window.FA_PUBLISHED = [
 "rectangle-api:3",
 "ornament:23",
 "coin-vertical:2",
-"steak:26"
+"steak:26",
+"caret-large-left:24",
+"table-cells-row-lock:1",
+"send-back:19",
+"crown:28",
+"layer-group-plus:3",
+"arrow-left-long-to-line:26",
+"planet-ringed:19",
+"shoelace:4",
+"envelope:22"
 ];

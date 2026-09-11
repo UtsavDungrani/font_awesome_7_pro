@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-caret-large-left,24,fa-sharp-duotone fa-regular fa-caret-large-left,Caret Large Left,Sharp Duotone Regular
-table-cells-row-lock,1,fa-regular fa-table-cells-row-lock,Table Cells Row Lock,Regular
-send-back,19,fa-sharp fa-light fa-send-back,Send Back,Sharp Light
-crown,28,fa-slab-duo fa-regular fa-crown,Crown,Slab Duo Regular
-layer-group-plus,3,fa-thin fa-layer-group-plus,Layer Group Plus,Thin
-arrow-left-long-to-line,26,fa-sharp-duotone fa-thin fa-arrow-left-long-to-line,Arrow Left Long To Line,Sharp Duotone Thin
-planet-ringed,19,fa-sharp fa-light fa-planet-ringed,Planet Ringed,Sharp Light
-shoelace,4,fa-brands fa-shoelace,Shoelace,Brands
-envelope,22,fa-sharp fa-thin fa-envelope,Envelope,Sharp Thin
 credit-card,10,fa-etch fa-solid fa-credit-card,Credit Card,Etch Solid
 face-cowboy-hat,26,fa-sharp-duotone fa-thin fa-face-cowboy-hat,Face Cowboy Hat,Sharp Duotone Thin
 pants,2,fa-light fa-pants,Pants,Light

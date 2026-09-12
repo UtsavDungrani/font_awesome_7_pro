@@ -395,5 +395,14 @@ window.FA_PUBLISHED = [
 "superscript:1",
 "snooze:23",
 "pen-line:3",
-"chimney:26"
+"chimney:26",
+"mars-stroke:19",
+"crystal-ball:7",
+"coins:1",
+"strikethrough:33",
+"text-size:7",
+"raindrops:1",
+"arrow-turn-left:6",
+"merge:9",
+"sausage:25"
 ];

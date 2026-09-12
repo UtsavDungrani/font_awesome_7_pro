@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mars-stroke,19,fa-sharp fa-light fa-mars-stroke,Mars Stroke,Sharp Light
-crystal-ball,7,fa-duotone fa-light fa-crystal-ball,Crystal Ball,Duotone Light
-coins,1,fa-regular fa-coins,Coins,Regular
-strikethrough,33,fa-utility-duo fa-semibold fa-strikethrough,Strikethrough,Utility Duo Semibold
-text-size,7,fa-duotone fa-light fa-text-size,Text Size,Duotone Light
-raindrops,1,fa-regular fa-raindrops,Raindrops,Regular
-arrow-turn-left,6,fa-duotone fa-arrow-turn-left,Arrow Turn Left,Duotone Solid
-merge,9,fa-duotone fa-thin fa-merge,Merge,Duotone Thin
-sausage,25,fa-sharp-duotone fa-solid fa-sausage,Sausage,Sharp Duotone Solid
 rectangle-irc,7,fa-duotone fa-light fa-rectangle-irc,Rectangle Irc,Duotone Light
 audio-description-slash,21,fa-sharp fa-solid fa-audio-description-slash,Audio Description Slash,Sharp Solid
 krw,2,fa-light fa-krw,Krw,Light

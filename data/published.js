@@ -359,5 +359,14 @@ window.FA_PUBLISHED = [
 "transporter-5:26",
 "square-y:3",
 "hard-drive:22",
-"bring-front:8"
+"bring-front:8",
+"thumbs-down:8",
+"circle-plus:25",
+"chevron-circle-down:9",
+"trowel:6",
+"face-exhaling:21",
+"c:25",
+"circle:26",
+"square-naira:3",
+"chalkboard-teacher:25"
 ];

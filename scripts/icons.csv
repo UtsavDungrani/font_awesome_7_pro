@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rectangle-irc,7,fa-duotone fa-light fa-rectangle-irc,Rectangle Irc,Duotone Light
-audio-description-slash,21,fa-sharp fa-solid fa-audio-description-slash,Audio Description Slash,Sharp Solid
-krw,2,fa-light fa-krw,Krw,Light
-user-edit,9,fa-duotone fa-thin fa-user-edit,User Edit,Duotone Thin
-sun,7,fa-duotone fa-light fa-sun,Sun,Duotone Light
-cloud-bolt-moon,2,fa-light fa-cloud-bolt-moon,Cloud Bolt Moon,Light
-seat-airline,9,fa-duotone fa-thin fa-seat-airline,Seat Airline,Duotone Thin
-list-check,2,fa-light fa-list-check,List Check,Light
-elevator,0,fa-solid fa-elevator,Elevator,Solid
 comment-alt-check,0,fa-solid fa-comment-alt-check,Comment Alt Check,Solid
 ban-bug,23,fa-sharp-duotone fa-light fa-ban-bug,Ban Bug,Sharp Duotone Light
 wifi-1,21,fa-sharp fa-solid fa-wifi-1,Wifi 1,Sharp Solid

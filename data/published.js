@@ -404,5 +404,14 @@ window.FA_PUBLISHED = [
 "raindrops:1",
 "arrow-turn-left:6",
 "merge:9",
-"sausage:25"
+"sausage:25",
+"rectangle-irc:7",
+"audio-description-slash:21",
+"krw:2",
+"user-edit:9",
+"sun:7",
+"cloud-bolt-moon:2",
+"seat-airline:9",
+"list-check:2",
+"elevator:0"
 ];

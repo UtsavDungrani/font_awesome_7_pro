@@ -440,5 +440,14 @@ window.FA_PUBLISHED = [
 "creemee:26",
 "car-side:23",
 "bowl-chopsticks:24",
-"circle-ellipsis:21"
+"circle-ellipsis:21",
+"rotate-back:3",
+"circle-b:0",
+"forward:2",
+"caret-circle-down:24",
+"tree-decorated:2",
+"notes-sticky:23",
+"users-medical:23",
+"chess-knight:19",
+"wine-glass-alt:6"
 ];

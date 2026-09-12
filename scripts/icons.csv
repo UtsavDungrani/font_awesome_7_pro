@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rotate-back,3,fa-thin fa-rotate-back,Rotate Back,Thin
-circle-b,0,fa-solid fa-circle-b,Circle B,Solid
-forward,2,fa-light fa-forward,Forward,Light
-caret-circle-down,24,fa-sharp-duotone fa-regular fa-caret-circle-down,Caret Circle Down,Sharp Duotone Regular
-tree-decorated,2,fa-light fa-tree-decorated,Tree Decorated,Light
-notes-sticky,23,fa-sharp-duotone fa-light fa-notes-sticky,Notes Sticky,Sharp Duotone Light
-users-medical,23,fa-sharp-duotone fa-light fa-users-medical,Users Medical,Sharp Duotone Light
-chess-knight,19,fa-sharp fa-light fa-chess-knight,Chess Knight,Sharp Light
-wine-glass-alt,6,fa-duotone fa-wine-glass-alt,Wine Glass Alt,Duotone Solid
 comet,19,fa-sharp fa-light fa-comet,Comet,Sharp Light
 watch-apple,3,fa-thin fa-watch-apple,Watch Apple,Thin
 ice-cream,9,fa-duotone fa-thin fa-ice-cream,Ice Cream,Duotone Thin

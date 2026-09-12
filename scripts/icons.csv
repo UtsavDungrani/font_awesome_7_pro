@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bow-arrow,24,fa-sharp-duotone fa-regular fa-bow-arrow,Bow Arrow,Sharp Duotone Regular
-people-dress-simple,3,fa-thin fa-people-dress-simple,People Dress Simple,Thin
-badge-check,24,fa-sharp-duotone fa-regular fa-badge-check,Badge Check,Sharp Duotone Regular
-area-chart,21,fa-sharp fa-solid fa-area-chart,Area Chart,Sharp Solid
-users-rectangle,6,fa-duotone fa-users-rectangle,Users Rectangle,Duotone Solid
-corner,6,fa-duotone fa-corner,Corner,Duotone Solid
-camcorder,6,fa-duotone fa-camcorder,Camcorder,Duotone Solid
-alicorn,6,fa-duotone fa-alicorn,Alicorn,Duotone Solid
-suitcase,25,fa-sharp-duotone fa-solid fa-suitcase,Suitcase,Sharp Duotone Solid
 unlock,34,fa-utility-fill fa-semibold fa-unlock,Unlock,Utility Fill Semibold
 circle-down-right,21,fa-sharp fa-solid fa-circle-down-right,Circle Down Right,Sharp Solid
 tally-4,19,fa-sharp fa-light fa-tally-4,Tally 4,Sharp Light

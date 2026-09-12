@@ -422,5 +422,14 @@ window.FA_PUBLISHED = [
 "calendar-users:22",
 "gem:23",
 "sunrise:26",
-"face-tired:20"
+"face-tired:20",
+"bow-arrow:24",
+"people-dress-simple:3",
+"badge-check:24",
+"area-chart:21",
+"users-rectangle:6",
+"corner:6",
+"camcorder:6",
+"alicorn:6",
+"suitcase:25"
 ];

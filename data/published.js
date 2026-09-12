@@ -368,5 +368,14 @@ window.FA_PUBLISHED = [
 "c:25",
 "circle:26",
 "square-naira:3",
-"chalkboard-teacher:25"
+"chalkboard-teacher:25",
+"dryer-alt:0",
+"table-rows-remove-below:23",
+"lamp:19",
+"axe-battle:0",
+"try:0",
+"heart-circle-xmark:23",
+"spinner:1",
+"house-flood-water:24",
+"aries:9"
 ];

@@ -413,5 +413,14 @@ window.FA_PUBLISHED = [
 "cloud-bolt-moon:2",
 "seat-airline:9",
 "list-check:2",
-"elevator:0"
+"elevator:0",
+"comment-alt-check:0",
+"ban-bug:23",
+"wifi-1:21",
+"screwdriver-wrench:1",
+"paintbrush-slash:9",
+"calendar-users:22",
+"gem:23",
+"sunrise:26",
+"face-tired:20"
 ];

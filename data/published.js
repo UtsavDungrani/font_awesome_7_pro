@@ -386,5 +386,14 @@ window.FA_PUBLISHED = [
 "dial-off:20",
 "coffee:22",
 "subtitles:1",
-"envelopes:2"
+"envelopes:2",
+"hotel:3",
+"horse-saddle:20",
+"head-side-brain:21",
+"litecoin-sign:22",
+"plane:2",
+"superscript:1",
+"snooze:23",
+"pen-line:3",
+"chimney:26"
 ];

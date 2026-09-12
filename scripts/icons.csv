@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hotel,3,fa-thin fa-hotel,Hotel,Thin
-horse-saddle,20,fa-sharp fa-regular fa-horse-saddle,Horse Saddle,Sharp Regular
-head-side-brain,21,fa-sharp fa-solid fa-head-side-brain,Head Side Brain,Sharp Solid
-litecoin-sign,22,fa-sharp fa-thin fa-litecoin-sign,Litecoin Sign,Sharp Thin
-plane,2,fa-light fa-plane,Plane,Light
-superscript,1,fa-regular fa-superscript,Superscript,Regular
-snooze,23,fa-sharp-duotone fa-light fa-snooze,Snooze,Sharp Duotone Light
-pen-line,3,fa-thin fa-pen-line,Pen Line,Thin
-chimney,26,fa-sharp-duotone fa-thin fa-chimney,Chimney,Sharp Duotone Thin
 mars-stroke,19,fa-sharp fa-light fa-mars-stroke,Mars Stroke,Sharp Light
 crystal-ball,7,fa-duotone fa-light fa-crystal-ball,Crystal Ball,Duotone Light
 coins,1,fa-regular fa-coins,Coins,Regular

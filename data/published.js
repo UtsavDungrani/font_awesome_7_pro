@@ -377,5 +377,14 @@ window.FA_PUBLISHED = [
 "heart-circle-xmark:23",
 "spinner:1",
 "house-flood-water:24",
-"aries:9"
+"aries:9",
+"shirt-jersey:23",
+"less-than:25",
+"igloo:26",
+"face-thinking:21",
+"tree:27",
+"dial-off:20",
+"coffee:22",
+"subtitles:1",
+"envelopes:2"
 ];

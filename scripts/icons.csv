@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-shirt-jersey,23,fa-sharp-duotone fa-light fa-shirt-jersey,Shirt Jersey,Sharp Duotone Light
-less-than,25,fa-sharp-duotone fa-solid fa-less-than,Less Than,Sharp Duotone Solid
-igloo,26,fa-sharp-duotone fa-thin fa-igloo,Igloo,Sharp Duotone Thin
-face-thinking,21,fa-sharp fa-solid fa-face-thinking,Face Thinking,Sharp Solid
-tree,27,fa-slab fa-regular fa-tree,Tree,Slab Regular
-dial-off,20,fa-sharp fa-regular fa-dial-off,Dial Off,Sharp Regular
-coffee,22,fa-sharp fa-thin fa-coffee,Coffee,Sharp Thin
-subtitles,1,fa-regular fa-subtitles,Subtitles,Regular
-envelopes,2,fa-light fa-envelopes,Envelopes,Light
 hotel,3,fa-thin fa-hotel,Hotel,Thin
 horse-saddle,20,fa-sharp fa-regular fa-horse-saddle,Horse Saddle,Sharp Regular
 head-side-brain,21,fa-sharp fa-solid fa-head-side-brain,Head Side Brain,Sharp Solid

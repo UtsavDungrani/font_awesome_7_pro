@@ -431,5 +431,14 @@ window.FA_PUBLISHED = [
 "corner:6",
 "camcorder:6",
 "alicorn:6",
-"suitcase:25"
+"suitcase:25",
+"unlock:34",
+"circle-down-right:21",
+"tally-4:19",
+"hand-point-right:3",
+"lamp-floor:7",
+"creemee:26",
+"car-side:23",
+"bowl-chopsticks:24",
+"circle-ellipsis:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-unlock,34,fa-utility-fill fa-semibold fa-unlock,Unlock,Utility Fill Semibold
-circle-down-right,21,fa-sharp fa-solid fa-circle-down-right,Circle Down Right,Sharp Solid
-tally-4,19,fa-sharp fa-light fa-tally-4,Tally 4,Sharp Light
-hand-point-right,3,fa-thin fa-hand-point-right,Hand Point Right,Thin
-lamp-floor,7,fa-duotone fa-light fa-lamp-floor,Lamp Floor,Duotone Light
-creemee,26,fa-sharp-duotone fa-thin fa-creemee,Creemee,Sharp Duotone Thin
-car-side,23,fa-sharp-duotone fa-light fa-car-side,Car Side,Sharp Duotone Light
-bowl-chopsticks,24,fa-sharp-duotone fa-regular fa-bowl-chopsticks,Bowl Chopsticks,Sharp Duotone Regular
-circle-ellipsis,21,fa-sharp fa-solid fa-circle-ellipsis,Circle Ellipsis,Sharp Solid
 rotate-back,3,fa-thin fa-rotate-back,Rotate Back,Thin
 circle-b,0,fa-solid fa-circle-b,Circle B,Solid
 forward,2,fa-light fa-forward,Forward,Light

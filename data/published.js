@@ -449,5 +449,14 @@ window.FA_PUBLISHED = [
 "notes-sticky:23",
 "users-medical:23",
 "chess-knight:19",
-"wine-glass-alt:6"
+"wine-glass-alt:6",
+"comet:19",
+"watch-apple:3",
+"ice-cream:9",
+"aperture:22",
+"trombone:7",
+"arrow-left-from-arc:19",
+"pen-circle:26",
+"plug-circle-bolt:1",
+"folder-music:24"
 ];

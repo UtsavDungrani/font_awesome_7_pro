@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-palette,32,fa-utility fa-semibold fa-palette,Palette,Utility Semibold
-turn-right,3,fa-thin fa-turn-right,Turn Right,Thin
-chevron-circle-down,6,fa-duotone fa-chevron-circle-down,Chevron Circle Down,Duotone Solid
-heart-circle-plus,7,fa-duotone fa-light fa-heart-circle-plus,Heart Circle Plus,Duotone Light
-person-soccer,24,fa-sharp-duotone fa-regular fa-person-soccer,Person Soccer,Sharp Duotone Regular
-calendar-minus,24,fa-sharp-duotone fa-regular fa-calendar-minus,Calendar Minus,Sharp Duotone Regular
-film,14,fa-jelly-fill fa-regular fa-film,Film,Jelly Fill Regular
-credit-card,6,fa-duotone fa-credit-card,Credit Card,Duotone Solid
-archive,3,fa-thin fa-archive,Archive,Thin
 paw,8,fa-duotone fa-regular fa-paw,Paw,Duotone Regular
 id-card-alt,20,fa-sharp fa-regular fa-id-card-alt,Id Card Alt,Sharp Regular
 comment-plus,23,fa-sharp-duotone fa-light fa-comment-plus,Comment Plus,Sharp Duotone Light

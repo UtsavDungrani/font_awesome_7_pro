@@ -530,5 +530,14 @@ window.FA_PUBLISHED = [
 "clone:12",
 "jack-o-lantern:20",
 "arrow-right-from-bracket:31",
-"automobile:29"
+"automobile:29",
+"palette:32",
+"turn-right:3",
+"chevron-circle-down:6",
+"heart-circle-plus:7",
+"person-soccer:24",
+"calendar-minus:24",
+"film:14",
+"credit-card:6",
+"archive:3"
 ];

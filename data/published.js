@@ -485,5 +485,14 @@ window.FA_PUBLISHED = [
 "circle-info:18",
 "file-js:24",
 "rocket:20",
-"temperature-3:23"
+"temperature-3:23",
+"arrow-up-small-big:26",
+"arrow-up-9-1:6",
+"air-conditioner:6",
+"arrow-down-to-dotted-line:8",
+"camera-clock:24",
+"backspace:9",
+"pan-frying:3",
+"files:13",
+"sd-cards:20"
 ];

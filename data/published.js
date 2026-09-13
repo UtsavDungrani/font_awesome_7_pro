@@ -458,5 +458,14 @@ window.FA_PUBLISHED = [
 "arrow-left-from-arc:19",
 "pen-circle:26",
 "plug-circle-bolt:1",
-"folder-music:24"
+"folder-music:24",
+"flower-daffodil:20",
+"circle-moon:7",
+"box-heart:7",
+"masks-theater:25",
+"copyright:19",
+"building-lock:20",
+"clock-twelve:1",
+"square-7:6",
+"mask-snorkel:0"
 ];

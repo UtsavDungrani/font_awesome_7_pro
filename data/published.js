@@ -539,5 +539,14 @@ window.FA_PUBLISHED = [
 "calendar-minus:24",
 "film:14",
 "credit-card:6",
-"archive:3"
+"archive:3",
+"paw:8",
+"id-card-alt:20",
+"comment-plus:23",
+"u:2",
+"people-simple:0",
+"scarecrow:1",
+"tree:12",
+"ping-pong-paddle-ball:19",
+"airplay-audio:19"
 ];

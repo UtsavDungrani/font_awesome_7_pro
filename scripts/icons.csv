@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-paw,8,fa-duotone fa-regular fa-paw,Paw,Duotone Regular
-id-card-alt,20,fa-sharp fa-regular fa-id-card-alt,Id Card Alt,Sharp Regular
-comment-plus,23,fa-sharp-duotone fa-light fa-comment-plus,Comment Plus,Sharp Duotone Light
-u,2,fa-light fa-u,U,Light
-people-simple,0,fa-solid fa-people-simple,People Simple,Solid
-scarecrow,1,fa-regular fa-scarecrow,Scarecrow,Regular
-tree,12,fa-jelly fa-regular fa-tree,Tree,Jelly Regular
-ping-pong-paddle-ball,19,fa-sharp fa-light fa-ping-pong-paddle-ball,Ping Pong Paddle Ball,Sharp Light
-airplay-audio,19,fa-sharp fa-light fa-airplay-audio,Airplay Audio,Sharp Light
 file-edit,24,fa-sharp-duotone fa-regular fa-file-edit,File Edit,Sharp Duotone Regular
 satellite-dish,2,fa-light fa-satellite-dish,Satellite Dish,Light
 abacus,2,fa-light fa-abacus,Abacus,Light

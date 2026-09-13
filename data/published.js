@@ -557,5 +557,14 @@ window.FA_PUBLISHED = [
 "landmark-magnifying-glass:20",
 "wheelchair:19",
 "cart-arrow-up:7",
-"viruses:19"
+"viruses:19",
+"comment:16",
+"user-alt-slash:7",
+"face-smile-beam:26",
+"bowling-pins:2",
+"people-dress:2",
+"images:23",
+"magnifying-glass-music:3",
+"crystal-ball:8",
+"cart-flatbed-boxes:19"
 ];

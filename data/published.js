@@ -476,5 +476,14 @@ window.FA_PUBLISHED = [
 "arrows-rotate:31",
 "face-frown-slight:24",
 "starfighter-alt-advanced:21",
-"chess-bishop:21"
+"chess-bishop:21",
+"comment-middle-alt:2",
+"cookie-bite:8",
+"arrows-up-down:22",
+"external-link-square-alt:19",
+"circle-notch:22",
+"circle-info:18",
+"file-js:24",
+"rocket:20",
+"temperature-3:23"
 ];

@@ -512,5 +512,14 @@ window.FA_PUBLISHED = [
 "conveyor-belt-alt:26",
 "album:0",
 "truck-utensils:7",
-"folder-arrow-down:35"
+"folder-arrow-down:35",
+"square-1:3",
+"tickets:3",
+"card-spade:24",
+"computer-mouse-button-left:20",
+"prescription-bottle-alt:8",
+"arrow-down-to-bracket:16",
+"square-ampersand:24",
+"bow-arrow:0",
+"microscope:8"
 ];

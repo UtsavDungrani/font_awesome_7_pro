@@ -494,5 +494,14 @@ window.FA_PUBLISHED = [
 "backspace:9",
 "pan-frying:3",
 "files:13",
-"sd-cards:20"
+"sd-cards:20",
+"mango:2",
+"sprinkler-ceiling:9",
+"l:1",
+"box-circle-check:3",
+"mug-marshmallows:24",
+"caret-up:22",
+"colon:0",
+"pool-8-ball:6",
+"school-circle-exclamation:21"
 ];

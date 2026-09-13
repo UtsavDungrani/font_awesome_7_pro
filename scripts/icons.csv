@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mango,2,fa-light fa-mango,Mango,Light
-sprinkler-ceiling,9,fa-duotone fa-thin fa-sprinkler-ceiling,Sprinkler Ceiling,Duotone Thin
-l,1,fa-regular fa-l,L,Regular
-box-circle-check,3,fa-thin fa-box-circle-check,Box Circle Check,Thin
-mug-marshmallows,24,fa-sharp-duotone fa-regular fa-mug-marshmallows,Mug Marshmallows,Sharp Duotone Regular
-caret-up,22,fa-sharp fa-thin fa-caret-up,Caret Up,Sharp Thin
-colon,0,fa-solid fa-colon,Colon,Solid
-pool-8-ball,6,fa-duotone fa-pool-8-ball,Pool 8 Ball,Duotone Solid
-school-circle-exclamation,21,fa-sharp fa-solid fa-school-circle-exclamation,School Circle Exclamation,Sharp Solid
 objects-align-bottom,22,fa-sharp fa-thin fa-objects-align-bottom,Objects Align Bottom,Sharp Thin
 diploma,26,fa-sharp-duotone fa-thin fa-diploma,Diploma,Sharp Duotone Thin
 clone-plus,26,fa-sharp-duotone fa-thin fa-clone-plus,Clone Plus,Sharp Duotone Thin

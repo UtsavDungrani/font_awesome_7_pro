@@ -503,5 +503,14 @@ window.FA_PUBLISHED = [
 "caret-up:22",
 "colon:0",
 "pool-8-ball:6",
-"school-circle-exclamation:21"
+"school-circle-exclamation:21",
+"objects-align-bottom:22",
+"diploma:26",
+"clone-plus:26",
+"brackets-curly:23",
+"flask-vial:26",
+"conveyor-belt-alt:26",
+"album:0",
+"truck-utensils:7",
+"folder-arrow-down:35"
 ];

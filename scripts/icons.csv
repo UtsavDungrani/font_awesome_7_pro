@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-edit,24,fa-sharp-duotone fa-regular fa-file-edit,File Edit,Sharp Duotone Regular
-satellite-dish,2,fa-light fa-satellite-dish,Satellite Dish,Light
-abacus,2,fa-light fa-abacus,Abacus,Light
-text-size,2,fa-light fa-text-size,Text Size,Light
-circle-dollar,32,fa-utility fa-semibold fa-circle-dollar,Circle Dollar,Utility Semibold
-landmark-magnifying-glass,20,fa-sharp fa-regular fa-landmark-magnifying-glass,Landmark Magnifying Glass,Sharp Regular
-wheelchair,19,fa-sharp fa-light fa-wheelchair,Wheelchair,Sharp Light
-cart-arrow-up,7,fa-duotone fa-light fa-cart-arrow-up,Cart Arrow Up,Duotone Light
-viruses,19,fa-sharp fa-light fa-viruses,Viruses,Sharp Light
 comment,16,fa-notdog fa-solid fa-comment,Comment,Notdog Solid
 user-alt-slash,7,fa-duotone fa-light fa-user-alt-slash,User Alt Slash,Duotone Light
 face-smile-beam,26,fa-sharp-duotone fa-thin fa-face-smile-beam,Face Smile Beam,Sharp Duotone Thin

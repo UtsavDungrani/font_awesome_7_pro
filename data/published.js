@@ -548,5 +548,14 @@ window.FA_PUBLISHED = [
 "scarecrow:1",
 "tree:12",
 "ping-pong-paddle-ball:19",
-"airplay-audio:19"
+"airplay-audio:19",
+"file-edit:24",
+"satellite-dish:2",
+"abacus:2",
+"text-size:2",
+"circle-dollar:32",
+"landmark-magnifying-glass:20",
+"wheelchair:19",
+"cart-arrow-up:7",
+"viruses:19"
 ];

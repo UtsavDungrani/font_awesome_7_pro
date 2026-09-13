@@ -467,5 +467,14 @@ window.FA_PUBLISHED = [
 "building-lock:20",
 "clock-twelve:1",
 "square-7:6",
-"mask-snorkel:0"
+"mask-snorkel:0",
+"paintbrush-fine-slash:9",
+"tower-observation:20",
+"users-line:26",
+"h:8",
+"circle-stop:1",
+"arrows-rotate:31",
+"face-frown-slight:24",
+"starfighter-alt-advanced:21",
+"chess-bishop:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-meerkat,21,fa-sharp fa-solid fa-meerkat,Meerkat,Sharp Solid
-cloud-drizzle,34,fa-utility-fill fa-semibold fa-cloud-drizzle,Cloud Drizzle,Utility Fill Semibold
-bowl-food,3,fa-thin fa-bowl-food,Bowl Food,Thin
-circle-2,26,fa-sharp-duotone fa-thin fa-circle-2,Circle 2,Sharp Duotone Thin
-danish-krone-sign,6,fa-duotone fa-danish-krone-sign,Danish Krone Sign,Duotone Solid
-clone,12,fa-jelly fa-regular fa-clone,Clone,Jelly Regular
-jack-o-lantern,20,fa-sharp fa-regular fa-jack-o-lantern,Jack O Lantern,Sharp Regular
-arrow-right-from-bracket,31,fa-thumbprint fa-light fa-arrow-right-from-bracket,Arrow Right From Bracket,Thumbprint Light
-automobile,29,fa-slab-press fa-regular fa-automobile,Automobile,Slab Press Regular
 palette,32,fa-utility fa-semibold fa-palette,Palette,Utility Semibold
 turn-right,3,fa-thin fa-turn-right,Turn Right,Thin
 chevron-circle-down,6,fa-duotone fa-chevron-circle-down,Chevron Circle Down,Duotone Solid

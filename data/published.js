@@ -521,5 +521,14 @@ window.FA_PUBLISHED = [
 "arrow-down-to-bracket:16",
 "square-ampersand:24",
 "bow-arrow:0",
-"microscope:8"
+"microscope:8",
+"meerkat:21",
+"cloud-drizzle:34",
+"bowl-food:3",
+"circle-2:26",
+"danish-krone-sign:6",
+"clone:12",
+"jack-o-lantern:20",
+"arrow-right-from-bracket:31",
+"automobile:29"
 ];

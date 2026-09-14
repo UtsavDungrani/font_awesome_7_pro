@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mars-double,3,fa-thin fa-mars-double,Mars Double,Thin
-mushroom,6,fa-duotone fa-mushroom,Mushroom,Duotone Solid
-seat,1,fa-regular fa-seat,Seat,Regular
-arrow-down-long-to-line,26,fa-sharp-duotone fa-thin fa-arrow-down-long-to-line,Arrow Down Long To Line,Sharp Duotone Thin
-person-soccer,19,fa-sharp fa-light fa-person-soccer,Person Soccer,Sharp Light
-shield-keyhole,24,fa-sharp-duotone fa-regular fa-shield-keyhole,Shield Keyhole,Sharp Duotone Regular
-gavel,7,fa-duotone fa-light fa-gavel,Gavel,Duotone Light
-truck-fire,2,fa-light fa-truck-fire,Truck Fire,Light
-vial-vertical,3,fa-thin fa-vial-vertical,Vial Vertical,Thin
 moon-waning-crescent,7,fa-duotone fa-light fa-moon-waning-crescent,Moon Waning Crescent,Duotone Light
 temperature-high,24,fa-sharp-duotone fa-regular fa-temperature-high,Temperature High,Sharp Duotone Regular
 scroll-old,22,fa-sharp fa-thin fa-scroll-old,Scroll Old,Sharp Thin

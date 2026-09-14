@@ -629,5 +629,14 @@ window.FA_PUBLISHED = [
 "meerkat:2",
 "100:19",
 "lock:14",
-"heart:32"
+"heart:32",
+"mars-double:3",
+"mushroom:6",
+"seat:1",
+"arrow-down-long-to-line:26",
+"person-soccer:19",
+"shield-keyhole:24",
+"gavel:7",
+"truck-fire:2",
+"vial-vertical:3"
 ];

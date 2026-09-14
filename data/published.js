@@ -566,5 +566,14 @@ window.FA_PUBLISHED = [
 "images:23",
 "magnifying-glass-music:3",
 "crystal-ball:8",
-"cart-flatbed-boxes:19"
+"cart-flatbed-boxes:19",
+"speakers:26",
+"comments:29",
+"cabinet-filing:23",
+"sagittarius:1",
+"stamp:8",
+"chevron-double-right:24",
+"trailer:19",
+"clock-nine:22",
+"book-open:29"
 ];

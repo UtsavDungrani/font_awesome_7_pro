@@ -584,5 +584,14 @@ window.FA_PUBLISHED = [
 "volume-down:23",
 "person-circle-xmark:20",
 "face-grin-tongue:9",
-"face-grin-wink:20"
+"face-grin-wink:20",
+"oil-can:24",
+"hands-bound:0",
+"dialpad:25",
+"fish-bones:1",
+"otter:6",
+"trash-list:19",
+"trash-can-plus:24",
+"align-slash:22",
+"fist-raised:1"
 ];

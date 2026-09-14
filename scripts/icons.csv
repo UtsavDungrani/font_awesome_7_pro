@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-oil-can,24,fa-sharp-duotone fa-regular fa-oil-can,Oil Can,Sharp Duotone Regular
-hands-bound,0,fa-solid fa-hands-bound,Hands Bound,Solid
-dialpad,25,fa-sharp-duotone fa-solid fa-dialpad,Dialpad,Sharp Duotone Solid
-fish-bones,1,fa-regular fa-fish-bones,Fish Bones,Regular
-otter,6,fa-duotone fa-otter,Otter,Duotone Solid
-trash-list,19,fa-sharp fa-light fa-trash-list,Trash List,Sharp Light
-trash-can-plus,24,fa-sharp-duotone fa-regular fa-trash-can-plus,Trash Can Plus,Sharp Duotone Regular
-align-slash,22,fa-sharp fa-thin fa-align-slash,Align Slash,Sharp Thin
-fist-raised,1,fa-regular fa-fist-raised,Fist Raised,Regular
 building-circle-exclamation,19,fa-sharp fa-light fa-building-circle-exclamation,Building Circle Exclamation,Sharp Light
 table-columns-add-after,0,fa-solid fa-table-columns-add-after,Table Columns Add After,Solid
 box-dollar,6,fa-duotone fa-box-dollar,Box Dollar,Duotone Solid

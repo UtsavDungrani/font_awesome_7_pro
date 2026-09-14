@@ -611,5 +611,14 @@ window.FA_PUBLISHED = [
 "house-laptop:20",
 "microphone-circle-xmark:20",
 "forward-step:28",
-"face-raised-eyebrow:2"
+"face-raised-eyebrow:2",
+"arrow-right-to-file:9",
+"grid-vertical:19",
+"chart-network:7",
+"bowl-food:25",
+"file-mp4:25",
+"chevron-square-left:7",
+"coconut:22",
+"eject:26",
+"chart-user:22"
 ];

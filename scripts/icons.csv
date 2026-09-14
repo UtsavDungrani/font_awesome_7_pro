@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-right-to-file,9,fa-duotone fa-thin fa-arrow-right-to-file,Arrow Right To File,Duotone Thin
-grid-vertical,19,fa-sharp fa-light fa-grid-vertical,Grid Vertical,Sharp Light
-chart-network,7,fa-duotone fa-light fa-chart-network,Chart Network,Duotone Light
-bowl-food,25,fa-sharp-duotone fa-solid fa-bowl-food,Bowl Food,Sharp Duotone Solid
-file-mp4,25,fa-sharp-duotone fa-solid fa-file-mp4,File Mp4,Sharp Duotone Solid
-chevron-square-left,7,fa-duotone fa-light fa-chevron-square-left,Chevron Square Left,Duotone Light
-coconut,22,fa-sharp fa-thin fa-coconut,Coconut,Sharp Thin
-eject,26,fa-sharp-duotone fa-thin fa-eject,Eject,Sharp Duotone Thin
-chart-user,22,fa-sharp fa-thin fa-chart-user,Chart User,Sharp Thin
 drivers-license,3,fa-thin fa-drivers-license,Drivers License,Thin
 mask,1,fa-regular fa-mask,Mask,Regular
 butterfly,8,fa-duotone fa-regular fa-butterfly,Butterfly,Duotone Regular

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-drivers-license,3,fa-thin fa-drivers-license,Drivers License,Thin
-mask,1,fa-regular fa-mask,Mask,Regular
-butterfly,8,fa-duotone fa-regular fa-butterfly,Butterfly,Duotone Regular
-square-r,22,fa-sharp fa-thin fa-square-r,Square R,Sharp Thin
-mobile-vibrate,25,fa-sharp-duotone fa-solid fa-mobile-vibrate,Mobile Vibrate,Sharp Duotone Solid
-meerkat,2,fa-light fa-meerkat,Meerkat,Light
-100,19,fa-sharp fa-light fa-100,100,Sharp Light
-lock,14,fa-jelly-fill fa-regular fa-lock,Lock,Jelly Fill Regular
-heart,32,fa-utility fa-semibold fa-heart,Heart,Utility Semibold
 mars-double,3,fa-thin fa-mars-double,Mars Double,Thin
 mushroom,6,fa-duotone fa-mushroom,Mushroom,Duotone Solid
 seat,1,fa-regular fa-seat,Seat,Regular

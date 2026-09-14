@@ -620,5 +620,14 @@ window.FA_PUBLISHED = [
 "chevron-square-left:7",
 "coconut:22",
 "eject:26",
-"chart-user:22"
+"chart-user:22",
+"drivers-license:3",
+"mask:1",
+"butterfly:8",
+"square-r:22",
+"mobile-vibrate:25",
+"meerkat:2",
+"100:19",
+"lock:14",
+"heart:32"
 ];

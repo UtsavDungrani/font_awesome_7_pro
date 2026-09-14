@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-burger,2,fa-light fa-burger,Burger,Light
-left-from-dotted-line,2,fa-light fa-left-from-dotted-line,Left From Dotted Line,Light
-mobile-iphone,19,fa-sharp fa-light fa-mobile-iphone,Mobile Iphone,Sharp Light
-hands-praying,25,fa-sharp-duotone fa-solid fa-hands-praying,Hands Praying,Sharp Duotone Solid
-dice-d8,26,fa-sharp-duotone fa-thin fa-dice-d8,Dice D8,Sharp Duotone Thin
-volume-down,23,fa-sharp-duotone fa-light fa-volume-down,Volume Down,Sharp Duotone Light
-person-circle-xmark,20,fa-sharp fa-regular fa-person-circle-xmark,Person Circle Xmark,Sharp Regular
-face-grin-tongue,9,fa-duotone fa-thin fa-face-grin-tongue,Face Grin Tongue,Duotone Thin
-face-grin-wink,20,fa-sharp fa-regular fa-face-grin-wink,Face Grin Wink,Sharp Regular
 oil-can,24,fa-sharp-duotone fa-regular fa-oil-can,Oil Can,Sharp Duotone Regular
 hands-bound,0,fa-solid fa-hands-bound,Hands Bound,Solid
 dialpad,25,fa-sharp-duotone fa-solid fa-dialpad,Dialpad,Sharp Duotone Solid

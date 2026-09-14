@@ -575,5 +575,14 @@ window.FA_PUBLISHED = [
 "chevron-double-right:24",
 "trailer:19",
 "clock-nine:22",
-"book-open:29"
+"book-open:29",
+"burger:2",
+"left-from-dotted-line:2",
+"mobile-iphone:19",
+"hands-praying:25",
+"dice-d8:26",
+"volume-down:23",
+"person-circle-xmark:20",
+"face-grin-tongue:9",
+"face-grin-wink:20"
 ];

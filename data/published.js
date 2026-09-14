@@ -602,5 +602,14 @@ window.FA_PUBLISHED = [
 "temperature-4:25",
 "earth-asia:21",
 "bookmark:8",
-"owl:19"
+"owl:19",
+"basket-shopping-simple:19",
+"timeline:21",
+"arrow-down-z-a:1",
+"grate-droplet:24",
+"circle-5:0",
+"house-laptop:20",
+"microphone-circle-xmark:20",
+"forward-step:28",
+"face-raised-eyebrow:2"
 ];

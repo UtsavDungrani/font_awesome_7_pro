@@ -593,5 +593,14 @@ window.FA_PUBLISHED = [
 "trash-list:19",
 "trash-can-plus:24",
 "align-slash:22",
-"fist-raised:1"
+"fist-raised:1",
+"building-circle-exclamation:19",
+"table-columns-add-after:0",
+"box-dollar:6",
+"slideshare:4",
+"chain:30",
+"temperature-4:25",
+"earth-asia:21",
+"bookmark:8",
+"owl:19"
 ];

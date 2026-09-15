@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-user,24,fa-sharp-duotone fa-regular fa-file-user,File User,Sharp Duotone Regular
-highlighter-line,26,fa-sharp-duotone fa-thin fa-highlighter-line,Highlighter Line,Sharp Duotone Thin
-grid-round-2,0,fa-solid fa-grid-round-2,Grid Round 2,Solid
-battery-4,19,fa-sharp fa-light fa-battery-4,Battery 4,Sharp Light
-temperature-0,7,fa-duotone fa-light fa-temperature-0,Temperature 0,Duotone Light
-square-divide,22,fa-sharp fa-thin fa-square-divide,Square Divide,Sharp Thin
-file-wav,26,fa-sharp-duotone fa-thin fa-file-wav,File Wav,Sharp Duotone Thin
-left-from-dotted-line,6,fa-duotone fa-left-from-dotted-line,Left From Dotted Line,Duotone Solid
-fire-flame,9,fa-duotone fa-thin fa-fire-flame,Fire Flame,Duotone Thin
 house-chimney-blank,9,fa-duotone fa-thin fa-house-chimney-blank,House Chimney Blank,Duotone Thin
 shipping-timed,19,fa-sharp fa-light fa-shipping-timed,Shipping Timed,Sharp Light
 face-grin-tongue,2,fa-light fa-face-grin-tongue,Face Grin Tongue,Light

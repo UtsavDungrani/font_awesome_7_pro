@@ -710,5 +710,14 @@ window.FA_PUBLISHED = [
 "dice-d6:19",
 "olive:8",
 "skype:4",
-"calendar:1"
+"calendar:1",
+"file-user:24",
+"highlighter-line:26",
+"grid-round-2:0",
+"battery-4:19",
+"temperature-0:7",
+"square-divide:22",
+"file-wav:26",
+"left-from-dotted-line:6",
+"fire-flame:9"
 ];

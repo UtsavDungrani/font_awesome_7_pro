@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-sunglasses,2,fa-light fa-sunglasses,Sunglasses,Light
-loader,0,fa-solid fa-loader,Loader,Solid
-square-e,21,fa-sharp fa-solid fa-square-e,Square E,Sharp Solid
-bin-bottles-recycle,21,fa-sharp fa-solid fa-bin-bottles-recycle,Bin Bottles Recycle,Sharp Solid
-arrow-left-arrow-right,24,fa-sharp-duotone fa-regular fa-arrow-left-arrow-right,Arrow Left Arrow Right,Sharp Duotone Regular
-garage-empty,21,fa-sharp fa-solid fa-garage-empty,Garage Empty,Sharp Solid
-baby-carriage,3,fa-thin fa-baby-carriage,Baby Carriage,Thin
-square-half,7,fa-duotone fa-light fa-square-half,Square Half,Duotone Light
-image-polaroid,3,fa-thin fa-image-polaroid,Image Polaroid,Thin
 square-dashed-circle-plus,23,fa-sharp-duotone fa-light fa-square-dashed-circle-plus,Square Dashed Circle Plus,Sharp Duotone Light
 vacuum,20,fa-sharp fa-regular fa-vacuum,Vacuum,Sharp Regular
 scroll-torah,7,fa-duotone fa-light fa-scroll-torah,Scroll Torah,Duotone Light

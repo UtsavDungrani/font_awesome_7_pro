@@ -665,5 +665,14 @@ window.FA_PUBLISHED = [
 "house-tsunami:25",
 "head-side-cough:0",
 "garlic:25",
-"suitcase:13"
+"suitcase:13",
+"sunglasses:2",
+"loader:0",
+"square-e:21",
+"bin-bottles-recycle:21",
+"arrow-left-arrow-right:24",
+"garage-empty:21",
+"baby-carriage:3",
+"square-half:7",
+"image-polaroid:3"
 ];

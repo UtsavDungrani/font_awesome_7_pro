@@ -692,5 +692,14 @@ window.FA_PUBLISHED = [
 "hand-peace:3",
 "heart-circle-check:1",
 "earth-europe:6",
-"mars-stroke:21"
+"mars-stroke:21",
+"castle:3",
+"left-from-dotted-line:7",
+"pot-food:21",
+"union:22",
+"arrow-down-wide-short:3",
+"face-grin-squint:3",
+"tire-rugged:25",
+"face-diagonal-mouth:22",
+"arrow-left-rotate:2"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-castle,3,fa-thin fa-castle,Castle,Thin
-left-from-dotted-line,7,fa-duotone fa-light fa-left-from-dotted-line,Left From Dotted Line,Duotone Light
-pot-food,21,fa-sharp fa-solid fa-pot-food,Pot Food,Sharp Solid
-union,22,fa-sharp fa-thin fa-union,Union,Sharp Thin
-arrow-down-wide-short,3,fa-thin fa-arrow-down-wide-short,Arrow Down Wide Short,Thin
-face-grin-squint,3,fa-thin fa-face-grin-squint,Face Grin Squint,Thin
-tire-rugged,25,fa-sharp-duotone fa-solid fa-tire-rugged,Tire Rugged,Sharp Duotone Solid
-face-diagonal-mouth,22,fa-sharp fa-thin fa-face-diagonal-mouth,Face Diagonal Mouth,Sharp Thin
-arrow-left-rotate,2,fa-light fa-arrow-left-rotate,Arrow Left Rotate,Light
 nfc-trash,19,fa-sharp fa-light fa-nfc-trash,Nfc Trash,Sharp Light
 tv-retro,22,fa-sharp fa-thin fa-tv-retro,Tv Retro,Sharp Thin
 box-tissue,8,fa-duotone fa-regular fa-box-tissue,Box Tissue,Duotone Regular

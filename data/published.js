@@ -647,5 +647,14 @@ window.FA_PUBLISHED = [
 "building-circle-xmark:7",
 "gavel:0",
 "mug-hot:17",
-"balloons:23"
+"balloons:23",
+"paw:25",
+"plane-lock:6",
+"taco:7",
+"shield:3",
+"code-pull-request-draft:22",
+"microchip-ai:9",
+"square-arrow-down-left:0",
+"comments-alt-dollar:22",
+"cloud-sun-rain:25"
 ];

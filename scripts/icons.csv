@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-paw,25,fa-sharp-duotone fa-solid fa-paw,Paw,Sharp Duotone Solid
-plane-lock,6,fa-duotone fa-plane-lock,Plane Lock,Duotone Solid
-taco,7,fa-duotone fa-light fa-taco,Taco,Duotone Light
-shield,3,fa-thin fa-shield,Shield,Thin
-code-pull-request-draft,22,fa-sharp fa-thin fa-code-pull-request-draft,Code Pull Request Draft,Sharp Thin
-microchip-ai,9,fa-duotone fa-thin fa-microchip-ai,Microchip Ai,Duotone Thin
-square-arrow-down-left,0,fa-solid fa-square-arrow-down-left,Square Arrow Down Left,Solid
-comments-alt-dollar,22,fa-sharp fa-thin fa-comments-alt-dollar,Comments Alt Dollar,Sharp Thin
-cloud-sun-rain,25,fa-sharp-duotone fa-solid fa-cloud-sun-rain,Cloud Sun Rain,Sharp Duotone Solid
 nfc,0,fa-solid fa-nfc,Nfc,Solid
 caret-down,22,fa-sharp fa-thin fa-caret-down,Caret Down,Sharp Thin
 triangle,17,fa-notdog-duo fa-solid fa-triangle,Triangle,Notdog Duo Solid

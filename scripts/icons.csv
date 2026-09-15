@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-teddy-bear,3,fa-thin fa-teddy-bear,Teddy Bear,Thin
-hands-holding-circle,23,fa-sharp-duotone fa-light fa-hands-holding-circle,Hands Holding Circle,Sharp Duotone Light
-scroll,20,fa-sharp fa-regular fa-scroll,Scroll,Sharp Regular
-people-carry,7,fa-duotone fa-light fa-people-carry,People Carry,Duotone Light
-building-flag,8,fa-duotone fa-regular fa-building-flag,Building Flag,Duotone Regular
-hand-peace,3,fa-thin fa-hand-peace,Hand Peace,Thin
-heart-circle-check,1,fa-regular fa-heart-circle-check,Heart Circle Check,Regular
-earth-europe,6,fa-duotone fa-earth-europe,Earth Europe,Duotone Solid
-mars-stroke,21,fa-sharp fa-solid fa-mars-stroke,Mars Stroke,Sharp Solid
 castle,3,fa-thin fa-castle,Castle,Thin
 left-from-dotted-line,7,fa-duotone fa-light fa-left-from-dotted-line,Left From Dotted Line,Duotone Light
 pot-food,21,fa-sharp fa-solid fa-pot-food,Pot Food,Sharp Solid

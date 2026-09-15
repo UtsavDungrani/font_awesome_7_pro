@@ -683,5 +683,14 @@ window.FA_PUBLISHED = [
 "u:25",
 "ankh:24",
 "bar-progress-half:24",
-"paint-brush-alt:26"
+"paint-brush-alt:26",
+"teddy-bear:3",
+"hands-holding-circle:23",
+"scroll:20",
+"people-carry:7",
+"building-flag:8",
+"hand-peace:3",
+"heart-circle-check:1",
+"earth-europe:6",
+"mars-stroke:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-nfc,0,fa-solid fa-nfc,Nfc,Solid
-caret-down,22,fa-sharp fa-thin fa-caret-down,Caret Down,Sharp Thin
-triangle,17,fa-notdog-duo fa-solid fa-triangle,Triangle,Notdog Duo Solid
-owl,25,fa-sharp-duotone fa-solid fa-owl,Owl,Sharp Duotone Solid
-oil-can-drip,24,fa-sharp-duotone fa-regular fa-oil-can-drip,Oil Can Drip,Sharp Duotone Regular
-house-tsunami,25,fa-sharp-duotone fa-solid fa-house-tsunami,House Tsunami,Sharp Duotone Solid
-head-side-cough,0,fa-solid fa-head-side-cough,Head Side Cough,Solid
-garlic,25,fa-sharp-duotone fa-solid fa-garlic,Garlic,Sharp Duotone Solid
-suitcase,13,fa-jelly-duo fa-regular fa-suitcase,Suitcase,Jelly Duo Regular
 sunglasses,2,fa-light fa-sunglasses,Sunglasses,Light
 loader,0,fa-solid fa-loader,Loader,Solid
 square-e,21,fa-sharp fa-solid fa-square-e,Square E,Sharp Solid

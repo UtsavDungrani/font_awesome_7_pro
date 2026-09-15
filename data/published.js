@@ -656,5 +656,14 @@ window.FA_PUBLISHED = [
 "microchip-ai:9",
 "square-arrow-down-left:0",
 "comments-alt-dollar:22",
-"cloud-sun-rain:25"
+"cloud-sun-rain:25",
+"nfc:0",
+"caret-down:22",
+"triangle:17",
+"owl:25",
+"oil-can-drip:24",
+"house-tsunami:25",
+"head-side-cough:0",
+"garlic:25",
+"suitcase:13"
 ];

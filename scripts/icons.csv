@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-moon-waning-crescent,7,fa-duotone fa-light fa-moon-waning-crescent,Moon Waning Crescent,Duotone Light
-temperature-high,24,fa-sharp-duotone fa-regular fa-temperature-high,Temperature High,Sharp Duotone Regular
-scroll-old,22,fa-sharp fa-thin fa-scroll-old,Scroll Old,Sharp Thin
-atom,6,fa-duotone fa-atom,Atom,Duotone Solid
-envelope-badge,25,fa-sharp-duotone fa-solid fa-envelope-badge,Envelope Badge,Sharp Duotone Solid
-building-circle-xmark,7,fa-duotone fa-light fa-building-circle-xmark,Building Circle Xmark,Duotone Light
-gavel,0,fa-solid fa-gavel,Gavel,Solid
-mug-hot,17,fa-notdog-duo fa-solid fa-mug-hot,Mug Hot,Notdog Duo Solid
-balloons,23,fa-sharp-duotone fa-light fa-balloons,Balloons,Sharp Duotone Light
 paw,25,fa-sharp-duotone fa-solid fa-paw,Paw,Sharp Duotone Solid
 plane-lock,6,fa-duotone fa-plane-lock,Plane Lock,Duotone Solid
 taco,7,fa-duotone fa-light fa-taco,Taco,Duotone Light

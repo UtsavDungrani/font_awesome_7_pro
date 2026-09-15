@@ -638,5 +638,14 @@ window.FA_PUBLISHED = [
 "shield-keyhole:24",
 "gavel:7",
 "truck-fire:2",
-"vial-vertical:3"
+"vial-vertical:3",
+"moon-waning-crescent:7",
+"temperature-high:24",
+"scroll-old:22",
+"atom:6",
+"envelope-badge:25",
+"building-circle-xmark:7",
+"gavel:0",
+"mug-hot:17",
+"balloons:23"
 ];

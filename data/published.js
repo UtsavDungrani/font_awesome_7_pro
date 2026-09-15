@@ -701,5 +701,14 @@ window.FA_PUBLISHED = [
 "face-grin-squint:3",
 "tire-rugged:25",
 "face-diagonal-mouth:22",
-"arrow-left-rotate:2"
+"arrow-left-rotate:2",
+"nfc-trash:19",
+"tv-retro:22",
+"box-tissue:8",
+"phone:31",
+"arrow-up-wide-short:22",
+"dice-d6:19",
+"olive:8",
+"skype:4",
+"calendar:1"
 ];

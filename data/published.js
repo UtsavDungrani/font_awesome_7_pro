@@ -674,5 +674,14 @@ window.FA_PUBLISHED = [
 "garage-empty:21",
 "baby-carriage:3",
 "square-half:7",
-"image-polaroid:3"
+"image-polaroid:3",
+"square-dashed-circle-plus:23",
+"vacuum:20",
+"scroll-torah:7",
+"arrows-from-line:23",
+"mug-hot:25",
+"u:25",
+"ankh:24",
+"bar-progress-half:24",
+"paint-brush-alt:26"
 ];

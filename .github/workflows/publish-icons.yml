@@ -14,7 +14,7 @@ on:
     # under load, so this leaves four hours of headroom before midnight IST -
     # past midnight the commit timestamps would split across two dates and
     # weaken both days on the contribution graph.
-    - cron: "30 14 * * *"
+    - cron: "13 13 * * *"
   workflow_dispatch:
     inputs:
       min_commits:

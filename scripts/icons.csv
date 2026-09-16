@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clinic-medical,19,fa-sharp fa-light fa-clinic-medical,Clinic Medical,Sharp Light
-bridge-circle-exclamation,25,fa-sharp-duotone fa-solid fa-bridge-circle-exclamation,Bridge Circle Exclamation,Sharp Duotone Solid
-book-spine,1,fa-regular fa-book-spine,Book Spine,Regular
-ellipsis-v,1,fa-regular fa-ellipsis-v,Ellipsis V,Regular
-bore-hole,19,fa-sharp fa-light fa-bore-hole,Bore Hole,Sharp Light
-archive,18,fa-pixel fa-regular fa-archive,Archive,Pixel Regular
-house-turret,21,fa-sharp fa-solid fa-house-turret,House Turret,Sharp Solid
-face-viewfinder,2,fa-light fa-face-viewfinder,Face Viewfinder,Light
-earth-oceania,0,fa-solid fa-earth-oceania,Earth Oceania,Solid
 face-shaking-vertical,21,fa-sharp fa-solid fa-face-shaking-vertical,Face Shaking Vertical,Sharp Solid
 angle-double-down,3,fa-thin fa-angle-double-down,Angle Double Down,Thin
 align-justify,3,fa-thin fa-align-justify,Align Justify,Thin

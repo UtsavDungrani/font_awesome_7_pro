@@ -773,5 +773,14 @@ window.FA_PUBLISHED = [
 "arrow-from-left:21",
 "cloud-arrow-up:33",
 "arrow-right:15",
-"calendar-day:8"
+"calendar-day:8",
+"clinic-medical:19",
+"bridge-circle-exclamation:25",
+"book-spine:1",
+"ellipsis-v:1",
+"bore-hole:19",
+"archive:18",
+"house-turret:21",
+"face-viewfinder:2",
+"earth-oceania:0"
 ];

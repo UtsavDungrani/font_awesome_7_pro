@@ -746,5 +746,14 @@ window.FA_PUBLISHED = [
 "square-8:26",
 "store-lock:21",
 "hands-helping:3",
-"u-turn-right-up:24"
+"u-turn-right-up:24",
+"t:8",
+"user-robot-xmarks:19",
+"tower-observation:22",
+"display:1",
+"arrow-down-wide-short:8",
+"file-magnifying-glass:8",
+"hourglass:3",
+"temperature-1:26",
+"user-beard-bolt:25"
 ];

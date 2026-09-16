@@ -800,5 +800,14 @@ window.FA_PUBLISHED = [
 "jar-wheat:1",
 "arrow-down-from-dotted-line:2",
 "cloud-binary:0",
-"arrows-alt:24"
+"arrows-alt:24",
+"horse-saddle:19",
+"table-cells:0",
+"paper-plane-alt:6",
+"share-all:23",
+"bags-shopping:6",
+"rectangle-history:23",
+"wave-square:8",
+"tire-rugged:0",
+"loader:26"
 ];

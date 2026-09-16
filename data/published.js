@@ -764,5 +764,14 @@ window.FA_PUBLISHED = [
 "file-video:19",
 "binary-circle-check:23",
 "reply-clock:21",
-"heart-slash:20"
+"heart-slash:20",
+"comment-image:24",
+"arrow-trend-up:26",
+"wine-bottle:9",
+"bridge-circle-check:6",
+"hourglass:25",
+"arrow-from-left:21",
+"cloud-arrow-up:33",
+"arrow-right:15",
+"calendar-day:8"
 ];

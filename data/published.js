@@ -719,5 +719,14 @@ window.FA_PUBLISHED = [
 "square-divide:22",
 "file-wav:26",
 "left-from-dotted-line:6",
-"fire-flame:9"
+"fire-flame:9",
+"house-chimney-blank:9",
+"shipping-timed:19",
+"face-grin-tongue:2",
+"chart-kanban:9",
+"face-worried:6",
+"triangle:15",
+"ram:19",
+"locust:19",
+"inboxes:19"
 ];

@@ -782,5 +782,14 @@ window.FA_PUBLISHED = [
 "archive:18",
 "house-turret:21",
 "face-viewfinder:2",
-"earth-oceania:0"
+"earth-oceania:0",
+"face-shaking-vertical:21",
+"angle-double-down:3",
+"align-justify:3",
+"lock-alt:9",
+"bacon:21",
+"code-fork:2",
+"starfighter-alt:21",
+"transporter-2:22",
+"head-side-circuit:25"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-shaking-vertical,21,fa-sharp fa-solid fa-face-shaking-vertical,Face Shaking Vertical,Sharp Solid
-angle-double-down,3,fa-thin fa-angle-double-down,Angle Double Down,Thin
-align-justify,3,fa-thin fa-align-justify,Align Justify,Thin
-lock-alt,9,fa-duotone fa-thin fa-lock-alt,Lock Alt,Duotone Thin
-bacon,21,fa-sharp fa-solid fa-bacon,Bacon,Sharp Solid
-code-fork,2,fa-light fa-code-fork,Code Fork,Light
-starfighter-alt,21,fa-sharp fa-solid fa-starfighter-alt,Starfighter Alt,Sharp Solid
-transporter-2,22,fa-sharp fa-thin fa-transporter-2,Transporter 2,Sharp Thin
-head-side-circuit,25,fa-sharp-duotone fa-solid fa-head-side-circuit,Head Side Circuit,Sharp Duotone Solid
 diagram-venn,26,fa-sharp-duotone fa-thin fa-diagram-venn,Diagram Venn,Sharp Duotone Thin
 play-flip,26,fa-sharp-duotone fa-thin fa-play-flip,Play Flip,Sharp Duotone Thin
 apostrophe,2,fa-light fa-apostrophe,Apostrophe,Light

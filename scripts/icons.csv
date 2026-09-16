@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-monitor-heart-rate,0,fa-solid fa-monitor-heart-rate,Monitor Heart Rate,Solid
-mug,0,fa-solid fa-mug,Mug,Solid
-crown,33,fa-utility-duo fa-semibold fa-crown,Crown,Utility Duo Semibold
-bowling-pins,20,fa-sharp fa-regular fa-bowling-pins,Bowling Pins,Sharp Regular
-baby-carriage,25,fa-sharp-duotone fa-solid fa-baby-carriage,Baby Carriage,Sharp Duotone Solid
-square-8,26,fa-sharp-duotone fa-thin fa-square-8,Square 8,Sharp Duotone Thin
-store-lock,21,fa-sharp fa-solid fa-store-lock,Store Lock,Sharp Solid
-hands-helping,3,fa-thin fa-hands-helping,Hands Helping,Thin
-u-turn-right-up,24,fa-sharp-duotone fa-regular fa-u-turn-right-up,U Turn Right Up,Sharp Duotone Regular
 t,8,fa-duotone fa-regular fa-t,T,Duotone Regular
 user-robot-xmarks,19,fa-sharp fa-light fa-user-robot-xmarks,User Robot Xmarks,Sharp Light
 tower-observation,22,fa-sharp fa-thin fa-tower-observation,Tower Observation,Sharp Thin

@@ -737,5 +737,14 @@ window.FA_PUBLISHED = [
 "up-from-bracket:9",
 "ferry:23",
 "angle-double-up:19",
-"square-lari:0"
+"square-lari:0",
+"monitor-heart-rate:0",
+"mug:0",
+"crown:33",
+"bowling-pins:20",
+"baby-carriage:25",
+"square-8:26",
+"store-lock:21",
+"hands-helping:3",
+"u-turn-right-up:24"
 ];

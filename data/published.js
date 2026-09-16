@@ -728,5 +728,14 @@ window.FA_PUBLISHED = [
 "triangle:15",
 "ram:19",
 "locust:19",
-"inboxes:19"
+"inboxes:19",
+"shirt:33",
+"flatbread-stuffed:2",
+"house-chimney-user:24",
+"arrow-down-up-across-line:20",
+"bus:31",
+"up-from-bracket:9",
+"ferry:23",
+"angle-double-up:19",
+"square-lari:0"
 ];

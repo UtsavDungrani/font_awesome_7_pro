@@ -755,5 +755,14 @@ window.FA_PUBLISHED = [
 "file-magnifying-glass:8",
 "hourglass:3",
 "temperature-1:26",
-"user-beard-bolt:25"
+"user-beard-bolt:25",
+"arrows-spin:2",
+"ruler-triangle:8",
+"volume-mute:24",
+"train-tram:21",
+"octagon-exclamation:19",
+"file-video:19",
+"binary-circle-check:23",
+"reply-clock:21",
+"heart-slash:20"
 ];

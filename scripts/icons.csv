@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrows-spin,2,fa-light fa-arrows-spin,Arrows Spin,Light
-ruler-triangle,8,fa-duotone fa-regular fa-ruler-triangle,Ruler Triangle,Duotone Regular
-volume-mute,24,fa-sharp-duotone fa-regular fa-volume-mute,Volume Mute,Sharp Duotone Regular
-train-tram,21,fa-sharp fa-solid fa-train-tram,Train Tram,Sharp Solid
-octagon-exclamation,19,fa-sharp fa-light fa-octagon-exclamation,Octagon Exclamation,Sharp Light
-file-video,19,fa-sharp fa-light fa-file-video,File Video,Sharp Light
-binary-circle-check,23,fa-sharp-duotone fa-light fa-binary-circle-check,Binary Circle Check,Sharp Duotone Light
-reply-clock,21,fa-sharp fa-solid fa-reply-clock,Reply Clock,Sharp Solid
-heart-slash,20,fa-sharp fa-regular fa-heart-slash,Heart Slash,Sharp Regular
 comment-image,24,fa-sharp-duotone fa-regular fa-comment-image,Comment Image,Sharp Duotone Regular
 arrow-trend-up,26,fa-sharp-duotone fa-thin fa-arrow-trend-up,Arrow Trend Up,Sharp Duotone Thin
 wine-bottle,9,fa-duotone fa-thin fa-wine-bottle,Wine Bottle,Duotone Thin

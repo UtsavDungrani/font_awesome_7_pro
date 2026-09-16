@@ -791,5 +791,14 @@ window.FA_PUBLISHED = [
 "code-fork:2",
 "starfighter-alt:21",
 "transporter-2:22",
-"head-side-circuit:25"
+"head-side-circuit:25",
+"diagram-venn:26",
+"play-flip:26",
+"apostrophe:2",
+"renminbi-sign:22",
+"toilet-paper-xmark:1",
+"jar-wheat:1",
+"arrow-down-from-dotted-line:2",
+"cloud-binary:0",
+"arrows-alt:24"
 ];

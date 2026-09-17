@@ -818,5 +818,14 @@ window.FA_PUBLISHED = [
 "person-pregnant:26",
 "mobile-retro:20",
 "face-lying:24",
-"comment-alt-text:2"
+"comment-alt-text:2",
+"circle-user-circle-exclamation:21",
+"arrows-up-to-line:20",
+"backpack:21",
+"hand-holding-dollar:20",
+"arrow-down-to-square:21",
+"comment-dollar:23",
+"table-cells-split:3",
+"crutch:22",
+"starship-freighter:19"
 ];

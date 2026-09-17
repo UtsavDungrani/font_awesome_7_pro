@@ -827,5 +827,14 @@ window.FA_PUBLISHED = [
 "comment-dollar:23",
 "table-cells-split:3",
 "crutch:22",
-"starship-freighter:19"
+"starship-freighter:19",
+"clock-twelve:21",
+"arrows:6",
+"panties:19",
+"money-from-bracket:25",
+"gear-api:7",
+"arrow-turn-right:7",
+"signal-alt-slash:19",
+"turntable:2",
+"chart-tree-map:0"
 ];

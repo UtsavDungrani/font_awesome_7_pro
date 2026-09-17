@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clock-twelve,21,fa-sharp fa-solid fa-clock-twelve,Clock Twelve,Sharp Solid
-arrows,6,fa-duotone fa-arrows,Arrows,Duotone Solid
-panties,19,fa-sharp fa-light fa-panties,Panties,Sharp Light
-money-from-bracket,25,fa-sharp-duotone fa-solid fa-money-from-bracket,Money From Bracket,Sharp Duotone Solid
-gear-api,7,fa-duotone fa-light fa-gear-api,Gear Api,Duotone Light
-arrow-turn-right,7,fa-duotone fa-light fa-arrow-turn-right,Arrow Turn Right,Duotone Light
-signal-alt-slash,19,fa-sharp fa-light fa-signal-alt-slash,Signal Alt Slash,Sharp Light
-turntable,2,fa-light fa-turntable,Turntable,Light
-chart-tree-map,0,fa-solid fa-chart-tree-map,Chart Tree Map,Solid
 list,21,fa-sharp fa-solid fa-list,List,Sharp Solid
 star-christmas,24,fa-sharp-duotone fa-regular fa-star-christmas,Star Christmas,Sharp Duotone Regular
 face-vomit,7,fa-duotone fa-light fa-face-vomit,Face Vomit,Duotone Light

@@ -809,5 +809,14 @@ window.FA_PUBLISHED = [
 "rectangle-history:23",
 "wave-square:8",
 "tire-rugged:0",
-"loader:26"
+"loader:26",
+"magic-wand-sparkles:3",
+"card-club:25",
+"square-4:22",
+"cab:23",
+"calendar-edit:0",
+"person-pregnant:26",
+"mobile-retro:20",
+"face-lying:24",
+"comment-alt-text:2"
 ];

@@ -881,5 +881,14 @@ window.FA_PUBLISHED = [
 "cake-slice:19",
 "cassette-tape:1",
 "brightness:8",
-"dharmachakra:8"
+"dharmachakra:8",
+"direction-up-down:8",
+"lock:31",
+"birthday-cake:20",
+"bracket-round-right:23",
+"pen-line:22",
+"shirt:29",
+"distribute-spacing-horizontal:20",
+"8:6",
+"plane-circle-check:21"
 ];

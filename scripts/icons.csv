@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-direction-up-down,8,fa-duotone fa-regular fa-direction-up-down,Direction Up Down,Duotone Regular
-lock,31,fa-thumbprint fa-light fa-lock,Lock,Thumbprint Light
-birthday-cake,20,fa-sharp fa-regular fa-birthday-cake,Birthday Cake,Sharp Regular
-bracket-round-right,23,fa-sharp-duotone fa-light fa-bracket-round-right,Bracket Round Right,Sharp Duotone Light
-pen-line,22,fa-sharp fa-thin fa-pen-line,Pen Line,Sharp Thin
-shirt,29,fa-slab-press fa-regular fa-shirt,Shirt,Slab Press Regular
-distribute-spacing-horizontal,20,fa-sharp fa-regular fa-distribute-spacing-horizontal,Distribute Spacing Horizontal,Sharp Regular
-8,6,fa-duotone fa-8,8,Duotone Solid
-plane-circle-check,21,fa-sharp fa-solid fa-plane-circle-check,Plane Circle Check,Sharp Solid
 eye-slash,20,fa-sharp fa-regular fa-eye-slash,Eye Slash,Sharp Regular
 tamale,0,fa-solid fa-tamale,Tamale,Solid
 poll-people,22,fa-sharp fa-thin fa-poll-people,Poll People,Sharp Thin

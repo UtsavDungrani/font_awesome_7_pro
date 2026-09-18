@@ -908,5 +908,14 @@ window.FA_PUBLISHED = [
 "turn-down-right:21",
 "diagram-lean-canvas:22",
 "percent:13",
-"messages-question:23"
+"messages-question:23",
+"garage-car:25",
+"jack-o-lantern:22",
+"circle-exclamation:23",
+"child-combatant:2",
+"tents:0",
+"desktop-code:19",
+"location-pin-lock:22",
+"picture-in-picture:7",
+"chevron-double-up:19"
 ];

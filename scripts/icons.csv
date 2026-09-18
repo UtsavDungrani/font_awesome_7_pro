@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-garage-car,25,fa-sharp-duotone fa-solid fa-garage-car,Garage Car,Sharp Duotone Solid
-jack-o-lantern,22,fa-sharp fa-thin fa-jack-o-lantern,Jack O Lantern,Sharp Thin
-circle-exclamation,23,fa-sharp-duotone fa-light fa-circle-exclamation,Circle Exclamation,Sharp Duotone Light
-child-combatant,2,fa-light fa-child-combatant,Child Combatant,Light
-tents,0,fa-solid fa-tents,Tents,Solid
-desktop-code,19,fa-sharp fa-light fa-desktop-code,Desktop Code,Sharp Light
-location-pin-lock,22,fa-sharp fa-thin fa-location-pin-lock,Location Pin Lock,Sharp Thin
-picture-in-picture,7,fa-duotone fa-light fa-picture-in-picture,Picture In Picture,Duotone Light
-chevron-double-up,19,fa-sharp fa-light fa-chevron-double-up,Chevron Double Up,Sharp Light
 faucet,7,fa-duotone fa-light fa-faucet,Faucet,Duotone Light
 square-equals,20,fa-sharp fa-regular fa-square-equals,Square Equals,Sharp Regular
 desktop,22,fa-sharp fa-thin fa-desktop,Desktop,Sharp Thin

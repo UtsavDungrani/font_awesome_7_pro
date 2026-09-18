@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-list,21,fa-sharp fa-solid fa-list,List,Sharp Solid
-star-christmas,24,fa-sharp-duotone fa-regular fa-star-christmas,Star Christmas,Sharp Duotone Regular
-face-vomit,7,fa-duotone fa-light fa-face-vomit,Face Vomit,Duotone Light
-play-pause,11,fa-graphite fa-thin fa-play-pause,Play Pause,Graphite Thin
-rabbit-fast,3,fa-thin fa-rabbit-fast,Rabbit Fast,Thin
-ballot-check,21,fa-sharp fa-solid fa-ballot-check,Ballot Check,Sharp Solid
-rectangle-hdr,2,fa-light fa-rectangle-hdr,Rectangle Hdr,Light
-down-to-bracket,2,fa-light fa-down-to-bracket,Down To Bracket,Light
-minus-octagon,9,fa-duotone fa-thin fa-minus-octagon,Minus Octagon,Duotone Thin
 server,1,fa-regular fa-server,Server,Regular
 leaf-heart,25,fa-sharp-duotone fa-solid fa-leaf-heart,Leaf Heart,Sharp Duotone Solid
 quote-left,35,fa-vellum fa-solid fa-quote-left,Quote Left,Vellum Solid

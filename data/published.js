@@ -836,5 +836,14 @@ window.FA_PUBLISHED = [
 "arrow-turn-right:7",
 "signal-alt-slash:19",
 "turntable:2",
-"chart-tree-map:0"
+"chart-tree-map:0",
+"list:21",
+"star-christmas:24",
+"face-vomit:7",
+"play-pause:11",
+"rabbit-fast:3",
+"ballot-check:21",
+"rectangle-hdr:2",
+"down-to-bracket:2",
+"minus-octagon:9"
 ];

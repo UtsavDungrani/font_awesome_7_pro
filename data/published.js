@@ -845,5 +845,14 @@ window.FA_PUBLISHED = [
 "ballot-check:21",
 "rectangle-hdr:2",
 "down-to-bracket:2",
-"minus-octagon:9"
+"minus-octagon:9",
+"server:1",
+"leaf-heart:25",
+"quote-left:35",
+"grid-5:24",
+"tablet:21",
+"v:3",
+"asterisk:19",
+"face-smiling-hands:8",
+"circle-ellipsis:22"
 ];

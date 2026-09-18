@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-server,1,fa-regular fa-server,Server,Regular
-leaf-heart,25,fa-sharp-duotone fa-solid fa-leaf-heart,Leaf Heart,Sharp Duotone Solid
-quote-left,35,fa-vellum fa-solid fa-quote-left,Quote Left,Vellum Solid
-grid-5,24,fa-sharp-duotone fa-regular fa-grid-5,Grid 5,Sharp Duotone Regular
-tablet,21,fa-sharp fa-solid fa-tablet,Tablet,Sharp Solid
-v,3,fa-thin fa-v,V,Thin
-asterisk,19,fa-sharp fa-light fa-asterisk,Asterisk,Sharp Light
-face-smiling-hands,8,fa-duotone fa-regular fa-face-smiling-hands,Face Smiling Hands,Duotone Regular
-circle-ellipsis,22,fa-sharp fa-thin fa-circle-ellipsis,Circle Ellipsis,Sharp Thin
 suitcase,30,fa-slab-press-duo fa-regular fa-suitcase,Suitcase,Slab Press Duo Regular
 triple-chevrons-left,8,fa-duotone fa-regular fa-triple-chevrons-left,Triple Chevrons Left,Duotone Regular
 plane-departure,24,fa-sharp-duotone fa-regular fa-plane-departure,Plane Departure,Sharp Duotone Regular

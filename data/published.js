@@ -890,5 +890,14 @@ window.FA_PUBLISHED = [
 "shirt:29",
 "distribute-spacing-horizontal:20",
 "8:6",
-"plane-circle-check:21"
+"plane-circle-check:21",
+"eye-slash:20",
+"tamale:0",
+"poll-people:22",
+"square-7:2",
+"mobile-rotate:25",
+"table-rows-merge-next:23",
+"face-smiling-hands:20",
+"grate:7",
+"strikethrough:19"
 ];

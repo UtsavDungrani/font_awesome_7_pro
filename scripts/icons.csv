@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-eye-slash,20,fa-sharp fa-regular fa-eye-slash,Eye Slash,Sharp Regular
-tamale,0,fa-solid fa-tamale,Tamale,Solid
-poll-people,22,fa-sharp fa-thin fa-poll-people,Poll People,Sharp Thin
-square-7,2,fa-light fa-square-7,Square 7,Light
-mobile-rotate,25,fa-sharp-duotone fa-solid fa-mobile-rotate,Mobile Rotate,Sharp Duotone Solid
-table-rows-merge-next,23,fa-sharp-duotone fa-light fa-table-rows-merge-next,Table Rows Merge Next,Sharp Duotone Light
-face-smiling-hands,20,fa-sharp fa-regular fa-face-smiling-hands,Face Smiling Hands,Sharp Regular
-grate,7,fa-duotone fa-light fa-grate,Grate,Duotone Light
-strikethrough,19,fa-sharp fa-light fa-strikethrough,Strikethrough,Sharp Light
 user-robot-xmarks,8,fa-duotone fa-regular fa-user-robot-xmarks,User Robot Xmarks,Duotone Regular
 arrow-square-down,2,fa-light fa-arrow-square-down,Arrow Square Down,Light
 circle-m,7,fa-duotone fa-light fa-circle-m,Circle M,Duotone Light

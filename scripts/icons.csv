@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-zipper,26,fa-sharp-duotone fa-thin fa-face-zipper,Face Zipper,Sharp Duotone Thin
-sink,19,fa-sharp fa-light fa-sink,Sink,Sharp Light
-joystick,33,fa-utility-duo fa-semibold fa-joystick,Joystick,Utility Duo Semibold
-cny,23,fa-sharp-duotone fa-light fa-cny,Cny,Sharp Duotone Light
-redo-alt,25,fa-sharp-duotone fa-solid fa-redo-alt,Redo Alt,Sharp Duotone Solid
-cake-slice,19,fa-sharp fa-light fa-cake-slice,Cake Slice,Sharp Light
-cassette-tape,1,fa-regular fa-cassette-tape,Cassette Tape,Regular
-brightness,8,fa-duotone fa-regular fa-brightness,Brightness,Duotone Regular
-dharmachakra,8,fa-duotone fa-regular fa-dharmachakra,Dharmachakra,Duotone Regular
 direction-up-down,8,fa-duotone fa-regular fa-direction-up-down,Direction Up Down,Duotone Regular
 lock,31,fa-thumbprint fa-light fa-lock,Lock,Thumbprint Light
 birthday-cake,20,fa-sharp fa-regular fa-birthday-cake,Birthday Cake,Sharp Regular

@@ -872,5 +872,14 @@ window.FA_PUBLISHED = [
 "chair-office:24",
 "clock-two-thirty:8",
 "chess-king:7",
-"link-broken:3"
+"link-broken:3",
+"face-zipper:26",
+"sink:19",
+"joystick:33",
+"cny:23",
+"redo-alt:25",
+"cake-slice:19",
+"cassette-tape:1",
+"brightness:8",
+"dharmachakra:8"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-robot-xmarks,8,fa-duotone fa-regular fa-user-robot-xmarks,User Robot Xmarks,Duotone Regular
-arrow-square-down,2,fa-light fa-arrow-square-down,Arrow Square Down,Light
-circle-m,7,fa-duotone fa-light fa-circle-m,Circle M,Duotone Light
-ruler-horizontal,20,fa-sharp fa-regular fa-ruler-horizontal,Ruler Horizontal,Sharp Regular
-file-ppt,23,fa-sharp-duotone fa-light fa-file-ppt,File Ppt,Sharp Duotone Light
-turn-down-right,21,fa-sharp fa-solid fa-turn-down-right,Turn Down Right,Sharp Solid
-diagram-lean-canvas,22,fa-sharp fa-thin fa-diagram-lean-canvas,Diagram Lean Canvas,Sharp Thin
-percent,13,fa-jelly-duo fa-regular fa-percent,Percent,Jelly Duo Regular
-messages-question,23,fa-sharp-duotone fa-light fa-messages-question,Messages Question,Sharp Duotone Light
 garage-car,25,fa-sharp-duotone fa-solid fa-garage-car,Garage Car,Sharp Duotone Solid
 jack-o-lantern,22,fa-sharp fa-thin fa-jack-o-lantern,Jack O Lantern,Sharp Thin
 circle-exclamation,23,fa-sharp-duotone fa-light fa-circle-exclamation,Circle Exclamation,Sharp Duotone Light

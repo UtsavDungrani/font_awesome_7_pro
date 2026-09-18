@@ -899,5 +899,14 @@ window.FA_PUBLISHED = [
 "table-rows-merge-next:23",
 "face-smiling-hands:20",
 "grate:7",
-"strikethrough:19"
+"strikethrough:19",
+"user-robot-xmarks:8",
+"arrow-square-down:2",
+"circle-m:7",
+"ruler-horizontal:20",
+"file-ppt:23",
+"turn-down-right:21",
+"diagram-lean-canvas:22",
+"percent:13",
+"messages-question:23"
 ];

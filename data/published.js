@@ -854,5 +854,14 @@ window.FA_PUBLISHED = [
 "v:3",
 "asterisk:19",
 "face-smiling-hands:8",
-"circle-ellipsis:22"
+"circle-ellipsis:22",
+"suitcase:30",
+"triple-chevrons-left:8",
+"plane-departure:24",
+"person-ski-lift:8",
+"note-sticky:26",
+"guarani-sign:1",
+"code:36",
+"anchor:36",
+"wave-square:9"
 ];

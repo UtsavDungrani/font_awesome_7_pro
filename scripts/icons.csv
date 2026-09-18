@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-highlighter-line,7,fa-duotone fa-light fa-highlighter-line,Highlighter Line,Duotone Light
-square-swedish-krona,19,fa-sharp fa-light fa-square-swedish-krona,Square Swedish Krona,Sharp Light
-user-tie-hair,0,fa-solid fa-user-tie-hair,User Tie Hair,Solid
-square-danish-krone,24,fa-sharp-duotone fa-regular fa-square-danish-krone,Square Danish Krone,Sharp Duotone Regular
-automobile,8,fa-duotone fa-regular fa-automobile,Automobile,Duotone Regular
-chair-office,24,fa-sharp-duotone fa-regular fa-chair-office,Chair Office,Sharp Duotone Regular
-clock-two-thirty,8,fa-duotone fa-regular fa-clock-two-thirty,Clock Two Thirty,Duotone Regular
-chess-king,7,fa-duotone fa-light fa-chess-king,Chess King,Duotone Light
-link-broken,3,fa-thin fa-link-broken,Link Broken,Thin
 face-zipper,26,fa-sharp-duotone fa-thin fa-face-zipper,Face Zipper,Sharp Duotone Thin
 sink,19,fa-sharp fa-light fa-sink,Sink,Sharp Light
 joystick,33,fa-utility-duo fa-semibold fa-joystick,Joystick,Utility Duo Semibold

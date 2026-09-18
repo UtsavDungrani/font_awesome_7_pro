@@ -863,5 +863,14 @@ window.FA_PUBLISHED = [
 "guarani-sign:1",
 "code:36",
 "anchor:36",
-"wave-square:9"
+"wave-square:9",
+"highlighter-line:7",
+"square-swedish-krona:19",
+"user-tie-hair:0",
+"square-danish-krone:24",
+"automobile:8",
+"chair-office:24",
+"clock-two-thirty:8",
+"chess-king:7",
+"link-broken:3"
 ];

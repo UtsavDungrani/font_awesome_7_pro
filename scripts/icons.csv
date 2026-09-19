@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-nfc-slash,6,fa-duotone fa-nfc-slash,Nfc Slash,Duotone Solid
-dress,3,fa-thin fa-dress,Dress,Thin
-squid,2,fa-light fa-squid,Squid,Light
-square-p,21,fa-sharp fa-solid fa-square-p,Square P,Sharp Solid
-otter,0,fa-solid fa-otter,Otter,Solid
-wheelchair-alt,1,fa-regular fa-wheelchair-alt,Wheelchair Alt,Regular
-calendar-minus,26,fa-sharp-duotone fa-thin fa-calendar-minus,Calendar Minus,Sharp Duotone Thin
-burst-new,7,fa-duotone fa-light fa-burst-new,Burst New,Duotone Light
-face-melting,23,fa-sharp-duotone fa-light fa-face-melting,Face Melting,Sharp Duotone Light
 train,15,fa-mosaic fa-solid fa-train,Train,Mosaic Solid
 paw-alt,25,fa-sharp-duotone fa-solid fa-paw-alt,Paw Alt,Sharp Duotone Solid
 clinic-medical,6,fa-duotone fa-clinic-medical,Clinic Medical,Duotone Solid

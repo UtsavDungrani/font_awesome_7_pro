@@ -944,5 +944,14 @@ window.FA_PUBLISHED = [
 "melon-slice:7",
 "grip-lines-vertical:24",
 "file-zip:23",
-"person-swimming:7"
+"person-swimming:7",
+"nfc-slash:6",
+"dress:3",
+"squid:2",
+"square-p:21",
+"otter:0",
+"wheelchair-alt:1",
+"calendar-minus:26",
+"burst-new:7",
+"face-melting:23"
 ];

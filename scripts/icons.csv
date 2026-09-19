@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-train,15,fa-mosaic fa-solid fa-train,Train,Mosaic Solid
-paw-alt,25,fa-sharp-duotone fa-solid fa-paw-alt,Paw Alt,Sharp Duotone Solid
-clinic-medical,6,fa-duotone fa-clinic-medical,Clinic Medical,Duotone Solid
-ufo-beam,21,fa-sharp fa-solid fa-ufo-beam,Ufo Beam,Sharp Solid
-marker,7,fa-duotone fa-light fa-marker,Marker,Duotone Light
-dice-one,26,fa-sharp-duotone fa-thin fa-dice-one,Dice One,Sharp Duotone Thin
-blackboard,8,fa-duotone fa-regular fa-blackboard,Blackboard,Duotone Regular
-coffee-beans,22,fa-sharp fa-thin fa-coffee-beans,Coffee Beans,Sharp Thin
-scroll-torah,23,fa-sharp-duotone fa-light fa-scroll-torah,Scroll Torah,Sharp Duotone Light
 video-down-to-line,3,fa-thin fa-video-down-to-line,Video Down To Line,Thin
 files,1,fa-regular fa-files,Files,Regular
 arrow-left-long,3,fa-thin fa-arrow-left-long,Arrow Left Long,Thin

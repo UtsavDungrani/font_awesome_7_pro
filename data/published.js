@@ -953,5 +953,14 @@ window.FA_PUBLISHED = [
 "wheelchair-alt:1",
 "calendar-minus:26",
 "burst-new:7",
-"face-melting:23"
+"face-melting:23",
+"train:15",
+"paw-alt:25",
+"clinic-medical:6",
+"ufo-beam:21",
+"marker:7",
+"dice-one:26",
+"blackboard:8",
+"coffee-beans:22",
+"scroll-torah:23"
 ];

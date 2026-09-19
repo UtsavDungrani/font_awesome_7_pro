@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-faucet,7,fa-duotone fa-light fa-faucet,Faucet,Duotone Light
-square-equals,20,fa-sharp fa-regular fa-square-equals,Square Equals,Sharp Regular
-desktop,22,fa-sharp fa-thin fa-desktop,Desktop,Sharp Thin
-object-intersect,3,fa-thin fa-object-intersect,Object Intersect,Thin
-mug-tea,0,fa-solid fa-mug-tea,Mug Tea,Solid
-glass-water,23,fa-sharp-duotone fa-light fa-glass-water,Glass Water,Sharp Duotone Light
-vacuum,6,fa-duotone fa-vacuum,Vacuum,Duotone Solid
-omega,22,fa-sharp fa-thin fa-omega,Omega,Sharp Thin
-bowl-scoop,25,fa-sharp-duotone fa-solid fa-bowl-scoop,Bowl Scoop,Sharp Duotone Solid
 spiral,0,fa-solid fa-spiral,Spiral,Solid
 exclamation-triangle,10,fa-etch fa-solid fa-exclamation-triangle,Exclamation Triangle,Etch Solid
 list-timeline,25,fa-sharp-duotone fa-solid fa-list-timeline,List Timeline,Sharp Duotone Solid

@@ -917,5 +917,14 @@ window.FA_PUBLISHED = [
 "desktop-code:19",
 "location-pin-lock:22",
 "picture-in-picture:7",
-"chevron-double-up:19"
+"chevron-double-up:19",
+"faucet:7",
+"square-equals:20",
+"desktop:22",
+"object-intersect:3",
+"mug-tea:0",
+"glass-water:23",
+"vacuum:6",
+"omega:22",
+"bowl-scoop:25"
 ];

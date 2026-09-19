@@ -926,5 +926,14 @@ window.FA_PUBLISHED = [
 "glass-water:23",
 "vacuum:6",
 "omega:22",
-"bowl-scoop:25"
+"bowl-scoop:25",
+"spiral:0",
+"exclamation-triangle:10",
+"list-timeline:25",
+"train-tunnel:20",
+"users-rays:23",
+"hockey-mask:6",
+"coin-vertical:21",
+"calendar-image:9",
+"face-smile-relaxed:8"
 ];

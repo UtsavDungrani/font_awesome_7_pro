@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-spiral,0,fa-solid fa-spiral,Spiral,Solid
-exclamation-triangle,10,fa-etch fa-solid fa-exclamation-triangle,Exclamation Triangle,Etch Solid
-list-timeline,25,fa-sharp-duotone fa-solid fa-list-timeline,List Timeline,Sharp Duotone Solid
-train-tunnel,20,fa-sharp fa-regular fa-train-tunnel,Train Tunnel,Sharp Regular
-users-rays,23,fa-sharp-duotone fa-light fa-users-rays,Users Rays,Sharp Duotone Light
-hockey-mask,6,fa-duotone fa-hockey-mask,Hockey Mask,Duotone Solid
-coin-vertical,21,fa-sharp fa-solid fa-coin-vertical,Coin Vertical,Sharp Solid
-calendar-image,9,fa-duotone fa-thin fa-calendar-image,Calendar Image,Duotone Thin
-face-smile-relaxed,8,fa-duotone fa-regular fa-face-smile-relaxed,Face Smile Relaxed,Duotone Regular
 radio,2,fa-light fa-radio,Radio,Light
 user-dashed,8,fa-duotone fa-regular fa-user-dashed,User Dashed,Duotone Regular
 bath,25,fa-sharp-duotone fa-solid fa-bath,Bath,Sharp Duotone Solid

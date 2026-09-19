@@ -935,5 +935,14 @@ window.FA_PUBLISHED = [
 "hockey-mask:6",
 "coin-vertical:21",
 "calendar-image:9",
-"face-smile-relaxed:8"
+"face-smile-relaxed:8",
+"radio:2",
+"user-dashed:8",
+"bath:25",
+"files:17",
+"ban:20",
+"melon-slice:7",
+"grip-lines-vertical:24",
+"file-zip:23",
+"person-swimming:7"
 ];

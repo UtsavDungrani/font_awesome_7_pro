@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-radio,2,fa-light fa-radio,Radio,Light
-user-dashed,8,fa-duotone fa-regular fa-user-dashed,User Dashed,Duotone Regular
-bath,25,fa-sharp-duotone fa-solid fa-bath,Bath,Sharp Duotone Solid
-files,17,fa-notdog-duo fa-solid fa-files,Files,Notdog Duo Solid
-ban,20,fa-sharp fa-regular fa-ban,Ban,Sharp Regular
-melon-slice,7,fa-duotone fa-light fa-melon-slice,Melon Slice,Duotone Light
-grip-lines-vertical,24,fa-sharp-duotone fa-regular fa-grip-lines-vertical,Grip Lines Vertical,Sharp Duotone Regular
-file-zip,23,fa-sharp-duotone fa-light fa-file-zip,File Zip,Sharp Duotone Light
-person-swimming,7,fa-duotone fa-light fa-person-swimming,Person Swimming,Duotone Light
 nfc-slash,6,fa-duotone fa-nfc-slash,Nfc Slash,Duotone Solid
 dress,3,fa-thin fa-dress,Dress,Thin
 squid,2,fa-light fa-squid,Squid,Light

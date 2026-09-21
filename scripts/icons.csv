@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-video-down-to-line,3,fa-thin fa-video-down-to-line,Video Down To Line,Thin
-files,1,fa-regular fa-files,Files,Regular
-arrow-left-long,3,fa-thin fa-arrow-left-long,Arrow Left Long,Thin
-mail-reply-all,3,fa-thin fa-mail-reply-all,Mail Reply All,Thin
-dumpster-fire,8,fa-duotone fa-regular fa-dumpster-fire,Dumpster Fire,Duotone Regular
-compact-disc,27,fa-slab fa-regular fa-compact-disc,Compact Disc,Slab Regular
-arrow-up-from-dotted-line,21,fa-sharp fa-solid fa-arrow-up-from-dotted-line,Arrow Up From Dotted Line,Sharp Solid
-comment-dot,3,fa-thin fa-comment-dot,Comment Dot,Thin
-falafel,9,fa-duotone fa-thin fa-falafel,Falafel,Duotone Thin
 command,26,fa-sharp-duotone fa-thin fa-command,Command,Sharp Duotone Thin
 volume-slash,23,fa-sharp-duotone fa-light fa-volume-slash,Volume Slash,Sharp Duotone Light
 sword-laser,9,fa-duotone fa-thin fa-sword-laser,Sword Laser,Duotone Thin

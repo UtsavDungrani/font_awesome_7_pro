@@ -962,5 +962,14 @@ window.FA_PUBLISHED = [
 "dice-one:26",
 "blackboard:8",
 "coffee-beans:22",
-"scroll-torah:23"
+"scroll-torah:23",
+"video-down-to-line:3",
+"files:1",
+"arrow-left-long:3",
+"mail-reply-all:3",
+"dumpster-fire:8",
+"compact-disc:27",
+"arrow-up-from-dotted-line:21",
+"comment-dot:3",
+"falafel:9"
 ];

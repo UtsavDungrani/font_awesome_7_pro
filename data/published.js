@@ -998,5 +998,14 @@ window.FA_PUBLISHED = [
 "play-pause:13",
 "face-confused:25",
 "camera-viewfinder:26",
-"table-rows-add-below:21"
+"table-rows-add-below:21",
+"nfc-lock:7",
+"squirrel:0",
+"panties:23",
+"table-tree:25",
+"taxi-bus:22",
+"satellite-dish:19",
+"arrows-from-line:8",
+"island-tree-palm:23",
+"book-circle-arrow-up:8"
 ];

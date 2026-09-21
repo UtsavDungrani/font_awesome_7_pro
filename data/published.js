@@ -980,5 +980,14 @@ window.FA_PUBLISHED = [
 "bangladeshi-taka-sign:20",
 "square-austral:24",
 "user-beard-bolt:23",
-"person-shelter:21"
+"person-shelter:21",
+"shop:30",
+"square-malaysian-ringgit:0",
+"gift:3",
+"turntable:8",
+"cricket-bat:24",
+"image-circle-xmark:23",
+"square-polish-zloty:20",
+"registered:0",
+"turntable:3"
 ];

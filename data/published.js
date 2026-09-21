@@ -989,5 +989,14 @@ window.FA_PUBLISHED = [
 "image-circle-xmark:23",
 "square-polish-zloty:20",
 "registered:0",
-"turntable:3"
+"turntable:3",
+"square-mill:23",
+"circle-s:8",
+"face-lying:1",
+"table-columns-merge-next:0",
+"bracket-curly:8",
+"play-pause:13",
+"face-confused:25",
+"camera-viewfinder:26",
+"table-rows-add-below:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-mill,23,fa-sharp-duotone fa-light fa-square-mill,Square Mill,Sharp Duotone Light
-circle-s,8,fa-duotone fa-regular fa-circle-s,Circle S,Duotone Regular
-face-lying,1,fa-regular fa-face-lying,Face Lying,Regular
-table-columns-merge-next,0,fa-solid fa-table-columns-merge-next,Table Columns Merge Next,Solid
-bracket-curly,8,fa-duotone fa-regular fa-bracket-curly,Bracket Curly,Duotone Regular
-play-pause,13,fa-jelly-duo fa-regular fa-play-pause,Play Pause,Jelly Duo Regular
-face-confused,25,fa-sharp-duotone fa-solid fa-face-confused,Face Confused,Sharp Duotone Solid
-camera-viewfinder,26,fa-sharp-duotone fa-thin fa-camera-viewfinder,Camera Viewfinder,Sharp Duotone Thin
-table-rows-add-below,21,fa-sharp fa-solid fa-table-rows-add-below,Table Rows Add Below,Sharp Solid
 nfc-lock,7,fa-duotone fa-light fa-nfc-lock,Nfc Lock,Duotone Light
 squirrel,0,fa-solid fa-squirrel,Squirrel,Solid
 panties,23,fa-sharp-duotone fa-light fa-panties,Panties,Sharp Duotone Light

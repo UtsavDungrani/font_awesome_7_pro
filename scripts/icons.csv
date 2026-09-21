@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-p,20,fa-sharp fa-regular fa-square-p,Square P,Sharp Regular
-dailymotion,4,fa-brands fa-dailymotion,Dailymotion,Brands
-pentagon,0,fa-solid fa-pentagon,Pentagon,Solid
-square-danish-krone,8,fa-duotone fa-regular fa-square-danish-krone,Square Danish Krone,Duotone Regular
-chart-mixed-up-circle-currency,7,fa-duotone fa-light fa-chart-mixed-up-circle-currency,Chart Mixed Up Circle Currency,Duotone Light
-circle-waveform-lines,8,fa-duotone fa-regular fa-circle-waveform-lines,Circle Waveform Lines,Duotone Regular
-stocking,23,fa-sharp-duotone fa-light fa-stocking,Stocking,Sharp Duotone Light
-bahai,6,fa-duotone fa-bahai,Bahai,Duotone Solid
-face-laugh-beam,21,fa-sharp fa-solid fa-face-laugh-beam,Face Laugh Beam,Sharp Solid
 person-arms-raised,19,fa-sharp fa-light fa-person-arms-raised,Person Arms Raised,Sharp Light
 paragraph,3,fa-thin fa-paragraph,Paragraph,Thin
 message-waveform,0,fa-solid fa-message-waveform,Message Waveform,Solid

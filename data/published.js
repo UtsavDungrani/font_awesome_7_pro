@@ -1007,5 +1007,14 @@ window.FA_PUBLISHED = [
 "satellite-dish:19",
 "arrows-from-line:8",
 "island-tree-palm:23",
-"book-circle-arrow-up:8"
+"book-circle-arrow-up:8",
+"square-p:20",
+"dailymotion:4",
+"pentagon:0",
+"square-danish-krone:8",
+"chart-mixed-up-circle-currency:7",
+"circle-waveform-lines:8",
+"stocking:23",
+"bahai:6",
+"face-laugh-beam:21"
 ];

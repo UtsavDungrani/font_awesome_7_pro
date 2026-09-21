@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-command,26,fa-sharp-duotone fa-thin fa-command,Command,Sharp Duotone Thin
-volume-slash,23,fa-sharp-duotone fa-light fa-volume-slash,Volume Slash,Sharp Duotone Light
-sword-laser,9,fa-duotone fa-thin fa-sword-laser,Sword Laser,Duotone Thin
-rectangle-video-on-demand,25,fa-sharp-duotone fa-solid fa-rectangle-video-on-demand,Rectangle Video On Demand,Sharp Duotone Solid
-font-case,6,fa-duotone fa-font-case,Font Case,Duotone Solid
-bangladeshi-taka-sign,20,fa-sharp fa-regular fa-bangladeshi-taka-sign,Bangladeshi Taka Sign,Sharp Regular
-square-austral,24,fa-sharp-duotone fa-regular fa-square-austral,Square Austral,Sharp Duotone Regular
-user-beard-bolt,23,fa-sharp-duotone fa-light fa-user-beard-bolt,User Beard Bolt,Sharp Duotone Light
-person-shelter,21,fa-sharp fa-solid fa-person-shelter,Person Shelter,Sharp Solid
 shop,30,fa-slab-press-duo fa-regular fa-shop,Shop,Slab Press Duo Regular
 square-malaysian-ringgit,0,fa-solid fa-square-malaysian-ringgit,Square Malaysian Ringgit,Solid
 gift,3,fa-thin fa-gift,Gift,Thin

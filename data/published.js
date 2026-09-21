@@ -971,5 +971,14 @@ window.FA_PUBLISHED = [
 "compact-disc:27",
 "arrow-up-from-dotted-line:21",
 "comment-dot:3",
-"falafel:9"
+"falafel:9",
+"command:26",
+"volume-slash:23",
+"sword-laser:9",
+"rectangle-video-on-demand:25",
+"font-case:6",
+"bangladeshi-taka-sign:20",
+"square-austral:24",
+"user-beard-bolt:23",
+"person-shelter:21"
 ];

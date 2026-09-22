@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-circle-up,7,fa-duotone fa-light fa-arrow-circle-up,Arrow Circle Up,Duotone Light
-fire,32,fa-utility fa-semibold fa-fire,Fire,Utility Semibold
-chart-pie-alt,19,fa-sharp fa-light fa-chart-pie-alt,Chart Pie Alt,Sharp Light
-lotus,19,fa-sharp fa-light fa-lotus,Lotus,Sharp Light
-terminal,12,fa-jelly fa-regular fa-terminal,Terminal,Jelly Regular
-comment-alt-times,21,fa-sharp fa-solid fa-comment-alt-times,Comment Alt Times,Sharp Solid
-columns,0,fa-solid fa-columns,Columns,Solid
-moon,36,fa-whiteboard fa-semibold fa-moon,Moon,Whiteboard Semibold
-broom,21,fa-sharp fa-solid fa-broom,Broom,Sharp Solid
 tire-pressure-warning,6,fa-duotone fa-tire-pressure-warning,Tire Pressure Warning,Duotone Solid
 underline,1,fa-regular fa-underline,Underline,Regular
 light-switch-off,20,fa-sharp fa-regular fa-light-switch-off,Light Switch Off,Sharp Regular

@@ -1052,5 +1052,14 @@ window.FA_PUBLISHED = [
 "square:11",
 "snowplow:7",
 "square-dashed-circle-plus:1",
-"bridge-suspension:9"
+"bridge-suspension:9",
+"arrow-circle-up:7",
+"fire:32",
+"chart-pie-alt:19",
+"lotus:19",
+"terminal:12",
+"comment-alt-times:21",
+"columns:0",
+"moon:36",
+"broom:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rectangle,5,fa-chisel fa-regular fa-rectangle,Rectangle,Chisel Regular
-file-exclamation,1,fa-regular fa-file-exclamation,File Exclamation,Regular
-file-shield,20,fa-sharp fa-regular fa-file-shield,File Shield,Sharp Regular
-desktop-medical,0,fa-solid fa-desktop-medical,Desktop Medical,Solid
-cart-circle-check,26,fa-sharp-duotone fa-thin fa-cart-circle-check,Cart Circle Check,Sharp Duotone Thin
-draw-circle,1,fa-regular fa-draw-circle,Draw Circle,Regular
-mobile,17,fa-notdog-duo fa-solid fa-mobile,Mobile,Notdog Duo Solid
-rectangle-4k,19,fa-sharp fa-light fa-rectangle-4k,Rectangle 4K,Sharp Light
-avocado,8,fa-duotone fa-regular fa-avocado,Avocado,Duotone Regular
 b,2,fa-light fa-b,B,Light
 square-s,22,fa-sharp fa-thin fa-square-s,Square S,Sharp Thin
 truck-container-empty,25,fa-sharp-duotone fa-solid fa-truck-container-empty,Truck Container Empty,Sharp Duotone Solid

@@ -1097,5 +1097,14 @@ window.FA_PUBLISHED = [
 "mars-stroke-h:3",
 "face-smirking:0",
 "circle-australian-dollar:22",
-"life-ring:1"
+"life-ring:1",
+"rectangle:5",
+"file-exclamation:1",
+"file-shield:20",
+"desktop-medical:0",
+"cart-circle-check:26",
+"draw-circle:1",
+"mobile:17",
+"rectangle-4k:19",
+"avocado:8"
 ];

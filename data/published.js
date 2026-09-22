@@ -1079,5 +1079,14 @@ window.FA_PUBLISHED = [
 "map-pin:8",
 "unlock:21",
 "circle-t:1",
-"exclamation-triangle:14"
+"exclamation-triangle:14",
+"scanner-image:6",
+"diamond-exclamation:7",
+"down-up:0",
+"gear-complex-code:9",
+"face-kiss-wink-heart:25",
+"stopwatch:10",
+"inbox-arrow-down:19",
+"tank-recovery:8",
+"face-icicles:3"
 ];

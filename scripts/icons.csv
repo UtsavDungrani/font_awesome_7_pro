@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-scanner-image,6,fa-duotone fa-scanner-image,Scanner Image,Duotone Solid
-diamond-exclamation,7,fa-duotone fa-light fa-diamond-exclamation,Diamond Exclamation,Duotone Light
-down-up,0,fa-solid fa-down-up,Down Up,Solid
-gear-complex-code,9,fa-duotone fa-thin fa-gear-complex-code,Gear Complex Code,Duotone Thin
-face-kiss-wink-heart,25,fa-sharp-duotone fa-solid fa-face-kiss-wink-heart,Face Kiss Wink Heart,Sharp Duotone Solid
-stopwatch,10,fa-etch fa-solid fa-stopwatch,Stopwatch,Etch Solid
-inbox-arrow-down,19,fa-sharp fa-light fa-inbox-arrow-down,Inbox Arrow Down,Sharp Light
-tank-recovery,8,fa-duotone fa-regular fa-tank-recovery,Tank Recovery,Duotone Regular
-face-icicles,3,fa-thin fa-face-icicles,Face Icicles,Thin
 group-arrows-rotate,19,fa-sharp fa-light fa-group-arrows-rotate,Group Arrows Rotate,Sharp Light
 border-bottom,25,fa-sharp-duotone fa-solid fa-border-bottom,Border Bottom,Sharp Duotone Solid
 files,0,fa-solid fa-files,Files,Solid

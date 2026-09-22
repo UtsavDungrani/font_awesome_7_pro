@@ -1034,5 +1034,14 @@ window.FA_PUBLISHED = [
 "inhaler:0",
 "baseball-bat-ball:22",
 "hand-heart:26",
-"spade:20"
+"spade:20",
+"socks:24",
+"disc-drive:21",
+"list-tree:0",
+"angle-up:17",
+"file-slash:19",
+"oil-can-drip:20",
+"pipe-smoking:9",
+"circle-r:21",
+"rectangle-history-circle-user:7"
 ];

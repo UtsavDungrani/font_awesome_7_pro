@@ -1088,5 +1088,14 @@ window.FA_PUBLISHED = [
 "stopwatch:10",
 "inbox-arrow-down:19",
 "tank-recovery:8",
-"face-icicles:3"
+"face-icicles:3",
+"group-arrows-rotate:19",
+"border-bottom:25",
+"files:0",
+"arrow-alt-square-up:1",
+"users:17",
+"mars-stroke-h:3",
+"face-smirking:0",
+"circle-australian-dollar:22",
+"life-ring:1"
 ];

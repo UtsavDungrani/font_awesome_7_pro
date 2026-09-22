@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-group-arrows-rotate,19,fa-sharp fa-light fa-group-arrows-rotate,Group Arrows Rotate,Sharp Light
-border-bottom,25,fa-sharp-duotone fa-solid fa-border-bottom,Border Bottom,Sharp Duotone Solid
-files,0,fa-solid fa-files,Files,Solid
-arrow-alt-square-up,1,fa-regular fa-arrow-alt-square-up,Arrow Alt Square Up,Regular
-users,17,fa-notdog-duo fa-solid fa-users,Users,Notdog Duo Solid
-mars-stroke-h,3,fa-thin fa-mars-stroke-h,Mars Stroke H,Thin
-face-smirking,0,fa-solid fa-face-smirking,Face Smirking,Solid
-circle-australian-dollar,22,fa-sharp fa-thin fa-circle-australian-dollar,Circle Australian Dollar,Sharp Thin
-life-ring,1,fa-regular fa-life-ring,Life Ring,Regular
 rectangle,5,fa-chisel fa-regular fa-rectangle,Rectangle,Chisel Regular
 file-exclamation,1,fa-regular fa-file-exclamation,File Exclamation,Regular
 file-shield,20,fa-sharp fa-regular fa-file-shield,File Shield,Sharp Regular

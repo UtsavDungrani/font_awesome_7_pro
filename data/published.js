@@ -1106,5 +1106,14 @@ window.FA_PUBLISHED = [
 "draw-circle:1",
 "mobile:17",
 "rectangle-4k:19",
-"avocado:8"
+"avocado:8",
+"b:2",
+"square-s:22",
+"truck-container-empty:25",
+"angle-double-down:21",
+"map:22",
+"hot-tub:25",
+"trash-can-arrow-turn-left:26",
+"computer-mouse-button-left:7",
+"home-user:26"
 ];

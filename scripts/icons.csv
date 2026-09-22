@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-b,2,fa-light fa-b,B,Light
-square-s,22,fa-sharp fa-thin fa-square-s,Square S,Sharp Thin
-truck-container-empty,25,fa-sharp-duotone fa-solid fa-truck-container-empty,Truck Container Empty,Sharp Duotone Solid
-angle-double-down,21,fa-sharp fa-solid fa-angle-double-down,Angle Double Down,Sharp Solid
-map,22,fa-sharp fa-thin fa-map,Map,Sharp Thin
-hot-tub,25,fa-sharp-duotone fa-solid fa-hot-tub,Hot Tub,Sharp Duotone Solid
-trash-can-arrow-turn-left,26,fa-sharp-duotone fa-thin fa-trash-can-arrow-turn-left,Trash Can Arrow Turn Left,Sharp Duotone Thin
-computer-mouse-button-left,7,fa-duotone fa-light fa-computer-mouse-button-left,Computer Mouse Button Left,Duotone Light
-home-user,26,fa-sharp-duotone fa-thin fa-home-user,Home User,Sharp Duotone Thin
 circle-mill,23,fa-sharp-duotone fa-light fa-circle-mill,Circle Mill,Sharp Duotone Light
 floppy-disk-pen,3,fa-thin fa-floppy-disk-pen,Floppy Disk Pen,Thin
 w,6,fa-duotone fa-w,W,Duotone Solid

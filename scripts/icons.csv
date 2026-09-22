@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-dolly,8,fa-duotone fa-regular fa-person-dolly,Person Dolly,Duotone Regular
-garage-open,1,fa-regular fa-garage-open,Garage Open,Regular
-drivers-license,22,fa-sharp fa-thin fa-drivers-license,Drivers License,Sharp Thin
-leaf,3,fa-thin fa-leaf,Leaf,Thin
-bowl-soft-serve,2,fa-light fa-bowl-soft-serve,Bowl Soft Serve,Light
-peanut,25,fa-sharp-duotone fa-solid fa-peanut,Peanut,Sharp Duotone Solid
-money-bill-1,22,fa-sharp fa-thin fa-money-bill-1,Money Bill 1,Sharp Thin
-pause,19,fa-sharp fa-light fa-pause,Pause,Sharp Light
-signapore-dollar-sign,25,fa-sharp-duotone fa-solid fa-signapore-dollar-sign,Signapore Dollar Sign,Sharp Duotone Solid
 ankh,2,fa-light fa-ankh,Ankh,Light
 compress-wide,20,fa-sharp fa-regular fa-compress-wide,Compress Wide,Sharp Regular
 bag-shopping-minus,19,fa-sharp fa-light fa-bag-shopping-minus,Bag Shopping Minus,Sharp Light

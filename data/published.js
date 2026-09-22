@@ -1124,5 +1124,14 @@ window.FA_PUBLISHED = [
 "store:23",
 "cloud-hail:6",
 "moon-first-quarter-inverse:26",
-"money-check-dollar-pen:26"
+"money-check-dollar-pen:26",
+"person-dolly:8",
+"garage-open:1",
+"drivers-license:22",
+"leaf:3",
+"bowl-soft-serve:2",
+"peanut:25",
+"money-bill-1:22",
+"pause:19",
+"signapore-dollar-sign:25"
 ];

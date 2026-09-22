@@ -1070,5 +1070,14 @@ window.FA_PUBLISHED = [
 "d:26",
 "couch-small:1",
 "down-to-dotted-line:6",
-"arrow-down-long-to-line:22"
+"arrow-down-long-to-line:22",
+"burn:0",
+"container-storage:6",
+"container-storage:26",
+"gifts:1",
+"image-broken:19",
+"map-pin:8",
+"unlock:21",
+"circle-t:1",
+"exclamation-triangle:14"
 ];

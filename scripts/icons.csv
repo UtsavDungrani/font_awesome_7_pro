@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-burn,0,fa-solid fa-burn,Burn,Solid
-container-storage,6,fa-duotone fa-container-storage,Container Storage,Duotone Solid
-container-storage,26,fa-sharp-duotone fa-thin fa-container-storage,Container Storage,Sharp Duotone Thin
-gifts,1,fa-regular fa-gifts,Gifts,Regular
-image-broken,19,fa-sharp fa-light fa-image-broken,Image Broken,Sharp Light
-map-pin,8,fa-duotone fa-regular fa-map-pin,Map Pin,Duotone Regular
-unlock,21,fa-sharp fa-solid fa-unlock,Unlock,Sharp Solid
-circle-t,1,fa-regular fa-circle-t,Circle T,Regular
-exclamation-triangle,14,fa-jelly-fill fa-regular fa-exclamation-triangle,Exclamation Triangle,Jelly Fill Regular
 scanner-image,6,fa-duotone fa-scanner-image,Scanner Image,Duotone Solid
 diamond-exclamation,7,fa-duotone fa-light fa-diamond-exclamation,Diamond Exclamation,Duotone Light
 down-up,0,fa-solid fa-down-up,Down Up,Solid

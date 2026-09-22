@@ -1115,5 +1115,14 @@ window.FA_PUBLISHED = [
 "hot-tub:25",
 "trash-can-arrow-turn-left:26",
 "computer-mouse-button-left:7",
-"home-user:26"
+"home-user:26",
+"circle-mill:23",
+"floppy-disk-pen:3",
+"w:6",
+"trophy:18",
+"grid-dividers:24",
+"store:23",
+"cloud-hail:6",
+"moon-first-quarter-inverse:26",
+"money-check-dollar-pen:26"
 ];

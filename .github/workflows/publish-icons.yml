@@ -20,11 +20,11 @@ on:
       min_commits:
         description: "Minimum commits this run"
         required: false
-        default: "3"
+        default: "8"
       max_commits:
         description: "Maximum commits this run"
         required: false
-        default: "10"
+        default: "15"
       icons:
         description: "Icons per commit"
         required: false
@@ -40,8 +40,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DEFAULT_MIN_COMMITS: "3"
-  DEFAULT_MAX_COMMITS: "10"
+  DEFAULT_MIN_COMMITS: "8"
+  DEFAULT_MAX_COMMITS: "15"
   ICONS_PER_COMMIT: "9"
   # Contributions are attributed by email, so this has to be an address
   # verified on the account that should get the green squares.

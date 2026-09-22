@@ -1025,5 +1025,14 @@ window.FA_PUBLISHED = [
 "percent:5",
 "users:30",
 "face-lying:8",
-"cent-sign:25"
+"cent-sign:25",
+"arrow-u-turn-up-right:8",
+"burger-cheese:19",
+"file-cad:6",
+"circle-malaysian-ringgit:0",
+"arrow-down-big-small:3",
+"inhaler:0",
+"baseball-bat-ball:22",
+"hand-heart:26",
+"spade:20"
 ];

@@ -1043,5 +1043,14 @@ window.FA_PUBLISHED = [
 "oil-can-drip:20",
 "pipe-smoking:9",
 "circle-r:21",
-"rectangle-history-circle-user:7"
+"rectangle-history-circle-user:7",
+"biking:12",
+"face-anxious-sweat:20",
+"brain-circuit:1",
+"tank-recovery:2",
+"comment-exclamation:22",
+"square:11",
+"snowplow:7",
+"square-dashed-circle-plus:1",
+"bridge-suspension:9"
 ];

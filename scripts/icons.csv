@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tire-pressure-warning,6,fa-duotone fa-tire-pressure-warning,Tire Pressure Warning,Duotone Solid
-underline,1,fa-regular fa-underline,Underline,Regular
-light-switch-off,20,fa-sharp fa-regular fa-light-switch-off,Light Switch Off,Sharp Regular
-sparkle,23,fa-sharp-duotone fa-light fa-sparkle,Sparkle,Sharp Duotone Light
-bow-archery,8,fa-duotone fa-regular fa-bow-archery,Bow Archery,Duotone Regular
-d,26,fa-sharp-duotone fa-thin fa-d,D,Sharp Duotone Thin
-couch-small,1,fa-regular fa-couch-small,Couch Small,Regular
-down-to-dotted-line,6,fa-duotone fa-down-to-dotted-line,Down To Dotted Line,Duotone Solid
-arrow-down-long-to-line,22,fa-sharp fa-thin fa-arrow-down-long-to-line,Arrow Down Long To Line,Sharp Thin
 burn,0,fa-solid fa-burn,Burn,Solid
 container-storage,6,fa-duotone fa-container-storage,Container Storage,Duotone Solid
 container-storage,26,fa-sharp-duotone fa-thin fa-container-storage,Container Storage,Sharp Duotone Thin

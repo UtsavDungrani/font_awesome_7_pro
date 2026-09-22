@@ -1061,5 +1061,14 @@ window.FA_PUBLISHED = [
 "comment-alt-times:21",
 "columns:0",
 "moon:36",
-"broom:21"
+"broom:21",
+"tire-pressure-warning:6",
+"underline:1",
+"light-switch-off:20",
+"sparkle:23",
+"bow-archery:8",
+"d:26",
+"couch-small:1",
+"down-to-dotted-line:6",
+"arrow-down-long-to-line:22"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-arms-raised,19,fa-sharp fa-light fa-person-arms-raised,Person Arms Raised,Sharp Light
-paragraph,3,fa-thin fa-paragraph,Paragraph,Thin
-message-waveform,0,fa-solid fa-message-waveform,Message Waveform,Solid
-book-circle-arrow-right,6,fa-duotone fa-book-circle-arrow-right,Book Circle Arrow Right,Duotone Solid
-face-sleepy,20,fa-sharp fa-regular fa-face-sleepy,Face Sleepy,Sharp Regular
-percent,5,fa-chisel fa-regular fa-percent,Percent,Chisel Regular
-users,30,fa-slab-press-duo fa-regular fa-users,Users,Slab Press Duo Regular
-face-lying,8,fa-duotone fa-regular fa-face-lying,Face Lying,Duotone Regular
-cent-sign,25,fa-sharp-duotone fa-solid fa-cent-sign,Cent Sign,Sharp Duotone Solid
 arrow-u-turn-up-right,8,fa-duotone fa-regular fa-arrow-u-turn-up-right,Arrow U Turn Up Right,Duotone Regular
 burger-cheese,19,fa-sharp fa-light fa-burger-cheese,Burger Cheese,Sharp Light
 file-cad,6,fa-duotone fa-file-cad,File Cad,Duotone Solid

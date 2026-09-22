@@ -1016,5 +1016,14 @@ window.FA_PUBLISHED = [
 "circle-waveform-lines:8",
 "stocking:23",
 "bahai:6",
-"face-laugh-beam:21"
+"face-laugh-beam:21",
+"person-arms-raised:19",
+"paragraph:3",
+"message-waveform:0",
+"book-circle-arrow-right:6",
+"face-sleepy:20",
+"percent:5",
+"users:30",
+"face-lying:8",
+"cent-sign:25"
 ];

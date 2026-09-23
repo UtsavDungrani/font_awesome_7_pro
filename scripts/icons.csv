@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-location-arrow,32,fa-utility fa-semibold fa-location-arrow,Location Arrow,Utility Semibold
-bars-filter,26,fa-sharp-duotone fa-thin fa-bars-filter,Bars Filter,Sharp Duotone Thin
-yin-yang,23,fa-sharp-duotone fa-light fa-yin-yang,Yin Yang,Sharp Duotone Light
-comment-question,2,fa-light fa-comment-question,Comment Question,Light
-android,4,fa-brands fa-android,Android,Brands
-arrow-up-9-1,23,fa-sharp-duotone fa-light fa-arrow-up-9-1,Arrow Up 9 1,Sharp Duotone Light
-flag-usa,19,fa-sharp fa-light fa-flag-usa,Flag Usa,Sharp Light
-signal-alt-slash,10,fa-etch fa-solid fa-signal-alt-slash,Signal Alt Slash,Etch Solid
-film-canister,25,fa-sharp-duotone fa-solid fa-film-canister,Film Canister,Sharp Duotone Solid
 person-chalkboard,9,fa-duotone fa-thin fa-person-chalkboard,Person Chalkboard,Duotone Thin
 truck-field,23,fa-sharp-duotone fa-light fa-truck-field,Truck Field,Sharp Duotone Light
 mail-reply,3,fa-thin fa-mail-reply,Mail Reply,Thin

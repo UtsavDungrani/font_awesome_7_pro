@@ -1160,5 +1160,14 @@ window.FA_PUBLISHED = [
 "gramophone:19",
 "arrow-alt-from-left:3",
 "check-double:1",
-"columns-3:20"
+"columns-3:20",
+"location-arrow:32",
+"bars-filter:26",
+"yin-yang:23",
+"comment-question:2",
+"android:4",
+"arrow-up-9-1:23",
+"flag-usa:19",
+"signal-alt-slash:10",
+"film-canister:25"
 ];

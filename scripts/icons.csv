@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-envelope-certificate,3,fa-thin fa-envelope-certificate,Envelope Certificate,Thin
-circle-m,23,fa-sharp-duotone fa-light fa-circle-m,Circle M,Sharp Duotone Light
-shish-kebab,24,fa-sharp-duotone fa-regular fa-shish-kebab,Shish Kebab,Sharp Duotone Regular
-bacteria,19,fa-sharp fa-light fa-bacteria,Bacteria,Sharp Light
-allergies,20,fa-sharp fa-regular fa-allergies,Allergies,Sharp Regular
-hanukiah,1,fa-regular fa-hanukiah,Hanukiah,Regular
-conveyor-belt-empty,22,fa-sharp fa-thin fa-conveyor-belt-empty,Conveyor Belt Empty,Sharp Thin
-monitor-heart-rate,24,fa-sharp-duotone fa-regular fa-monitor-heart-rate,Monitor Heart Rate,Sharp Duotone Regular
-glass-water-droplet,23,fa-sharp-duotone fa-light fa-glass-water-droplet,Glass Water Droplet,Sharp Duotone Light
 underline,32,fa-utility fa-semibold fa-underline,Underline,Utility Semibold
 sort-desc,24,fa-sharp-duotone fa-regular fa-sort-desc,Sort Desc,Sharp Duotone Regular
 comment-quote,8,fa-duotone fa-regular fa-comment-quote,Comment Quote,Duotone Regular

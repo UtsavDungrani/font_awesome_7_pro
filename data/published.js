@@ -1178,5 +1178,14 @@ window.FA_PUBLISHED = [
 "phone-square-down:22",
 "calendar-arrow-down:3",
 "memo-pad:24",
-"circle-user-circle-check:9"
+"circle-user-circle-check:9",
+"envelope-certificate:3",
+"circle-m:23",
+"shish-kebab:24",
+"bacteria:19",
+"allergies:20",
+"hanukiah:1",
+"conveyor-belt-empty:22",
+"monitor-heart-rate:24",
+"glass-water-droplet:23"
 ];

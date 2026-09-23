@@ -1187,5 +1187,14 @@ window.FA_PUBLISHED = [
 "hanukiah:1",
 "conveyor-belt-empty:22",
 "monitor-heart-rate:24",
-"glass-water-droplet:23"
+"glass-water-droplet:23",
+"underline:32",
+"sort-desc:24",
+"comment-quote:8",
+"truck-container:7",
+"building-memo:0",
+"australian-dollar-sign:22",
+"face-awesome:19",
+"water-arrow-up:26",
+"rupiah-sign:25"
 ];

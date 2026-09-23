@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-underline,32,fa-utility fa-semibold fa-underline,Underline,Utility Semibold
-sort-desc,24,fa-sharp-duotone fa-regular fa-sort-desc,Sort Desc,Sharp Duotone Regular
-comment-quote,8,fa-duotone fa-regular fa-comment-quote,Comment Quote,Duotone Regular
-truck-container,7,fa-duotone fa-light fa-truck-container,Truck Container,Duotone Light
-building-memo,0,fa-solid fa-building-memo,Building Memo,Solid
-australian-dollar-sign,22,fa-sharp fa-thin fa-australian-dollar-sign,Australian Dollar Sign,Sharp Thin
-face-awesome,19,fa-sharp fa-light fa-face-awesome,Face Awesome,Sharp Light
-water-arrow-up,26,fa-sharp-duotone fa-thin fa-water-arrow-up,Water Arrow Up,Sharp Duotone Thin
-rupiah-sign,25,fa-sharp-duotone fa-solid fa-rupiah-sign,Rupiah Sign,Sharp Duotone Solid
 comment-alt-dollar,1,fa-regular fa-comment-alt-dollar,Comment Alt Dollar,Regular
 arrow-down-from-line,3,fa-thin fa-arrow-down-from-line,Arrow Down From Line,Thin
 arrow-from-bottom,10,fa-etch fa-solid fa-arrow-from-bottom,Arrow From Bottom,Etch Solid

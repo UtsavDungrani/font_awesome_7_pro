@@ -1142,5 +1142,14 @@ window.FA_PUBLISHED = [
 "umbrella-alt:23",
 "pump:1",
 "file:20",
-"face-relieved:6"
+"face-relieved:6",
+"sliders-h-square:22",
+"dice-three:21",
+"car-alt:8",
+"cactus:25",
+"square-ampersand:21",
+"garlic:7",
+"shirt:17",
+"seats:6",
+"tomato:26"
 ];

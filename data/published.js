@@ -1196,5 +1196,14 @@ window.FA_PUBLISHED = [
 "australian-dollar-sign:22",
 "face-awesome:19",
 "water-arrow-up:26",
-"rupiah-sign:25"
+"rupiah-sign:25",
+"comment-alt-dollar:1",
+"arrow-down-from-line:3",
+"arrow-from-bottom:10",
+"bowling-ball:24",
+"comment-waveform:2",
+"comment-alt-music:24",
+"circle-up-right:3",
+"tv-retro:36",
+"border-center-v:22"
 ];

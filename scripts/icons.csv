@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-alt-dollar,1,fa-regular fa-comment-alt-dollar,Comment Alt Dollar,Regular
-arrow-down-from-line,3,fa-thin fa-arrow-down-from-line,Arrow Down From Line,Thin
-arrow-from-bottom,10,fa-etch fa-solid fa-arrow-from-bottom,Arrow From Bottom,Etch Solid
-bowling-ball,24,fa-sharp-duotone fa-regular fa-bowling-ball,Bowling Ball,Sharp Duotone Regular
-comment-waveform,2,fa-light fa-comment-waveform,Comment Waveform,Light
-comment-alt-music,24,fa-sharp-duotone fa-regular fa-comment-alt-music,Comment Alt Music,Sharp Duotone Regular
-circle-up-right,3,fa-thin fa-circle-up-right,Circle Up Right,Thin
-tv-retro,36,fa-whiteboard fa-semibold fa-tv-retro,Tv Retro,Whiteboard Semibold
-border-center-v,22,fa-sharp fa-thin fa-border-center-v,Border Center V,Sharp Thin
 seal-question,0,fa-solid fa-seal-question,Seal Question,Solid
 building-circle-check,23,fa-sharp-duotone fa-light fa-building-circle-check,Building Circle Check,Sharp Duotone Light
 barcode-read,26,fa-sharp-duotone fa-thin fa-barcode-read,Barcode Read,Sharp Duotone Thin

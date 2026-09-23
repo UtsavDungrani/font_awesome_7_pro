@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-chalkboard,9,fa-duotone fa-thin fa-person-chalkboard,Person Chalkboard,Duotone Thin
-truck-field,23,fa-sharp-duotone fa-light fa-truck-field,Truck Field,Sharp Duotone Light
-mail-reply,3,fa-thin fa-mail-reply,Mail Reply,Thin
-polish-zloty-sign,23,fa-sharp-duotone fa-light fa-polish-zloty-sign,Polish Zloty Sign,Sharp Duotone Light
-lightbulb-cfl,19,fa-sharp fa-light fa-lightbulb-cfl,Lightbulb Cfl,Sharp Light
-phone-square-down,22,fa-sharp fa-thin fa-phone-square-down,Phone Square Down,Sharp Thin
-calendar-arrow-down,3,fa-thin fa-calendar-arrow-down,Calendar Arrow Down,Thin
-memo-pad,24,fa-sharp-duotone fa-regular fa-memo-pad,Memo Pad,Sharp Duotone Regular
-circle-user-circle-check,9,fa-duotone fa-thin fa-circle-user-circle-check,Circle User Circle Check,Duotone Thin
 envelope-certificate,3,fa-thin fa-envelope-certificate,Envelope Certificate,Thin
 circle-m,23,fa-sharp-duotone fa-light fa-circle-m,Circle M,Sharp Duotone Light
 shish-kebab,24,fa-sharp-duotone fa-regular fa-shish-kebab,Shish Kebab,Sharp Duotone Regular

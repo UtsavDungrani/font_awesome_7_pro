@@ -1169,5 +1169,14 @@ window.FA_PUBLISHED = [
 "arrow-up-9-1:23",
 "flag-usa:19",
 "signal-alt-slash:10",
-"film-canister:25"
+"film-canister:25",
+"person-chalkboard:9",
+"truck-field:23",
+"mail-reply:3",
+"polish-zloty-sign:23",
+"lightbulb-cfl:19",
+"phone-square-down:22",
+"calendar-arrow-down:3",
+"memo-pad:24",
+"circle-user-circle-check:9"
 ];

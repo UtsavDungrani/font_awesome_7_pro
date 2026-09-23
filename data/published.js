@@ -1151,5 +1151,14 @@ window.FA_PUBLISHED = [
 "garlic:7",
 "shirt:17",
 "seats:6",
-"tomato:26"
+"tomato:26",
+"users:35",
+"ad:24",
+"face-glasses:24",
+"circle-down-left:23",
+"baseball-bat-ball:7",
+"gramophone:19",
+"arrow-alt-from-left:3",
+"check-double:1",
+"columns-3:20"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-users,35,fa-vellum fa-solid fa-users,Users,Vellum Solid
-ad,24,fa-sharp-duotone fa-regular fa-ad,Ad,Sharp Duotone Regular
-face-glasses,24,fa-sharp-duotone fa-regular fa-face-glasses,Face Glasses,Sharp Duotone Regular
-circle-down-left,23,fa-sharp-duotone fa-light fa-circle-down-left,Circle Down Left,Sharp Duotone Light
-baseball-bat-ball,7,fa-duotone fa-light fa-baseball-bat-ball,Baseball Bat Ball,Duotone Light
-gramophone,19,fa-sharp fa-light fa-gramophone,Gramophone,Sharp Light
-arrow-alt-from-left,3,fa-thin fa-arrow-alt-from-left,Arrow Alt From Left,Thin
-check-double,1,fa-regular fa-check-double,Check Double,Regular
-columns-3,20,fa-sharp fa-regular fa-columns-3,Columns 3,Sharp Regular
 location-arrow,32,fa-utility fa-semibold fa-location-arrow,Location Arrow,Utility Semibold
 bars-filter,26,fa-sharp-duotone fa-thin fa-bars-filter,Bars Filter,Sharp Duotone Thin
 yin-yang,23,fa-sharp-duotone fa-light fa-yin-yang,Yin Yang,Sharp Duotone Light

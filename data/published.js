@@ -1133,5 +1133,14 @@ window.FA_PUBLISHED = [
 "peanut:25",
 "money-bill-1:22",
 "pause:19",
-"signapore-dollar-sign:25"
+"signapore-dollar-sign:25",
+"ankh:2",
+"compress-wide:20",
+"bag-shopping-minus:19",
+"square-ring:3",
+"bowl-soft-serve:6",
+"umbrella-alt:23",
+"pump:1",
+"file:20",
+"face-relieved:6"
 ];

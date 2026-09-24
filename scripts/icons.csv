@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-cane,8,fa-duotone fa-regular fa-person-cane,Person Cane,Duotone Regular
-arrows-down-to-line,22,fa-sharp fa-thin fa-arrows-down-to-line,Arrows Down To Line,Sharp Thin
-floppy-disk-pen,8,fa-duotone fa-regular fa-floppy-disk-pen,Floppy Disk Pen,Duotone Regular
-square-c,2,fa-light fa-square-c,Square C,Light
-cross,6,fa-duotone fa-cross,Cross,Duotone Solid
-circle-info,30,fa-slab-press-duo fa-regular fa-circle-info,Circle Info,Slab Press Duo Regular
-chart-pie-alt,0,fa-solid fa-chart-pie-alt,Chart Pie Alt,Solid
-border-center-h,20,fa-sharp fa-regular fa-border-center-h,Border Center H,Sharp Regular
-compress-wide,8,fa-duotone fa-regular fa-compress-wide,Compress Wide,Duotone Regular
 fill,25,fa-sharp-duotone fa-solid fa-fill,Fill,Sharp Duotone Solid
 subtitles,6,fa-duotone fa-subtitles,Subtitles,Duotone Solid
 tent-circus,19,fa-sharp fa-light fa-tent-circus,Tent Circus,Sharp Light

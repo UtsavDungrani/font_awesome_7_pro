@@ -1313,5 +1313,14 @@ window.FA_PUBLISHED = [
 "caret-large-right:19",
 "person-falling-burst:0",
 "arrow-alt-square-right:2",
-"face-smile:31"
+"face-smile:31",
+"person-cane:8",
+"arrows-down-to-line:22",
+"floppy-disk-pen:8",
+"square-c:2",
+"cross:6",
+"circle-info:30",
+"chart-pie-alt:0",
+"border-center-h:20",
+"compress-wide:8"
 ];

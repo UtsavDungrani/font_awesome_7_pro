@@ -1250,5 +1250,14 @@ window.FA_PUBLISHED = [
 "arrow-up-from-water-pump:19",
 "router:7",
 "overline:20",
-"nfc-slash:20"
+"nfc-slash:20",
+"handshake-alt-slash:8",
+"pipe:21",
+"signal-stream-slash:1",
+"flask-poison:0",
+"briefcase-medical:1",
+"arrow-down-from-arc:7",
+"nas:2",
+"venus-mars:2",
+"chess-pawn-alt:6"
 ];

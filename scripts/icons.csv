@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-handshake-alt-slash,8,fa-duotone fa-regular fa-handshake-alt-slash,Handshake Alt Slash,Duotone Regular
-pipe,21,fa-sharp fa-solid fa-pipe,Pipe,Sharp Solid
-signal-stream-slash,1,fa-regular fa-signal-stream-slash,Signal Stream Slash,Regular
-flask-poison,0,fa-solid fa-flask-poison,Flask Poison,Solid
-briefcase-medical,1,fa-regular fa-briefcase-medical,Briefcase Medical,Regular
-arrow-down-from-arc,7,fa-duotone fa-light fa-arrow-down-from-arc,Arrow Down From Arc,Duotone Light
-nas,2,fa-light fa-nas,Nas,Light
-venus-mars,2,fa-light fa-venus-mars,Venus Mars,Light
-chess-pawn-alt,6,fa-duotone fa-chess-pawn-alt,Chess Pawn Alt,Duotone Solid
 pen,33,fa-utility-duo fa-semibold fa-pen,Pen,Utility Duo Semibold
 car-garage,3,fa-thin fa-car-garage,Car Garage,Thin
 angle-up,35,fa-vellum fa-solid fa-angle-up,Angle Up,Vellum Solid

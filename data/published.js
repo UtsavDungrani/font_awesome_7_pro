@@ -1241,5 +1241,14 @@ window.FA_PUBLISHED = [
 "cloud-bolt-sun:25",
 "moon-waning-gibbous:21",
 "dice-three:2",
-"airplay-audio:24"
+"airplay-audio:24",
+"virus-covid:25",
+"square-quarters:26",
+"memo-circle-check:19",
+"lasso:1",
+"circle-8:8",
+"arrow-up-from-water-pump:19",
+"router:7",
+"overline:20",
+"nfc-slash:20"
 ];

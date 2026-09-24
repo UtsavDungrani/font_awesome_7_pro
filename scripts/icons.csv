@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-virus-covid,25,fa-sharp-duotone fa-solid fa-virus-covid,Virus Covid,Sharp Duotone Solid
-square-quarters,26,fa-sharp-duotone fa-thin fa-square-quarters,Square Quarters,Sharp Duotone Thin
-memo-circle-check,19,fa-sharp fa-light fa-memo-circle-check,Memo Circle Check,Sharp Light
-lasso,1,fa-regular fa-lasso,Lasso,Regular
-circle-8,8,fa-duotone fa-regular fa-circle-8,Circle 8,Duotone Regular
-arrow-up-from-water-pump,19,fa-sharp fa-light fa-arrow-up-from-water-pump,Arrow Up From Water Pump,Sharp Light
-router,7,fa-duotone fa-light fa-router,Router,Duotone Light
-overline,20,fa-sharp fa-regular fa-overline,Overline,Sharp Regular
-nfc-slash,20,fa-sharp fa-regular fa-nfc-slash,Nfc Slash,Sharp Regular
 handshake-alt-slash,8,fa-duotone fa-regular fa-handshake-alt-slash,Handshake Alt Slash,Duotone Regular
 pipe,21,fa-sharp fa-solid fa-pipe,Pipe,Sharp Solid
 signal-stream-slash,1,fa-regular fa-signal-stream-slash,Signal Stream Slash,Regular

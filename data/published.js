@@ -1286,5 +1286,14 @@ window.FA_PUBLISHED = [
 "grill-fire:3",
 "toilet-paper-xmark:20",
 "sausage:3",
-"blog:0"
+"blog:0",
+"peanuts:20",
+"arrow-down-from-bracket:19",
+"wifi-2:14",
+"cloud-snow:21",
+"universal-access:13",
+"spider-black-widow:26",
+"arrow-from-bottom:35",
+"person-drowning:3",
+"sun-plant-wilt:2"
 ];

@@ -1304,5 +1304,14 @@ window.FA_PUBLISHED = [
 "scanner-touchscreen:19",
 "book-arrow-right:0",
 "cloud-sun-rain:24",
-"dice-one:7"
+"dice-one:7",
+"fence:8",
+"stocking:2",
+"arrow-up-right-and-arrow-down-left-from-center:22",
+"circle-dashed:1",
+"circle-yen:26",
+"caret-large-right:19",
+"person-falling-burst:0",
+"arrow-alt-square-right:2",
+"face-smile:31"
 ];

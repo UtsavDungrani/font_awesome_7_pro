@@ -1214,5 +1214,14 @@ window.FA_PUBLISHED = [
 "arrow-right-from-bracket:22",
 "face-anxious-sweat:1",
 "tank-water:25",
-"circle-user-clock:20"
+"circle-user-clock:20",
+"cable-car:6",
+"floppy-disk-circle-arrow-right:25",
+"vest-patches:19",
+"alarm-minus:24",
+"film-canister:26",
+"caret-circle-left:21",
+"shield-times:8",
+"tickets-simple:21",
+"square-down-left:0"
 ];

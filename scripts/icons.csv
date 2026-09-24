@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-cable-car,6,fa-duotone fa-cable-car,Cable Car,Duotone Solid
-floppy-disk-circle-arrow-right,25,fa-sharp-duotone fa-solid fa-floppy-disk-circle-arrow-right,Floppy Disk Circle Arrow Right,Sharp Duotone Solid
-vest-patches,19,fa-sharp fa-light fa-vest-patches,Vest Patches,Sharp Light
-alarm-minus,24,fa-sharp-duotone fa-regular fa-alarm-minus,Alarm Minus,Sharp Duotone Regular
-film-canister,26,fa-sharp-duotone fa-thin fa-film-canister,Film Canister,Sharp Duotone Thin
-caret-circle-left,21,fa-sharp fa-solid fa-caret-circle-left,Caret Circle Left,Sharp Solid
-shield-times,8,fa-duotone fa-regular fa-shield-times,Shield Times,Duotone Regular
-tickets-simple,21,fa-sharp fa-solid fa-tickets-simple,Tickets Simple,Sharp Solid
-square-down-left,0,fa-solid fa-square-down-left,Square Down Left,Solid
 face-saluting,6,fa-duotone fa-face-saluting,Face Saluting,Duotone Solid
 car-alt,6,fa-duotone fa-car-alt,Car Alt,Duotone Solid
 clipboard-list-check,21,fa-sharp fa-solid fa-clipboard-list-check,Clipboard List Check,Sharp Solid

@@ -1295,5 +1295,14 @@ window.FA_PUBLISHED = [
 "spider-black-widow:26",
 "arrow-from-bottom:35",
 "person-drowning:3",
-"sun-plant-wilt:2"
+"sun-plant-wilt:2",
+"eye-slash:29",
+"file-mp3:7",
+"expand:5",
+"bridge-water:22",
+"tally:3",
+"scanner-touchscreen:19",
+"book-arrow-right:0",
+"cloud-sun-rain:24",
+"dice-one:7"
 ];

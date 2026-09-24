@@ -1223,5 +1223,14 @@ window.FA_PUBLISHED = [
 "caret-circle-left:21",
 "shield-times:8",
 "tickets-simple:21",
-"square-down-left:0"
+"square-down-left:0",
+"face-saluting:6",
+"car-alt:6",
+"clipboard-list-check:21",
+"music-magnifying-glass:0",
+"stapler:1",
+"file-plus-minus:26",
+"arrow-down-long:20",
+"6:22",
+"bar-progress-empty:22"
 ];

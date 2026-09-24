@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-saluting,6,fa-duotone fa-face-saluting,Face Saluting,Duotone Solid
-car-alt,6,fa-duotone fa-car-alt,Car Alt,Duotone Solid
-clipboard-list-check,21,fa-sharp fa-solid fa-clipboard-list-check,Clipboard List Check,Sharp Solid
-music-magnifying-glass,0,fa-solid fa-music-magnifying-glass,Music Magnifying Glass,Solid
-stapler,1,fa-regular fa-stapler,Stapler,Regular
-file-plus-minus,26,fa-sharp-duotone fa-thin fa-file-plus-minus,File Plus Minus,Sharp Duotone Thin
-arrow-down-long,20,fa-sharp fa-regular fa-arrow-down-long,Arrow Down Long,Sharp Regular
-6,22,fa-sharp fa-thin fa-6,6,Sharp Thin
-bar-progress-empty,22,fa-sharp fa-thin fa-bar-progress-empty,Bar Progress Empty,Sharp Thin
 timeline-arrow,6,fa-duotone fa-timeline-arrow,Timeline Arrow,Duotone Solid
 arrow-up-from-bracket,29,fa-slab-press fa-regular fa-arrow-up-from-bracket,Arrow Up From Bracket,Slab Press Regular
 columns-3,19,fa-sharp fa-light fa-columns-3,Columns 3,Sharp Light

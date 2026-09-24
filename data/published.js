@@ -1205,5 +1205,14 @@ window.FA_PUBLISHED = [
 "comment-alt-music:24",
 "circle-up-right:3",
 "tv-retro:36",
-"border-center-v:22"
+"border-center-v:22",
+"seal-question:0",
+"building-circle-check:23",
+"barcode-read:26",
+"video-slash:31",
+"chart-mixed-up-circle-currency:24",
+"arrow-right-from-bracket:22",
+"face-anxious-sweat:1",
+"tank-water:25",
+"circle-user-clock:20"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-seal-question,0,fa-solid fa-seal-question,Seal Question,Solid
-building-circle-check,23,fa-sharp-duotone fa-light fa-building-circle-check,Building Circle Check,Sharp Duotone Light
-barcode-read,26,fa-sharp-duotone fa-thin fa-barcode-read,Barcode Read,Sharp Duotone Thin
-video-slash,31,fa-thumbprint fa-light fa-video-slash,Video Slash,Thumbprint Light
-chart-mixed-up-circle-currency,24,fa-sharp-duotone fa-regular fa-chart-mixed-up-circle-currency,Chart Mixed Up Circle Currency,Sharp Duotone Regular
-arrow-right-from-bracket,22,fa-sharp fa-thin fa-arrow-right-from-bracket,Arrow Right From Bracket,Sharp Thin
-face-anxious-sweat,1,fa-regular fa-face-anxious-sweat,Face Anxious Sweat,Regular
-tank-water,25,fa-sharp-duotone fa-solid fa-tank-water,Tank Water,Sharp Duotone Solid
-circle-user-clock,20,fa-sharp fa-regular fa-circle-user-clock,Circle User Clock,Sharp Regular
 cable-car,6,fa-duotone fa-cable-car,Cable Car,Duotone Solid
 floppy-disk-circle-arrow-right,25,fa-sharp-duotone fa-solid fa-floppy-disk-circle-arrow-right,Floppy Disk Circle Arrow Right,Sharp Duotone Solid
 vest-patches,19,fa-sharp fa-light fa-vest-patches,Vest Patches,Sharp Light

@@ -1268,5 +1268,14 @@ window.FA_PUBLISHED = [
 "image-user:26",
 "omega:20",
 "siren:6",
-"comment-slash:3"
+"comment-slash:3",
+"user-vneck-hair:9",
+"box:7",
+"bread-slice:1",
+"rectangle-times:0",
+"volume-mute:8",
+"envelope-badge:24",
+"money-bill-1:2",
+"table-columns-remove-after:9",
+"train-stop:1"
 ];

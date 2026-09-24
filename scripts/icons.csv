@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-vneck-hair,9,fa-duotone fa-thin fa-user-vneck-hair,User Vneck Hair,Duotone Thin
-box,7,fa-duotone fa-light fa-box,Box,Duotone Light
-bread-slice,1,fa-regular fa-bread-slice,Bread Slice,Regular
-rectangle-times,0,fa-solid fa-rectangle-times,Rectangle Times,Solid
-volume-mute,8,fa-duotone fa-regular fa-volume-mute,Volume Mute,Duotone Regular
-envelope-badge,24,fa-sharp-duotone fa-regular fa-envelope-badge,Envelope Badge,Sharp Duotone Regular
-money-bill-1,2,fa-light fa-money-bill-1,Money Bill 1,Light
-table-columns-remove-after,9,fa-duotone fa-thin fa-table-columns-remove-after,Table Columns Remove After,Duotone Thin
-train-stop,1,fa-regular fa-train-stop,Train Stop,Regular
 font,31,fa-thumbprint fa-light fa-font,Font,Thumbprint Light
 rectangle-n-a,7,fa-duotone fa-light fa-rectangle-n-a,Rectangle N A,Duotone Light
 list-dropdown,25,fa-sharp-duotone fa-solid fa-list-dropdown,List Dropdown,Sharp Duotone Solid

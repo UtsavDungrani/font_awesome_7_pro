@@ -1259,5 +1259,14 @@ window.FA_PUBLISHED = [
 "arrow-down-from-arc:7",
 "nas:2",
 "venus-mars:2",
-"chess-pawn-alt:6"
+"chess-pawn-alt:6",
+"pen:33",
+"car-garage:3",
+"angle-up:35",
+"coffee-pot:9",
+"heart-square:19",
+"image-user:26",
+"omega:20",
+"siren:6",
+"comment-slash:3"
 ];

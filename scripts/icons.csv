@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pen,33,fa-utility-duo fa-semibold fa-pen,Pen,Utility Duo Semibold
-car-garage,3,fa-thin fa-car-garage,Car Garage,Thin
-angle-up,35,fa-vellum fa-solid fa-angle-up,Angle Up,Vellum Solid
-coffee-pot,9,fa-duotone fa-thin fa-coffee-pot,Coffee Pot,Duotone Thin
-heart-square,19,fa-sharp fa-light fa-heart-square,Heart Square,Sharp Light
-image-user,26,fa-sharp-duotone fa-thin fa-image-user,Image User,Sharp Duotone Thin
-omega,20,fa-sharp fa-regular fa-omega,Omega,Sharp Regular
-siren,6,fa-duotone fa-siren,Siren,Duotone Solid
-comment-slash,3,fa-thin fa-comment-slash,Comment Slash,Thin
 user-vneck-hair,9,fa-duotone fa-thin fa-user-vneck-hair,User Vneck Hair,Duotone Thin
 box,7,fa-duotone fa-light fa-box,Box,Duotone Light
 bread-slice,1,fa-regular fa-bread-slice,Bread Slice,Regular

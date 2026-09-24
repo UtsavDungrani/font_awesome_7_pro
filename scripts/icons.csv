@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-timeline-arrow,6,fa-duotone fa-timeline-arrow,Timeline Arrow,Duotone Solid
-arrow-up-from-bracket,29,fa-slab-press fa-regular fa-arrow-up-from-bracket,Arrow Up From Bracket,Slab Press Regular
-columns-3,19,fa-sharp fa-light fa-columns-3,Columns 3,Sharp Light
-car-circle-bolt,20,fa-sharp fa-regular fa-car-circle-bolt,Car Circle Bolt,Sharp Regular
-add,35,fa-vellum fa-solid fa-add,Add,Vellum Solid
-cloud-bolt-sun,25,fa-sharp-duotone fa-solid fa-cloud-bolt-sun,Cloud Bolt Sun,Sharp Duotone Solid
-moon-waning-gibbous,21,fa-sharp fa-solid fa-moon-waning-gibbous,Moon Waning Gibbous,Sharp Solid
-dice-three,2,fa-light fa-dice-three,Dice Three,Light
-airplay-audio,24,fa-sharp-duotone fa-regular fa-airplay-audio,Airplay Audio,Sharp Duotone Regular
 virus-covid,25,fa-sharp-duotone fa-solid fa-virus-covid,Virus Covid,Sharp Duotone Solid
 square-quarters,26,fa-sharp-duotone fa-thin fa-square-quarters,Square Quarters,Sharp Duotone Thin
 memo-circle-check,19,fa-sharp fa-light fa-memo-circle-check,Memo Circle Check,Sharp Light

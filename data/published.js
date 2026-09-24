@@ -1232,5 +1232,14 @@ window.FA_PUBLISHED = [
 "file-plus-minus:26",
 "arrow-down-long:20",
 "6:22",
-"bar-progress-empty:22"
+"bar-progress-empty:22",
+"timeline-arrow:6",
+"arrow-up-from-bracket:29",
+"columns-3:19",
+"car-circle-bolt:20",
+"add:35",
+"cloud-bolt-sun:25",
+"moon-waning-gibbous:21",
+"dice-three:2",
+"airplay-audio:24"
 ];

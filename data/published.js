@@ -1277,5 +1277,14 @@ window.FA_PUBLISHED = [
 "envelope-badge:24",
 "money-bill-1:2",
 "table-columns-remove-after:9",
-"train-stop:1"
+"train-stop:1",
+"font:31",
+"rectangle-n-a:7",
+"list-dropdown:25",
+"play-flip:25",
+"crown:29",
+"grill-fire:3",
+"toilet-paper-xmark:20",
+"sausage:3",
+"blog:0"
 ];

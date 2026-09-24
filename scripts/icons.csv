@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-font,31,fa-thumbprint fa-light fa-font,Font,Thumbprint Light
-rectangle-n-a,7,fa-duotone fa-light fa-rectangle-n-a,Rectangle N A,Duotone Light
-list-dropdown,25,fa-sharp-duotone fa-solid fa-list-dropdown,List Dropdown,Sharp Duotone Solid
-play-flip,25,fa-sharp-duotone fa-solid fa-play-flip,Play Flip,Sharp Duotone Solid
-crown,29,fa-slab-press fa-regular fa-crown,Crown,Slab Press Regular
-grill-fire,3,fa-thin fa-grill-fire,Grill Fire,Thin
-toilet-paper-xmark,20,fa-sharp fa-regular fa-toilet-paper-xmark,Toilet Paper Xmark,Sharp Regular
-sausage,3,fa-thin fa-sausage,Sausage,Thin
-blog,0,fa-solid fa-blog,Blog,Solid
 peanuts,20,fa-sharp fa-regular fa-peanuts,Peanuts,Sharp Regular
 arrow-down-from-bracket,19,fa-sharp fa-light fa-arrow-down-from-bracket,Arrow Down From Bracket,Sharp Light
 wifi-2,14,fa-jelly-fill fa-regular fa-wifi-2,Wifi 2,Jelly Fill Regular

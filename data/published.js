@@ -1340,5 +1340,14 @@ window.FA_PUBLISHED = [
 "eye:19",
 "skull-crossbones:0",
 "field-hockey-stick:0",
-"person-military-to-person:26"
+"person-military-to-person:26",
+"hexagon-plus:3",
+"layer-group-plus:1",
+"bar-progress-half:3",
+"church:25",
+"tv-music:8",
+"gbp:3",
+"arrow-up-left:1",
+"location-arrow-slash:0",
+"umbrella:12"
 ];

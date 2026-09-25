@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hexagon-plus,3,fa-thin fa-hexagon-plus,Hexagon Plus,Thin
-layer-group-plus,1,fa-regular fa-layer-group-plus,Layer Group Plus,Regular
-bar-progress-half,3,fa-thin fa-bar-progress-half,Bar Progress Half,Thin
-church,25,fa-sharp-duotone fa-solid fa-church,Church,Sharp Duotone Solid
-tv-music,8,fa-duotone fa-regular fa-tv-music,Tv Music,Duotone Regular
-gbp,3,fa-thin fa-gbp,Gbp,Thin
-arrow-up-left,1,fa-regular fa-arrow-up-left,Arrow Up Left,Regular
-location-arrow-slash,0,fa-solid fa-location-arrow-slash,Location Arrow Slash,Solid
-umbrella,12,fa-jelly fa-regular fa-umbrella,Umbrella,Jelly Regular
 engine-exclamation,26,fa-sharp-duotone fa-thin fa-engine-exclamation,Engine Exclamation,Sharp Duotone Thin
 chart-simple,24,fa-sharp-duotone fa-regular fa-chart-simple,Chart Simple,Sharp Duotone Regular
 arrows-h,2,fa-light fa-arrows-h,Arrows H,Light

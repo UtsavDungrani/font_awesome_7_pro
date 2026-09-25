@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-shield-exclamation,21,fa-sharp fa-solid fa-shield-exclamation,Shield Exclamation,Sharp Solid
-location-pin-slash,1,fa-regular fa-location-pin-slash,Location Pin Slash,Regular
-face-party,23,fa-sharp-duotone fa-light fa-face-party,Face Party,Sharp Duotone Light
-garage,20,fa-sharp fa-regular fa-garage,Garage,Sharp Regular
-plane-circle-exclamation,26,fa-sharp-duotone fa-thin fa-plane-circle-exclamation,Plane Circle Exclamation,Sharp Duotone Thin
-video-slash,16,fa-notdog fa-solid fa-video-slash,Video Slash,Notdog Solid
-phone-arrow-right,21,fa-sharp fa-solid fa-phone-arrow-right,Phone Arrow Right,Sharp Solid
-minus-square,0,fa-solid fa-minus-square,Minus Square,Solid
-coin-blank,2,fa-light fa-coin-blank,Coin Blank,Light
 tree-city,2,fa-light fa-tree-city,Tree City,Light
 circle-o,22,fa-sharp fa-thin fa-circle-o,Circle O,Sharp Thin
 fire-extinguisher,25,fa-sharp-duotone fa-solid fa-fire-extinguisher,Fire Extinguisher,Sharp Duotone Solid

@@ -1367,5 +1367,14 @@ window.FA_PUBLISHED = [
 "face-frown:0",
 "microphone-stand:1",
 "barcode-alt:2",
-"split:1"
+"split:1",
+"shield-exclamation:21",
+"location-pin-slash:1",
+"face-party:23",
+"garage:20",
+"plane-circle-exclamation:26",
+"video-slash:16",
+"phone-arrow-right:21",
+"minus-square:0",
+"coin-blank:2"
 ];

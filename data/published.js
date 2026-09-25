@@ -1349,5 +1349,14 @@ window.FA_PUBLISHED = [
 "gbp:3",
 "arrow-up-left:1",
 "location-arrow-slash:0",
-"umbrella:12"
+"umbrella:12",
+"engine-exclamation:26",
+"chart-simple:24",
+"arrows-h:2",
+"circle:18",
+"flower-daffodil:6",
+"teddy-bear:1",
+"transporter-empty:2",
+"grid-round-5:3",
+"card-club:23"
 ];

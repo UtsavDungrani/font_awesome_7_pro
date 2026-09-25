@@ -1322,5 +1322,14 @@ window.FA_PUBLISHED = [
 "circle-info:30",
 "chart-pie-alt:0",
 "border-center-h:20",
-"compress-wide:8"
+"compress-wide:8",
+"fill:25",
+"subtitles:6",
+"tent-circus:19",
+"binary:25",
+"grav:4",
+"arrow-down-z-a:3",
+"umbrella:29",
+"bowl-scoop:23",
+"magnifying-glass:26"
 ];

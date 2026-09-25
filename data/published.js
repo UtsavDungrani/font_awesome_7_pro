@@ -1385,5 +1385,14 @@ window.FA_PUBLISHED = [
 "map-location-dot:26",
 "circle-envelope:3",
 "comment-alt-check:6",
-"money-bill-transfer:20"
+"money-bill-transfer:20",
+"turkey:26",
+"landmark:18",
+"blinds:1",
+"telescope:23",
+"virus-slash:26",
+"user-viewfinder:7",
+"volume:31",
+"court-sport:22",
+"school:9"
 ];

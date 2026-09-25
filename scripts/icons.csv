@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-turkey,26,fa-sharp-duotone fa-thin fa-turkey,Turkey,Sharp Duotone Thin
-landmark,18,fa-pixel fa-regular fa-landmark,Landmark,Pixel Regular
-blinds,1,fa-regular fa-blinds,Blinds,Regular
-telescope,23,fa-sharp-duotone fa-light fa-telescope,Telescope,Sharp Duotone Light
-virus-slash,26,fa-sharp-duotone fa-thin fa-virus-slash,Virus Slash,Sharp Duotone Thin
-user-viewfinder,7,fa-duotone fa-light fa-user-viewfinder,User Viewfinder,Duotone Light
-volume,31,fa-thumbprint fa-light fa-volume,Volume,Thumbprint Light
-court-sport,22,fa-sharp fa-thin fa-court-sport,Court Sport,Sharp Thin
-school,9,fa-duotone fa-thin fa-school,School,Duotone Thin
 flag,22,fa-sharp fa-thin fa-flag,Flag,Sharp Thin
 long-arrow-alt-right,8,fa-duotone fa-regular fa-long-arrow-alt-right,Long Arrow Alt Right,Duotone Regular
 lock-open,14,fa-jelly-fill fa-regular fa-lock-open,Lock Open,Jelly Fill Regular

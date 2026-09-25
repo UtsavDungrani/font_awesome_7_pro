@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tree-city,2,fa-light fa-tree-city,Tree City,Light
-circle-o,22,fa-sharp fa-thin fa-circle-o,Circle O,Sharp Thin
-fire-extinguisher,25,fa-sharp-duotone fa-solid fa-fire-extinguisher,Fire Extinguisher,Sharp Duotone Solid
-umbrella,21,fa-sharp fa-solid fa-umbrella,Umbrella,Sharp Solid
-arrows-from-line,25,fa-sharp-duotone fa-solid fa-arrows-from-line,Arrows From Line,Sharp Duotone Solid
-map-location-dot,26,fa-sharp-duotone fa-thin fa-map-location-dot,Map Location Dot,Sharp Duotone Thin
-circle-envelope,3,fa-thin fa-circle-envelope,Circle Envelope,Thin
-comment-alt-check,6,fa-duotone fa-comment-alt-check,Comment Alt Check,Duotone Solid
-money-bill-transfer,20,fa-sharp fa-regular fa-money-bill-transfer,Money Bill Transfer,Sharp Regular
 turkey,26,fa-sharp-duotone fa-thin fa-turkey,Turkey,Sharp Duotone Thin
 landmark,18,fa-pixel fa-regular fa-landmark,Landmark,Pixel Regular
 blinds,1,fa-regular fa-blinds,Blinds,Regular

@@ -1376,5 +1376,14 @@ window.FA_PUBLISHED = [
 "video-slash:16",
 "phone-arrow-right:21",
 "minus-square:0",
-"coin-blank:2"
+"coin-blank:2",
+"tree-city:2",
+"circle-o:22",
+"fire-extinguisher:25",
+"umbrella:21",
+"arrows-from-line:25",
+"map-location-dot:26",
+"circle-envelope:3",
+"comment-alt-check:6",
+"money-bill-transfer:20"
 ];

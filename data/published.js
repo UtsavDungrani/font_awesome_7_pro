@@ -1331,5 +1331,14 @@ window.FA_PUBLISHED = [
 "arrow-down-z-a:3",
 "umbrella:29",
 "bowl-scoop:23",
-"magnifying-glass:26"
+"magnifying-glass:26",
+"person-meditating:6",
+"bell:15",
+"angry:6",
+"left-from-dotted-line:8",
+"dog-leashed:7",
+"eye:19",
+"skull-crossbones:0",
+"field-hockey-stick:0",
+"person-military-to-person:26"
 ];

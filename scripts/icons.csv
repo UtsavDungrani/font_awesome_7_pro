@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-meditating,6,fa-duotone fa-person-meditating,Person Meditating,Duotone Solid
-bell,15,fa-mosaic fa-solid fa-bell,Bell,Mosaic Solid
-angry,6,fa-duotone fa-angry,Angry,Duotone Solid
-left-from-dotted-line,8,fa-duotone fa-regular fa-left-from-dotted-line,Left From Dotted Line,Duotone Regular
-dog-leashed,7,fa-duotone fa-light fa-dog-leashed,Dog Leashed,Duotone Light
-eye,19,fa-sharp fa-light fa-eye,Eye,Sharp Light
-skull-crossbones,0,fa-solid fa-skull-crossbones,Skull Crossbones,Solid
-field-hockey-stick,0,fa-solid fa-field-hockey-stick,Field Hockey Stick,Solid
-person-military-to-person,26,fa-sharp-duotone fa-thin fa-person-military-to-person,Person Military To Person,Sharp Duotone Thin
 hexagon-plus,3,fa-thin fa-hexagon-plus,Hexagon Plus,Thin
 layer-group-plus,1,fa-regular fa-layer-group-plus,Layer Group Plus,Regular
 bar-progress-half,3,fa-thin fa-bar-progress-half,Bar Progress Half,Thin

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-calendar-week,21,fa-sharp fa-solid fa-calendar-week,Calendar Week,Sharp Solid
-house-circle-xmark,23,fa-sharp-duotone fa-light fa-house-circle-xmark,House Circle Xmark,Sharp Duotone Light
-face-smile-halo,19,fa-sharp fa-light fa-face-smile-halo,Face Smile Halo,Sharp Light
-person-walking-luggage,3,fa-thin fa-person-walking-luggage,Person Walking Luggage,Thin
-prescription-bottle-alt,21,fa-sharp fa-solid fa-prescription-bottle-alt,Prescription Bottle Alt,Sharp Solid
-face-frown,0,fa-solid fa-face-frown,Face Frown,Solid
-microphone-stand,1,fa-regular fa-microphone-stand,Microphone Stand,Regular
-barcode-alt,2,fa-light fa-barcode-alt,Barcode Alt,Light
-split,1,fa-regular fa-split,Split,Regular
 shield-exclamation,21,fa-sharp fa-solid fa-shield-exclamation,Shield Exclamation,Sharp Solid
 location-pin-slash,1,fa-regular fa-location-pin-slash,Location Pin Slash,Regular
 face-party,23,fa-sharp-duotone fa-light fa-face-party,Face Party,Sharp Duotone Light

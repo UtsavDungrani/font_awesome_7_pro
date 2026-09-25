@@ -1358,5 +1358,14 @@ window.FA_PUBLISHED = [
 "teddy-bear:1",
 "transporter-empty:2",
 "grid-round-5:3",
-"card-club:23"
+"card-club:23",
+"calendar-week:21",
+"house-circle-xmark:23",
+"face-smile-halo:19",
+"person-walking-luggage:3",
+"prescription-bottle-alt:21",
+"face-frown:0",
+"microphone-stand:1",
+"barcode-alt:2",
+"split:1"
 ];

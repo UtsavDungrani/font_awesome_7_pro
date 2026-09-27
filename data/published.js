@@ -1430,5 +1430,14 @@ window.FA_PUBLISHED = [
 "industry:0",
 "copy:36",
 "house-flood:24",
-"meerkat:19"
+"meerkat:19",
+"triangle:30",
+"comment-alt-exclamation:1",
+"dial-low:0",
+"head-side:0",
+"head-side-circuit:23",
+"grid:26",
+"image-stack:8",
+"shop-24:24",
+"circle-n:26"
 ];

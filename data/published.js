@@ -1484,5 +1484,14 @@ window.FA_PUBLISHED = [
 "mobile-rotate:24",
 "eggplant:20",
 "lungs-virus:26",
-"user-hair-long:15"
+"user-hair-long:15",
+"folder-arrow-down:23",
+"ship-large:3",
+"rupiah-sign:0",
+"pump:2",
+"shovel:2",
+"hexagon-minus:23",
+"peseta-sign:0",
+"file-word:0",
+"windsock:19"
 ];

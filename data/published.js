@@ -1439,5 +1439,14 @@ window.FA_PUBLISHED = [
 "grid:26",
 "image-stack:8",
 "shop-24:24",
-"circle-n:26"
+"circle-n:26",
+"circle-moon:24",
+"pipe-circle-check:9",
+"plug-circle-plus:20",
+"circle-arrow-down-right:9",
+"omega:19",
+"square-8:23",
+"arrow-up-a-z:22",
+"align-center:1",
+"gauge-low:9"
 ];

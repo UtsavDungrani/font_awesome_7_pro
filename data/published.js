@@ -1466,5 +1466,14 @@ window.FA_PUBLISHED = [
 "rv:23",
 "bucket:22",
 "hand-fingers-crossed:7",
-"brush:0"
+"brush:0",
+"comment-exclamation:26",
+"inbox:1",
+"house-circle-xmark:22",
+"video-plus:21",
+"visual-studio:4",
+"pied-piper-pp:4",
+"square-x:23",
+"slider:7",
+"person-seat-reclined:1"
 ];

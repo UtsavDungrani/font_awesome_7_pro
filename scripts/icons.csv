@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-exclamation,26,fa-sharp-duotone fa-thin fa-comment-exclamation,Comment Exclamation,Sharp Duotone Thin
-inbox,1,fa-regular fa-inbox,Inbox,Regular
-house-circle-xmark,22,fa-sharp fa-thin fa-house-circle-xmark,House Circle Xmark,Sharp Thin
-video-plus,21,fa-sharp fa-solid fa-video-plus,Video Plus,Sharp Solid
-visual-studio,4,fa-brands fa-visual-studio,Visual Studio,Brands
-pied-piper-pp,4,fa-brands fa-pied-piper-pp,Pied Piper Pp,Brands
-square-x,23,fa-sharp-duotone fa-light fa-square-x,Square X,Sharp Duotone Light
-slider,7,fa-duotone fa-light fa-slider,Slider,Duotone Light
-person-seat-reclined,1,fa-regular fa-person-seat-reclined,Person Seat Reclined,Regular
 bell-school-slash,21,fa-sharp fa-solid fa-bell-school-slash,Bell School Slash,Sharp Solid
 file-exclamation,7,fa-duotone fa-light fa-file-exclamation,File Exclamation,Duotone Light
 rectangle-history-circle-plus,19,fa-sharp fa-light fa-rectangle-history-circle-plus,Rectangle History Circle Plus,Sharp Light

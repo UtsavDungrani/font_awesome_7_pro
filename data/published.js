@@ -1403,5 +1403,14 @@ window.FA_PUBLISHED = [
 "layer-group-minus:21",
 "rupee:9",
 "prescription-bottle-alt:3",
-"square-won:25"
+"square-won:25",
+"rectangle-sd:1",
+"chess-rook:9",
+"house-fire:3",
+"mobile-button:19",
+"face-grin-tongue:3",
+"share-from-square:8",
+"table-cells-split:0",
+"arrow-left-to-line:19",
+"face-clouds:26"
 ];

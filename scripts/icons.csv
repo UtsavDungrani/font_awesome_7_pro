@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rectangle-sd,1,fa-regular fa-rectangle-sd,Rectangle Sd,Regular
-chess-rook,9,fa-duotone fa-thin fa-chess-rook,Chess Rook,Duotone Thin
-house-fire,3,fa-thin fa-house-fire,House Fire,Thin
-mobile-button,19,fa-sharp fa-light fa-mobile-button,Mobile Button,Sharp Light
-face-grin-tongue,3,fa-thin fa-face-grin-tongue,Face Grin Tongue,Thin
-share-from-square,8,fa-duotone fa-regular fa-share-from-square,Share From Square,Duotone Regular
-table-cells-split,0,fa-solid fa-table-cells-split,Table Cells Split,Solid
-arrow-left-to-line,19,fa-sharp fa-light fa-arrow-left-to-line,Arrow Left To Line,Sharp Light
-face-clouds,26,fa-sharp-duotone fa-thin fa-face-clouds,Face Clouds,Sharp Duotone Thin
 caret-large-up,20,fa-sharp fa-regular fa-caret-large-up,Caret Large Up,Sharp Regular
 user-graduate,21,fa-sharp fa-solid fa-user-graduate,User Graduate,Sharp Solid
 arrows-to-line,19,fa-sharp fa-light fa-arrows-to-line,Arrows To Line,Sharp Light

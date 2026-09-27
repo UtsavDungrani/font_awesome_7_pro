@@ -1457,5 +1457,14 @@ window.FA_PUBLISHED = [
 "mug-tea-saucer:1",
 "ban-parking:2",
 "play-pause:1",
-"camcorder:26"
+"camcorder:26",
+"do-not-enter:26",
+"watch-apple:22",
+"arrow-down-from-bracket:2",
+"rocket-launch:3",
+"cowbell-circle-plus:25",
+"rv:23",
+"bucket:22",
+"hand-fingers-crossed:7",
+"brush:0"
 ];

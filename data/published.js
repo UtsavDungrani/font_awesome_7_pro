@@ -1493,5 +1493,14 @@ window.FA_PUBLISHED = [
 "hexagon-minus:23",
 "peseta-sign:0",
 "file-word:0",
-"windsock:19"
+"windsock:19",
+"person-circle-plus:20",
+"octagon-plus:0",
+"rows:22",
+"store:19",
+"square-quote:1",
+"laptop-file:6",
+"pipe-collar:21",
+"overline:7",
+"crop-alt:22"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-circle-plus,20,fa-sharp fa-regular fa-person-circle-plus,Person Circle Plus,Sharp Regular
-octagon-plus,0,fa-solid fa-octagon-plus,Octagon Plus,Solid
-rows,22,fa-sharp fa-thin fa-rows,Rows,Sharp Thin
-store,19,fa-sharp fa-light fa-store,Store,Sharp Light
-square-quote,1,fa-regular fa-square-quote,Square Quote,Regular
-laptop-file,6,fa-duotone fa-laptop-file,Laptop File,Duotone Solid
-pipe-collar,21,fa-sharp fa-solid fa-pipe-collar,Pipe Collar,Sharp Solid
-overline,7,fa-duotone fa-light fa-overline,Overline,Duotone Light
-crop-alt,22,fa-sharp fa-thin fa-crop-alt,Crop Alt,Sharp Thin
 bus,33,fa-utility-duo fa-semibold fa-bus,Bus,Utility Duo Semibold
 bitcoin-sign,21,fa-sharp fa-solid fa-bitcoin-sign,Bitcoin Sign,Sharp Solid
 pan-frying,6,fa-duotone fa-pan-frying,Pan Frying,Duotone Solid

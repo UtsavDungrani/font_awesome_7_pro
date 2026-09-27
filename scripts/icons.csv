@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-memo-circle-info,19,fa-sharp fa-light fa-memo-circle-info,Memo Circle Info,Sharp Light
-building-circle-check,25,fa-sharp-duotone fa-solid fa-building-circle-check,Building Circle Check,Sharp Duotone Solid
-input-pipe,2,fa-light fa-input-pipe,Input Pipe,Light
-autoprefixer,4,fa-brands fa-autoprefixer,Autoprefixer,Brands
-clock-six-thirty,9,fa-duotone fa-thin fa-clock-six-thirty,Clock Six Thirty,Duotone Thin
-industry,0,fa-solid fa-industry,Industry,Solid
-copy,36,fa-whiteboard fa-semibold fa-copy,Copy,Whiteboard Semibold
-house-flood,24,fa-sharp-duotone fa-regular fa-house-flood,House Flood,Sharp Duotone Regular
-meerkat,19,fa-sharp fa-light fa-meerkat,Meerkat,Sharp Light
 triangle,30,fa-slab-press-duo fa-regular fa-triangle,Triangle,Slab Press Duo Regular
 comment-alt-exclamation,1,fa-regular fa-comment-alt-exclamation,Comment Alt Exclamation,Regular
 dial-low,0,fa-solid fa-dial-low,Dial Low,Solid

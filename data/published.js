@@ -1421,5 +1421,14 @@ window.FA_PUBLISHED = [
 "transducer:7",
 "circle-sort-down:0",
 "d:9",
-"x-ray:21"
+"x-ray:21",
+"memo-circle-info:19",
+"building-circle-check:25",
+"input-pipe:2",
+"autoprefixer:4",
+"clock-six-thirty:9",
+"industry:0",
+"copy:36",
+"house-flood:24",
+"meerkat:19"
 ];

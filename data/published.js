@@ -1475,5 +1475,14 @@ window.FA_PUBLISHED = [
 "pied-piper-pp:4",
 "square-x:23",
 "slider:7",
-"person-seat-reclined:1"
+"person-seat-reclined:1",
+"bell-school-slash:21",
+"file-exclamation:7",
+"rectangle-history-circle-plus:19",
+"circle-w:9",
+"square-baht:22",
+"mobile-rotate:24",
+"eggplant:20",
+"lungs-virus:26",
+"user-hair-long:15"
 ];

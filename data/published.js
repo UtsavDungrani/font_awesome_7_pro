@@ -1394,5 +1394,14 @@ window.FA_PUBLISHED = [
 "user-viewfinder:7",
 "volume:31",
 "court-sport:22",
-"school:9"
+"school:9",
+"flag:22",
+"long-arrow-alt-right:8",
+"lock-open:14",
+"arrow-pointer:26",
+"laptop-file:19",
+"layer-group-minus:21",
+"rupee:9",
+"prescription-bottle-alt:3",
+"square-won:25"
 ];

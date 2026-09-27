@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-flag,22,fa-sharp fa-thin fa-flag,Flag,Sharp Thin
-long-arrow-alt-right,8,fa-duotone fa-regular fa-long-arrow-alt-right,Long Arrow Alt Right,Duotone Regular
-lock-open,14,fa-jelly-fill fa-regular fa-lock-open,Lock Open,Jelly Fill Regular
-arrow-pointer,26,fa-sharp-duotone fa-thin fa-arrow-pointer,Arrow Pointer,Sharp Duotone Thin
-laptop-file,19,fa-sharp fa-light fa-laptop-file,Laptop File,Sharp Light
-layer-group-minus,21,fa-sharp fa-solid fa-layer-group-minus,Layer Group Minus,Sharp Solid
-rupee,9,fa-duotone fa-thin fa-rupee,Rupee,Duotone Thin
-prescription-bottle-alt,3,fa-thin fa-prescription-bottle-alt,Prescription Bottle Alt,Thin
-square-won,25,fa-sharp-duotone fa-solid fa-square-won,Square Won,Sharp Duotone Solid
 rectangle-sd,1,fa-regular fa-rectangle-sd,Rectangle Sd,Regular
 chess-rook,9,fa-duotone fa-thin fa-chess-rook,Chess Rook,Duotone Thin
 house-fire,3,fa-thin fa-house-fire,House Fire,Thin

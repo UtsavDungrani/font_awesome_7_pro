@@ -1502,5 +1502,14 @@ window.FA_PUBLISHED = [
 "laptop-file:6",
 "pipe-collar:21",
 "overline:7",
-"crop-alt:22"
+"crop-alt:22",
+"bus:33",
+"bitcoin-sign:21",
+"pan-frying:6",
+"phone-arrow-right:25",
+"hand-back-point-down:20",
+"mobile-arrow-down:22",
+"padel:0",
+"hand:25",
+"envelope-square:22"
 ];

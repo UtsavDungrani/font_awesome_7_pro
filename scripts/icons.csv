@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bus,33,fa-utility-duo fa-semibold fa-bus,Bus,Utility Duo Semibold
-bitcoin-sign,21,fa-sharp fa-solid fa-bitcoin-sign,Bitcoin Sign,Sharp Solid
-pan-frying,6,fa-duotone fa-pan-frying,Pan Frying,Duotone Solid
-phone-arrow-right,25,fa-sharp-duotone fa-solid fa-phone-arrow-right,Phone Arrow Right,Sharp Duotone Solid
-hand-back-point-down,20,fa-sharp fa-regular fa-hand-back-point-down,Hand Back Point Down,Sharp Regular
-mobile-arrow-down,22,fa-sharp fa-thin fa-mobile-arrow-down,Mobile Arrow Down,Sharp Thin
-padel,0,fa-solid fa-padel,Padel,Solid
-hand,25,fa-sharp-duotone fa-solid fa-hand,Hand,Sharp Duotone Solid
-envelope-square,22,fa-sharp fa-thin fa-envelope-square,Envelope Square,Sharp Thin
 user-doctor-hair-mullet,20,fa-sharp fa-regular fa-user-doctor-hair-mullet,User Doctor Hair Mullet,Sharp Regular
 thermometer,3,fa-thin fa-thermometer,Thermometer,Thin
 image-stack,24,fa-sharp-duotone fa-regular fa-image-stack,Image Stack,Sharp Duotone Regular

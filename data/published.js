@@ -1448,5 +1448,14 @@ window.FA_PUBLISHED = [
 "square-8:23",
 "arrow-up-a-z:22",
 "align-center:1",
-"gauge-low:9"
+"gauge-low:9",
+"pen-ruler:26",
+"comments:20",
+"face-smile-upside-down:1",
+"cloud-minus:22",
+"rug:7",
+"mug-tea-saucer:1",
+"ban-parking:2",
+"play-pause:1",
+"camcorder:26"
 ];

@@ -1412,5 +1412,14 @@ window.FA_PUBLISHED = [
 "share-from-square:8",
 "table-cells-split:0",
 "arrow-left-to-line:19",
-"face-clouds:26"
+"face-clouds:26",
+"caret-large-up:20",
+"user-graduate:21",
+"arrows-to-line:19",
+"skull:24",
+"droplet-plus:3",
+"transducer:7",
+"circle-sort-down:0",
+"d:9",
+"x-ray:21"
 ];

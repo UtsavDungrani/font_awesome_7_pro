@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-caret-large-up,20,fa-sharp fa-regular fa-caret-large-up,Caret Large Up,Sharp Regular
-user-graduate,21,fa-sharp fa-solid fa-user-graduate,User Graduate,Sharp Solid
-arrows-to-line,19,fa-sharp fa-light fa-arrows-to-line,Arrows To Line,Sharp Light
-skull,24,fa-sharp-duotone fa-regular fa-skull,Skull,Sharp Duotone Regular
-droplet-plus,3,fa-thin fa-droplet-plus,Droplet Plus,Thin
-transducer,7,fa-duotone fa-light fa-transducer,Transducer,Duotone Light
-circle-sort-down,0,fa-solid fa-circle-sort-down,Circle Sort Down,Solid
-d,9,fa-duotone fa-thin fa-d,D,Duotone Thin
-x-ray,21,fa-sharp fa-solid fa-x-ray,X Ray,Sharp Solid
 memo-circle-info,19,fa-sharp fa-light fa-memo-circle-info,Memo Circle Info,Sharp Light
 building-circle-check,25,fa-sharp-duotone fa-solid fa-building-circle-check,Building Circle Check,Sharp Duotone Solid
 input-pipe,2,fa-light fa-input-pipe,Input Pipe,Light

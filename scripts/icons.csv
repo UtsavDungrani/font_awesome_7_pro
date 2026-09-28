@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-doctor-hair-mullet,20,fa-sharp fa-regular fa-user-doctor-hair-mullet,User Doctor Hair Mullet,Sharp Regular
-thermometer,3,fa-thin fa-thermometer,Thermometer,Thin
-image-stack,24,fa-sharp-duotone fa-regular fa-image-stack,Image Stack,Sharp Duotone Regular
-meat,0,fa-solid fa-meat,Meat,Solid
-cloud-exclamation,20,fa-sharp fa-regular fa-cloud-exclamation,Cloud Exclamation,Sharp Regular
-tablet-android-alt,3,fa-thin fa-tablet-android-alt,Tablet Android Alt,Thin
-magnifying-glass-play,22,fa-sharp fa-thin fa-magnifying-glass-play,Magnifying Glass Play,Sharp Thin
-meerkat,9,fa-duotone fa-thin fa-meerkat,Meerkat,Duotone Thin
-mushroom,3,fa-thin fa-mushroom,Mushroom,Thin
 play-flip,9,fa-duotone fa-thin fa-play-flip,Play Flip,Duotone Thin
 gauge-simple-max,22,fa-sharp fa-thin fa-gauge-simple-max,Gauge Simple Max,Sharp Thin
 chain,29,fa-slab-press fa-regular fa-chain,Chain,Slab Press Regular

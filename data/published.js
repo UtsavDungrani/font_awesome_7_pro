@@ -1511,5 +1511,14 @@ window.FA_PUBLISHED = [
 "mobile-arrow-down:22",
 "padel:0",
 "hand:25",
-"envelope-square:22"
+"envelope-square:22",
+"user-doctor-hair-mullet:20",
+"thermometer:3",
+"image-stack:24",
+"meat:0",
+"cloud-exclamation:20",
+"tablet-android-alt:3",
+"magnifying-glass-play:22",
+"meerkat:9",
+"mushroom:3"
 ];

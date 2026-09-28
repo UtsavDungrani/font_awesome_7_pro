@@ -1547,5 +1547,14 @@ window.FA_PUBLISHED = [
 "face-scream:22",
 "magnifying-glass:3",
 "list-check:24",
-"peach:0"
+"peach:0",
+"car-bolt:1",
+"send-backward:26",
+"face-astonished:1",
+"syringe:26",
+"backpack:3",
+"volcano:20",
+"user-pilot-tie-hair-long:8",
+"user-check:32",
+"plug-circle-exclamation:9"
 ];

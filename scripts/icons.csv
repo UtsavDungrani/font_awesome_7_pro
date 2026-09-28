@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-car-bolt,1,fa-regular fa-car-bolt,Car Bolt,Regular
-send-backward,26,fa-sharp-duotone fa-thin fa-send-backward,Send Backward,Sharp Duotone Thin
-face-astonished,1,fa-regular fa-face-astonished,Face Astonished,Regular
-syringe,26,fa-sharp-duotone fa-thin fa-syringe,Syringe,Sharp Duotone Thin
-backpack,3,fa-thin fa-backpack,Backpack,Thin
-volcano,20,fa-sharp fa-regular fa-volcano,Volcano,Sharp Regular
-user-pilot-tie-hair-long,8,fa-duotone fa-regular fa-user-pilot-tie-hair-long,User Pilot Tie Hair Long,Duotone Regular
-user-check,32,fa-utility fa-semibold fa-user-check,User Check,Utility Semibold
-plug-circle-exclamation,9,fa-duotone fa-thin fa-plug-circle-exclamation,Plug Circle Exclamation,Duotone Thin
 user-nurse,3,fa-thin fa-user-nurse,User Nurse,Thin
 envelope-heart,15,fa-mosaic fa-solid fa-envelope-heart,Envelope Heart,Mosaic Solid
 display-chart-up-circle-dollar,7,fa-duotone fa-light fa-display-chart-up-circle-dollar,Display Chart Up Circle Dollar,Duotone Light

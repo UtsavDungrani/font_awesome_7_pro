@@ -1520,5 +1520,14 @@ window.FA_PUBLISHED = [
 "tablet-android-alt:3",
 "magnifying-glass-play:22",
 "meerkat:9",
-"mushroom:3"
+"mushroom:3",
+"play-flip:9",
+"gauge-simple-max:22",
+"chain:29",
+"house-fire:20",
+"bread-loaf:23",
+"field-hockey-stick:26",
+"image-polaroid-user:0",
+"chevron-square-right:20",
+"mosquito:0"
 ];

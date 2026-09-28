@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-play-flip,9,fa-duotone fa-thin fa-play-flip,Play Flip,Duotone Thin
-gauge-simple-max,22,fa-sharp fa-thin fa-gauge-simple-max,Gauge Simple Max,Sharp Thin
-chain,29,fa-slab-press fa-regular fa-chain,Chain,Slab Press Regular
-house-fire,20,fa-sharp fa-regular fa-house-fire,House Fire,Sharp Regular
-bread-loaf,23,fa-sharp-duotone fa-light fa-bread-loaf,Bread Loaf,Sharp Duotone Light
-field-hockey-stick,26,fa-sharp-duotone fa-thin fa-field-hockey-stick,Field Hockey Stick,Sharp Duotone Thin
-image-polaroid-user,0,fa-solid fa-image-polaroid-user,Image Polaroid User,Solid
-chevron-square-right,20,fa-sharp fa-regular fa-chevron-square-right,Chevron Square Right,Sharp Regular
-mosquito,0,fa-solid fa-mosquito,Mosquito,Solid
 chevron-right,22,fa-sharp fa-thin fa-chevron-right,Chevron Right,Sharp Thin
 reel,19,fa-sharp fa-light fa-reel,Reel,Sharp Light
 street-view,25,fa-sharp-duotone fa-solid fa-street-view,Street View,Sharp Duotone Solid

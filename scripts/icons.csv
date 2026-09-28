@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-volume-off,3,fa-thin fa-volume-off,Volume Off,Thin
-rocket-launch,0,fa-solid fa-rocket-launch,Rocket Launch,Solid
-envelope-circle-check,8,fa-duotone fa-regular fa-envelope-circle-check,Envelope Circle Check,Duotone Regular
-stamp,6,fa-duotone fa-stamp,Stamp,Duotone Solid
-rss-square,1,fa-regular fa-rss-square,Rss Square,Regular
-square-franc,21,fa-sharp fa-solid fa-square-franc,Square Franc,Sharp Solid
-snowflake-droplets,22,fa-sharp fa-thin fa-snowflake-droplets,Snowflake Droplets,Sharp Thin
-tire-flat,19,fa-sharp fa-light fa-tire-flat,Tire Flat,Sharp Light
-00,23,fa-sharp-duotone fa-light fa-00,00,Sharp Duotone Light
 swap,7,fa-duotone fa-light fa-swap,Swap,Duotone Light
 vine,4,fa-brands fa-vine,Vine,Brands
 dice-two,26,fa-sharp-duotone fa-thin fa-dice-two,Dice Two,Sharp Duotone Thin

@@ -1574,5 +1574,14 @@ window.FA_PUBLISHED = [
 "palette:26",
 "staff:20",
 "sun-cloud:20",
-"bell:30"
+"bell:30",
+"volume-off:3",
+"rocket-launch:0",
+"envelope-circle-check:8",
+"stamp:6",
+"rss-square:1",
+"square-franc:21",
+"snowflake-droplets:22",
+"tire-flat:19",
+"00:23"
 ];

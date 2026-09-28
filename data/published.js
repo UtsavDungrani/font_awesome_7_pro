@@ -1565,5 +1565,14 @@ window.FA_PUBLISHED = [
 "mobile-vibrate:6",
 "user-friends:20",
 "bookmark:18",
-"school-flag:9"
+"school-flag:9",
+"bomb:6",
+"chart-pie-alt:22",
+"user-shakespeare:6",
+"down-long-to-line:24",
+"postage-stamp:1",
+"palette:26",
+"staff:20",
+"sun-cloud:20",
+"bell:30"
 ];

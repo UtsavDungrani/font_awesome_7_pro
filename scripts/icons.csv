@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bomb,6,fa-duotone fa-bomb,Bomb,Duotone Solid
-chart-pie-alt,22,fa-sharp fa-thin fa-chart-pie-alt,Chart Pie Alt,Sharp Thin
-user-shakespeare,6,fa-duotone fa-user-shakespeare,User Shakespeare,Duotone Solid
-down-long-to-line,24,fa-sharp-duotone fa-regular fa-down-long-to-line,Down Long To Line,Sharp Duotone Regular
-postage-stamp,1,fa-regular fa-postage-stamp,Postage Stamp,Regular
-palette,26,fa-sharp-duotone fa-thin fa-palette,Palette,Sharp Duotone Thin
-staff,20,fa-sharp fa-regular fa-staff,Staff,Sharp Regular
-sun-cloud,20,fa-sharp fa-regular fa-sun-cloud,Sun Cloud,Sharp Regular
-bell,30,fa-slab-press-duo fa-regular fa-bell,Bell,Slab Press Duo Regular
 volume-off,3,fa-thin fa-volume-off,Volume Off,Thin
 rocket-launch,0,fa-solid fa-rocket-launch,Rocket Launch,Solid
 envelope-circle-check,8,fa-duotone fa-regular fa-envelope-circle-check,Envelope Circle Check,Duotone Regular

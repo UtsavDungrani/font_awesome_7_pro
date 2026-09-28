@@ -1538,5 +1538,14 @@ window.FA_PUBLISHED = [
 "wave-square:3",
 "wrench:3",
 "arrow-up-a-z:9",
-"axe:20"
+"axe:20",
+"gallery-thumbnails:2",
+"swords-laser:25",
+"file-cad:26",
+"6:8",
+"mug-tea-saucer:3",
+"face-scream:22",
+"magnifying-glass:3",
+"list-check:24",
+"peach:0"
 ];

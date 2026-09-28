@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chevron-right,22,fa-sharp fa-thin fa-chevron-right,Chevron Right,Sharp Thin
-reel,19,fa-sharp fa-light fa-reel,Reel,Sharp Light
-street-view,25,fa-sharp-duotone fa-solid fa-street-view,Street View,Sharp Duotone Solid
-cloud-meatball,8,fa-duotone fa-regular fa-cloud-meatball,Cloud Meatball,Duotone Regular
-square-rupee,23,fa-sharp-duotone fa-light fa-square-rupee,Square Rupee,Sharp Duotone Light
-wave-square,3,fa-thin fa-wave-square,Wave Square,Thin
-wrench,3,fa-thin fa-wrench,Wrench,Thin
-arrow-up-a-z,9,fa-duotone fa-thin fa-arrow-up-a-z,Arrow Up A Z,Duotone Thin
-axe,20,fa-sharp fa-regular fa-axe,Axe,Sharp Regular
 gallery-thumbnails,2,fa-light fa-gallery-thumbnails,Gallery Thumbnails,Light
 swords-laser,25,fa-sharp-duotone fa-solid fa-swords-laser,Swords Laser,Sharp Duotone Solid
 file-cad,26,fa-sharp-duotone fa-thin fa-file-cad,File Cad,Sharp Duotone Thin

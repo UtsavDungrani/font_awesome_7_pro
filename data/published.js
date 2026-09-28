@@ -1529,5 +1529,14 @@ window.FA_PUBLISHED = [
 "field-hockey-stick:26",
 "image-polaroid-user:0",
 "chevron-square-right:20",
-"mosquito:0"
+"mosquito:0",
+"chevron-right:22",
+"reel:19",
+"street-view:25",
+"cloud-meatball:8",
+"square-rupee:23",
+"wave-square:3",
+"wrench:3",
+"arrow-up-a-z:9",
+"axe:20"
 ];

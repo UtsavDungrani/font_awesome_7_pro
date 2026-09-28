@@ -1556,5 +1556,14 @@ window.FA_PUBLISHED = [
 "volcano:20",
 "user-pilot-tie-hair-long:8",
 "user-check:32",
-"plug-circle-exclamation:9"
+"plug-circle-exclamation:9",
+"user-nurse:3",
+"envelope-heart:15",
+"display-chart-up-circle-dollar:7",
+"wardrobe:24",
+"chevron-double-up:21",
+"mobile-vibrate:6",
+"user-friends:20",
+"bookmark:18",
+"school-flag:9"
 ];

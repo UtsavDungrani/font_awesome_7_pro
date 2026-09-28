@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-nurse,3,fa-thin fa-user-nurse,User Nurse,Thin
-envelope-heart,15,fa-mosaic fa-solid fa-envelope-heart,Envelope Heart,Mosaic Solid
-display-chart-up-circle-dollar,7,fa-duotone fa-light fa-display-chart-up-circle-dollar,Display Chart Up Circle Dollar,Duotone Light
-wardrobe,24,fa-sharp-duotone fa-regular fa-wardrobe,Wardrobe,Sharp Duotone Regular
-chevron-double-up,21,fa-sharp fa-solid fa-chevron-double-up,Chevron Double Up,Sharp Solid
-mobile-vibrate,6,fa-duotone fa-mobile-vibrate,Mobile Vibrate,Duotone Solid
-user-friends,20,fa-sharp fa-regular fa-user-friends,User Friends,Sharp Regular
-bookmark,18,fa-pixel fa-regular fa-bookmark,Bookmark,Pixel Regular
-school-flag,9,fa-duotone fa-thin fa-school-flag,School Flag,Duotone Thin
 bomb,6,fa-duotone fa-bomb,Bomb,Duotone Solid
 chart-pie-alt,22,fa-sharp fa-thin fa-chart-pie-alt,Chart Pie Alt,Sharp Thin
 user-shakespeare,6,fa-duotone fa-user-shakespeare,User Shakespeare,Duotone Solid

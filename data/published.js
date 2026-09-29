@@ -1610,5 +1610,14 @@ window.FA_PUBLISHED = [
 "trash-list:21",
 "industry:19",
 "joystick:8",
-"box-check:0"
+"box-check:0",
+"apple-crate:26",
+"bacon:3",
+"franc-sign:6",
+"accent-grave:6",
+"hand-holding-heart:6",
+"swedish-krona-sign:20",
+"browser:24",
+"hand-holding-hand:21",
+"school-circle-exclamation:23"
 ];

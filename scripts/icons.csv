@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-apple-crate,26,fa-sharp-duotone fa-thin fa-apple-crate,Apple Crate,Sharp Duotone Thin
-bacon,3,fa-thin fa-bacon,Bacon,Thin
-franc-sign,6,fa-duotone fa-franc-sign,Franc Sign,Duotone Solid
-accent-grave,6,fa-duotone fa-accent-grave,Accent Grave,Duotone Solid
-hand-holding-heart,6,fa-duotone fa-hand-holding-heart,Hand Holding Heart,Duotone Solid
-swedish-krona-sign,20,fa-sharp fa-regular fa-swedish-krona-sign,Swedish Krona Sign,Sharp Regular
-browser,24,fa-sharp-duotone fa-regular fa-browser,Browser,Sharp Duotone Regular
-hand-holding-hand,21,fa-sharp fa-solid fa-hand-holding-hand,Hand Holding Hand,Sharp Solid
-school-circle-exclamation,23,fa-sharp-duotone fa-light fa-school-circle-exclamation,School Circle Exclamation,Sharp Duotone Light
 brazilian-real-sign,20,fa-sharp fa-regular fa-brazilian-real-sign,Brazilian Real Sign,Sharp Regular
 building-user,21,fa-sharp fa-solid fa-building-user,Building User,Sharp Solid
 tree-decorated,3,fa-thin fa-tree-decorated,Tree Decorated,Thin

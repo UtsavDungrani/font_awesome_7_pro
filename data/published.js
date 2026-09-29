@@ -1619,5 +1619,14 @@ window.FA_PUBLISHED = [
 "swedish-krona-sign:20",
 "browser:24",
 "hand-holding-hand:21",
-"school-circle-exclamation:23"
+"school-circle-exclamation:23",
+"brazilian-real-sign:20",
+"building-user:21",
+"tree-decorated:3",
+"arrow-turn-down-right:9",
+"list-radio:1",
+"rainbow:7",
+"star-sharp-half-alt:25",
+"person-skiing-nordic:24",
+"person-arrow-down-to-line:22"
 ];

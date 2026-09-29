@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-right-to-arc,8,fa-duotone fa-regular fa-arrow-right-to-arc,Arrow Right To Arc,Duotone Regular
-location-arrow-up,0,fa-solid fa-location-arrow-up,Location Arrow Up,Solid
-4,22,fa-sharp fa-thin fa-4,4,Sharp Thin
-dice-d10,21,fa-sharp fa-solid fa-dice-d10,Dice D10,Sharp Solid
-arrow-right-from-dotted-line,3,fa-thin fa-arrow-right-from-dotted-line,Arrow Right From Dotted Line,Thin
-sprinkler-ceiling,23,fa-sharp-duotone fa-light fa-sprinkler-ceiling,Sprinkler Ceiling,Sharp Duotone Light
-chart-waterfall,25,fa-sharp-duotone fa-solid fa-chart-waterfall,Chart Waterfall,Sharp Duotone Solid
-vial-vertical,25,fa-sharp-duotone fa-solid fa-vial-vertical,Vial Vertical,Sharp Duotone Solid
-face-pouting,2,fa-light fa-face-pouting,Face Pouting,Light
 pants-straight,24,fa-sharp-duotone fa-regular fa-pants-straight,Pants Straight,Sharp Duotone Regular
 clock-twelve-thirty,20,fa-sharp fa-regular fa-clock-twelve-thirty,Clock Twelve Thirty,Sharp Regular
 function,22,fa-sharp fa-thin fa-function,Function,Sharp Thin

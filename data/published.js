@@ -1655,5 +1655,14 @@ window.FA_PUBLISHED = [
 "block-question:22",
 "playstation:4",
 "circle-peseta:9",
-"litecoin-sign:20"
+"litecoin-sign:20",
+"arrow-right-to-arc:8",
+"location-arrow-up:0",
+"4:22",
+"dice-d10:21",
+"arrow-right-from-dotted-line:3",
+"sprinkler-ceiling:23",
+"chart-waterfall:25",
+"vial-vertical:25",
+"face-pouting:2"
 ];

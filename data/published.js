@@ -1646,5 +1646,14 @@ window.FA_PUBLISHED = [
 "square-web-awesome:4",
 "arrow-up-to-arc:21",
 "building:10",
-"bar-progress-three-quarters:21"
+"bar-progress-three-quarters:21",
+"truck-container-empty:7",
+"hexagon-divide:22",
+"card-diamond:25",
+"sliders-simple:20",
+"mobile-vibrate-slash:8",
+"block-question:22",
+"playstation:4",
+"circle-peseta:9",
+"litecoin-sign:20"
 ];

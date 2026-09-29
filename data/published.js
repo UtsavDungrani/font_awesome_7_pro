@@ -1682,5 +1682,14 @@ window.FA_PUBLISHED = [
 "prescription-bottle-alt:1",
 "trash-can-list:21",
 "list-music:24",
-"window-frame:0"
+"window-frame:0",
+"house-circle-exclamation:3",
+"location-dot:14",
+"oar:0",
+"building-circle-arrow-right:7",
+"cruzeiro-sign:26",
+"mobile-iphone:7",
+"films:7",
+"arrow-left-from-bracket:23",
+"building-user:6"
 ];

@@ -1673,5 +1673,14 @@ window.FA_PUBLISHED = [
 "calendar-circle-minus:6",
 "faucet-drip:23",
 "venus-double:2",
-"shuttle-space:8"
+"shuttle-space:8",
+"clock:32",
+"border-left:3",
+"cloud-snow:20",
+"circle-t:25",
+"arrow-right:12",
+"prescription-bottle-alt:1",
+"trash-can-list:21",
+"list-music:24",
+"window-frame:0"
 ];

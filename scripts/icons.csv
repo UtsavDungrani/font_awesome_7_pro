@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clock,32,fa-utility fa-semibold fa-clock,Clock,Utility Semibold
-border-left,3,fa-thin fa-border-left,Border Left,Thin
-cloud-snow,20,fa-sharp fa-regular fa-cloud-snow,Cloud Snow,Sharp Regular
-circle-t,25,fa-sharp-duotone fa-solid fa-circle-t,Circle T,Sharp Duotone Solid
-arrow-right,12,fa-jelly fa-regular fa-arrow-right,Arrow Right,Jelly Regular
-prescription-bottle-alt,1,fa-regular fa-prescription-bottle-alt,Prescription Bottle Alt,Regular
-trash-can-list,21,fa-sharp fa-solid fa-trash-can-list,Trash Can List,Sharp Solid
-list-music,24,fa-sharp-duotone fa-regular fa-list-music,List Music,Sharp Duotone Regular
-window-frame,0,fa-solid fa-window-frame,Window Frame,Solid
 house-circle-exclamation,3,fa-thin fa-house-circle-exclamation,House Circle Exclamation,Thin
 location-dot,14,fa-jelly-fill fa-regular fa-location-dot,Location Dot,Jelly Fill Regular
 oar,0,fa-solid fa-oar,Oar,Solid

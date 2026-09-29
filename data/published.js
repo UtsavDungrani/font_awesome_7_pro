@@ -1637,5 +1637,14 @@ window.FA_PUBLISHED = [
 "bow-archery:3",
 "arrow-down-left-and-arrow-up-right-to-center:26",
 "flag:29",
-"bible:9"
+"bible:9",
+"arrow-from-bottom:23",
+"foot-wing:22",
+"earth-africa:20",
+"arrow-up:32",
+"biking:13",
+"square-web-awesome:4",
+"arrow-up-to-arc:21",
+"building:10",
+"bar-progress-three-quarters:21"
 ];

@@ -1691,5 +1691,14 @@ window.FA_PUBLISHED = [
 "mobile-iphone:7",
 "films:7",
 "arrow-left-from-bracket:23",
-"building-user:6"
+"building-user:6",
+"hard-drive:8",
+"hand-wave:7",
+"file-medical-alt:24",
+"camera-home:7",
+"cherries:7",
+"umbrella:1",
+"oil-can:26",
+"ball-pile:3",
+"digging:8"
 ];

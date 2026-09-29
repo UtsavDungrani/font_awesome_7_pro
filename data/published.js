@@ -1592,5 +1592,14 @@ window.FA_PUBLISHED = [
 "wagon-covered:24",
 "grip-lines-vertical:0",
 "brackets:24",
-"circle-gf:26"
+"circle-gf:26",
+"person-dress-fairy:26",
+"circle-australian-dollar:3",
+"heart:22",
+"folders:18",
+"house-medical:20",
+"trophy:29",
+"calendar-range:2",
+"pen-alt-slash:6",
+"quote-left:28"
 ];

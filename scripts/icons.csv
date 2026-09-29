@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-dress-fairy,26,fa-sharp-duotone fa-thin fa-person-dress-fairy,Person Dress Fairy,Sharp Duotone Thin
-circle-australian-dollar,3,fa-thin fa-circle-australian-dollar,Circle Australian Dollar,Thin
-heart,22,fa-sharp fa-thin fa-heart,Heart,Sharp Thin
-folders,18,fa-pixel fa-regular fa-folders,Folders,Pixel Regular
-house-medical,20,fa-sharp fa-regular fa-house-medical,House Medical,Sharp Regular
-trophy,29,fa-slab-press fa-regular fa-trophy,Trophy,Slab Press Regular
-calendar-range,2,fa-light fa-calendar-range,Calendar Range,Light
-pen-alt-slash,6,fa-duotone fa-pen-alt-slash,Pen Alt Slash,Duotone Solid
-quote-left,28,fa-slab-duo fa-regular fa-quote-left,Quote Left,Slab Duo Regular
 paw,34,fa-utility-fill fa-semibold fa-paw,Paw,Utility Fill Semibold
 file-arrow-down,26,fa-sharp-duotone fa-thin fa-file-arrow-down,File Arrow Down,Sharp Duotone Thin
 circle-euro,8,fa-duotone fa-regular fa-circle-euro,Circle Euro,Duotone Regular

@@ -1628,5 +1628,14 @@ window.FA_PUBLISHED = [
 "rainbow:7",
 "star-sharp-half-alt:25",
 "person-skiing-nordic:24",
-"person-arrow-down-to-line:22"
+"person-arrow-down-to-line:22",
+"chart-simple:7",
+"toilet:8",
+"horse-head:19",
+"face-grimace:9",
+"inhaler:6",
+"bow-archery:3",
+"arrow-down-left-and-arrow-up-right-to-center:26",
+"flag:29",
+"bible:9"
 ];

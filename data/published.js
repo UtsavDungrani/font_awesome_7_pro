@@ -1601,5 +1601,14 @@ window.FA_PUBLISHED = [
 "trophy:29",
 "calendar-range:2",
 "pen-alt-slash:6",
-"quote-left:28"
+"quote-left:28",
+"paw:34",
+"file-arrow-down:26",
+"circle-euro:8",
+"helmet-un:2",
+"single-quote-right:8",
+"trash-list:21",
+"industry:19",
+"joystick:8",
+"box-check:0"
 ];

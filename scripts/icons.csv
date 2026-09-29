@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-paw,34,fa-utility-fill fa-semibold fa-paw,Paw,Utility Fill Semibold
-file-arrow-down,26,fa-sharp-duotone fa-thin fa-file-arrow-down,File Arrow Down,Sharp Duotone Thin
-circle-euro,8,fa-duotone fa-regular fa-circle-euro,Circle Euro,Duotone Regular
-helmet-un,2,fa-light fa-helmet-un,Helmet Un,Light
-single-quote-right,8,fa-duotone fa-regular fa-single-quote-right,Single Quote Right,Duotone Regular
-trash-list,21,fa-sharp fa-solid fa-trash-list,Trash List,Sharp Solid
-industry,19,fa-sharp fa-light fa-industry,Industry,Sharp Light
-joystick,8,fa-duotone fa-regular fa-joystick,Joystick,Duotone Regular
-box-check,0,fa-solid fa-box-check,Box Check,Solid
 apple-crate,26,fa-sharp-duotone fa-thin fa-apple-crate,Apple Crate,Sharp Duotone Thin
 bacon,3,fa-thin fa-bacon,Bacon,Thin
 franc-sign,6,fa-duotone fa-franc-sign,Franc Sign,Duotone Solid

@@ -1664,5 +1664,14 @@ window.FA_PUBLISHED = [
 "sprinkler-ceiling:23",
 "chart-waterfall:25",
 "vial-vertical:25",
-"face-pouting:2"
+"face-pouting:2",
+"pants-straight:24",
+"clock-twelve-thirty:20",
+"function:22",
+"copyright:24",
+"seat-airline-window:24",
+"calendar-circle-minus:6",
+"faucet-drip:23",
+"venus-double:2",
+"shuttle-space:8"
 ];

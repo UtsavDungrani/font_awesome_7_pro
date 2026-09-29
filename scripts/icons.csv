@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pants-straight,24,fa-sharp-duotone fa-regular fa-pants-straight,Pants Straight,Sharp Duotone Regular
-clock-twelve-thirty,20,fa-sharp fa-regular fa-clock-twelve-thirty,Clock Twelve Thirty,Sharp Regular
-function,22,fa-sharp fa-thin fa-function,Function,Sharp Thin
-copyright,24,fa-sharp-duotone fa-regular fa-copyright,Copyright,Sharp Duotone Regular
-seat-airline-window,24,fa-sharp-duotone fa-regular fa-seat-airline-window,Seat Airline Window,Sharp Duotone Regular
-calendar-circle-minus,6,fa-duotone fa-calendar-circle-minus,Calendar Circle Minus,Duotone Solid
-faucet-drip,23,fa-sharp-duotone fa-light fa-faucet-drip,Faucet Drip,Sharp Duotone Light
-venus-double,2,fa-light fa-venus-double,Venus Double,Light
-shuttle-space,8,fa-duotone fa-regular fa-shuttle-space,Shuttle Space,Duotone Regular
 clock,32,fa-utility fa-semibold fa-clock,Clock,Utility Semibold
 border-left,3,fa-thin fa-border-left,Border Left,Thin
 cloud-snow,20,fa-sharp fa-regular fa-cloud-snow,Cloud Snow,Sharp Regular

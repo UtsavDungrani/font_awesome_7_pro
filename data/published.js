@@ -1583,5 +1583,14 @@ window.FA_PUBLISHED = [
 "square-franc:21",
 "snowflake-droplets:22",
 "tire-flat:19",
-"00:23"
+"00:23",
+"swap:7",
+"vine:4",
+"dice-two:26",
+"fire-alt:26",
+"slider-circle:1",
+"wagon-covered:24",
+"grip-lines-vertical:0",
+"brackets:24",
+"circle-gf:26"
 ];

@@ -1709,5 +1709,14 @@ window.FA_PUBLISHED = [
 "lips:35",
 "id-badge:21",
 "bezier-curve:1",
-"arrow-circle-right:23"
+"arrow-circle-right:23",
+"clapperboard-play:20",
+"sort:22",
+"shovel-snow:8",
+"moon-cloud:9",
+"brightness-low:6",
+"arrow-turn-up:24",
+"pager:19",
+"splotch:20",
+"chevron-double-down:20"
 ];

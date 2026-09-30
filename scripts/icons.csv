@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clapperboard-play,20,fa-sharp fa-regular fa-clapperboard-play,Clapperboard Play,Sharp Regular
-sort,22,fa-sharp fa-thin fa-sort,Sort,Sharp Thin
-shovel-snow,8,fa-duotone fa-regular fa-shovel-snow,Shovel Snow,Duotone Regular
-moon-cloud,9,fa-duotone fa-thin fa-moon-cloud,Moon Cloud,Duotone Thin
-brightness-low,6,fa-duotone fa-brightness-low,Brightness Low,Duotone Solid
-arrow-turn-up,24,fa-sharp-duotone fa-regular fa-arrow-turn-up,Arrow Turn Up,Sharp Duotone Regular
-pager,19,fa-sharp fa-light fa-pager,Pager,Sharp Light
-splotch,20,fa-sharp fa-regular fa-splotch,Splotch,Sharp Regular
-chevron-double-down,20,fa-sharp fa-regular fa-chevron-double-down,Chevron Double Down,Sharp Regular
 bridge-water,6,fa-duotone fa-bridge-water,Bridge Water,Duotone Solid
 octagon-check,8,fa-duotone fa-regular fa-octagon-check,Octagon Check,Duotone Regular
 pencil-line,9,fa-duotone fa-thin fa-pencil-line,Pencil Line,Duotone Thin

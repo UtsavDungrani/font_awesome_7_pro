@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-toilet-paper-xmark,3,fa-thin fa-toilet-paper-xmark,Toilet Paper Xmark,Thin
-tennis-ball,0,fa-solid fa-tennis-ball,Tennis Ball,Solid
-shoe,24,fa-sharp-duotone fa-regular fa-shoe,Shoe,Sharp Duotone Regular
-registered,23,fa-sharp-duotone fa-light fa-registered,Registered,Sharp Duotone Light
-toilet-paper-reverse-slash,8,fa-duotone fa-regular fa-toilet-paper-reverse-slash,Toilet Paper Reverse Slash,Duotone Regular
-transmission,19,fa-sharp fa-light fa-transmission,Transmission,Sharp Light
-toilet-paper-slash,20,fa-sharp fa-regular fa-toilet-paper-slash,Toilet Paper Slash,Sharp Regular
-file-svg,20,fa-sharp fa-regular fa-file-svg,File Svg,Sharp Regular
-comment-arrow-up-right,9,fa-duotone fa-thin fa-comment-arrow-up-right,Comment Arrow Up Right,Duotone Thin
 clover,19,fa-sharp fa-light fa-clover,Clover,Sharp Light
 custard,6,fa-duotone fa-custard,Custard,Duotone Solid
 label,8,fa-duotone fa-regular fa-label,Label,Duotone Regular

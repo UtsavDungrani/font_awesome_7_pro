@@ -1736,5 +1736,14 @@ window.FA_PUBLISHED = [
 "circle-exclamation:33",
 "table-cells-lock:24",
 "eclipse-alt:8",
-"bags-shopping:0"
+"bags-shopping:0",
+"toilet-paper-xmark:3",
+"tennis-ball:0",
+"shoe:24",
+"registered:23",
+"toilet-paper-reverse-slash:8",
+"transmission:19",
+"toilet-paper-slash:20",
+"file-svg:20",
+"comment-arrow-up-right:9"
 ];

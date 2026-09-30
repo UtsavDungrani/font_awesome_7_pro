@@ -1745,5 +1745,14 @@ window.FA_PUBLISHED = [
 "transmission:19",
 "toilet-paper-slash:20",
 "file-svg:20",
-"comment-arrow-up-right:9"
+"comment-arrow-up-right:9",
+"clover:19",
+"custard:6",
+"label:8",
+"book-journal-whills:3",
+"road-lock:3",
+"square-divide:1",
+"truck:33",
+"kidneys:20",
+"family:22"
 ];

@@ -1727,5 +1727,14 @@ window.FA_PUBLISHED = [
 "binoculars:1",
 "pen-slash:7",
 "radiation:21",
-"wind-circle-exclamation:19"
+"wind-circle-exclamation:19",
+"arrow-right-to-bracket:7",
+"hotel:6",
+"diploma:8",
+"face-spiral-eyes:8",
+"gemini:22",
+"circle-exclamation:33",
+"table-cells-lock:24",
+"eclipse-alt:8",
+"bags-shopping:0"
 ];

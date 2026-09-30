@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pig,21,fa-sharp fa-solid fa-pig,Pig,Sharp Solid
-automobile,23,fa-sharp-duotone fa-light fa-automobile,Automobile,Sharp Duotone Light
-credit-card-blank,7,fa-duotone fa-light fa-credit-card-blank,Credit Card Blank,Duotone Light
-wine-bottle,8,fa-duotone fa-regular fa-wine-bottle,Wine Bottle,Duotone Regular
-fighter-jet,0,fa-solid fa-fighter-jet,Fighter Jet,Solid
-stopwatch,6,fa-duotone fa-stopwatch,Stopwatch,Duotone Solid
-apple-core,25,fa-sharp-duotone fa-solid fa-apple-core,Apple Core,Sharp Duotone Solid
-calendar-circle-plus,3,fa-thin fa-calendar-circle-plus,Calendar Circle Plus,Thin
-scorpio,1,fa-regular fa-scorpio,Scorpio,Regular
 clipboard,7,fa-duotone fa-light fa-clipboard,Clipboard,Duotone Light
 traffic-light-slow,25,fa-sharp-duotone fa-solid fa-traffic-light-slow,Traffic Light Slow,Sharp Duotone Solid
 circle-h,22,fa-sharp fa-thin fa-circle-h,Circle H,Sharp Thin

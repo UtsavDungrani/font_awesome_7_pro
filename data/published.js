@@ -1808,5 +1808,14 @@ window.FA_PUBLISHED = [
 "plane-landing-gear:23",
 "phone-slash:28",
 "arrow-down-z-a:2",
-"volume-slash:11"
+"volume-slash:11",
+"pig:21",
+"automobile:23",
+"credit-card-blank:7",
+"wine-bottle:8",
+"fighter-jet:0",
+"stopwatch:6",
+"apple-core:25",
+"calendar-circle-plus:3",
+"scorpio:1"
 ];

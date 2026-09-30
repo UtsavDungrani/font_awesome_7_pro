@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-candy-cane,21,fa-sharp fa-solid fa-candy-cane,Candy Cane,Sharp Solid
-circle-4,9,fa-duotone fa-thin fa-circle-4,Circle 4,Duotone Thin
-headset,8,fa-duotone fa-regular fa-headset,Headset,Duotone Regular
-bus-alt,25,fa-sharp-duotone fa-solid fa-bus-alt,Bus Alt,Sharp Duotone Solid
-file-mov,23,fa-sharp-duotone fa-light fa-file-mov,File Mov,Sharp Duotone Light
-lips,35,fa-vellum fa-solid fa-lips,Lips,Vellum Solid
-id-badge,21,fa-sharp fa-solid fa-id-badge,Id Badge,Sharp Solid
-bezier-curve,1,fa-regular fa-bezier-curve,Bezier Curve,Regular
-arrow-circle-right,23,fa-sharp-duotone fa-light fa-arrow-circle-right,Arrow Circle Right,Sharp Duotone Light
 clapperboard-play,20,fa-sharp fa-regular fa-clapperboard-play,Clapperboard Play,Sharp Regular
 sort,22,fa-sharp fa-thin fa-sort,Sort,Sharp Thin
 shovel-snow,8,fa-duotone fa-regular fa-shovel-snow,Shovel Snow,Duotone Regular

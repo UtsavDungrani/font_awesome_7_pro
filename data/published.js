@@ -1700,5 +1700,14 @@ window.FA_PUBLISHED = [
 "umbrella:1",
 "oil-can:26",
 "ball-pile:3",
-"digging:8"
+"digging:8",
+"candy-cane:21",
+"circle-4:9",
+"headset:8",
+"bus-alt:25",
+"file-mov:23",
+"lips:35",
+"id-badge:21",
+"bezier-curve:1",
+"arrow-circle-right:23"
 ];

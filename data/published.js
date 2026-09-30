@@ -1826,5 +1826,14 @@ window.FA_PUBLISHED = [
 "square-baht:25",
 "pickaxe:8",
 "bread-slice-butter:6",
-"arrows-down-to-people:22"
+"arrows-down-to-people:22",
+"envelope-open:1",
+"mobile-alt:2",
+"satellite:7",
+"file-prescription:6",
+"peruvian-soles-sign:20",
+"text:24",
+"file-exclamation:9",
+"box-full:6",
+"droplet-plus:6"
 ];

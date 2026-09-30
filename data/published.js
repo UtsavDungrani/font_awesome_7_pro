@@ -1754,5 +1754,14 @@ window.FA_PUBLISHED = [
 "square-divide:1",
 "truck:33",
 "kidneys:20",
-"family:22"
+"family:22",
+"clipboard-prescription:21",
+"fire-burner:20",
+"compass:31",
+"calendar-lines-pen:2",
+"tent:19",
+"battery-3:36",
+"arrows-to-dotted-line:8",
+"wreath-laurel:1",
+"arrow-rotate-left-15:19"
 ];

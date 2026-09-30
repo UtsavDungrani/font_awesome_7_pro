@@ -1772,5 +1772,14 @@ window.FA_PUBLISHED = [
 "universal-access:10",
 "user-beard:7",
 "octagon-divide:0",
-"dna:6"
+"dna:6",
+"trombone:24",
+"leo:23",
+"user-hat-tie:9",
+"ellipsis:26",
+"hand-holding-dollar:1",
+"leo:25",
+"otter:8",
+"poo:1",
+"coffin:7"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trombone,24,fa-sharp-duotone fa-regular fa-trombone,Trombone,Sharp Duotone Regular
-leo,23,fa-sharp-duotone fa-light fa-leo,Leo,Sharp Duotone Light
-user-hat-tie,9,fa-duotone fa-thin fa-user-hat-tie,User Hat Tie,Duotone Thin
-ellipsis,26,fa-sharp-duotone fa-thin fa-ellipsis,Ellipsis,Sharp Duotone Thin
-hand-holding-dollar,1,fa-regular fa-hand-holding-dollar,Hand Holding Dollar,Regular
-leo,25,fa-sharp-duotone fa-solid fa-leo,Leo,Sharp Duotone Solid
-otter,8,fa-duotone fa-regular fa-otter,Otter,Duotone Regular
-poo,1,fa-regular fa-poo,Poo,Regular
-coffin,7,fa-duotone fa-light fa-coffin,Coffin,Duotone Light
 language,20,fa-sharp fa-regular fa-language,Language,Sharp Regular
 mask,19,fa-sharp fa-light fa-mask,Mask,Sharp Light
 terminal,20,fa-sharp fa-regular fa-terminal,Terminal,Sharp Regular

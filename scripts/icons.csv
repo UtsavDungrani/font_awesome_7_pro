@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clipboard,7,fa-duotone fa-light fa-clipboard,Clipboard,Duotone Light
-traffic-light-slow,25,fa-sharp-duotone fa-solid fa-traffic-light-slow,Traffic Light Slow,Sharp Duotone Solid
-circle-h,22,fa-sharp fa-thin fa-circle-h,Circle H,Sharp Thin
-arrows-up-down,23,fa-sharp-duotone fa-light fa-arrows-up-down,Arrows Up Down,Sharp Duotone Light
-mars-and-venus,7,fa-duotone fa-light fa-mars-and-venus,Mars And Venus,Duotone Light
-square-baht,25,fa-sharp-duotone fa-solid fa-square-baht,Square Baht,Sharp Duotone Solid
-pickaxe,8,fa-duotone fa-regular fa-pickaxe,Pickaxe,Duotone Regular
-bread-slice-butter,6,fa-duotone fa-bread-slice-butter,Bread Slice Butter,Duotone Solid
-arrows-down-to-people,22,fa-sharp fa-thin fa-arrows-down-to-people,Arrows Down To People,Sharp Thin
 envelope-open,1,fa-regular fa-envelope-open,Envelope Open,Regular
 mobile-alt,2,fa-light fa-mobile-alt,Mobile Alt,Light
 satellite,7,fa-duotone fa-light fa-satellite,Satellite,Duotone Light

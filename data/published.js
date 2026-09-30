@@ -1817,5 +1817,14 @@ window.FA_PUBLISHED = [
 "stopwatch:6",
 "apple-core:25",
 "calendar-circle-plus:3",
-"scorpio:1"
+"scorpio:1",
+"clipboard:7",
+"traffic-light-slow:25",
+"circle-h:22",
+"arrows-up-down:23",
+"mars-and-venus:7",
+"square-baht:25",
+"pickaxe:8",
+"bread-slice-butter:6",
+"arrows-down-to-people:22"
 ];

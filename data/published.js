@@ -1781,5 +1781,14 @@ window.FA_PUBLISHED = [
 "leo:25",
 "otter:8",
 "poo:1",
-"coffin:7"
+"coffin:7",
+"language:20",
+"mask:19",
+"terminal:20",
+"person-arrow-down-to-line:21",
+"trash:6",
+"clone:21",
+"tents:19",
+"birthday-cake:14",
+"building-circle-arrow-right:6"
 ];

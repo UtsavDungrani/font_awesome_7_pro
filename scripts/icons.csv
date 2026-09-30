@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-language,20,fa-sharp fa-regular fa-language,Language,Sharp Regular
-mask,19,fa-sharp fa-light fa-mask,Mask,Sharp Light
-terminal,20,fa-sharp fa-regular fa-terminal,Terminal,Sharp Regular
-person-arrow-down-to-line,21,fa-sharp fa-solid fa-person-arrow-down-to-line,Person Arrow Down To Line,Sharp Solid
-trash,6,fa-duotone fa-trash,Trash,Duotone Solid
-clone,21,fa-sharp fa-solid fa-clone,Clone,Sharp Solid
-tents,19,fa-sharp fa-light fa-tents,Tents,Sharp Light
-birthday-cake,14,fa-jelly-fill fa-regular fa-birthday-cake,Birthday Cake,Jelly Fill Regular
-building-circle-arrow-right,6,fa-duotone fa-building-circle-arrow-right,Building Circle Arrow Right,Duotone Solid
 square-u,25,fa-sharp-duotone fa-solid fa-square-u,Square U,Sharp Duotone Solid
 truck,26,fa-sharp-duotone fa-thin fa-truck,Truck,Sharp Duotone Thin
 arrow-alt-to-top,21,fa-sharp fa-solid fa-arrow-alt-to-top,Arrow Alt To Top,Sharp Solid

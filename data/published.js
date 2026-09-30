@@ -1790,5 +1790,14 @@ window.FA_PUBLISHED = [
 "clone:21",
 "tents:19",
 "birthday-cake:14",
-"building-circle-arrow-right:6"
+"building-circle-arrow-right:6",
+"square-u:25",
+"truck:26",
+"arrow-alt-to-top:21",
+"area-chart:3",
+"face-tissue:0",
+"recycle:9",
+"arrow-down-square-triangle:23",
+"prescription-bottle-alt:20",
+"hand-holding-circle-dollar:23"
 ];

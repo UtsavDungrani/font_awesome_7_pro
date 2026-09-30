@@ -1718,5 +1718,14 @@ window.FA_PUBLISHED = [
 "arrow-turn-up:24",
 "pager:19",
 "splotch:20",
-"chevron-double-down:20"
+"chevron-double-down:20",
+"bridge-water:6",
+"octagon-check:8",
+"pencil-line:9",
+"outlet:22",
+"dungeon:20",
+"binoculars:1",
+"pen-slash:7",
+"radiation:21",
+"wind-circle-exclamation:19"
 ];

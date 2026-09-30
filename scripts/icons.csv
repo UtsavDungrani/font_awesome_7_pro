@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bridge-water,6,fa-duotone fa-bridge-water,Bridge Water,Duotone Solid
-octagon-check,8,fa-duotone fa-regular fa-octagon-check,Octagon Check,Duotone Regular
-pencil-line,9,fa-duotone fa-thin fa-pencil-line,Pencil Line,Duotone Thin
-outlet,22,fa-sharp fa-thin fa-outlet,Outlet,Sharp Thin
-dungeon,20,fa-sharp fa-regular fa-dungeon,Dungeon,Sharp Regular
-binoculars,1,fa-regular fa-binoculars,Binoculars,Regular
-pen-slash,7,fa-duotone fa-light fa-pen-slash,Pen Slash,Duotone Light
-radiation,21,fa-sharp fa-solid fa-radiation,Radiation,Sharp Solid
-wind-circle-exclamation,19,fa-sharp fa-light fa-wind-circle-exclamation,Wind Circle Exclamation,Sharp Light
 arrow-right-to-bracket,7,fa-duotone fa-light fa-arrow-right-to-bracket,Arrow Right To Bracket,Duotone Light
 hotel,6,fa-duotone fa-hotel,Hotel,Duotone Solid
 diploma,8,fa-duotone fa-regular fa-diploma,Diploma,Duotone Regular

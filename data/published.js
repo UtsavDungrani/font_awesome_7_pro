@@ -1763,5 +1763,14 @@ window.FA_PUBLISHED = [
 "battery-3:36",
 "arrows-to-dotted-line:8",
 "wreath-laurel:1",
-"arrow-rotate-left-15:19"
+"arrow-rotate-left-15:19",
+"jet-fighter-up:20",
+"magnet:3",
+"down-long-to-line:23",
+"location-arrow-slash:6",
+"file-spreadsheet:0",
+"universal-access:10",
+"user-beard:7",
+"octagon-divide:0",
+"dna:6"
 ];

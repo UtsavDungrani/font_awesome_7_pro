@@ -1799,5 +1799,14 @@ window.FA_PUBLISHED = [
 "recycle:9",
 "arrow-down-square-triangle:23",
 "prescription-bottle-alt:20",
-"hand-holding-circle-dollar:23"
+"hand-holding-circle-dollar:23",
+"arrow-rotate-right-15:0",
+"paw-alt:9",
+"trash:20",
+"wifi-1:24",
+"face-confounded:24",
+"plane-landing-gear:23",
+"phone-slash:28",
+"arrow-down-z-a:2",
+"volume-slash:11"
 ];

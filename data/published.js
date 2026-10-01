@@ -1907,5 +1907,14 @@ window.FA_PUBLISHED = [
 "tally-1:0",
 "circle-r:8",
 "gun-slash:9",
-"tire:21"
+"tire:21",
+"equals:34",
+"butterfly:1",
+"people-pants-simple:20",
+"square-star:2",
+"signal:9",
+"user-clock:20",
+"single-quote-right:7",
+"paint-brush-alt:1",
+"clock-eleven-thirty:2"
 ];

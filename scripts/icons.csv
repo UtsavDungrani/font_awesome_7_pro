@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-equals,34,fa-utility-fill fa-semibold fa-equals,Equals,Utility Fill Semibold
-butterfly,1,fa-regular fa-butterfly,Butterfly,Regular
-people-pants-simple,20,fa-sharp fa-regular fa-people-pants-simple,People Pants Simple,Sharp Regular
-square-star,2,fa-light fa-square-star,Square Star,Light
-signal,9,fa-duotone fa-thin fa-signal,Signal,Duotone Thin
-user-clock,20,fa-sharp fa-regular fa-user-clock,User Clock,Sharp Regular
-single-quote-right,7,fa-duotone fa-light fa-single-quote-right,Single Quote Right,Duotone Light
-paint-brush-alt,1,fa-regular fa-paint-brush-alt,Paint Brush Alt,Regular
-clock-eleven-thirty,2,fa-light fa-clock-eleven-thirty,Clock Eleven Thirty,Light
 rabbit,26,fa-sharp-duotone fa-thin fa-rabbit,Rabbit,Sharp Duotone Thin
 airplay,21,fa-sharp fa-solid fa-airplay,Airplay,Sharp Solid
 syringe,6,fa-duotone fa-syringe,Syringe,Duotone Solid

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-down-left,20,fa-sharp fa-regular fa-down-left,Down Left,Sharp Regular
-house-tree,22,fa-sharp fa-thin fa-house-tree,House Tree,Sharp Thin
-face-grin,15,fa-mosaic fa-solid fa-face-grin,Face Grin,Mosaic Solid
-location-crosshairs-slash,6,fa-duotone fa-location-crosshairs-slash,Location Crosshairs Slash,Duotone Solid
-bell-slash,25,fa-sharp-duotone fa-solid fa-bell-slash,Bell Slash,Sharp Duotone Solid
-face-smile-plus,21,fa-sharp fa-solid fa-face-smile-plus,Face Smile Plus,Sharp Solid
-screencast,9,fa-duotone fa-thin fa-screencast,Screencast,Duotone Thin
-server,21,fa-sharp fa-solid fa-server,Server,Sharp Solid
-game-console-handheld,2,fa-light fa-game-console-handheld,Game Console Handheld,Light
 fish-fins,6,fa-duotone fa-fish-fins,Fish Fins,Duotone Solid
 archway,24,fa-sharp-duotone fa-regular fa-archway,Archway,Sharp Duotone Regular
 circle-share-nodes,19,fa-sharp fa-light fa-circle-share-nodes,Circle Share Nodes,Sharp Light

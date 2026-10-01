@@ -1862,5 +1862,14 @@ window.FA_PUBLISHED = [
 "camera-clock:3",
 "wheat-alt:25",
 "bowl-chopsticks:1",
-"circle-gf:21"
+"circle-gf:21",
+"down-left:20",
+"house-tree:22",
+"face-grin:15",
+"location-crosshairs-slash:6",
+"bell-slash:25",
+"face-smile-plus:21",
+"screencast:9",
+"server:21",
+"game-console-handheld:2"
 ];

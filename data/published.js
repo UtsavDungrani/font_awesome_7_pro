@@ -1853,5 +1853,14 @@ window.FA_PUBLISHED = [
 "shoe:7",
 "align-center:23",
 "hand-receiving:22",
-"shield-heart:1"
+"shield-heart:1",
+"stool:26",
+"ballot-check:25",
+"video-arrow-up-right:0",
+"face-zipper:19",
+"car-mirrors:6",
+"camera-clock:3",
+"wheat-alt:25",
+"bowl-chopsticks:1",
+"circle-gf:21"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-link-simple-slash,23,fa-sharp-duotone fa-light fa-link-simple-slash,Link Simple Slash,Sharp Duotone Light
-gopuram,25,fa-sharp-duotone fa-solid fa-gopuram,Gopuram,Sharp Duotone Solid
-square-down-right,7,fa-duotone fa-light fa-square-down-right,Square Down Right,Duotone Light
-envelope-circle-user,20,fa-sharp fa-regular fa-envelope-circle-user,Envelope Circle User,Sharp Regular
-camera-circle,1,fa-regular fa-camera-circle,Camera Circle,Regular
-rectangle-wide,35,fa-vellum fa-solid fa-rectangle-wide,Rectangle Wide,Vellum Solid
-users-between-lines,20,fa-sharp fa-regular fa-users-between-lines,Users Between Lines,Sharp Regular
-exclamation-triangle,2,fa-light fa-exclamation-triangle,Exclamation Triangle,Light
-circle-franc,22,fa-sharp fa-thin fa-circle-franc,Circle Franc,Sharp Thin
 money-bill,22,fa-sharp fa-thin fa-money-bill,Money Bill,Sharp Thin
 face-kiss,3,fa-thin fa-face-kiss,Face Kiss,Thin
 border-right,3,fa-thin fa-border-right,Border Right,Thin

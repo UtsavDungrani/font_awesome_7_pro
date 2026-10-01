@@ -1880,5 +1880,14 @@ window.FA_PUBLISHED = [
 "starship:26",
 "sun-haze:8",
 "square-quarters:24",
-"square-4:9"
+"square-4:9",
+"link-simple-slash:23",
+"gopuram:25",
+"square-down-right:7",
+"envelope-circle-user:20",
+"camera-circle:1",
+"rectangle-wide:35",
+"users-between-lines:20",
+"exclamation-triangle:2",
+"circle-franc:22"
 ];

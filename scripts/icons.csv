@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hexagon-divide,6,fa-duotone fa-hexagon-divide,Hexagon Divide,Duotone Solid
-users-line,22,fa-sharp fa-thin fa-users-line,Users Line,Sharp Thin
-gauge-simple-max,9,fa-duotone fa-thin fa-gauge-simple-max,Gauge Simple Max,Duotone Thin
-scanner-keyboard,24,fa-sharp-duotone fa-regular fa-scanner-keyboard,Scanner Keyboard,Sharp Duotone Regular
-cloud-sun,0,fa-solid fa-cloud-sun,Cloud Sun,Solid
-shoe,7,fa-duotone fa-light fa-shoe,Shoe,Duotone Light
-align-center,23,fa-sharp-duotone fa-light fa-align-center,Align Center,Sharp Duotone Light
-hand-receiving,22,fa-sharp fa-thin fa-hand-receiving,Hand Receiving,Sharp Thin
-shield-heart,1,fa-regular fa-shield-heart,Shield Heart,Regular
 stool,26,fa-sharp-duotone fa-thin fa-stool,Stool,Sharp Duotone Thin
 ballot-check,25,fa-sharp-duotone fa-solid fa-ballot-check,Ballot Check,Sharp Duotone Solid
 video-arrow-up-right,0,fa-solid fa-video-arrow-up-right,Video Arrow Up Right,Solid

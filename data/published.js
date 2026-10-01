@@ -1844,5 +1844,14 @@ window.FA_PUBLISHED = [
 "spell-check:23",
 "clinic-medical:25",
 "thermometer:19",
-"family-dress:19"
+"family-dress:19",
+"hexagon-divide:6",
+"users-line:22",
+"gauge-simple-max:9",
+"scanner-keyboard:24",
+"cloud-sun:0",
+"shoe:7",
+"align-center:23",
+"hand-receiving:22",
+"shield-heart:1"
 ];

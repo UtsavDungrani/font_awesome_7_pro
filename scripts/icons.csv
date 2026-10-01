@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-turn-left-up,24,fa-sharp-duotone fa-regular fa-turn-left-up,Turn Left Up,Sharp Duotone Regular
-file-ppt,6,fa-duotone fa-file-ppt,File Ppt,Duotone Solid
-coffee-pot,26,fa-sharp-duotone fa-thin fa-coffee-pot,Coffee Pot,Sharp Duotone Thin
-ellipsis-stroke-vertical,7,fa-duotone fa-light fa-ellipsis-stroke-vertical,Ellipsis Stroke Vertical,Duotone Light
-folder-user,22,fa-sharp fa-thin fa-folder-user,Folder User,Sharp Thin
-spell-check,23,fa-sharp-duotone fa-light fa-spell-check,Spell Check,Sharp Duotone Light
-clinic-medical,25,fa-sharp-duotone fa-solid fa-clinic-medical,Clinic Medical,Sharp Duotone Solid
-thermometer,19,fa-sharp fa-light fa-thermometer,Thermometer,Sharp Light
-family-dress,19,fa-sharp fa-light fa-family-dress,Family Dress,Sharp Light
 hexagon-divide,6,fa-duotone fa-hexagon-divide,Hexagon Divide,Duotone Solid
 users-line,22,fa-sharp fa-thin fa-users-line,Users Line,Sharp Thin
 gauge-simple-max,9,fa-duotone fa-thin fa-gauge-simple-max,Gauge Simple Max,Duotone Thin

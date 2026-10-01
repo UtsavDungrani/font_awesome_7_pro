@@ -1835,5 +1835,14 @@ window.FA_PUBLISHED = [
 "text:24",
 "file-exclamation:9",
 "box-full:6",
-"droplet-plus:6"
+"droplet-plus:6",
+"turn-left-up:24",
+"file-ppt:6",
+"coffee-pot:26",
+"ellipsis-stroke-vertical:7",
+"folder-user:22",
+"spell-check:23",
+"clinic-medical:25",
+"thermometer:19",
+"family-dress:19"
 ];

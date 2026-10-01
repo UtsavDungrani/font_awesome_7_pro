@@ -1871,5 +1871,14 @@ window.FA_PUBLISHED = [
 "face-smile-plus:21",
 "screencast:9",
 "server:21",
-"game-console-handheld:2"
+"game-console-handheld:2",
+"fish-fins:6",
+"archway:24",
+"circle-share-nodes:19",
+"birthday-cake:22",
+"arrow-up-left-from-circle:3",
+"starship:26",
+"sun-haze:8",
+"square-quarters:24",
+"square-4:9"
 ];

@@ -1889,5 +1889,14 @@ window.FA_PUBLISHED = [
 "rectangle-wide:35",
 "users-between-lines:20",
 "exclamation-triangle:2",
-"circle-franc:22"
+"circle-franc:22",
+"money-bill:22",
+"face-kiss:3",
+"border-right:3",
+"plane-arrival:7",
+"fish-fins:23",
+"face-zipper:7",
+"arrows-spin:22",
+"internet-explorer:4",
+"circle-franc:9"
 ];

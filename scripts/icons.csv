@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-money-bill,22,fa-sharp fa-thin fa-money-bill,Money Bill,Sharp Thin
-face-kiss,3,fa-thin fa-face-kiss,Face Kiss,Thin
-border-right,3,fa-thin fa-border-right,Border Right,Thin
-plane-arrival,7,fa-duotone fa-light fa-plane-arrival,Plane Arrival,Duotone Light
-fish-fins,23,fa-sharp-duotone fa-light fa-fish-fins,Fish Fins,Sharp Duotone Light
-face-zipper,7,fa-duotone fa-light fa-face-zipper,Face Zipper,Duotone Light
-arrows-spin,22,fa-sharp fa-thin fa-arrows-spin,Arrows Spin,Sharp Thin
-internet-explorer,4,fa-brands fa-internet-explorer,Internet Explorer,Brands
-circle-franc,9,fa-duotone fa-thin fa-circle-franc,Circle Franc,Duotone Thin
 user-circle-plus,8,fa-duotone fa-regular fa-user-circle-plus,User Circle Plus,Duotone Regular
 9,1,fa-regular fa-9,9,Regular
 calendar-range,24,fa-sharp-duotone fa-regular fa-calendar-range,Calendar Range,Sharp Duotone Regular

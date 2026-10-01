@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-circle-plus,8,fa-duotone fa-regular fa-user-circle-plus,User Circle Plus,Duotone Regular
-9,1,fa-regular fa-9,9,Regular
-calendar-range,24,fa-sharp-duotone fa-regular fa-calendar-range,Calendar Range,Sharp Duotone Regular
-circle-info,32,fa-utility fa-semibold fa-circle-info,Circle Info,Utility Semibold
-bow-archery,25,fa-sharp-duotone fa-solid fa-bow-archery,Bow Archery,Sharp Duotone Solid
-tally-1,0,fa-solid fa-tally-1,Tally 1,Solid
-circle-r,8,fa-duotone fa-regular fa-circle-r,Circle R,Duotone Regular
-gun-slash,9,fa-duotone fa-thin fa-gun-slash,Gun Slash,Duotone Thin
-tire,21,fa-sharp fa-solid fa-tire,Tire,Sharp Solid
 equals,34,fa-utility-fill fa-semibold fa-equals,Equals,Utility Fill Semibold
 butterfly,1,fa-regular fa-butterfly,Butterfly,Regular
 people-pants-simple,20,fa-sharp fa-regular fa-people-pants-simple,People Pants Simple,Sharp Regular

@@ -1898,5 +1898,14 @@ window.FA_PUBLISHED = [
 "face-zipper:7",
 "arrows-spin:22",
 "internet-explorer:4",
-"circle-franc:9"
+"circle-franc:9",
+"user-circle-plus:8",
+"9:1",
+"calendar-range:24",
+"circle-info:32",
+"bow-archery:25",
+"tally-1:0",
+"circle-r:8",
+"gun-slash:9",
+"tire:21"
 ];

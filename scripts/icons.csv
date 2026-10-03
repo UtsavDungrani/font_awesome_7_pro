@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-heart-music-camera-bolt,1,fa-regular fa-heart-music-camera-bolt,Heart Music Camera Bolt,Regular
-chess,24,fa-sharp-duotone fa-regular fa-chess,Chess,Sharp Duotone Regular
-expand-arrows-alt,0,fa-solid fa-expand-arrows-alt,Expand Arrows Alt,Solid
-u-turn-right-up,21,fa-sharp fa-solid fa-u-turn-right-up,U Turn Right Up,Sharp Solid
-album-circle-plus,0,fa-solid fa-album-circle-plus,Album Circle Plus,Solid
-bracket-square-right,6,fa-duotone fa-bracket-square-right,Bracket Square Right,Duotone Solid
-snake,6,fa-duotone fa-snake,Snake,Duotone Solid
-usb-drive,7,fa-duotone fa-light fa-usb-drive,Usb Drive,Duotone Light
-square-code,0,fa-solid fa-square-code,Square Code,Solid
 dashboard,6,fa-duotone fa-dashboard,Dashboard,Duotone Solid
 file-mov,19,fa-sharp fa-light fa-file-mov,File Mov,Sharp Light
 fire-alt,8,fa-duotone fa-regular fa-fire-alt,Fire Alt,Duotone Regular

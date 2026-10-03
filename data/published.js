@@ -1979,5 +1979,14 @@ window.FA_PUBLISHED = [
 "arrow-right-from-file:19",
 "bitcoin-sign:2",
 "trash-slash:34",
-"face-grin-wink:23"
+"face-grin-wink:23",
+"heart-music-camera-bolt:1",
+"chess:24",
+"expand-arrows-alt:0",
+"u-turn-right-up:21",
+"album-circle-plus:0",
+"bracket-square-right:6",
+"snake:6",
+"usb-drive:7",
+"square-code:0"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-fireplace,20,fa-sharp fa-regular fa-fireplace,Fireplace,Sharp Regular
-arrows-h,3,fa-thin fa-arrows-h,Arrows H,Thin
-fragile,21,fa-sharp fa-solid fa-fragile,Fragile,Sharp Solid
-sliders-simple,19,fa-sharp fa-light fa-sliders-simple,Sliders Simple,Sharp Light
-lasso-sparkles,19,fa-sharp fa-light fa-lasso-sparkles,Lasso Sparkles,Sharp Light
-television,29,fa-slab-press fa-regular fa-television,Television,Slab Press Regular
-sack-xmark,1,fa-regular fa-sack-xmark,Sack Xmark,Regular
-temperature-high,20,fa-sharp fa-regular fa-temperature-high,Temperature High,Sharp Regular
-castle,1,fa-regular fa-castle,Castle,Regular
 arrow-up-from-ground-water,19,fa-sharp fa-light fa-arrow-up-from-ground-water,Arrow Up From Ground Water,Sharp Light
 icicles,8,fa-duotone fa-regular fa-icicles,Icicles,Duotone Regular
 caret-square-left,1,fa-regular fa-caret-square-left,Caret Square Left,Regular

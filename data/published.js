@@ -1925,5 +1925,14 @@ window.FA_PUBLISHED = [
 "square-currency:26",
 "droplet-slash:2",
 "object-group:26",
-"up-right:2"
+"up-right:2",
+"fireplace:20",
+"arrows-h:3",
+"fragile:21",
+"sliders-simple:19",
+"lasso-sparkles:19",
+"television:29",
+"sack-xmark:1",
+"temperature-high:20",
+"castle:1"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-down-left,1,fa-regular fa-arrow-down-left,Arrow Down Left,Regular
-object-union,8,fa-duotone fa-regular fa-object-union,Object Union,Duotone Regular
-brightness-low,25,fa-sharp-duotone fa-solid fa-brightness-low,Brightness Low,Sharp Duotone Solid
-block-question,7,fa-duotone fa-light fa-block-question,Block Question,Duotone Light
-arrow-down-z-a,23,fa-sharp-duotone fa-light fa-arrow-down-z-a,Arrow Down Z A,Sharp Duotone Light
-arrow-right-from-file,19,fa-sharp fa-light fa-arrow-right-from-file,Arrow Right From File,Sharp Light
-bitcoin-sign,2,fa-light fa-bitcoin-sign,Bitcoin Sign,Light
-trash-slash,34,fa-utility-fill fa-semibold fa-trash-slash,Trash Slash,Utility Fill Semibold
-face-grin-wink,23,fa-sharp-duotone fa-light fa-face-grin-wink,Face Grin Wink,Sharp Duotone Light
 heart-music-camera-bolt,1,fa-regular fa-heart-music-camera-bolt,Heart Music Camera Bolt,Regular
 chess,24,fa-sharp-duotone fa-regular fa-chess,Chess,Sharp Duotone Regular
 expand-arrows-alt,0,fa-solid fa-expand-arrows-alt,Expand Arrows Alt,Solid

@@ -1970,5 +1970,14 @@ window.FA_PUBLISHED = [
 "circle:1",
 "capricorn:22",
 "map-location-dot:20",
-"truck-ramp:7"
+"truck-ramp:7",
+"arrow-down-left:1",
+"object-union:8",
+"brightness-low:25",
+"block-question:7",
+"arrow-down-z-a:23",
+"arrow-right-from-file:19",
+"bitcoin-sign:2",
+"trash-slash:34",
+"face-grin-wink:23"
 ];

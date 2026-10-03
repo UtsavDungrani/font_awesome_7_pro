@@ -2015,5 +2015,14 @@ window.FA_PUBLISHED = [
 "flatbread-stuffed:6",
 "fork:0",
 "deer:1",
-"plane-circle-exclamation:8"
+"plane-circle-exclamation:8",
+"camera-circle:0",
+"people-dress:9",
+"rotate:9",
+"face-hand-yawn:0",
+"arrow-down-long:2",
+"bracket-round:20",
+"car-bump:21",
+"grid-round-4:20",
+"bomb:21"
 ];

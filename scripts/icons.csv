@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-camera-circle,0,fa-solid fa-camera-circle,Camera Circle,Solid
-people-dress,9,fa-duotone fa-thin fa-people-dress,People Dress,Duotone Thin
-rotate,9,fa-duotone fa-thin fa-rotate,Rotate,Duotone Thin
-face-hand-yawn,0,fa-solid fa-face-hand-yawn,Face Hand Yawn,Solid
-arrow-down-long,2,fa-light fa-arrow-down-long,Arrow Down Long,Light
-bracket-round,20,fa-sharp fa-regular fa-bracket-round,Bracket Round,Sharp Regular
-car-bump,21,fa-sharp fa-solid fa-car-bump,Car Bump,Sharp Solid
-grid-round-4,20,fa-sharp fa-regular fa-grid-round-4,Grid Round 4,Sharp Regular
-bomb,21,fa-sharp fa-solid fa-bomb,Bomb,Sharp Solid
 microphone-slash,36,fa-whiteboard fa-semibold fa-microphone-slash,Microphone Slash,Whiteboard Semibold
 face-kiss,2,fa-light fa-face-kiss,Face Kiss,Light
 circle-three-quarters,6,fa-duotone fa-circle-three-quarters,Circle Three Quarters,Duotone Solid

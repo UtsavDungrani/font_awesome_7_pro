@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dashboard,6,fa-duotone fa-dashboard,Dashboard,Duotone Solid
-file-mov,19,fa-sharp fa-light fa-file-mov,File Mov,Sharp Light
-fire-alt,8,fa-duotone fa-regular fa-fire-alt,Fire Alt,Duotone Regular
-diagram-nested,20,fa-sharp fa-regular fa-diagram-nested,Diagram Nested,Sharp Regular
-bacon,19,fa-sharp fa-light fa-bacon,Bacon,Sharp Light
-seedling,0,fa-solid fa-seedling,Seedling,Solid
-truck-droplet,26,fa-sharp-duotone fa-thin fa-truck-droplet,Truck Droplet,Sharp Duotone Thin
-sagittarius,3,fa-thin fa-sagittarius,Sagittarius,Thin
-tornado,8,fa-duotone fa-regular fa-tornado,Tornado,Duotone Regular
 t-rex,22,fa-sharp fa-thin fa-t-rex,T Rex,Sharp Thin
 closed-captioning,7,fa-duotone fa-light fa-closed-captioning,Closed Captioning,Duotone Light
 square-quote,2,fa-light fa-square-quote,Square Quote,Light

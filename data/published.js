@@ -1988,5 +1988,14 @@ window.FA_PUBLISHED = [
 "bracket-square-right:6",
 "snake:6",
 "usb-drive:7",
-"square-code:0"
+"square-code:0",
+"dashboard:6",
+"file-mov:19",
+"fire-alt:8",
+"diagram-nested:20",
+"bacon:19",
+"seedling:0",
+"truck-droplet:26",
+"sagittarius:3",
+"tornado:8"
 ];

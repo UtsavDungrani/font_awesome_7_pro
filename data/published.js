@@ -1997,5 +1997,14 @@ window.FA_PUBLISHED = [
 "seedling:0",
 "truck-droplet:26",
 "sagittarius:3",
-"tornado:8"
+"tornado:8",
+"t-rex:22",
+"closed-captioning:7",
+"square-quote:2",
+"phone-arrow-up:24",
+"arrows-from-line:24",
+"bracket-square-right:25",
+"chess-queen:9",
+"table-rows-add-below:7",
+"up-from-dotted-line:22"
 ];

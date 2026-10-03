@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rabbit,26,fa-sharp-duotone fa-thin fa-rabbit,Rabbit,Sharp Duotone Thin
-airplay,21,fa-sharp fa-solid fa-airplay,Airplay,Sharp Solid
-syringe,6,fa-duotone fa-syringe,Syringe,Duotone Solid
-files-medical,23,fa-sharp-duotone fa-light fa-files-medical,Files Medical,Sharp Duotone Light
-tower-control,26,fa-sharp-duotone fa-thin fa-tower-control,Tower Control,Sharp Duotone Thin
-square-currency,26,fa-sharp-duotone fa-thin fa-square-currency,Square Currency,Sharp Duotone Thin
-droplet-slash,2,fa-light fa-droplet-slash,Droplet Slash,Light
-object-group,26,fa-sharp-duotone fa-thin fa-object-group,Object Group,Sharp Duotone Thin
-up-right,2,fa-light fa-up-right,Up Right,Light
 fireplace,20,fa-sharp fa-regular fa-fireplace,Fireplace,Sharp Regular
 arrows-h,3,fa-thin fa-arrows-h,Arrows H,Thin
 fragile,21,fa-sharp fa-solid fa-fragile,Fragile,Sharp Solid

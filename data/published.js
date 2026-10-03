@@ -1916,5 +1916,14 @@ window.FA_PUBLISHED = [
 "user-clock:20",
 "single-quote-right:7",
 "paint-brush-alt:1",
-"clock-eleven-thirty:2"
+"clock-eleven-thirty:2",
+"rabbit:26",
+"airplay:21",
+"syringe:6",
+"files-medical:23",
+"tower-control:26",
+"square-currency:26",
+"droplet-slash:2",
+"object-group:26",
+"up-right:2"
 ];

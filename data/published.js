@@ -2006,5 +2006,14 @@ window.FA_PUBLISHED = [
 "bracket-square-right:25",
 "chess-queen:9",
 "table-rows-add-below:7",
-"up-from-dotted-line:22"
+"up-from-dotted-line:22",
+"person-ski-lift:0",
+"droplet-plus:21",
+"gear-api:8",
+"wind-turbine:24",
+"spider:2",
+"flatbread-stuffed:6",
+"fork:0",
+"deer:1",
+"plane-circle-exclamation:8"
 ];

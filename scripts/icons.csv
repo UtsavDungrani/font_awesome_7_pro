@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-ski-lift,0,fa-solid fa-person-ski-lift,Person Ski Lift,Solid
-droplet-plus,21,fa-sharp fa-solid fa-droplet-plus,Droplet Plus,Sharp Solid
-gear-api,8,fa-duotone fa-regular fa-gear-api,Gear Api,Duotone Regular
-wind-turbine,24,fa-sharp-duotone fa-regular fa-wind-turbine,Wind Turbine,Sharp Duotone Regular
-spider,2,fa-light fa-spider,Spider,Light
-flatbread-stuffed,6,fa-duotone fa-flatbread-stuffed,Flatbread Stuffed,Duotone Solid
-fork,0,fa-solid fa-fork,Fork,Solid
-deer,1,fa-regular fa-deer,Deer,Regular
-plane-circle-exclamation,8,fa-duotone fa-regular fa-plane-circle-exclamation,Plane Circle Exclamation,Duotone Regular
 camera-circle,0,fa-solid fa-camera-circle,Camera Circle,Solid
 people-dress,9,fa-duotone fa-thin fa-people-dress,People Dress,Duotone Thin
 rotate,9,fa-duotone fa-thin fa-rotate,Rotate,Duotone Thin

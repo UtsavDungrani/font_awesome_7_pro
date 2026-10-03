@@ -2024,5 +2024,14 @@ window.FA_PUBLISHED = [
 "bracket-round:20",
 "car-bump:21",
 "grid-round-4:20",
-"bomb:21"
+"bomb:21",
+"microphone-slash:36",
+"face-kiss:2",
+"circle-three-quarters:6",
+"plate-wheat:26",
+"bin-bottles:22",
+"game-console-handheld-crank:0",
+"fire:31",
+"mars:0",
+"head-side-heart:1"
 ];

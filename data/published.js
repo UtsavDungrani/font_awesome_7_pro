@@ -1943,5 +1943,14 @@ window.FA_PUBLISHED = [
 "outlet:8",
 "temperature-1:24",
 "eyes:6",
-"cart-circle-xmark:26"
+"cart-circle-xmark:26",
+"list-timeline:21",
+"building-un:6",
+"window-minimize:9",
+"chart-pie-simple-circle-dollar:7",
+"smog:1",
+"film-slash:3",
+"male:24",
+"worm:24",
+"arrow-down-triangle-square:19"
 ];

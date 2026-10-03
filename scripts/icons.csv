@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-list-timeline,21,fa-sharp fa-solid fa-list-timeline,List Timeline,Sharp Solid
-building-un,6,fa-duotone fa-building-un,Building Un,Duotone Solid
-window-minimize,9,fa-duotone fa-thin fa-window-minimize,Window Minimize,Duotone Thin
-chart-pie-simple-circle-dollar,7,fa-duotone fa-light fa-chart-pie-simple-circle-dollar,Chart Pie Simple Circle Dollar,Duotone Light
-smog,1,fa-regular fa-smog,Smog,Regular
-film-slash,3,fa-thin fa-film-slash,Film Slash,Thin
-male,24,fa-sharp-duotone fa-regular fa-male,Male,Sharp Duotone Regular
-worm,24,fa-sharp-duotone fa-regular fa-worm,Worm,Sharp Duotone Regular
-arrow-down-triangle-square,19,fa-sharp fa-light fa-arrow-down-triangle-square,Arrow Down Triangle Square,Sharp Light
 label,24,fa-sharp-duotone fa-regular fa-label,Label,Sharp Duotone Regular
 ring-diamond,24,fa-sharp-duotone fa-regular fa-ring-diamond,Ring Diamond,Sharp Duotone Regular
 info,6,fa-duotone fa-info,Info,Duotone Solid

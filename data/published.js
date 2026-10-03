@@ -1952,5 +1952,14 @@ window.FA_PUBLISHED = [
 "film-slash:3",
 "male:24",
 "worm:24",
-"arrow-down-triangle-square:19"
+"arrow-down-triangle-square:19",
+"label:24",
+"ring-diamond:24",
+"info:6",
+"bed-alt:24",
+"bag-seedling:24",
+"lines-leaning:9",
+"goodreads-g:4",
+"angle-down:20",
+"gauge-simple-low:24"
 ];

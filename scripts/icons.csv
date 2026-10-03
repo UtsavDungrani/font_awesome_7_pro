@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-manat,0,fa-solid fa-square-manat,Square Manat,Solid
-eye-closed,26,fa-sharp-duotone fa-thin fa-eye-closed,Eye Closed,Sharp Duotone Thin
-duck,2,fa-light fa-duck,Duck,Light
-hockey-stick,1,fa-regular fa-hockey-stick,Hockey Stick,Regular
-book-medical,19,fa-sharp fa-light fa-book-medical,Book Medical,Sharp Light
-text,6,fa-duotone fa-text,Text,Duotone Solid
-comment-music,0,fa-solid fa-comment-music,Comment Music,Solid
-arrow-left-from-bracket,21,fa-sharp fa-solid fa-arrow-left-from-bracket,Arrow Left From Bracket,Sharp Solid
-caret-right,23,fa-sharp-duotone fa-light fa-caret-right,Caret Right,Sharp Duotone Light
 pager,3,fa-thin fa-pager,Pager,Thin
 calendar-minus,3,fa-thin fa-calendar-minus,Calendar Minus,Thin
 arrows-left-right-to-line,19,fa-sharp fa-light fa-arrows-left-right-to-line,Arrows Left Right To Line,Sharp Light

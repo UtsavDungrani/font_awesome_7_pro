@@ -2033,5 +2033,14 @@ window.FA_PUBLISHED = [
 "game-console-handheld-crank:0",
 "fire:31",
 "mars:0",
-"head-side-heart:1"
+"head-side-heart:1",
+"square-manat:0",
+"eye-closed:26",
+"duck:2",
+"hockey-stick:1",
+"book-medical:19",
+"text:6",
+"comment-music:0",
+"arrow-left-from-bracket:21",
+"caret-right:23"
 ];

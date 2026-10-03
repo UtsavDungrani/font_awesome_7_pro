@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-magnifying-glass-waveform,19,fa-sharp fa-light fa-magnifying-glass-waveform,Magnifying Glass Waveform,Sharp Light
-person-waving,22,fa-sharp fa-thin fa-person-waving,Person Waving,Sharp Thin
-comment-alt-exclamation,26,fa-sharp-duotone fa-thin fa-comment-alt-exclamation,Comment Alt Exclamation,Sharp Duotone Thin
-sigma,2,fa-light fa-sigma,Sigma,Light
-signal-alt-2,14,fa-jelly-fill fa-regular fa-signal-alt-2,Signal Alt 2,Jelly Fill Regular
-circle,1,fa-regular fa-circle,Circle,Regular
-capricorn,22,fa-sharp fa-thin fa-capricorn,Capricorn,Sharp Thin
-map-location-dot,20,fa-sharp fa-regular fa-map-location-dot,Map Location Dot,Sharp Regular
-truck-ramp,7,fa-duotone fa-light fa-truck-ramp,Truck Ramp,Duotone Light
 arrow-down-left,1,fa-regular fa-arrow-down-left,Arrow Down Left,Regular
 object-union,8,fa-duotone fa-regular fa-object-union,Object Union,Duotone Regular
 brightness-low,25,fa-sharp-duotone fa-solid fa-brightness-low,Brightness Low,Sharp Duotone Solid

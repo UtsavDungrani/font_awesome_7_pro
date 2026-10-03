@@ -1961,5 +1961,14 @@ window.FA_PUBLISHED = [
 "lines-leaning:9",
 "goodreads-g:4",
 "angle-down:20",
-"gauge-simple-low:24"
+"gauge-simple-low:24",
+"magnifying-glass-waveform:19",
+"person-waving:22",
+"comment-alt-exclamation:26",
+"sigma:2",
+"signal-alt-2:14",
+"circle:1",
+"capricorn:22",
+"map-location-dot:20",
+"truck-ramp:7"
 ];

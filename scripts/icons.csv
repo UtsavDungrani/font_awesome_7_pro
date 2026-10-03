@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-up-from-ground-water,19,fa-sharp fa-light fa-arrow-up-from-ground-water,Arrow Up From Ground Water,Sharp Light
-icicles,8,fa-duotone fa-regular fa-icicles,Icicles,Duotone Regular
-caret-square-left,1,fa-regular fa-caret-square-left,Caret Square Left,Regular
-frame,23,fa-sharp-duotone fa-light fa-frame,Frame,Sharp Duotone Light
-close,34,fa-utility-fill fa-semibold fa-close,Close,Utility Fill Semibold
-outlet,8,fa-duotone fa-regular fa-outlet,Outlet,Duotone Regular
-temperature-1,24,fa-sharp-duotone fa-regular fa-temperature-1,Temperature 1,Sharp Duotone Regular
-eyes,6,fa-duotone fa-eyes,Eyes,Duotone Solid
-cart-circle-xmark,26,fa-sharp-duotone fa-thin fa-cart-circle-xmark,Cart Circle Xmark,Sharp Duotone Thin
 list-timeline,21,fa-sharp fa-solid fa-list-timeline,List Timeline,Sharp Solid
 building-un,6,fa-duotone fa-building-un,Building Un,Duotone Solid
 window-minimize,9,fa-duotone fa-thin fa-window-minimize,Window Minimize,Duotone Thin

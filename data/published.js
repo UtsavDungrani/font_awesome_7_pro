@@ -1934,5 +1934,14 @@ window.FA_PUBLISHED = [
 "television:29",
 "sack-xmark:1",
 "temperature-high:20",
-"castle:1"
+"castle:1",
+"arrow-up-from-ground-water:19",
+"icicles:8",
+"caret-square-left:1",
+"frame:23",
+"close:34",
+"outlet:8",
+"temperature-1:24",
+"eyes:6",
+"cart-circle-xmark:26"
 ];

@@ -2114,5 +2114,14 @@ window.FA_PUBLISHED = [
 "camera-web-slash:0",
 "circle-arrow-down-right:21",
 "betamax:8",
-"tv-music:20"
+"tv-music:20",
+"circle-user-circle-exclamation:7",
+"table-cells-column-unlock:22",
+"square-cedi:1",
+"mail-reply:21",
+"circle-phone:24",
+"mosque:24",
+"caret-large-right:9",
+"arrow-up-small-big:20",
+"sparkles:12"
 ];

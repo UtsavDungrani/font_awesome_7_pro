@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-ticket,22,fa-sharp fa-thin fa-ticket,Ticket,Sharp Thin
-person-circle-plus,19,fa-sharp fa-light fa-person-circle-plus,Person Circle Plus,Sharp Light
-heart-music-camera-bolt,9,fa-duotone fa-thin fa-heart-music-camera-bolt,Heart Music Camera Bolt,Duotone Thin
-music,14,fa-jelly-fill fa-regular fa-music,Music,Jelly Fill Regular
-transmission,7,fa-duotone fa-light fa-transmission,Transmission,Duotone Light
-square-y,21,fa-sharp fa-solid fa-square-y,Square Y,Sharp Solid
-single-quote-right,2,fa-light fa-single-quote-right,Single Quote Right,Light
-hockey-puck,25,fa-sharp-duotone fa-solid fa-hockey-puck,Hockey Puck,Sharp Duotone Solid
-clock-nine-thirty,24,fa-sharp-duotone fa-regular fa-clock-nine-thirty,Clock Nine Thirty,Sharp Duotone Regular
 thumbs-up,13,fa-jelly-duo fa-regular fa-thumbs-up,Thumbs Up,Jelly Duo Regular
 bookmark-circle,8,fa-duotone fa-regular fa-bookmark-circle,Bookmark Circle,Duotone Regular
 face-disappointed,24,fa-sharp-duotone fa-regular fa-face-disappointed,Face Disappointed,Sharp Duotone Regular

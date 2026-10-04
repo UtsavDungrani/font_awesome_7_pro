@@ -2150,5 +2150,14 @@ window.FA_PUBLISHED = [
 "cubes:24",
 "hexagon:7",
 "droplet-percent:24",
-"olive-branch:6"
+"olive-branch:6",
+"ticket:22",
+"person-circle-plus:19",
+"heart-music-camera-bolt:9",
+"music:14",
+"transmission:7",
+"square-y:21",
+"single-quote-right:2",
+"hockey-puck:25",
+"clock-nine-thirty:24"
 ];

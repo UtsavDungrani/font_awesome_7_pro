@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-h,21,fa-sharp fa-solid fa-circle-h,Circle H,Sharp Solid
-turn-left,24,fa-sharp-duotone fa-regular fa-turn-left,Turn Left,Sharp Duotone Regular
-square-peruvian-soles,21,fa-sharp fa-solid fa-square-peruvian-soles,Square Peruvian Soles,Sharp Solid
-grid-dividers,9,fa-duotone fa-thin fa-grid-dividers,Grid Dividers,Duotone Thin
-message-code,0,fa-solid fa-message-code,Message Code,Solid
-cubes,24,fa-sharp-duotone fa-regular fa-cubes,Cubes,Sharp Duotone Regular
-hexagon,7,fa-duotone fa-light fa-hexagon,Hexagon,Duotone Light
-droplet-percent,24,fa-sharp-duotone fa-regular fa-droplet-percent,Droplet Percent,Sharp Duotone Regular
-olive-branch,6,fa-duotone fa-olive-branch,Olive Branch,Duotone Solid
 ticket,22,fa-sharp fa-thin fa-ticket,Ticket,Sharp Thin
 person-circle-plus,19,fa-sharp fa-light fa-person-circle-plus,Person Circle Plus,Sharp Light
 heart-music-camera-bolt,9,fa-duotone fa-thin fa-heart-music-camera-bolt,Heart Music Camera Bolt,Duotone Thin

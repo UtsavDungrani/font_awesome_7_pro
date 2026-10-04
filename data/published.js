@@ -2141,5 +2141,14 @@ window.FA_PUBLISHED = [
 "brackets-round:24",
 "transporter-4:26",
 "file-prescription:7",
-"100:8"
+"100:8",
+"circle-h:21",
+"turn-left:24",
+"square-peruvian-soles:21",
+"grid-dividers:9",
+"message-code:0",
+"cubes:24",
+"hexagon:7",
+"droplet-percent:24",
+"olive-branch:6"
 ];

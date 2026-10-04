@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-text-size,26,fa-sharp-duotone fa-thin fa-text-size,Text Size,Sharp Duotone Thin
-rectangle-tall,35,fa-vellum fa-solid fa-rectangle-tall,Rectangle Tall,Vellum Solid
-angle-up,36,fa-whiteboard fa-semibold fa-angle-up,Angle Up,Whiteboard Semibold
-grip-lines-vertical,26,fa-sharp-duotone fa-thin fa-grip-lines-vertical,Grip Lines Vertical,Sharp Duotone Thin
-t-rex,7,fa-duotone fa-light fa-t-rex,T Rex,Duotone Light
-cross,8,fa-duotone fa-regular fa-cross,Cross,Duotone Regular
-clipboard-clock,25,fa-sharp-duotone fa-solid fa-clipboard-clock,Clipboard Clock,Sharp Duotone Solid
-mosquito-net,22,fa-sharp fa-thin fa-mosquito-net,Mosquito Net,Sharp Thin
-cart-shopping,11,fa-graphite fa-thin fa-cart-shopping,Cart Shopping,Graphite Thin
 bed-alt,1,fa-regular fa-bed-alt,Bed Alt,Regular
 people-pants-simple,6,fa-duotone fa-people-pants-simple,People Pants Simple,Duotone Solid
 mustache,19,fa-sharp fa-light fa-mustache,Mustache,Sharp Light

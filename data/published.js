@@ -2123,5 +2123,14 @@ window.FA_PUBLISHED = [
 "mosque:24",
 "caret-large-right:9",
 "arrow-up-small-big:20",
-"sparkles:12"
+"sparkles:12",
+"text-size:26",
+"rectangle-tall:35",
+"angle-up:36",
+"grip-lines-vertical:26",
+"t-rex:7",
+"cross:8",
+"clipboard-clock:25",
+"mosquito-net:22",
+"cart-shopping:11"
 ];

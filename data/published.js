@@ -2105,5 +2105,14 @@ window.FA_PUBLISHED = [
 "fireplace:19",
 "user-tie-hair-mullet:26",
 "face-laugh:36",
-"staff:22"
+"staff:22",
+"chalkboard-teacher:26",
+"house-flood-water-circle-arrow-right:6",
+"road-lock:21",
+"comment-minus:8",
+"jar-wheat:3",
+"camera-web-slash:0",
+"circle-arrow-down-right:21",
+"betamax:8",
+"tv-music:20"
 ];

@@ -2087,5 +2087,14 @@ window.FA_PUBLISHED = [
 "sun:6",
 "ice-cream:24",
 "tickets-perforated:19",
-"chart-column:23"
+"chart-column:23",
+"magnifying-glass-chart:23",
+"user-clock:6",
+"tomato:9",
+"skull-crossbones:26",
+"speakers:20",
+"person-seat-reclined:19",
+"bold:26",
+"building:14",
+"circle-sort-down:9"
 ];

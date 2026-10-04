@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grid-2-minus,23,fa-sharp-duotone fa-light fa-grid-2-minus,Grid 2 Minus,Sharp Duotone Light
-sword,20,fa-sharp fa-regular fa-sword,Sword,Sharp Regular
-square-florin,2,fa-light fa-square-florin,Square Florin,Light
-air-freshener,3,fa-thin fa-air-freshener,Air Freshener,Thin
-grid-2-plus,9,fa-duotone fa-thin fa-grid-2-plus,Grid 2 Plus,Duotone Thin
-fireplace,19,fa-sharp fa-light fa-fireplace,Fireplace,Sharp Light
-user-tie-hair-mullet,26,fa-sharp-duotone fa-thin fa-user-tie-hair-mullet,User Tie Hair Mullet,Sharp Duotone Thin
-face-laugh,36,fa-whiteboard fa-semibold fa-face-laugh,Face Laugh,Whiteboard Semibold
-staff,22,fa-sharp fa-thin fa-staff,Staff,Sharp Thin
 chalkboard-teacher,26,fa-sharp-duotone fa-thin fa-chalkboard-teacher,Chalkboard Teacher,Sharp Duotone Thin
 house-flood-water-circle-arrow-right,6,fa-duotone fa-house-flood-water-circle-arrow-right,House Flood Water Circle Arrow Right,Duotone Solid
 road-lock,21,fa-sharp fa-solid fa-road-lock,Road Lock,Sharp Solid

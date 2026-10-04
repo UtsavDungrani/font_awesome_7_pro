@@ -2096,5 +2096,14 @@ window.FA_PUBLISHED = [
 "person-seat-reclined:19",
 "bold:26",
 "building:14",
-"circle-sort-down:9"
+"circle-sort-down:9",
+"grid-2-minus:23",
+"sword:20",
+"square-florin:2",
+"air-freshener:3",
+"grid-2-plus:9",
+"fireplace:19",
+"user-tie-hair-mullet:26",
+"face-laugh:36",
+"staff:22"
 ];

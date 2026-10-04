@@ -2069,5 +2069,14 @@ window.FA_PUBLISHED = [
 "desktop:29",
 "circle-v:23",
 "eraser:8",
-"folders:19"
+"folders:19",
+"microchip:0",
+"person-running:26",
+"coffee-pot:7",
+"lamp-desk:19",
+"comment-code:8",
+"ear-triangle-exclamation:8",
+"chess:2",
+"close:15",
+"file-prescription:21"
 ];

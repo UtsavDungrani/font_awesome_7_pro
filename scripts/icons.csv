@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-microchip,0,fa-solid fa-microchip,Microchip,Solid
-person-running,26,fa-sharp-duotone fa-thin fa-person-running,Person Running,Sharp Duotone Thin
-coffee-pot,7,fa-duotone fa-light fa-coffee-pot,Coffee Pot,Duotone Light
-lamp-desk,19,fa-sharp fa-light fa-lamp-desk,Lamp Desk,Sharp Light
-comment-code,8,fa-duotone fa-regular fa-comment-code,Comment Code,Duotone Regular
-ear-triangle-exclamation,8,fa-duotone fa-regular fa-ear-triangle-exclamation,Ear Triangle Exclamation,Duotone Regular
-chess,2,fa-light fa-chess,Chess,Light
-close,15,fa-mosaic fa-solid fa-close,Close,Mosaic Solid
-file-prescription,21,fa-sharp fa-solid fa-file-prescription,File Prescription,Sharp Solid
 up-left,24,fa-sharp-duotone fa-regular fa-up-left,Up Left,Sharp Duotone Regular
 creative-commons-sa,4,fa-brands fa-creative-commons-sa,Creative Commons Sa,Brands
 bug-slash,20,fa-sharp fa-regular fa-bug-slash,Bug Slash,Sharp Regular

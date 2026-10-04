@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pager,3,fa-thin fa-pager,Pager,Thin
-calendar-minus,3,fa-thin fa-calendar-minus,Calendar Minus,Thin
-arrows-left-right-to-line,19,fa-sharp fa-light fa-arrows-left-right-to-line,Arrows Left Right To Line,Sharp Light
-sd-card,20,fa-sharp fa-regular fa-sd-card,Sd Card,Sharp Regular
-book-open-alt,22,fa-sharp fa-thin fa-book-open-alt,Book Open Alt,Sharp Thin
-award-simple,0,fa-solid fa-award-simple,Award Simple,Solid
-dice-d4,24,fa-sharp-duotone fa-regular fa-dice-d4,Dice D4,Sharp Duotone Regular
-snowflake-droplets,0,fa-solid fa-snowflake-droplets,Snowflake Droplets,Solid
-input-text,23,fa-sharp-duotone fa-light fa-input-text,Input Text,Sharp Duotone Light
 house-chimney-blank,0,fa-solid fa-house-chimney-blank,House Chimney Blank,Solid
 address-card,19,fa-sharp fa-light fa-address-card,Address Card,Sharp Light
 pants,22,fa-sharp fa-thin fa-pants,Pants,Sharp Thin

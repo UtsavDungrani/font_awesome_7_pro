@@ -2042,5 +2042,14 @@ window.FA_PUBLISHED = [
 "text:6",
 "comment-music:0",
 "arrow-left-from-bracket:21",
-"caret-right:23"
+"caret-right:23",
+"pager:3",
+"calendar-minus:3",
+"arrows-left-right-to-line:19",
+"sd-card:20",
+"book-open-alt:22",
+"award-simple:0",
+"dice-d4:24",
+"snowflake-droplets:0",
+"input-text:23"
 ];

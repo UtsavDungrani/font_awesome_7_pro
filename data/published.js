@@ -2078,5 +2078,14 @@ window.FA_PUBLISHED = [
 "ear-triangle-exclamation:8",
 "chess:2",
 "close:15",
-"file-prescription:21"
+"file-prescription:21",
+"up-left:24",
+"creative-commons-sa:4",
+"bug-slash:20",
+"flux-capacitor:2",
+"p:23",
+"sun:6",
+"ice-cream:24",
+"tickets-perforated:19",
+"chart-column:23"
 ];

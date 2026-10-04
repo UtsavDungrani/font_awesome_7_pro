@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-field-hockey,9,fa-duotone fa-thin fa-field-hockey,Field Hockey,Duotone Thin
-teddy-bear,6,fa-duotone fa-teddy-bear,Teddy Bear,Duotone Solid
-acorn,20,fa-sharp fa-regular fa-acorn,Acorn,Sharp Regular
-hand,22,fa-sharp fa-thin fa-hand,Hand,Sharp Thin
-house-tree,8,fa-duotone fa-regular fa-house-tree,House Tree,Duotone Regular
-desktop,29,fa-slab-press fa-regular fa-desktop,Desktop,Slab Press Regular
-circle-v,23,fa-sharp-duotone fa-light fa-circle-v,Circle V,Sharp Duotone Light
-eraser,8,fa-duotone fa-regular fa-eraser,Eraser,Duotone Regular
-folders,19,fa-sharp fa-light fa-folders,Folders,Sharp Light
 microchip,0,fa-solid fa-microchip,Microchip,Solid
 person-running,26,fa-sharp-duotone fa-thin fa-person-running,Person Running,Sharp Duotone Thin
 coffee-pot,7,fa-duotone fa-light fa-coffee-pot,Coffee Pot,Duotone Light

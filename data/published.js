@@ -2060,5 +2060,14 @@ window.FA_PUBLISHED = [
 "temperature-high:9",
 "badger-honey:7",
 "window-frame-open:9",
-"spinner-scale:25"
+"spinner-scale:25",
+"field-hockey:9",
+"teddy-bear:6",
+"acorn:20",
+"hand:22",
+"house-tree:8",
+"desktop:29",
+"circle-v:23",
+"eraser:8",
+"folders:19"
 ];

@@ -2051,5 +2051,14 @@ window.FA_PUBLISHED = [
 "award-simple:0",
 "dice-d4:24",
 "snowflake-droplets:0",
-"input-text:23"
+"input-text:23",
+"house-chimney-blank:0",
+"address-card:19",
+"pants:22",
+"square-user:0",
+"face-thinking:1",
+"temperature-high:9",
+"badger-honey:7",
+"window-frame-open:9",
+"spinner-scale:25"
 ];

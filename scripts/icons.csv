@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-house-chimney-blank,0,fa-solid fa-house-chimney-blank,House Chimney Blank,Solid
-address-card,19,fa-sharp fa-light fa-address-card,Address Card,Sharp Light
-pants,22,fa-sharp fa-thin fa-pants,Pants,Sharp Thin
-square-user,0,fa-solid fa-square-user,Square User,Solid
-face-thinking,1,fa-regular fa-face-thinking,Face Thinking,Regular
-temperature-high,9,fa-duotone fa-thin fa-temperature-high,Temperature High,Duotone Thin
-badger-honey,7,fa-duotone fa-light fa-badger-honey,Badger Honey,Duotone Light
-window-frame-open,9,fa-duotone fa-thin fa-window-frame-open,Window Frame Open,Duotone Thin
-spinner-scale,25,fa-sharp-duotone fa-solid fa-spinner-scale,Spinner Scale,Sharp Duotone Solid
 field-hockey,9,fa-duotone fa-thin fa-field-hockey,Field Hockey,Duotone Thin
 teddy-bear,6,fa-duotone fa-teddy-bear,Teddy Bear,Duotone Solid
 acorn,20,fa-sharp fa-regular fa-acorn,Acorn,Sharp Regular

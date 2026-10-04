@@ -2132,5 +2132,14 @@ window.FA_PUBLISHED = [
 "cross:8",
 "clipboard-clock:25",
 "mosquito-net:22",
-"cart-shopping:11"
+"cart-shopping:11",
+"bed-alt:1",
+"people-pants-simple:6",
+"mustache:19",
+"basket-shopping-simple:2",
+"store-slash:1",
+"brackets-round:24",
+"transporter-4:26",
+"file-prescription:7",
+"100:8"
 ];

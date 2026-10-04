@@ -2159,5 +2159,14 @@ window.FA_PUBLISHED = [
 "square-y:21",
 "single-quote-right:2",
 "hockey-puck:25",
-"clock-nine-thirty:24"
+"clock-nine-thirty:24",
+"thumbs-up:13",
+"bookmark-circle:8",
+"face-disappointed:24",
+"object-exclude:6",
+"down-right:24",
+"comment:12",
+"house-day:25",
+"turn-down-right:1",
+"hill-avalanche:3"
 ];

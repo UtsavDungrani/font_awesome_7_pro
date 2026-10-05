@@ -2195,5 +2195,14 @@ window.FA_PUBLISHED = [
 "balance-scale-right:1",
 "arrow-rotate-right-10:22",
 "hyphen:19",
-"file-circle-xmark:24"
+"file-circle-xmark:24",
+"face-grin-tongue-wink:20",
+"circle-peseta:3",
+"swords-laser:9",
+"suitcase-rolling:26",
+"cloud-moon-rain:19",
+"circle-parking:0",
+"acorn:35",
+"nfc-magnifying-glass:6",
+"comment:30"
 ];

@@ -2258,5 +2258,14 @@ window.FA_PUBLISHED = [
 "place-of-worship:6",
 "biking-mountain:7",
 "seat:6",
-"map:25"
+"map:25",
+"floppy-disks:25",
+"square-up-left:21",
+"chart-pie:15",
+"sensor-fire:23",
+"user-doctor-hair:8",
+"comment-question:24",
+"square-a:7",
+"comments-question:21",
+"american-sign-language-interpreting:8"
 ];

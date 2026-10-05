@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-floppy-disks,25,fa-sharp-duotone fa-solid fa-floppy-disks,Floppy Disks,Sharp Duotone Solid
-square-up-left,21,fa-sharp fa-solid fa-square-up-left,Square Up Left,Sharp Solid
-chart-pie,15,fa-mosaic fa-solid fa-chart-pie,Chart Pie,Mosaic Solid
-sensor-fire,23,fa-sharp-duotone fa-light fa-sensor-fire,Sensor Fire,Sharp Duotone Light
-user-doctor-hair,8,fa-duotone fa-regular fa-user-doctor-hair,User Doctor Hair,Duotone Regular
-comment-question,24,fa-sharp-duotone fa-regular fa-comment-question,Comment Question,Sharp Duotone Regular
-square-a,7,fa-duotone fa-light fa-square-a,Square A,Duotone Light
-comments-question,21,fa-sharp fa-solid fa-comments-question,Comments Question,Sharp Solid
-american-sign-language-interpreting,8,fa-duotone fa-regular fa-american-sign-language-interpreting,American Sign Language Interpreting,Duotone Regular
 square-lira,3,fa-thin fa-square-lira,Square Lira,Thin
 circle-location-arrow,23,fa-sharp-duotone fa-light fa-circle-location-arrow,Circle Location Arrow,Sharp Duotone Light
 rectangle-history,7,fa-duotone fa-light fa-rectangle-history,Rectangle History,Duotone Light

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-star,19,fa-sharp fa-light fa-circle-star,Circle Star,Sharp Light
-u-turn-up-right,25,fa-sharp-duotone fa-solid fa-u-turn-up-right,U Turn Up Right,Sharp Duotone Solid
-bitcoin-sign,7,fa-duotone fa-light fa-bitcoin-sign,Bitcoin Sign,Duotone Light
-shield-exclamation,19,fa-sharp fa-light fa-shield-exclamation,Shield Exclamation,Sharp Light
-folder-user,25,fa-sharp-duotone fa-solid fa-folder-user,Folder User,Sharp Duotone Solid
-place-of-worship,6,fa-duotone fa-place-of-worship,Place Of Worship,Duotone Solid
-biking-mountain,7,fa-duotone fa-light fa-biking-mountain,Biking Mountain,Duotone Light
-seat,6,fa-duotone fa-seat,Seat,Duotone Solid
-map,25,fa-sharp-duotone fa-solid fa-map,Map,Sharp Duotone Solid
 floppy-disks,25,fa-sharp-duotone fa-solid fa-floppy-disks,Floppy Disks,Sharp Duotone Solid
 square-up-left,21,fa-sharp fa-solid fa-square-up-left,Square Up Left,Sharp Solid
 chart-pie,15,fa-mosaic fa-solid fa-chart-pie,Chart Pie,Mosaic Solid

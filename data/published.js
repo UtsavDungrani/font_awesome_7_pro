@@ -2249,5 +2249,14 @@ window.FA_PUBLISHED = [
 "wheelchair-alt:22",
 "sliders-h-square:9",
 "share-alt:31",
-"toilet-paper-check:19"
+"toilet-paper-check:19",
+"circle-star:19",
+"u-turn-up-right:25",
+"bitcoin-sign:7",
+"shield-exclamation:19",
+"folder-user:25",
+"place-of-worship:6",
+"biking-mountain:7",
+"seat:6",
+"map:25"
 ];

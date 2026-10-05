@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pills,24,fa-sharp-duotone fa-regular fa-pills,Pills,Sharp Duotone Regular
-table-cells-split,1,fa-regular fa-table-cells-split,Table Cells Split,Regular
-clipboard-list,25,fa-sharp-duotone fa-solid fa-clipboard-list,Clipboard List,Sharp Duotone Solid
-signal,23,fa-sharp-duotone fa-light fa-signal,Signal,Sharp Duotone Light
-cabin,1,fa-regular fa-cabin,Cabin,Regular
-wheelchair-alt,22,fa-sharp fa-thin fa-wheelchair-alt,Wheelchair Alt,Sharp Thin
-sliders-h-square,9,fa-duotone fa-thin fa-sliders-h-square,Sliders H Square,Duotone Thin
-share-alt,31,fa-thumbprint fa-light fa-share-alt,Share Alt,Thumbprint Light
-toilet-paper-check,19,fa-sharp fa-light fa-toilet-paper-check,Toilet Paper Check,Sharp Light
 circle-star,19,fa-sharp fa-light fa-circle-star,Circle Star,Sharp Light
 u-turn-up-right,25,fa-sharp-duotone fa-solid fa-u-turn-up-right,U Turn Up Right,Sharp Duotone Solid
 bitcoin-sign,7,fa-duotone fa-light fa-bitcoin-sign,Bitcoin Sign,Duotone Light

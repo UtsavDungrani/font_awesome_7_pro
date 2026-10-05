@@ -2240,5 +2240,14 @@ window.FA_PUBLISHED = [
 "file-check:34",
 "bed:9",
 "broom-ball:26",
-"envelope-open-dollar:2"
+"envelope-open-dollar:2",
+"pills:24",
+"table-cells-split:1",
+"clipboard-list:25",
+"signal:23",
+"cabin:1",
+"wheelchair-alt:22",
+"sliders-h-square:9",
+"share-alt:31",
+"toilet-paper-check:19"
 ];

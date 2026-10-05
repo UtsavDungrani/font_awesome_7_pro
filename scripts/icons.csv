@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-lira,3,fa-thin fa-square-lira,Square Lira,Thin
-circle-location-arrow,23,fa-sharp-duotone fa-light fa-circle-location-arrow,Circle Location Arrow,Sharp Duotone Light
-rectangle-history,7,fa-duotone fa-light fa-rectangle-history,Rectangle History,Duotone Light
-photo-film,9,fa-duotone fa-thin fa-photo-film,Photo Film,Duotone Thin
-files-medical,0,fa-solid fa-files-medical,Files Medical,Solid
-magnifying-glass-arrow-right,23,fa-sharp-duotone fa-light fa-magnifying-glass-arrow-right,Magnifying Glass Arrow Right,Sharp Duotone Light
-circle-australian-dollar,8,fa-duotone fa-regular fa-circle-australian-dollar,Circle Australian Dollar,Duotone Regular
-arrow-turn-left,1,fa-regular fa-arrow-turn-left,Arrow Turn Left,Regular
-calendar-check,32,fa-utility fa-semibold fa-calendar-check,Calendar Check,Utility Semibold
 stars,23,fa-sharp-duotone fa-light fa-stars,Stars,Sharp Duotone Light
 gear-code,0,fa-solid fa-gear-code,Gear Code,Solid
 flying-disc,8,fa-duotone fa-regular fa-flying-disc,Flying Disc,Duotone Regular

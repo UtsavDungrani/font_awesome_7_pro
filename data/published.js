@@ -2267,5 +2267,14 @@ window.FA_PUBLISHED = [
 "comment-question:24",
 "square-a:7",
 "comments-question:21",
-"american-sign-language-interpreting:8"
+"american-sign-language-interpreting:8",
+"square-lira:3",
+"circle-location-arrow:23",
+"rectangle-history:7",
+"photo-film:9",
+"files-medical:0",
+"magnifying-glass-arrow-right:23",
+"circle-australian-dollar:8",
+"arrow-turn-left:1",
+"calendar-check:32"
 ];

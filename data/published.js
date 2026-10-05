@@ -2213,5 +2213,14 @@ window.FA_PUBLISHED = [
 "compass-slash:21",
 "person-military-pointing:20",
 "truck-field-un:3",
-"gamepad-alt:1"
+"gamepad-alt:1",
+"minus:8",
+"user-police-hair-long:23",
+"moon:23",
+"pickleball:22",
+"divide:21",
+"crown:20",
+"arrows-cross:23",
+"shrimp:23",
+"drum:24"
 ];

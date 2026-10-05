@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-stars,23,fa-sharp-duotone fa-light fa-stars,Stars,Sharp Duotone Light
-gear-code,0,fa-solid fa-gear-code,Gear Code,Solid
-flying-disc,8,fa-duotone fa-regular fa-flying-disc,Flying Disc,Duotone Regular
-circle-n,25,fa-sharp-duotone fa-solid fa-circle-n,Circle N,Sharp Duotone Solid
-hand-sparkles,22,fa-sharp fa-thin fa-hand-sparkles,Hand Sparkles,Sharp Thin
-lightbulb-message,26,fa-sharp-duotone fa-thin fa-lightbulb-message,Lightbulb Message,Sharp Duotone Thin
-rings-wedding,6,fa-duotone fa-rings-wedding,Rings Wedding,Duotone Solid
-birthday-cake,10,fa-etch fa-solid fa-birthday-cake,Birthday Cake,Etch Solid
-building-lock,7,fa-duotone fa-light fa-building-lock,Building Lock,Duotone Light
 expand-arrows-alt,20,fa-sharp fa-regular fa-expand-arrows-alt,Expand Arrows Alt,Sharp Regular
 cart-plus,22,fa-sharp fa-thin fa-cart-plus,Cart Plus,Sharp Thin
 blinds,26,fa-sharp-duotone fa-thin fa-blinds,Blinds,Sharp Duotone Thin

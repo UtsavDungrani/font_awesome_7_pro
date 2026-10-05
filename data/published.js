@@ -2276,5 +2276,14 @@ window.FA_PUBLISHED = [
 "magnifying-glass-arrow-right:23",
 "circle-australian-dollar:8",
 "arrow-turn-left:1",
-"calendar-check:32"
+"calendar-check:32",
+"stars:23",
+"gear-code:0",
+"flying-disc:8",
+"circle-n:25",
+"hand-sparkles:22",
+"lightbulb-message:26",
+"rings-wedding:6",
+"birthday-cake:10",
+"building-lock:7"
 ];

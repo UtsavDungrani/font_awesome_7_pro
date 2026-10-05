@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-banana,20,fa-sharp fa-regular fa-banana,Banana,Sharp Regular
-money-simple-from-bracket,21,fa-sharp fa-solid fa-money-simple-from-bracket,Money Simple From Bracket,Sharp Solid
-shield,5,fa-chisel fa-regular fa-shield,Shield,Chisel Regular
-microphone-slash,27,fa-slab fa-regular fa-microphone-slash,Microphone Slash,Slab Regular
-book-law,8,fa-duotone fa-regular fa-book-law,Book Law,Duotone Regular
-hand-point-up,7,fa-duotone fa-light fa-hand-point-up,Hand Point Up,Duotone Light
-bookmark-slash,19,fa-sharp fa-light fa-bookmark-slash,Bookmark Slash,Sharp Light
-u-turn-up-right,24,fa-sharp-duotone fa-regular fa-u-turn-up-right,U Turn Up Right,Sharp Duotone Regular
-turn-left-down,22,fa-sharp fa-thin fa-turn-left-down,Turn Left Down,Sharp Thin
 users,3,fa-thin fa-users,Users,Thin
 user-pilot-tie,26,fa-sharp-duotone fa-thin fa-user-pilot-tie,User Pilot Tie,Sharp Duotone Thin
 luchador,7,fa-duotone fa-light fa-luchador,Luchador,Duotone Light

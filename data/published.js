@@ -2222,5 +2222,14 @@ window.FA_PUBLISHED = [
 "crown:20",
 "arrows-cross:23",
 "shrimp:23",
-"drum:24"
+"drum:24",
+"banana:20",
+"money-simple-from-bracket:21",
+"shield:5",
+"microphone-slash:27",
+"book-law:8",
+"hand-point-up:7",
+"bookmark-slash:19",
+"u-turn-up-right:24",
+"turn-left-down:22"
 ];

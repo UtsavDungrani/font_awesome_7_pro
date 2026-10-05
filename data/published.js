@@ -2177,5 +2177,14 @@ window.FA_PUBLISHED = [
 "aeropress:23",
 "chart-gantt:2",
 "cookie:19",
-"location-dot:15"
+"location-dot:15",
+"air-freshener:23",
+"object-intersect:26",
+"code-merge:0",
+"bowl-food:26",
+"file-signature:6",
+"file-odf:22",
+"kazoo:22",
+"bar-progress:2",
+"floppy-disk-circle-arrow-right:1"
 ];

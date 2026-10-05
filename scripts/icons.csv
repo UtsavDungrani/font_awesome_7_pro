@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-air-freshener,23,fa-sharp-duotone fa-light fa-air-freshener,Air Freshener,Sharp Duotone Light
-object-intersect,26,fa-sharp-duotone fa-thin fa-object-intersect,Object Intersect,Sharp Duotone Thin
-code-merge,0,fa-solid fa-code-merge,Code Merge,Solid
-bowl-food,26,fa-sharp-duotone fa-thin fa-bowl-food,Bowl Food,Sharp Duotone Thin
-file-signature,6,fa-duotone fa-file-signature,File Signature,Duotone Solid
-file-odf,22,fa-sharp fa-thin fa-file-odf,File Odf,Sharp Thin
-kazoo,22,fa-sharp fa-thin fa-kazoo,Kazoo,Sharp Thin
-bar-progress,2,fa-light fa-bar-progress,Bar Progress,Light
-floppy-disk-circle-arrow-right,1,fa-regular fa-floppy-disk-circle-arrow-right,Floppy Disk Circle Arrow Right,Regular
 square-q,3,fa-thin fa-square-q,Square Q,Thin
 magnifying-glass-minus,6,fa-duotone fa-magnifying-glass-minus,Magnifying Glass Minus,Duotone Solid
 sort-asc,8,fa-duotone fa-regular fa-sort-asc,Sort Asc,Duotone Regular

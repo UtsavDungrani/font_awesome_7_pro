@@ -2168,5 +2168,14 @@ window.FA_PUBLISHED = [
 "comment:12",
 "house-day:25",
 "turn-down-right:1",
-"hill-avalanche:3"
+"hill-avalanche:3",
+"radio:8",
+"head-side-speak:3",
+"location-xmark:19",
+"fishing-rod:22",
+"mobile-retro:24",
+"aeropress:23",
+"chart-gantt:2",
+"cookie:19",
+"location-dot:15"
 ];

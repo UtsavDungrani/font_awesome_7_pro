@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-radio,8,fa-duotone fa-regular fa-radio,Radio,Duotone Regular
-head-side-speak,3,fa-thin fa-head-side-speak,Head Side Speak,Thin
-location-xmark,19,fa-sharp fa-light fa-location-xmark,Location Xmark,Sharp Light
-fishing-rod,22,fa-sharp fa-thin fa-fishing-rod,Fishing Rod,Sharp Thin
-mobile-retro,24,fa-sharp-duotone fa-regular fa-mobile-retro,Mobile Retro,Sharp Duotone Regular
-aeropress,23,fa-sharp-duotone fa-light fa-aeropress,Aeropress,Sharp Duotone Light
-chart-gantt,2,fa-light fa-chart-gantt,Chart Gantt,Light
-cookie,19,fa-sharp fa-light fa-cookie,Cookie,Sharp Light
-location-dot,15,fa-mosaic fa-solid fa-location-dot,Location Dot,Mosaic Solid
 air-freshener,23,fa-sharp-duotone fa-light fa-air-freshener,Air Freshener,Sharp Duotone Light
 object-intersect,26,fa-sharp-duotone fa-thin fa-object-intersect,Object Intersect,Sharp Duotone Thin
 code-merge,0,fa-solid fa-code-merge,Code Merge,Solid

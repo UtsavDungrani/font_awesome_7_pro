@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-q,3,fa-thin fa-square-q,Square Q,Thin
-magnifying-glass-minus,6,fa-duotone fa-magnifying-glass-minus,Magnifying Glass Minus,Duotone Solid
-sort-asc,8,fa-duotone fa-regular fa-sort-asc,Sort Asc,Duotone Regular
-basketball-hoop,7,fa-duotone fa-light fa-basketball-hoop,Basketball Hoop,Duotone Light
-umbrella,28,fa-slab-duo fa-regular fa-umbrella,Umbrella,Slab Duo Regular
-balance-scale-right,1,fa-regular fa-balance-scale-right,Balance Scale Right,Regular
-arrow-rotate-right-10,22,fa-sharp fa-thin fa-arrow-rotate-right-10,Arrow Rotate Right 10,Sharp Thin
-hyphen,19,fa-sharp fa-light fa-hyphen,Hyphen,Sharp Light
-file-circle-xmark,24,fa-sharp-duotone fa-regular fa-file-circle-xmark,File Circle Xmark,Sharp Duotone Regular
 face-grin-tongue-wink,20,fa-sharp fa-regular fa-face-grin-tongue-wink,Face Grin Tongue Wink,Sharp Regular
 circle-peseta,3,fa-thin fa-circle-peseta,Circle Peseta,Thin
 swords-laser,9,fa-duotone fa-thin fa-swords-laser,Swords Laser,Duotone Thin

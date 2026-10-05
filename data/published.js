@@ -2186,5 +2186,14 @@ window.FA_PUBLISHED = [
 "file-odf:22",
 "kazoo:22",
 "bar-progress:2",
-"floppy-disk-circle-arrow-right:1"
+"floppy-disk-circle-arrow-right:1",
+"square-q:3",
+"magnifying-glass-minus:6",
+"sort-asc:8",
+"basketball-hoop:7",
+"umbrella:28",
+"balance-scale-right:1",
+"arrow-rotate-right-10:22",
+"hyphen:19",
+"file-circle-xmark:24"
 ];

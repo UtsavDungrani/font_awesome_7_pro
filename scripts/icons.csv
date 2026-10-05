@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-users,3,fa-thin fa-users,Users,Thin
-user-pilot-tie,26,fa-sharp-duotone fa-thin fa-user-pilot-tie,User Pilot Tie,Sharp Duotone Thin
-luchador,7,fa-duotone fa-light fa-luchador,Luchador,Duotone Light
-adjust,17,fa-notdog-duo fa-solid fa-adjust,Adjust,Notdog Duo Solid
-check-to-slot,8,fa-duotone fa-regular fa-check-to-slot,Check To Slot,Duotone Regular
-file-check,34,fa-utility-fill fa-semibold fa-file-check,File Check,Utility Fill Semibold
-bed,9,fa-duotone fa-thin fa-bed,Bed,Duotone Thin
-broom-ball,26,fa-sharp-duotone fa-thin fa-broom-ball,Broom Ball,Sharp Duotone Thin
-envelope-open-dollar,2,fa-light fa-envelope-open-dollar,Envelope Open Dollar,Light
 pills,24,fa-sharp-duotone fa-regular fa-pills,Pills,Sharp Duotone Regular
 table-cells-split,1,fa-regular fa-table-cells-split,Table Cells Split,Regular
 clipboard-list,25,fa-sharp-duotone fa-solid fa-clipboard-list,Clipboard List,Sharp Duotone Solid

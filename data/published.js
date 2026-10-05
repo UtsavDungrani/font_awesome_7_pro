@@ -2231,5 +2231,14 @@ window.FA_PUBLISHED = [
 "hand-point-up:7",
 "bookmark-slash:19",
 "u-turn-up-right:24",
-"turn-left-down:22"
+"turn-left-down:22",
+"users:3",
+"user-pilot-tie:26",
+"luchador:7",
+"adjust:17",
+"check-to-slot:8",
+"file-check:34",
+"bed:9",
+"broom-ball:26",
+"envelope-open-dollar:2"
 ];

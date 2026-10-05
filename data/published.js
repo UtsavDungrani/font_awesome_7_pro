@@ -2204,5 +2204,14 @@ window.FA_PUBLISHED = [
 "circle-parking:0",
 "acorn:35",
 "nfc-magnifying-glass:6",
-"comment:30"
+"comment:30",
+"greater-than:24",
+"ship-large:19",
+"file:24",
+"t:26",
+"chart-scatter:3",
+"compass-slash:21",
+"person-military-pointing:20",
+"truck-field-un:3",
+"gamepad-alt:1"
 ];

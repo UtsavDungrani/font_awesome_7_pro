@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-greater-than,24,fa-sharp-duotone fa-regular fa-greater-than,Greater Than,Sharp Duotone Regular
-ship-large,19,fa-sharp fa-light fa-ship-large,Ship Large,Sharp Light
-file,24,fa-sharp-duotone fa-regular fa-file,File,Sharp Duotone Regular
-t,26,fa-sharp-duotone fa-thin fa-t,T,Sharp Duotone Thin
-chart-scatter,3,fa-thin fa-chart-scatter,Chart Scatter,Thin
-compass-slash,21,fa-sharp fa-solid fa-compass-slash,Compass Slash,Sharp Solid
-person-military-pointing,20,fa-sharp fa-regular fa-person-military-pointing,Person Military Pointing,Sharp Regular
-truck-field-un,3,fa-thin fa-truck-field-un,Truck Field Un,Thin
-gamepad-alt,1,fa-regular fa-gamepad-alt,Gamepad Alt,Regular
 minus,8,fa-duotone fa-regular fa-minus,Minus,Duotone Regular
 user-police-hair-long,23,fa-sharp-duotone fa-light fa-user-police-hair-long,User Police Hair Long,Sharp Duotone Light
 moon,23,fa-sharp-duotone fa-light fa-moon,Moon,Sharp Duotone Light

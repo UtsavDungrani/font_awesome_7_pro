@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-smoke,2,fa-light fa-smoke,Smoke,Light
-table-columns-merge-previous,1,fa-regular fa-table-columns-merge-previous,Table Columns Merge Previous,Regular
-cat-space,6,fa-duotone fa-cat-space,Cat Space,Duotone Solid
-bangladeshi-taka-sign,6,fa-duotone fa-bangladeshi-taka-sign,Bangladeshi Taka Sign,Duotone Solid
-image-stack,22,fa-sharp fa-thin fa-image-stack,Image Stack,Sharp Thin
-money-check-dollar-pen,25,fa-sharp-duotone fa-solid fa-money-check-dollar-pen,Money Check Dollar Pen,Sharp Duotone Solid
-direction-left-right,25,fa-sharp-duotone fa-solid fa-direction-left-right,Direction Left Right,Sharp Duotone Solid
-arrow-alt-up,22,fa-sharp fa-thin fa-arrow-alt-up,Arrow Alt Up,Sharp Thin
-game-console-handheld,25,fa-sharp-duotone fa-solid fa-game-console-handheld,Game Console Handheld,Sharp Duotone Solid
 4,7,fa-duotone fa-light fa-4,4,Duotone Light
 plane-prop,23,fa-sharp-duotone fa-light fa-plane-prop,Plane Prop,Sharp Duotone Light
 message-arrow-up-right,2,fa-light fa-message-arrow-up-right,Message Arrow Up Right,Light

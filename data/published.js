@@ -2348,5 +2348,14 @@ window.FA_PUBLISHED = [
 "arrow-left-rotate:34",
 "chart-scatter-bubble:3",
 "compass:17",
-"u-turn-right-up:7"
+"u-turn-right-up:7",
+"smoke:2",
+"table-columns-merge-previous:1",
+"cat-space:6",
+"bangladeshi-taka-sign:6",
+"image-stack:22",
+"money-check-dollar-pen:25",
+"direction-left-right:25",
+"arrow-alt-up:22",
+"game-console-handheld:25"
 ];

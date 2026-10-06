@@ -2357,5 +2357,14 @@ window.FA_PUBLISHED = [
 "money-check-dollar-pen:25",
 "direction-left-right:25",
 "arrow-alt-up:22",
-"game-console-handheld:25"
+"game-console-handheld:25",
+"4:7",
+"plane-prop:23",
+"message-arrow-up-right:2",
+"square-colon:7",
+"satellite-dish:20",
+"seat-airline:0",
+"user:17",
+"island-tree-palm:8",
+"person-arms-raised:20"
 ];

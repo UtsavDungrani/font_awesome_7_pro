@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-4,7,fa-duotone fa-light fa-4,4,Duotone Light
-plane-prop,23,fa-sharp-duotone fa-light fa-plane-prop,Plane Prop,Sharp Duotone Light
-message-arrow-up-right,2,fa-light fa-message-arrow-up-right,Message Arrow Up Right,Light
-square-colon,7,fa-duotone fa-light fa-square-colon,Square Colon,Duotone Light
-satellite-dish,20,fa-sharp fa-regular fa-satellite-dish,Satellite Dish,Sharp Regular
-seat-airline,0,fa-solid fa-seat-airline,Seat Airline,Solid
-user,17,fa-notdog-duo fa-solid fa-user,User,Notdog Duo Solid
-island-tree-palm,8,fa-duotone fa-regular fa-island-tree-palm,Island Tree Palm,Duotone Regular
-person-arms-raised,20,fa-sharp fa-regular fa-person-arms-raised,Person Arms Raised,Sharp Regular
 arrow-up-small-big,0,fa-solid fa-arrow-up-small-big,Arrow Up Small Big,Solid
 scooter,25,fa-sharp-duotone fa-solid fa-scooter,Scooter,Sharp Duotone Solid
 signal-2,32,fa-utility fa-semibold fa-signal-2,Signal 2,Utility Semibold

@@ -2330,5 +2330,14 @@ window.FA_PUBLISHED = [
 "magnifying-glass-waveform:0",
 "racquet:0",
 "cutlery:29",
-"trash-can-check:1"
+"trash-can-check:1",
+"bell-school:19",
+"book-arrow-up:7",
+"slider:23",
+"person-meditating:9",
+"open-captioning:3",
+"square-half-stroke:25",
+"arrow-right-long:2",
+"clock-seven:8",
+"briefcase:28"
 ];

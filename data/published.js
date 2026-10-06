@@ -2294,5 +2294,14 @@ window.FA_PUBLISHED = [
 "horseshoe:2",
 "lungs-virus:20",
 "video:2",
-"hand-point-ribbon:3"
+"hand-point-ribbon:3",
+"waveform-lines:19",
+"kiwi-fruit:1",
+"wind-circle-exclamation:20",
+"tamale:6",
+"hurricane:19",
+"signature-lock:22",
+"code-pull-request:20",
+"ambulance:19",
+"walkie-talkie:9"
 ];

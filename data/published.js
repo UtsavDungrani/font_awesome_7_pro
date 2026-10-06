@@ -2285,5 +2285,14 @@ window.FA_PUBLISHED = [
 "lightbulb-message:26",
 "rings-wedding:6",
 "birthday-cake:10",
-"building-lock:7"
+"building-lock:7",
+"expand-arrows-alt:20",
+"cart-plus:22",
+"blinds:26",
+"print-slash:20",
+"child-dress:2",
+"horseshoe:2",
+"lungs-virus:20",
+"video:2",
+"hand-point-ribbon:3"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-escalator,20,fa-sharp fa-regular fa-escalator,Escalator,Sharp Regular
-window-frame-open,21,fa-sharp fa-solid fa-window-frame-open,Window Frame Open,Sharp Solid
-ticket-perforated,24,fa-sharp-duotone fa-regular fa-ticket-perforated,Ticket Perforated,Sharp Duotone Regular
-tractor,19,fa-sharp fa-light fa-tractor,Tractor,Sharp Light
-tree-decorated,22,fa-sharp fa-thin fa-tree-decorated,Tree Decorated,Sharp Thin
-arrow-left-rotate,34,fa-utility-fill fa-semibold fa-arrow-left-rotate,Arrow Left Rotate,Utility Fill Semibold
-chart-scatter-bubble,3,fa-thin fa-chart-scatter-bubble,Chart Scatter Bubble,Thin
-compass,17,fa-notdog-duo fa-solid fa-compass,Compass,Notdog Duo Solid
-u-turn-right-up,7,fa-duotone fa-light fa-u-turn-right-up,U Turn Right Up,Duotone Light
 smoke,2,fa-light fa-smoke,Smoke,Light
 table-columns-merge-previous,1,fa-regular fa-table-columns-merge-previous,Table Columns Merge Previous,Regular
 cat-space,6,fa-duotone fa-cat-space,Cat Space,Duotone Solid

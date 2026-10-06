@@ -2339,5 +2339,14 @@ window.FA_PUBLISHED = [
 "square-half-stroke:25",
 "arrow-right-long:2",
 "clock-seven:8",
-"briefcase:28"
+"briefcase:28",
+"escalator:20",
+"window-frame-open:21",
+"ticket-perforated:24",
+"tractor:19",
+"tree-decorated:22",
+"arrow-left-rotate:34",
+"chart-scatter-bubble:3",
+"compass:17",
+"u-turn-right-up:7"
 ];

@@ -2312,5 +2312,14 @@ window.FA_PUBLISHED = [
 "building-flag:6",
 "arrow-right-arrow-left:15",
 "arrow-up-square-triangle:1",
-"square-steam:4"
+"square-steam:4",
+"clock-one-thirty:23",
+"tarp:23",
+"peanuts:19",
+"location-plus:6",
+"blender:24",
+"mask-face:21",
+"book-heart:23",
+"earth-asia:20",
+"lamp-desk:26"
 ];

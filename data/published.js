@@ -2321,5 +2321,14 @@ window.FA_PUBLISHED = [
 "mask-face:21",
 "book-heart:23",
 "earth-asia:20",
-"lamp-desk:26"
+"lamp-desk:26",
+"file-cad:20",
+"nigiri:24",
+"prescription:2",
+"list-dots:22",
+"donut:35",
+"magnifying-glass-waveform:0",
+"racquet:0",
+"cutlery:29",
+"trash-can-check:1"
 ];

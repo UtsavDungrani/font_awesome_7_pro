@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-cad,20,fa-sharp fa-regular fa-file-cad,File Cad,Sharp Regular
-nigiri,24,fa-sharp-duotone fa-regular fa-nigiri,Nigiri,Sharp Duotone Regular
-prescription,2,fa-light fa-prescription,Prescription,Light
-list-dots,22,fa-sharp fa-thin fa-list-dots,List Dots,Sharp Thin
-donut,35,fa-vellum fa-solid fa-donut,Donut,Vellum Solid
-magnifying-glass-waveform,0,fa-solid fa-magnifying-glass-waveform,Magnifying Glass Waveform,Solid
-racquet,0,fa-solid fa-racquet,Racquet,Solid
-cutlery,29,fa-slab-press fa-regular fa-cutlery,Cutlery,Slab Press Regular
-trash-can-check,1,fa-regular fa-trash-can-check,Trash Can Check,Regular
 bell-school,19,fa-sharp fa-light fa-bell-school,Bell School,Sharp Light
 book-arrow-up,7,fa-duotone fa-light fa-book-arrow-up,Book Arrow Up,Duotone Light
 slider,23,fa-sharp-duotone fa-light fa-slider,Slider,Sharp Duotone Light

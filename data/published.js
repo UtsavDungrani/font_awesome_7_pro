@@ -2366,5 +2366,14 @@ window.FA_PUBLISHED = [
 "seat-airline:0",
 "user:17",
 "island-tree-palm:8",
-"person-arms-raised:20"
+"person-arms-raised:20",
+"arrow-up-small-big:0",
+"scooter:25",
+"signal-2:32",
+"magnifying-glass-minus:9",
+"rectangle-vertical-history:20",
+"face-shush:8",
+"user-tie-hair-long:7",
+"horse-head:6",
+"file-dashed-line:24"
 ];

@@ -2303,5 +2303,14 @@ window.FA_PUBLISHED = [
 "signature-lock:22",
 "code-pull-request:20",
 "ambulance:19",
-"walkie-talkie:9"
+"walkie-talkie:9",
+"table-bar:6",
+"globe-wifi:25",
+"file-zip:24",
+"heart-pulse:19",
+"heart-circle-check:26",
+"building-flag:6",
+"arrow-right-arrow-left:15",
+"arrow-up-square-triangle:1",
+"square-steam:4"
 ];

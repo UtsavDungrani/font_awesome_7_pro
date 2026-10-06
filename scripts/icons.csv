@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-table-bar,6,fa-duotone fa-table-bar,Table Bar,Duotone Solid
-globe-wifi,25,fa-sharp-duotone fa-solid fa-globe-wifi,Globe Wifi,Sharp Duotone Solid
-file-zip,24,fa-sharp-duotone fa-regular fa-file-zip,File Zip,Sharp Duotone Regular
-heart-pulse,19,fa-sharp fa-light fa-heart-pulse,Heart Pulse,Sharp Light
-heart-circle-check,26,fa-sharp-duotone fa-thin fa-heart-circle-check,Heart Circle Check,Sharp Duotone Thin
-building-flag,6,fa-duotone fa-building-flag,Building Flag,Duotone Solid
-arrow-right-arrow-left,15,fa-mosaic fa-solid fa-arrow-right-arrow-left,Arrow Right Arrow Left,Mosaic Solid
-arrow-up-square-triangle,1,fa-regular fa-arrow-up-square-triangle,Arrow Up Square Triangle,Regular
-square-steam,4,fa-brands fa-square-steam,Square Steam,Brands
 clock-one-thirty,23,fa-sharp-duotone fa-light fa-clock-one-thirty,Clock One Thirty,Sharp Duotone Light
 tarp,23,fa-sharp-duotone fa-light fa-tarp,Tarp,Sharp Duotone Light
 peanuts,19,fa-sharp fa-light fa-peanuts,Peanuts,Sharp Light

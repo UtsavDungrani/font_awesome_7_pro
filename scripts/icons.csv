@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-people-line,8,fa-duotone fa-regular fa-people-line,People Line,Duotone Regular
-face-astonished,2,fa-light fa-face-astonished,Face Astonished,Light
-cart-shopping,30,fa-slab-press-duo fa-regular fa-cart-shopping,Cart Shopping,Slab Press Duo Regular
-coffee,25,fa-sharp-duotone fa-solid fa-coffee,Coffee,Sharp Duotone Solid
-user-cog,1,fa-regular fa-user-cog,User Cog,Regular
-fire-extinguisher,2,fa-light fa-fire-extinguisher,Fire Extinguisher,Light
-face-smile-tear,21,fa-sharp fa-solid fa-face-smile-tear,Face Smile Tear,Sharp Solid
-ghost,9,fa-duotone fa-thin fa-ghost,Ghost,Duotone Thin
-info-square,1,fa-regular fa-info-square,Info Square,Regular
 arrow-alt-square-left,1,fa-regular fa-arrow-alt-square-left,Arrow Alt Square Left,Regular
 face-drooling,20,fa-sharp fa-regular fa-face-drooling,Face Drooling,Sharp Regular
 square,20,fa-sharp fa-regular fa-square,Square,Sharp Regular

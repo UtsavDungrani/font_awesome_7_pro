@@ -2438,5 +2438,14 @@ window.FA_PUBLISHED = [
 "olive:19",
 "comments-alt:9",
 "utensils-slash:22",
-"person-walking-arrow-loop-left:8"
+"person-walking-arrow-loop-left:8",
+"people-line:8",
+"face-astonished:2",
+"cart-shopping:30",
+"coffee:25",
+"user-cog:1",
+"fire-extinguisher:2",
+"face-smile-tear:21",
+"ghost:9",
+"info-square:1"
 ];

@@ -2456,5 +2456,14 @@ window.FA_PUBLISHED = [
 "floppy-disk-circle-xmark:22",
 "facebook-messenger:4",
 "blanket:3",
-"toilet-paper:23"
+"toilet-paper:23",
+"circle-dong:19",
+"tank-water:24",
+"golf-club:1",
+"tablet-rugged:0",
+"outlet:6",
+"shuttle-van:1",
+"cloud-showers-heavy:20",
+"video-plus:24",
+"door-closed:14"
 ];

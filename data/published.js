@@ -2411,5 +2411,14 @@ window.FA_PUBLISHED = [
 "ellipsis-h-alt:23",
 "arrow-circle-right:25",
 "s:8",
-"border-right:19"
+"border-right:19",
+"user-vneck-hair-long:0",
+"percent:21",
+"pallet-box:2",
+"video-slash:13",
+"arrow-up-1-9:22",
+"cloud-rain:0",
+"circle-xmark:26",
+"add:0",
+"object-ungroup:21"
 ];

@@ -2402,5 +2402,14 @@ window.FA_PUBLISHED = [
 "dial:21",
 "tag:8",
 "glass:6",
-"truck-arrow-right:8"
+"truck-arrow-right:8",
+"right-from-bracket:6",
+"moon-first-quarter-inverse:23",
+"cruzeiro-sign:23",
+"hurricane:6",
+"pipe-circle-check:21",
+"ellipsis-h-alt:23",
+"arrow-circle-right:25",
+"s:8",
+"border-right:19"
 ];

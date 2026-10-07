@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-books,8,fa-duotone fa-regular fa-books,Books,Duotone Regular
-chart-kanban,24,fa-sharp-duotone fa-regular fa-chart-kanban,Chart Kanban,Sharp Duotone Regular
-users-cog,1,fa-regular fa-users-cog,Users Cog,Regular
-face-sleeping,21,fa-sharp fa-solid fa-face-sleeping,Face Sleeping,Sharp Solid
-person-water-arms-raised,3,fa-thin fa-person-water-arms-raised,Person Water Arms Raised,Thin
-olive,19,fa-sharp fa-light fa-olive,Olive,Sharp Light
-comments-alt,9,fa-duotone fa-thin fa-comments-alt,Comments Alt,Duotone Thin
-utensils-slash,22,fa-sharp fa-thin fa-utensils-slash,Utensils Slash,Sharp Thin
-person-walking-arrow-loop-left,8,fa-duotone fa-regular fa-person-walking-arrow-loop-left,Person Walking Arrow Loop Left,Duotone Regular
 people-line,8,fa-duotone fa-regular fa-people-line,People Line,Duotone Regular
 face-astonished,2,fa-light fa-face-astonished,Face Astonished,Light
 cart-shopping,30,fa-slab-press-duo fa-regular fa-cart-shopping,Cart Shopping,Slab Press Duo Regular

@@ -2429,5 +2429,14 @@ window.FA_PUBLISHED = [
 "angle-down:5",
 "user-microphone:23",
 "circle-dong:7",
-"traffic-light-slow:23"
+"traffic-light-slow:23",
+"books:8",
+"chart-kanban:24",
+"users-cog:1",
+"face-sleeping:21",
+"person-water-arms-raised:3",
+"olive:19",
+"comments-alt:9",
+"utensils-slash:22",
+"person-walking-arrow-loop-left:8"
 ];

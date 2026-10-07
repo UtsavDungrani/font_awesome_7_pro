@@ -2375,5 +2375,14 @@ window.FA_PUBLISHED = [
 "face-shush:8",
 "user-tie-hair-long:7",
 "horse-head:6",
-"file-dashed-line:24"
+"file-dashed-line:24",
+"jug-detergent:22",
+"arrow-alt-circle-up:1",
+"face-grin-beam:3",
+"circle-lira:24",
+"fire-flame:26",
+"badge-check:19",
+"instalod:4",
+"plug-circle-check:9",
+"sickle:20"
 ];

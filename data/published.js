@@ -2393,5 +2393,14 @@ window.FA_PUBLISHED = [
 "blind:23",
 "mask-snorkel:24",
 "face-grin-hearts:23",
-"gear-complex-code:23"
+"gear-complex-code:23",
+"circle-2:21",
+"sliders-h-square:0",
+"bath:22",
+"laptop:34",
+"jug-detergent:23",
+"dial:21",
+"tag:8",
+"glass:6",
+"truck-arrow-right:8"
 ];

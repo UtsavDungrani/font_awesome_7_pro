@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-2,21,fa-sharp fa-solid fa-circle-2,Circle 2,Sharp Solid
-sliders-h-square,0,fa-solid fa-sliders-h-square,Sliders H Square,Solid
-bath,22,fa-sharp fa-thin fa-bath,Bath,Sharp Thin
-laptop,34,fa-utility-fill fa-semibold fa-laptop,Laptop,Utility Fill Semibold
-jug-detergent,23,fa-sharp-duotone fa-light fa-jug-detergent,Jug Detergent,Sharp Duotone Light
-dial,21,fa-sharp fa-solid fa-dial,Dial,Sharp Solid
-tag,8,fa-duotone fa-regular fa-tag,Tag,Duotone Regular
-glass,6,fa-duotone fa-glass,Glass,Duotone Solid
-truck-arrow-right,8,fa-duotone fa-regular fa-truck-arrow-right,Truck Arrow Right,Duotone Regular
 right-from-bracket,6,fa-duotone fa-right-from-bracket,Right From Bracket,Duotone Solid
 moon-first-quarter-inverse,23,fa-sharp-duotone fa-light fa-moon-first-quarter-inverse,Moon First Quarter Inverse,Sharp Duotone Light
 cruzeiro-sign,23,fa-sharp-duotone fa-light fa-cruzeiro-sign,Cruzeiro Sign,Sharp Duotone Light

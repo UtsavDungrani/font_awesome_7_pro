@@ -2447,5 +2447,14 @@ window.FA_PUBLISHED = [
 "fire-extinguisher:2",
 "face-smile-tear:21",
 "ghost:9",
-"info-square:1"
+"info-square:1",
+"arrow-alt-square-left:1",
+"face-drooling:20",
+"square:20",
+"house-lock:20",
+"signal-4:3",
+"floppy-disk-circle-xmark:22",
+"facebook-messenger:4",
+"blanket:3",
+"toilet-paper:23"
 ];

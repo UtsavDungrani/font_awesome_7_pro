@@ -2465,5 +2465,14 @@ window.FA_PUBLISHED = [
 "shuttle-van:1",
 "cloud-showers-heavy:20",
 "video-plus:24",
-"door-closed:14"
+"door-closed:14",
+"tent-arrow-left-right:7",
+"circle-bangladeshi-taka:8",
+"comments-question:22",
+"credit-card-front:23",
+"money-bill-wave:31",
+"i-cursor:22",
+"slash-forward:7",
+"adjust:26",
+"clock-ten:20"
 ];

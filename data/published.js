@@ -2384,5 +2384,14 @@ window.FA_PUBLISHED = [
 "badge-check:19",
 "instalod:4",
 "plug-circle-check:9",
-"sickle:20"
+"sickle:20",
+"keynote:23",
+"sunrise:3",
+"child-combatant:9",
+"toggle-on:1",
+"send-backward:1",
+"blind:23",
+"mask-snorkel:24",
+"face-grin-hearts:23",
+"gear-complex-code:23"
 ];

@@ -2420,5 +2420,14 @@ window.FA_PUBLISHED = [
 "cloud-rain:0",
 "circle-xmark:26",
 "add:0",
-"object-ungroup:21"
+"object-ungroup:21",
+"hand-holding-seedling:9",
+"building-magnifying-glass:24",
+"buildings:9",
+"eraser:0",
+"thumbs-up:2",
+"angle-down:5",
+"user-microphone:23",
+"circle-dong:7",
+"traffic-light-slow:23"
 ];

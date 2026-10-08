@@ -2537,5 +2537,14 @@ window.FA_PUBLISHED = [
 "square-cent:23",
 "00:2",
 "album-collection:1",
-"skeleton-ribs:19"
+"skeleton-ribs:19",
+"hockey-stick-puck:1",
+"ellipsis-h-alt:8",
+"square-divide:6",
+"glass-empty:19",
+"user-visor:0",
+"calendar-arrow-up:20",
+"location-arrow:36",
+"not-equal:8",
+"bicycle:21"
 ];

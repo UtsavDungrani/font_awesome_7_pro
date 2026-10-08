@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hockey-stick-puck,1,fa-regular fa-hockey-stick-puck,Hockey Stick Puck,Regular
-ellipsis-h-alt,8,fa-duotone fa-regular fa-ellipsis-h-alt,Ellipsis H Alt,Duotone Regular
-square-divide,6,fa-duotone fa-square-divide,Square Divide,Duotone Solid
-glass-empty,19,fa-sharp fa-light fa-glass-empty,Glass Empty,Sharp Light
-user-visor,0,fa-solid fa-user-visor,User Visor,Solid
-calendar-arrow-up,20,fa-sharp fa-regular fa-calendar-arrow-up,Calendar Arrow Up,Sharp Regular
-location-arrow,36,fa-whiteboard fa-semibold fa-location-arrow,Location Arrow,Whiteboard Semibold
-not-equal,8,fa-duotone fa-regular fa-not-equal,Not Equal,Duotone Regular
-bicycle,21,fa-sharp fa-solid fa-bicycle,Bicycle,Sharp Solid
 chevron-circle-up,21,fa-sharp fa-solid fa-chevron-circle-up,Chevron Circle Up,Sharp Solid
 border-center-v,25,fa-sharp-duotone fa-solid fa-border-center-v,Border Center V,Sharp Duotone Solid
 repeat-1,23,fa-sharp-duotone fa-light fa-repeat-1,Repeat 1,Sharp Duotone Light

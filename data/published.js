@@ -2501,5 +2501,14 @@ window.FA_PUBLISHED = [
 "truck-monster:24",
 "circle-half-horizontal:20",
 "remote:0",
-"folder-open:7"
+"folder-open:7",
+"arrow-u-turn-up-right:3",
+"arrow-down:25",
+"fighter-jet:20",
+"circle-wifi-circle-wifi:25",
+"people-robbery:0",
+"wrench:31",
+"sportsball:6",
+"watch-calculator:1",
+"tablets:24"
 ];

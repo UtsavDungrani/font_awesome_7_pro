@@ -2519,5 +2519,14 @@ window.FA_PUBLISHED = [
 "border-inner:3",
 "party-bell:1",
 "share-alt:34",
-"calendar-circle:26"
+"calendar-circle:26",
+"pie:25",
+"table-bar:8",
+"ballot-check:26",
+"user-minus:7",
+"file-wav:8",
+"wave-sine:25",
+"tower-observation:0",
+"square-6:1",
+"boombox:20"
 ];

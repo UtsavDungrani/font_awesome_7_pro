@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pie,25,fa-sharp-duotone fa-solid fa-pie,Pie,Sharp Duotone Solid
-table-bar,8,fa-duotone fa-regular fa-table-bar,Table Bar,Duotone Regular
-ballot-check,26,fa-sharp-duotone fa-thin fa-ballot-check,Ballot Check,Sharp Duotone Thin
-user-minus,7,fa-duotone fa-light fa-user-minus,User Minus,Duotone Light
-file-wav,8,fa-duotone fa-regular fa-file-wav,File Wav,Duotone Regular
-wave-sine,25,fa-sharp-duotone fa-solid fa-wave-sine,Wave Sine,Sharp Duotone Solid
-tower-observation,0,fa-solid fa-tower-observation,Tower Observation,Solid
-square-6,1,fa-regular fa-square-6,Square 6,Regular
-boombox,20,fa-sharp fa-regular fa-boombox,Boombox,Sharp Regular
 forgejo,4,fa-brands fa-forgejo,Forgejo,Brands
 circle,28,fa-slab-duo fa-regular fa-circle,Circle,Slab Duo Regular
 t,17,fa-notdog-duo fa-solid fa-t,T,Notdog Duo Solid

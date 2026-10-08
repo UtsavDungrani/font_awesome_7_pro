@@ -2483,5 +2483,14 @@ window.FA_PUBLISHED = [
 "prescription-bottle:21",
 "arrow-left:27",
 "calendar-edit:2",
-"calendar-plus:34"
+"calendar-plus:34",
+"gauge-high:20",
+"coffee-bean:21",
+"square-equals:8",
+"amp-guitar:24",
+"strikethrough:26",
+"diamond-exclamation:6",
+"band-aid:23",
+"bottle-droplet:6",
+"chest-drawers:7"
 ];

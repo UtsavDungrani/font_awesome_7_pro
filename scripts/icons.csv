@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-gauge-high,20,fa-sharp fa-regular fa-gauge-high,Gauge High,Sharp Regular
-coffee-bean,21,fa-sharp fa-solid fa-coffee-bean,Coffee Bean,Sharp Solid
-square-equals,8,fa-duotone fa-regular fa-square-equals,Square Equals,Duotone Regular
-amp-guitar,24,fa-sharp-duotone fa-regular fa-amp-guitar,Amp Guitar,Sharp Duotone Regular
-strikethrough,26,fa-sharp-duotone fa-thin fa-strikethrough,Strikethrough,Sharp Duotone Thin
-diamond-exclamation,6,fa-duotone fa-diamond-exclamation,Diamond Exclamation,Duotone Solid
-band-aid,23,fa-sharp-duotone fa-light fa-band-aid,Band Aid,Sharp Duotone Light
-bottle-droplet,6,fa-duotone fa-bottle-droplet,Bottle Droplet,Duotone Solid
-chest-drawers,7,fa-duotone fa-light fa-chest-drawers,Chest Drawers,Duotone Light
 bolt,18,fa-pixel fa-regular fa-bolt,Bolt,Pixel Regular
 triple-chevrons-up,6,fa-duotone fa-triple-chevrons-up,Triple Chevrons Up,Duotone Solid
 webhook,8,fa-duotone fa-regular fa-webhook,Webhook,Duotone Regular

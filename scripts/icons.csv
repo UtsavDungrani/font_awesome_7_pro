@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bolt,18,fa-pixel fa-regular fa-bolt,Bolt,Pixel Regular
-triple-chevrons-up,6,fa-duotone fa-triple-chevrons-up,Triple Chevrons Up,Duotone Solid
-webhook,8,fa-duotone fa-regular fa-webhook,Webhook,Duotone Regular
-circle-user-circle-plus,19,fa-sharp fa-light fa-circle-user-circle-plus,Circle User Circle Plus,Sharp Light
-comment-alt-edit,3,fa-thin fa-comment-alt-edit,Comment Alt Edit,Thin
-truck-monster,24,fa-sharp-duotone fa-regular fa-truck-monster,Truck Monster,Sharp Duotone Regular
-circle-half-horizontal,20,fa-sharp fa-regular fa-circle-half-horizontal,Circle Half Horizontal,Sharp Regular
-remote,0,fa-solid fa-remote,Remote,Solid
-folder-open,7,fa-duotone fa-light fa-folder-open,Folder Open,Duotone Light
 arrow-u-turn-up-right,3,fa-thin fa-arrow-u-turn-up-right,Arrow U Turn Up Right,Thin
 arrow-down,25,fa-sharp-duotone fa-solid fa-arrow-down,Arrow Down,Sharp Duotone Solid
 fighter-jet,20,fa-sharp fa-regular fa-fighter-jet,Fighter Jet,Sharp Regular

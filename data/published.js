@@ -2492,5 +2492,14 @@ window.FA_PUBLISHED = [
 "diamond-exclamation:6",
 "band-aid:23",
 "bottle-droplet:6",
-"chest-drawers:7"
+"chest-drawers:7",
+"bolt:18",
+"triple-chevrons-up:6",
+"webhook:8",
+"circle-user-circle-plus:19",
+"comment-alt-edit:3",
+"truck-monster:24",
+"circle-half-horizontal:20",
+"remote:0",
+"folder-open:7"
 ];

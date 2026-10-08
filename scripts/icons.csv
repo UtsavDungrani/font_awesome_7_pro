@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-forgejo,4,fa-brands fa-forgejo,Forgejo,Brands
-circle,28,fa-slab-duo fa-regular fa-circle,Circle,Slab Duo Regular
-t,17,fa-notdog-duo fa-solid fa-t,T,Notdog Duo Solid
-person-dolly,21,fa-sharp fa-solid fa-person-dolly,Person Dolly,Sharp Solid
-gauge-circle-minus,25,fa-sharp-duotone fa-solid fa-gauge-circle-minus,Gauge Circle Minus,Sharp Duotone Solid
-square-cent,23,fa-sharp-duotone fa-light fa-square-cent,Square Cent,Sharp Duotone Light
-00,2,fa-light fa-00,00,Light
-album-collection,1,fa-regular fa-album-collection,Album Collection,Regular
-skeleton-ribs,19,fa-sharp fa-light fa-skeleton-ribs,Skeleton Ribs,Sharp Light
 hockey-stick-puck,1,fa-regular fa-hockey-stick-puck,Hockey Stick Puck,Regular
 ellipsis-h-alt,8,fa-duotone fa-regular fa-ellipsis-h-alt,Ellipsis H Alt,Duotone Regular
 square-divide,6,fa-duotone fa-square-divide,Square Divide,Duotone Solid

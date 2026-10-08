@@ -2528,5 +2528,14 @@ window.FA_PUBLISHED = [
 "wave-sine:25",
 "tower-observation:0",
 "square-6:1",
-"boombox:20"
+"boombox:20",
+"forgejo:4",
+"circle:28",
+"t:17",
+"person-dolly:21",
+"gauge-circle-minus:25",
+"square-cent:23",
+"00:2",
+"album-collection:1",
+"skeleton-ribs:19"
 ];

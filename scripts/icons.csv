@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-smile-tongue,20,fa-sharp fa-regular fa-face-smile-tongue,Face Smile Tongue,Sharp Regular
-school-circle-check,0,fa-solid fa-school-circle-check,School Circle Check,Solid
-arrow-down-small-big,19,fa-sharp fa-light fa-arrow-down-small-big,Arrow Down Small Big,Sharp Light
-person-circle-xmark,22,fa-sharp fa-thin fa-person-circle-xmark,Person Circle Xmark,Sharp Thin
-circle-b,20,fa-sharp fa-regular fa-circle-b,Circle B,Sharp Regular
-prescription-bottle,21,fa-sharp fa-solid fa-prescription-bottle,Prescription Bottle,Sharp Solid
-arrow-left,27,fa-slab fa-regular fa-arrow-left,Arrow Left,Slab Regular
-calendar-edit,2,fa-light fa-calendar-edit,Calendar Edit,Light
-calendar-plus,34,fa-utility-fill fa-semibold fa-calendar-plus,Calendar Plus,Utility Fill Semibold
 gauge-high,20,fa-sharp fa-regular fa-gauge-high,Gauge High,Sharp Regular
 coffee-bean,21,fa-sharp fa-solid fa-coffee-bean,Coffee Bean,Sharp Solid
 square-equals,8,fa-duotone fa-regular fa-square-equals,Square Equals,Duotone Regular

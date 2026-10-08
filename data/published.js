@@ -2474,5 +2474,14 @@ window.FA_PUBLISHED = [
 "i-cursor:22",
 "slash-forward:7",
 "adjust:26",
-"clock-ten:20"
+"clock-ten:20",
+"face-smile-tongue:20",
+"school-circle-check:0",
+"arrow-down-small-big:19",
+"person-circle-xmark:22",
+"circle-b:20",
+"prescription-bottle:21",
+"arrow-left:27",
+"calendar-edit:2",
+"calendar-plus:34"
 ];

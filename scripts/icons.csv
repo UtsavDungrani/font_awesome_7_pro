@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-car-circle-bolt,2,fa-light fa-car-circle-bolt,Car Circle Bolt,Light
-play-flip,6,fa-duotone fa-play-flip,Play Flip,Duotone Solid
-book-arrow-right,8,fa-duotone fa-regular fa-book-arrow-right,Book Arrow Right,Duotone Regular
-plate-utensils,21,fa-sharp fa-solid fa-plate-utensils,Plate Utensils,Sharp Solid
-arrow-square-left,7,fa-duotone fa-light fa-arrow-square-left,Arrow Square Left,Duotone Light
-border-inner,3,fa-thin fa-border-inner,Border Inner,Thin
-party-bell,1,fa-regular fa-party-bell,Party Bell,Regular
-share-alt,34,fa-utility-fill fa-semibold fa-share-alt,Share Alt,Utility Fill Semibold
-calendar-circle,26,fa-sharp-duotone fa-thin fa-calendar-circle,Calendar Circle,Sharp Duotone Thin
 pie,25,fa-sharp-duotone fa-solid fa-pie,Pie,Sharp Duotone Solid
 table-bar,8,fa-duotone fa-regular fa-table-bar,Table Bar,Duotone Regular
 ballot-check,26,fa-sharp-duotone fa-thin fa-ballot-check,Ballot Check,Sharp Duotone Thin

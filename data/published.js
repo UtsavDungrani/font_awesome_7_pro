@@ -2510,5 +2510,14 @@ window.FA_PUBLISHED = [
 "wrench:31",
 "sportsball:6",
 "watch-calculator:1",
-"tablets:24"
+"tablets:24",
+"car-circle-bolt:2",
+"play-flip:6",
+"book-arrow-right:8",
+"plate-utensils:21",
+"arrow-square-left:7",
+"border-inner:3",
+"party-bell:1",
+"share-alt:34",
+"calendar-circle:26"
 ];

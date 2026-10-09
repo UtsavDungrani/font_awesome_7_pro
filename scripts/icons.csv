@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-border-inner,24,fa-sharp-duotone fa-regular fa-border-inner,Border Inner,Sharp Duotone Regular
-face-woozy,0,fa-solid fa-face-woozy,Face Woozy,Solid
-oars,24,fa-sharp-duotone fa-regular fa-oars,Oars,Sharp Duotone Regular
-users-rectangle,7,fa-duotone fa-light fa-users-rectangle,Users Rectangle,Duotone Light
-clone,25,fa-sharp-duotone fa-solid fa-clone,Clone,Sharp Duotone Solid
-spider-black-widow,1,fa-regular fa-spider-black-widow,Spider Black Widow,Regular
-cloud-word,9,fa-duotone fa-thin fa-cloud-word,Cloud Word,Duotone Thin
-dice-d8,23,fa-sharp-duotone fa-light fa-dice-d8,Dice D8,Sharp Duotone Light
-typewriter,6,fa-duotone fa-typewriter,Typewriter,Duotone Solid
 expand,21,fa-sharp fa-solid fa-expand,Expand,Sharp Solid
 bars-staggered,19,fa-sharp fa-light fa-bars-staggered,Bars Staggered,Sharp Light
 angle-double-up,26,fa-sharp-duotone fa-thin fa-angle-double-up,Angle Double Up,Sharp Duotone Thin

@@ -2627,5 +2627,14 @@ window.FA_PUBLISHED = [
 "line-columns:9",
 "circle-cruzeiro:7",
 "moon-full-inverse:24",
-"dice:6"
+"dice:6",
+"border-inner:24",
+"face-woozy:0",
+"oars:24",
+"users-rectangle:7",
+"clone:25",
+"spider-black-widow:1",
+"cloud-word:9",
+"dice-d8:23",
+"typewriter:6"
 ];

@@ -2582,5 +2582,14 @@ window.FA_PUBLISHED = [
 "person-soccer:7",
 "planet-ringed:22",
 "7:0",
-"arrow-up-from-bracket:14"
+"arrow-up-from-bracket:14",
+"tablet:22",
+"danish-krone-sign:9",
+"box-isometric-tape:6",
+"pause:9",
+"face-nauseated:20",
+"om:3",
+"horse-saddle:3",
+"rectangle-4k:6",
+"kiwi-fruit:0"
 ];

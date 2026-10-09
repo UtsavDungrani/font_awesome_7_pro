@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tablet,22,fa-sharp fa-thin fa-tablet,Tablet,Sharp Thin
-danish-krone-sign,9,fa-duotone fa-thin fa-danish-krone-sign,Danish Krone Sign,Duotone Thin
-box-isometric-tape,6,fa-duotone fa-box-isometric-tape,Box Isometric Tape,Duotone Solid
-pause,9,fa-duotone fa-thin fa-pause,Pause,Duotone Thin
-face-nauseated,20,fa-sharp fa-regular fa-face-nauseated,Face Nauseated,Sharp Regular
-om,3,fa-thin fa-om,Om,Thin
-horse-saddle,3,fa-thin fa-horse-saddle,Horse Saddle,Thin
-rectangle-4k,6,fa-duotone fa-rectangle-4k,Rectangle 4K,Duotone Solid
-kiwi-fruit,0,fa-solid fa-kiwi-fruit,Kiwi Fruit,Solid
 bed,19,fa-sharp fa-light fa-bed,Bed,Sharp Light
 plus-square,24,fa-sharp-duotone fa-regular fa-plus-square,Plus Square,Sharp Duotone Regular
 file-clipboard,22,fa-sharp fa-thin fa-file-clipboard,File Clipboard,Sharp Thin

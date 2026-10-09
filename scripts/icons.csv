@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chevron-circle-up,21,fa-sharp fa-solid fa-chevron-circle-up,Chevron Circle Up,Sharp Solid
-border-center-v,25,fa-sharp-duotone fa-solid fa-border-center-v,Border Center V,Sharp Duotone Solid
-repeat-1,23,fa-sharp-duotone fa-light fa-repeat-1,Repeat 1,Sharp Duotone Light
-hill-rockslide,19,fa-sharp fa-light fa-hill-rockslide,Hill Rockslide,Sharp Light
-empty-set,0,fa-solid fa-empty-set,Empty Set,Solid
-wheelchair,2,fa-light fa-wheelchair,Wheelchair,Light
-address-card,6,fa-duotone fa-address-card,Address Card,Duotone Solid
-bridge-circle-check,23,fa-sharp-duotone fa-light fa-bridge-circle-check,Bridge Circle Check,Sharp Duotone Light
-code-branch,22,fa-sharp fa-thin fa-code-branch,Code Branch,Sharp Thin
 digital-tachograph,19,fa-sharp fa-light fa-digital-tachograph,Digital Tachograph,Sharp Light
 face-grin-beam-sweat,20,fa-sharp fa-regular fa-face-grin-beam-sweat,Face Grin Beam Sweat,Sharp Regular
 message-sms,1,fa-regular fa-message-sms,Message Sms,Regular

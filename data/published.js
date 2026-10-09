@@ -2546,5 +2546,14 @@ window.FA_PUBLISHED = [
 "calendar-arrow-up:20",
 "location-arrow:36",
 "not-equal:8",
-"bicycle:21"
+"bicycle:21",
+"chevron-circle-up:21",
+"border-center-v:25",
+"repeat-1:23",
+"hill-rockslide:19",
+"empty-set:0",
+"wheelchair:2",
+"address-card:6",
+"bridge-circle-check:23",
+"code-branch:22"
 ];

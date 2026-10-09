@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-truck-field,6,fa-duotone fa-truck-field,Truck Field,Duotone Solid
-candy-corn,8,fa-duotone fa-regular fa-candy-corn,Candy Corn,Duotone Regular
-nose,19,fa-sharp fa-light fa-nose,Nose,Sharp Light
-cricket,20,fa-sharp fa-regular fa-cricket,Cricket,Sharp Regular
-compact-disc,33,fa-utility-duo fa-semibold fa-compact-disc,Compact Disc,Utility Duo Semibold
-futbol,1,fa-regular fa-futbol,Futbol,Regular
-campfire,23,fa-sharp-duotone fa-light fa-campfire,Campfire,Sharp Duotone Light
-shapes,6,fa-duotone fa-shapes,Shapes,Duotone Solid
-chart-kanban,0,fa-solid fa-chart-kanban,Chart Kanban,Solid
 diamonds-4,6,fa-duotone fa-diamonds-4,Diamonds 4,Duotone Solid
 table-columns-merge-next,1,fa-regular fa-table-columns-merge-next,Table Columns Merge Next,Regular
 hands-bound,7,fa-duotone fa-light fa-hands-bound,Hands Bound,Duotone Light

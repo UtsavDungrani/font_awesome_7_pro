@@ -2609,5 +2609,14 @@ window.FA_PUBLISHED = [
 "square-kanban:3",
 "person-circle-minus:8",
 "volume:17",
-"clock-eleven-thirty:1"
+"clock-eleven-thirty:1",
+"truck-field:6",
+"candy-corn:8",
+"nose:19",
+"cricket:20",
+"compact-disc:33",
+"futbol:1",
+"campfire:23",
+"shapes:6",
+"chart-kanban:0"
 ];

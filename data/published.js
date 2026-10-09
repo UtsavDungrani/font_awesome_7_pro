@@ -2573,5 +2573,14 @@ window.FA_PUBLISHED = [
 "bags-shopping:23",
 "arrow-right-rotate:27",
 "teletype:25",
-"opossum:24"
+"opossum:24",
+"comment-middle-top:25",
+"memo-circle-check:23",
+"rotate-exclamation:3",
+"bolt:26",
+"allergies:23",
+"person-soccer:7",
+"planet-ringed:22",
+"7:0",
+"arrow-up-from-bracket:14"
 ];

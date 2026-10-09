@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-compass-slash,9,fa-duotone fa-thin fa-compass-slash,Compass Slash,Duotone Thin
-clipboard-check,9,fa-duotone fa-thin fa-clipboard-check,Clipboard Check,Duotone Thin
-add,17,fa-notdog-duo fa-solid fa-add,Add,Notdog Duo Solid
-volume-slash,22,fa-sharp fa-thin fa-volume-slash,Volume Slash,Sharp Thin
-person-cane,20,fa-sharp fa-regular fa-person-cane,Person Cane,Sharp Regular
-square-kanban,3,fa-thin fa-square-kanban,Square Kanban,Thin
-person-circle-minus,8,fa-duotone fa-regular fa-person-circle-minus,Person Circle Minus,Duotone Regular
-volume,17,fa-notdog-duo fa-solid fa-volume,Volume,Notdog Duo Solid
-clock-eleven-thirty,1,fa-regular fa-clock-eleven-thirty,Clock Eleven Thirty,Regular
 truck-field,6,fa-duotone fa-truck-field,Truck Field,Duotone Solid
 candy-corn,8,fa-duotone fa-regular fa-candy-corn,Candy Corn,Duotone Regular
 nose,19,fa-sharp fa-light fa-nose,Nose,Sharp Light

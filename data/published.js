@@ -2600,5 +2600,14 @@ window.FA_PUBLISHED = [
 "circle-question:35",
 "timer:8",
 "hryvnia:7",
-"file-fragment:2"
+"file-fragment:2",
+"compass-slash:9",
+"clipboard-check:9",
+"add:17",
+"volume-slash:22",
+"person-cane:20",
+"square-kanban:3",
+"person-circle-minus:8",
+"volume:17",
+"clock-eleven-thirty:1"
 ];

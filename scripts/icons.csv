@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-digital-tachograph,19,fa-sharp fa-light fa-digital-tachograph,Digital Tachograph,Sharp Light
-face-grin-beam-sweat,20,fa-sharp fa-regular fa-face-grin-beam-sweat,Face Grin Beam Sweat,Sharp Regular
-message-sms,1,fa-regular fa-message-sms,Message Sms,Regular
-face-worried,26,fa-sharp-duotone fa-thin fa-face-worried,Face Worried,Sharp Duotone Thin
-universal-access,34,fa-utility-fill fa-semibold fa-universal-access,Universal Access,Utility Fill Semibold
-hill-rockslide,22,fa-sharp fa-thin fa-hill-rockslide,Hill Rockslide,Sharp Thin
-square-microphone,23,fa-sharp-duotone fa-light fa-square-microphone,Square Microphone,Sharp Duotone Light
-hat-witch,6,fa-duotone fa-hat-witch,Hat Witch,Duotone Solid
-cutlery,34,fa-utility-fill fa-semibold fa-cutlery,Cutlery,Utility Fill Semibold
 monkey,7,fa-duotone fa-light fa-monkey,Monkey,Duotone Light
 circle-z,3,fa-thin fa-circle-z,Circle Z,Thin
 clone,31,fa-thumbprint fa-light fa-clone,Clone,Thumbprint Light

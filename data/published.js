@@ -2555,5 +2555,14 @@ window.FA_PUBLISHED = [
 "wheelchair:2",
 "address-card:6",
 "bridge-circle-check:23",
-"code-branch:22"
+"code-branch:22",
+"digital-tachograph:19",
+"face-grin-beam-sweat:20",
+"message-sms:1",
+"face-worried:26",
+"universal-access:34",
+"hill-rockslide:22",
+"square-microphone:23",
+"hat-witch:6",
+"cutlery:34"
 ];

@@ -2636,5 +2636,14 @@ window.FA_PUBLISHED = [
 "spider-black-widow:1",
 "cloud-word:9",
 "dice-d8:23",
-"typewriter:6"
+"typewriter:6",
+"expand:21",
+"bars-staggered:19",
+"angle-double-up:26",
+"grid-round:32",
+"meter-bolt:3",
+"arrow-down-from-arc:24",
+"phone-waveform:2",
+"file-plus:25",
+"ear:24"
 ];

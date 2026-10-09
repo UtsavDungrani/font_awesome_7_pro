@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bed,19,fa-sharp fa-light fa-bed,Bed,Sharp Light
-plus-square,24,fa-sharp-duotone fa-regular fa-plus-square,Plus Square,Sharp Duotone Regular
-file-clipboard,22,fa-sharp fa-thin fa-file-clipboard,File Clipboard,Sharp Thin
-chart-line,8,fa-duotone fa-regular fa-chart-line,Chart Line,Duotone Regular
-comment-alt-dollar,26,fa-sharp-duotone fa-thin fa-comment-alt-dollar,Comment Alt Dollar,Sharp Duotone Thin
-circle-question,35,fa-vellum fa-solid fa-circle-question,Circle Question,Vellum Solid
-timer,8,fa-duotone fa-regular fa-timer,Timer,Duotone Regular
-hryvnia,7,fa-duotone fa-light fa-hryvnia,Hryvnia,Duotone Light
-file-fragment,2,fa-light fa-file-fragment,File Fragment,Light
 compass-slash,9,fa-duotone fa-thin fa-compass-slash,Compass Slash,Duotone Thin
 clipboard-check,9,fa-duotone fa-thin fa-clipboard-check,Clipboard Check,Duotone Thin
 add,17,fa-notdog-duo fa-solid fa-add,Add,Notdog Duo Solid

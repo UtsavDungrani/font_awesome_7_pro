@@ -2591,5 +2591,14 @@ window.FA_PUBLISHED = [
 "om:3",
 "horse-saddle:3",
 "rectangle-4k:6",
-"kiwi-fruit:0"
+"kiwi-fruit:0",
+"bed:19",
+"plus-square:24",
+"file-clipboard:22",
+"chart-line:8",
+"comment-alt-dollar:26",
+"circle-question:35",
+"timer:8",
+"hryvnia:7",
+"file-fragment:2"
 ];

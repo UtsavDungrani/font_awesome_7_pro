@@ -2564,5 +2564,14 @@ window.FA_PUBLISHED = [
 "hill-rockslide:22",
 "square-microphone:23",
 "hat-witch:6",
-"cutlery:34"
+"cutlery:34",
+"monkey:7",
+"circle-z:3",
+"clone:31",
+"child-reaching:21",
+"people-group:21",
+"bags-shopping:23",
+"arrow-right-rotate:27",
+"teletype:25",
+"opossum:24"
 ];

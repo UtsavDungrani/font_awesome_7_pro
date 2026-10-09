@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-monkey,7,fa-duotone fa-light fa-monkey,Monkey,Duotone Light
-circle-z,3,fa-thin fa-circle-z,Circle Z,Thin
-clone,31,fa-thumbprint fa-light fa-clone,Clone,Thumbprint Light
-child-reaching,21,fa-sharp fa-solid fa-child-reaching,Child Reaching,Sharp Solid
-people-group,21,fa-sharp fa-solid fa-people-group,People Group,Sharp Solid
-bags-shopping,23,fa-sharp-duotone fa-light fa-bags-shopping,Bags Shopping,Sharp Duotone Light
-arrow-right-rotate,27,fa-slab fa-regular fa-arrow-right-rotate,Arrow Right Rotate,Slab Regular
-teletype,25,fa-sharp-duotone fa-solid fa-teletype,Teletype,Sharp Duotone Solid
-opossum,24,fa-sharp-duotone fa-regular fa-opossum,Opossum,Sharp Duotone Regular
 comment-middle-top,25,fa-sharp-duotone fa-solid fa-comment-middle-top,Comment Middle Top,Sharp Duotone Solid
 memo-circle-check,23,fa-sharp-duotone fa-light fa-memo-circle-check,Memo Circle Check,Sharp Duotone Light
 rotate-exclamation,3,fa-thin fa-rotate-exclamation,Rotate Exclamation,Thin

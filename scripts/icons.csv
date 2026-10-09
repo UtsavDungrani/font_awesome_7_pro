@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-diamonds-4,6,fa-duotone fa-diamonds-4,Diamonds 4,Duotone Solid
-table-columns-merge-next,1,fa-regular fa-table-columns-merge-next,Table Columns Merge Next,Regular
-hands-bound,7,fa-duotone fa-light fa-hands-bound,Hands Bound,Duotone Light
-square-quote,22,fa-sharp fa-thin fa-square-quote,Square Quote,Sharp Thin
-lungs,25,fa-sharp-duotone fa-solid fa-lungs,Lungs,Sharp Duotone Solid
-line-columns,9,fa-duotone fa-thin fa-line-columns,Line Columns,Duotone Thin
-circle-cruzeiro,7,fa-duotone fa-light fa-circle-cruzeiro,Circle Cruzeiro,Duotone Light
-moon-full-inverse,24,fa-sharp-duotone fa-regular fa-moon-full-inverse,Moon Full Inverse,Sharp Duotone Regular
-dice,6,fa-duotone fa-dice,Dice,Duotone Solid
 border-inner,24,fa-sharp-duotone fa-regular fa-border-inner,Border Inner,Sharp Duotone Regular
 face-woozy,0,fa-solid fa-face-woozy,Face Woozy,Solid
 oars,24,fa-sharp-duotone fa-regular fa-oars,Oars,Sharp Duotone Regular

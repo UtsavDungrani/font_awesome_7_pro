@@ -2618,5 +2618,14 @@ window.FA_PUBLISHED = [
 "futbol:1",
 "campfire:23",
 "shapes:6",
-"chart-kanban:0"
+"chart-kanban:0",
+"diamonds-4:6",
+"table-columns-merge-next:1",
+"hands-bound:7",
+"square-quote:22",
+"lungs:25",
+"line-columns:9",
+"circle-cruzeiro:7",
+"moon-full-inverse:24",
+"dice:6"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-align-slash,2,fa-light fa-align-slash,Align Slash,Light
-location-plus,20,fa-sharp fa-regular fa-location-plus,Location Plus,Sharp Regular
-bell-plus,19,fa-sharp fa-light fa-bell-plus,Bell Plus,Sharp Light
-adjust,31,fa-thumbprint fa-light fa-adjust,Adjust,Thumbprint Light
-magnifying-glass-music,25,fa-sharp-duotone fa-solid fa-magnifying-glass-music,Magnifying Glass Music,Sharp Duotone Solid
-onion,21,fa-sharp fa-solid fa-onion,Onion,Sharp Solid
-comment-medical,21,fa-sharp fa-solid fa-comment-medical,Comment Medical,Sharp Solid
-table-cells-row-lock,21,fa-sharp fa-solid fa-table-cells-row-lock,Table Cells Row Lock,Sharp Solid
-closed-captioning,23,fa-sharp-duotone fa-light fa-closed-captioning,Closed Captioning,Sharp Duotone Light
 creative-commons-nd,4,fa-brands fa-creative-commons-nd,Creative Commons Nd,Brands
 book-spine,2,fa-light fa-book-spine,Book Spine,Light
 landmark-flag,26,fa-sharp-duotone fa-thin fa-landmark-flag,Landmark Flag,Sharp Duotone Thin

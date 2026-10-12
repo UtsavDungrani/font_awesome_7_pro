@@ -2645,5 +2645,14 @@ window.FA_PUBLISHED = [
 "arrow-down-from-arc:24",
 "phone-waveform:2",
 "file-plus:25",
-"ear:24"
+"ear:24",
+"align-slash:2",
+"location-plus:20",
+"bell-plus:19",
+"adjust:31",
+"magnifying-glass-music:25",
+"onion:21",
+"comment-medical:21",
+"table-cells-row-lock:21",
+"closed-captioning:23"
 ];

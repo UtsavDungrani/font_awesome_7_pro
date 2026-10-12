@@ -2654,5 +2654,14 @@ window.FA_PUBLISHED = [
 "onion:21",
 "comment-medical:21",
 "table-cells-row-lock:21",
-"closed-captioning:23"
+"closed-captioning:23",
+"creative-commons-nd:4",
+"book-spine:2",
+"landmark-flag:26",
+"filter-list:2",
+"face-laugh:19",
+"transporter-4:20",
+"user-doctor-hair-long:3",
+"sliders-simple:25",
+"truck-couch:21"
 ];

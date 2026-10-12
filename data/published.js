@@ -2708,5 +2708,14 @@ window.FA_PUBLISHED = [
 "car-building:25",
 "home-heart:23",
 "calendar-edit:7",
-"comments:24"
+"comments:24",
+"glass-water-droplet:1",
+"message-waveform:1",
+"file-vector:23",
+"mobile-slash:26",
+"grill-fire:25",
+"voicemail:3",
+"gbp:26",
+"circle-litecoin:19",
+"transporter-3:20"
 ];

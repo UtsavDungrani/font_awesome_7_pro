@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-saluting,7,fa-duotone fa-light fa-face-saluting,Face Saluting,Duotone Light
-columns,26,fa-sharp-duotone fa-thin fa-columns,Columns,Sharp Duotone Thin
-cent-sign,3,fa-thin fa-cent-sign,Cent Sign,Thin
-mountain,3,fa-thin fa-mountain,Mountain,Thin
-grate,23,fa-sharp-duotone fa-light fa-grate,Grate,Sharp Duotone Light
-transporter-empty,23,fa-sharp-duotone fa-light fa-transporter-empty,Transporter Empty,Sharp Duotone Light
-toilet-paper,9,fa-duotone fa-thin fa-toilet-paper,Toilet Paper,Duotone Thin
-square-ellipsis-vertical,3,fa-thin fa-square-ellipsis-vertical,Square Ellipsis Vertical,Thin
-arrow-down-small-big,8,fa-duotone fa-regular fa-arrow-down-small-big,Arrow Down Small Big,Duotone Regular
 draw-polygon,7,fa-duotone fa-light fa-draw-polygon,Draw Polygon,Duotone Light
 user-unlock,8,fa-duotone fa-regular fa-user-unlock,User Unlock,Duotone Regular
 box-arrow-down,6,fa-duotone fa-box-arrow-down,Box Arrow Down,Duotone Solid

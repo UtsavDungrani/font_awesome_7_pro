@@ -2663,5 +2663,14 @@ window.FA_PUBLISHED = [
 "transporter-4:20",
 "user-doctor-hair-long:3",
 "sliders-simple:25",
-"truck-couch:21"
+"truck-couch:21",
+"face-saluting:7",
+"columns:26",
+"cent-sign:3",
+"mountain:3",
+"grate:23",
+"transporter-empty:23",
+"toilet-paper:9",
+"square-ellipsis-vertical:3",
+"arrow-down-small-big:8"
 ];

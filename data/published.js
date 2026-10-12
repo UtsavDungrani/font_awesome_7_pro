@@ -2699,5 +2699,14 @@ window.FA_PUBLISHED = [
 "sd-card:22",
 "money-bill-1-wave:19",
 "building-lock:8",
-"hooli:4"
+"hooli:4",
+"forward-step:13",
+"leaf:25",
+"flag-usa:1",
+"avianex:4",
+"mail-forward:7",
+"car-building:25",
+"home-heart:23",
+"calendar-edit:7",
+"comments:24"
 ];

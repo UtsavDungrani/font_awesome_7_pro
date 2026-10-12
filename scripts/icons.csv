@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-forward-step,13,fa-jelly-duo fa-regular fa-forward-step,Forward Step,Jelly Duo Regular
-leaf,25,fa-sharp-duotone fa-solid fa-leaf,Leaf,Sharp Duotone Solid
-flag-usa,1,fa-regular fa-flag-usa,Flag Usa,Regular
-avianex,4,fa-brands fa-avianex,Avianex,Brands
-mail-forward,7,fa-duotone fa-light fa-mail-forward,Mail Forward,Duotone Light
-car-building,25,fa-sharp-duotone fa-solid fa-car-building,Car Building,Sharp Duotone Solid
-home-heart,23,fa-sharp-duotone fa-light fa-home-heart,Home Heart,Sharp Duotone Light
-calendar-edit,7,fa-duotone fa-light fa-calendar-edit,Calendar Edit,Duotone Light
-comments,24,fa-sharp-duotone fa-regular fa-comments,Comments,Sharp Duotone Regular
 glass-water-droplet,1,fa-regular fa-glass-water-droplet,Glass Water Droplet,Regular
 message-waveform,1,fa-regular fa-message-waveform,Message Waveform,Regular
 file-vector,23,fa-sharp-duotone fa-light fa-file-vector,File Vector,Sharp Duotone Light

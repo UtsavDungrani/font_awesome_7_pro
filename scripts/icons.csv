@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-draw-polygon,7,fa-duotone fa-light fa-draw-polygon,Draw Polygon,Duotone Light
-user-unlock,8,fa-duotone fa-regular fa-user-unlock,User Unlock,Duotone Regular
-box-arrow-down,6,fa-duotone fa-box-arrow-down,Box Arrow Down,Duotone Solid
-bomb,28,fa-slab-duo fa-regular fa-bomb,Bomb,Slab Duo Regular
-greater-than,23,fa-sharp-duotone fa-light fa-greater-than,Greater Than,Sharp Duotone Light
-party-horn,26,fa-sharp-duotone fa-thin fa-party-horn,Party Horn,Sharp Duotone Thin
-square-cruzeiro,23,fa-sharp-duotone fa-light fa-square-cruzeiro,Square Cruzeiro,Sharp Duotone Light
-chevron-square-left,21,fa-sharp fa-solid fa-chevron-square-left,Chevron Square Left,Sharp Solid
-arrow-down-to-line,12,fa-jelly fa-regular fa-arrow-down-to-line,Arrow Down To Line,Jelly Regular
 manat-sign,8,fa-duotone fa-regular fa-manat-sign,Manat Sign,Duotone Regular
 brush,19,fa-sharp fa-light fa-brush,Brush,Sharp Light
 x,24,fa-sharp-duotone fa-regular fa-x,X,Sharp Duotone Regular

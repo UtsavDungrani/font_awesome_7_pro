@@ -2672,5 +2672,14 @@ window.FA_PUBLISHED = [
 "transporter-empty:23",
 "toilet-paper:9",
 "square-ellipsis-vertical:3",
-"arrow-down-small-big:8"
+"arrow-down-small-big:8",
+"draw-polygon:7",
+"user-unlock:8",
+"box-arrow-down:6",
+"bomb:28",
+"greater-than:23",
+"party-horn:26",
+"square-cruzeiro:23",
+"chevron-square-left:21",
+"arrow-down-to-line:12"
 ];

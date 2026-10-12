@@ -2681,5 +2681,14 @@ window.FA_PUBLISHED = [
 "party-horn:26",
 "square-cruzeiro:23",
 "chevron-square-left:21",
-"arrow-down-to-line:12"
+"arrow-down-to-line:12",
+"manat-sign:8",
+"brush:19",
+"x:24",
+"boot-heeled:19",
+"toilet-paper-blank-under:7",
+"person-water-arms-raised:24",
+"backward-step:6",
+"face-smile:18",
+"list-alt:9"
 ];

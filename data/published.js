@@ -2690,5 +2690,14 @@ window.FA_PUBLISHED = [
 "person-water-arms-raised:24",
 "backward-step:6",
 "face-smile:18",
-"list-alt:9"
+"list-alt:9",
+"arrows-minimize:26",
+"box:15",
+"glass-martini-alt:24",
+"wifi:33",
+"graduation-cap:26",
+"sd-card:22",
+"money-bill-1-wave:19",
+"building-lock:8",
+"hooli:4"
 ];

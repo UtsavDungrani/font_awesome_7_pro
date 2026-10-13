@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grip-lines-vertical,3,fa-thin fa-grip-lines-vertical,Grip Lines Vertical,Thin
-arrow-alt-to-bottom,23,fa-sharp-duotone fa-light fa-arrow-alt-to-bottom,Arrow Alt To Bottom,Sharp Duotone Light
-calendar-star,25,fa-sharp-duotone fa-solid fa-calendar-star,Calendar Star,Sharp Duotone Solid
-comment-middle-top,3,fa-thin fa-comment-middle-top,Comment Middle Top,Thin
-steak,9,fa-duotone fa-thin fa-steak,Steak,Duotone Thin
-people-arrows,8,fa-duotone fa-regular fa-people-arrows,People Arrows,Duotone Regular
-comment-question,0,fa-solid fa-comment-question,Comment Question,Solid
-camera-clock,9,fa-duotone fa-thin fa-camera-clock,Camera Clock,Duotone Thin
-circle-l,0,fa-solid fa-circle-l,Circle L,Solid
 barcode-scan,23,fa-sharp-duotone fa-light fa-barcode-scan,Barcode Scan,Sharp Duotone Light
 goal-net,22,fa-sharp fa-thin fa-goal-net,Goal Net,Sharp Thin
 joint,20,fa-sharp fa-regular fa-joint,Joint,Sharp Regular

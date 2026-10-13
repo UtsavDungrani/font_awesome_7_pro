@@ -2717,5 +2717,14 @@ window.FA_PUBLISHED = [
 "voicemail:3",
 "gbp:26",
 "circle-litecoin:19",
-"transporter-3:20"
+"transporter-3:20",
+"grip-lines-vertical:3",
+"arrow-alt-to-bottom:23",
+"calendar-star:25",
+"comment-middle-top:3",
+"steak:9",
+"people-arrows:8",
+"comment-question:0",
+"camera-clock:9",
+"circle-l:0"
 ];

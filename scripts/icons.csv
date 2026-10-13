@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-barcode-scan,23,fa-sharp-duotone fa-light fa-barcode-scan,Barcode Scan,Sharp Duotone Light
-goal-net,22,fa-sharp fa-thin fa-goal-net,Goal Net,Sharp Thin
-joint,20,fa-sharp fa-regular fa-joint,Joint,Sharp Regular
-refrigerator,0,fa-solid fa-refrigerator,Refrigerator,Solid
-square-9,20,fa-sharp fa-regular fa-square-9,Square 9,Sharp Regular
-chart-candlestick,23,fa-sharp-duotone fa-light fa-chart-candlestick,Chart Candlestick,Sharp Duotone Light
-page,0,fa-solid fa-page,Page,Solid
-lock-alt,7,fa-duotone fa-light fa-lock-alt,Lock Alt,Duotone Light
-circle-info,29,fa-slab-press fa-regular fa-circle-info,Circle Info,Slab Press Regular
 bread-loaf,3,fa-thin fa-bread-loaf,Bread Loaf,Thin
 signal,32,fa-utility fa-semibold fa-signal,Signal,Utility Semibold
 user-pilot-tie-hair-long,23,fa-sharp-duotone fa-light fa-user-pilot-tie-hair-long,User Pilot Tie Hair Long,Sharp Duotone Light

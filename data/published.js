@@ -2726,5 +2726,14 @@ window.FA_PUBLISHED = [
 "people-arrows:8",
 "comment-question:0",
 "camera-clock:9",
-"circle-l:0"
+"circle-l:0",
+"barcode-scan:23",
+"goal-net:22",
+"joint:20",
+"refrigerator:0",
+"square-9:20",
+"chart-candlestick:23",
+"page:0",
+"lock-alt:7",
+"circle-info:29"
 ];

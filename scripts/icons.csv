@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-ellipsis,1,fa-regular fa-ellipsis,Ellipsis,Regular
-bus-stop,23,fa-sharp-duotone fa-light fa-bus-stop,Bus Stop,Sharp Duotone Light
-arrow-u-turn-left-down,22,fa-sharp fa-thin fa-arrow-u-turn-left-down,Arrow U Turn Left Down,Sharp Thin
-chart-scatter,1,fa-regular fa-chart-scatter,Chart Scatter,Regular
-water-temp,21,fa-sharp fa-solid fa-water-temp,Water Temp,Sharp Solid
-arrow-down-from-line,21,fa-sharp fa-solid fa-arrow-down-from-line,Arrow Down From Line,Sharp Solid
-flask-poison,3,fa-thin fa-flask-poison,Flask Poison,Thin
-screen-users,19,fa-sharp fa-light fa-screen-users,Screen Users,Sharp Light
-piggy-bank,24,fa-sharp-duotone fa-regular fa-piggy-bank,Piggy Bank,Sharp Duotone Regular
 arrow-up-right-dots,7,fa-duotone fa-light fa-arrow-up-right-dots,Arrow Up Right Dots,Duotone Light
 comment-medical,3,fa-thin fa-comment-medical,Comment Medical,Thin
 stool,20,fa-sharp fa-regular fa-stool,Stool,Sharp Regular

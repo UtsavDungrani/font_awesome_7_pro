@@ -2762,5 +2762,14 @@ window.FA_PUBLISHED = [
 "person-basketball:20",
 "fork:25",
 "road-bridge:1",
-"face-frown-open:21"
+"face-frown-open:21",
+"ellipsis:1",
+"bus-stop:23",
+"arrow-u-turn-left-down:22",
+"chart-scatter:1",
+"water-temp:21",
+"arrow-down-from-line:21",
+"flask-poison:3",
+"screen-users:19",
+"piggy-bank:24"
 ];

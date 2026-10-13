@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bread-loaf,3,fa-thin fa-bread-loaf,Bread Loaf,Thin
-signal,32,fa-utility fa-semibold fa-signal,Signal,Utility Semibold
-user-pilot-tie-hair-long,23,fa-sharp-duotone fa-light fa-user-pilot-tie-hair-long,User Pilot Tie Hair Long,Sharp Duotone Light
-bracket-curly-right,3,fa-thin fa-bracket-curly-right,Bracket Curly Right,Thin
-battery-4,1,fa-regular fa-battery-4,Battery 4,Regular
-lightbulb-cfl-on,20,fa-sharp fa-regular fa-lightbulb-cfl-on,Lightbulb Cfl On,Sharp Regular
-om,19,fa-sharp fa-light fa-om,Om,Sharp Light
-person-simple,19,fa-sharp fa-light fa-person-simple,Person Simple,Sharp Light
-chart-pie-simple-circle-dollar,3,fa-thin fa-chart-pie-simple-circle-dollar,Chart Pie Simple Circle Dollar,Thin
 sd-card,26,fa-sharp-duotone fa-thin fa-sd-card,Sd Card,Sharp Duotone Thin
 caret-large-down,6,fa-duotone fa-caret-large-down,Caret Large Down,Duotone Solid
 spinner,26,fa-sharp-duotone fa-thin fa-spinner,Spinner,Sharp Duotone Thin

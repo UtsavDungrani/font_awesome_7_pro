@@ -2735,5 +2735,14 @@ window.FA_PUBLISHED = [
 "chart-candlestick:23",
 "page:0",
 "lock-alt:7",
-"circle-info:29"
+"circle-info:29",
+"bread-loaf:3",
+"signal:32",
+"user-pilot-tie-hair-long:23",
+"bracket-curly-right:3",
+"battery-4:1",
+"lightbulb-cfl-on:20",
+"om:19",
+"person-simple:19",
+"chart-pie-simple-circle-dollar:3"
 ];

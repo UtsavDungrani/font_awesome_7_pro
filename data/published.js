@@ -2744,5 +2744,14 @@ window.FA_PUBLISHED = [
 "lightbulb-cfl-on:20",
 "om:19",
 "person-simple:19",
-"chart-pie-simple-circle-dollar:3"
+"chart-pie-simple-circle-dollar:3",
+"sd-card:26",
+"caret-large-down:6",
+"spinner:26",
+"cauldron:7",
+"360-degrees:0",
+"newspaper:35",
+"hand:19",
+"kitchen-set:21",
+"cart-flatbed:21"
 ];

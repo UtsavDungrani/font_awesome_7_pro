@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-sd-card,26,fa-sharp-duotone fa-thin fa-sd-card,Sd Card,Sharp Duotone Thin
-caret-large-down,6,fa-duotone fa-caret-large-down,Caret Large Down,Duotone Solid
-spinner,26,fa-sharp-duotone fa-thin fa-spinner,Spinner,Sharp Duotone Thin
-cauldron,7,fa-duotone fa-light fa-cauldron,Cauldron,Duotone Light
-360-degrees,0,fa-solid fa-360-degrees,360 Degrees,Solid
-newspaper,35,fa-vellum fa-solid fa-newspaper,Newspaper,Vellum Solid
-hand,19,fa-sharp fa-light fa-hand,Hand,Sharp Light
-kitchen-set,21,fa-sharp fa-solid fa-kitchen-set,Kitchen Set,Sharp Solid
-cart-flatbed,21,fa-sharp fa-solid fa-cart-flatbed,Cart Flatbed,Sharp Solid
 sagittarius,7,fa-duotone fa-light fa-sagittarius,Sagittarius,Duotone Light
 tower-control,23,fa-sharp-duotone fa-light fa-tower-control,Tower Control,Sharp Duotone Light
 skull,20,fa-sharp fa-regular fa-skull,Skull,Sharp Regular

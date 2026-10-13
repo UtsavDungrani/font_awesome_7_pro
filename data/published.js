@@ -2780,5 +2780,14 @@ window.FA_PUBLISHED = [
 "intersection:2",
 "hospital-user:2",
 "oven:8",
-"shield:6"
+"shield:6",
+"cloud-xmark:20",
+"map-pin:6",
+"map-location:23",
+"file-html:25",
+"gift:24",
+"tally:25",
+"folder-plus:7",
+"robot-astromech:22",
+"aperture:23"
 ];

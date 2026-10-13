@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-up-right-dots,7,fa-duotone fa-light fa-arrow-up-right-dots,Arrow Up Right Dots,Duotone Light
-comment-medical,3,fa-thin fa-comment-medical,Comment Medical,Thin
-stool,20,fa-sharp fa-regular fa-stool,Stool,Sharp Regular
-window-frame,8,fa-duotone fa-regular fa-window-frame,Window Frame,Duotone Regular
-square-sterling,22,fa-sharp fa-thin fa-square-sterling,Square Sterling,Sharp Thin
-intersection,2,fa-light fa-intersection,Intersection,Light
-hospital-user,2,fa-light fa-hospital-user,Hospital User,Light
-oven,8,fa-duotone fa-regular fa-oven,Oven,Duotone Regular
-shield,6,fa-duotone fa-shield,Shield,Duotone Solid
 cloud-xmark,20,fa-sharp fa-regular fa-cloud-xmark,Cloud Xmark,Sharp Regular
 map-pin,6,fa-duotone fa-map-pin,Map Pin,Duotone Solid
 map-location,23,fa-sharp-duotone fa-light fa-map-location,Map Location,Sharp Duotone Light

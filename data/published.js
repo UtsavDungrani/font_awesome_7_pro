@@ -2771,5 +2771,14 @@ window.FA_PUBLISHED = [
 "arrow-down-from-line:21",
 "flask-poison:3",
 "screen-users:19",
-"piggy-bank:24"
+"piggy-bank:24",
+"arrow-up-right-dots:7",
+"comment-medical:3",
+"stool:20",
+"window-frame:8",
+"square-sterling:22",
+"intersection:2",
+"hospital-user:2",
+"oven:8",
+"shield:6"
 ];

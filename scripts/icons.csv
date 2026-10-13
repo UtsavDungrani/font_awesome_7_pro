@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-sagittarius,7,fa-duotone fa-light fa-sagittarius,Sagittarius,Duotone Light
-tower-control,23,fa-sharp-duotone fa-light fa-tower-control,Tower Control,Sharp Duotone Light
-skull,20,fa-sharp fa-regular fa-skull,Skull,Sharp Regular
-cut,28,fa-slab-duo fa-regular fa-cut,Cut,Slab Duo Regular
-dial-min,2,fa-light fa-dial-min,Dial Min,Light
-person-basketball,20,fa-sharp fa-regular fa-person-basketball,Person Basketball,Sharp Regular
-fork,25,fa-sharp-duotone fa-solid fa-fork,Fork,Sharp Duotone Solid
-road-bridge,1,fa-regular fa-road-bridge,Road Bridge,Regular
-face-frown-open,21,fa-sharp fa-solid fa-face-frown-open,Face Frown Open,Sharp Solid
 ellipsis,1,fa-regular fa-ellipsis,Ellipsis,Regular
 bus-stop,23,fa-sharp-duotone fa-light fa-bus-stop,Bus Stop,Sharp Duotone Light
 arrow-u-turn-left-down,22,fa-sharp fa-thin fa-arrow-u-turn-left-down,Arrow U Turn Left Down,Sharp Thin

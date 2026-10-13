@@ -2753,5 +2753,14 @@ window.FA_PUBLISHED = [
 "newspaper:35",
 "hand:19",
 "kitchen-set:21",
-"cart-flatbed:21"
+"cart-flatbed:21",
+"sagittarius:7",
+"tower-control:23",
+"skull:20",
+"cut:28",
+"dial-min:2",
+"person-basketball:20",
+"fork:25",
+"road-bridge:1",
+"face-frown-open:21"
 ];

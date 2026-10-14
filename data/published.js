@@ -2825,5 +2825,14 @@ window.FA_PUBLISHED = [
 "grid:30",
 "clock-desk:9",
 "jeans-straight:8",
-"drum-steelpan:26"
+"drum-steelpan:26",
+"box-arrow-down:9",
+"chart-user:24",
+"motorcycle:21",
+"v:6",
+"plane:17",
+"face-confounded:22",
+"bench-tree:26",
+"close:31",
+"user-beard-bolt:19"
 ];

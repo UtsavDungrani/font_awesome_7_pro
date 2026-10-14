@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-to-door,26,fa-sharp-duotone fa-thin fa-person-to-door,Person To Door,Sharp Duotone Thin
-cheese-swiss,0,fa-solid fa-cheese-swiss,Cheese Swiss,Solid
-binary,23,fa-sharp-duotone fa-light fa-binary,Binary,Sharp Duotone Light
-danish-krone-sign,25,fa-sharp-duotone fa-solid fa-danish-krone-sign,Danish Krone Sign,Sharp Duotone Solid
-capricorn,2,fa-light fa-capricorn,Capricorn,Light
-right-to-bracket,9,fa-duotone fa-thin fa-right-to-bracket,Right To Bracket,Duotone Thin
-user-circle-minus,23,fa-sharp-duotone fa-light fa-user-circle-minus,User Circle Minus,Sharp Duotone Light
-trash-arrow-up,19,fa-sharp fa-light fa-trash-arrow-up,Trash Arrow Up,Sharp Light
-hand-lizard,23,fa-sharp-duotone fa-light fa-hand-lizard,Hand Lizard,Sharp Duotone Light
 siren-on,11,fa-graphite fa-thin fa-siren-on,Siren On,Graphite Thin
 paper-plane,21,fa-sharp fa-solid fa-paper-plane,Paper Plane,Sharp Solid
 bowl-scoop,19,fa-sharp fa-light fa-bowl-scoop,Bowl Scoop,Sharp Light

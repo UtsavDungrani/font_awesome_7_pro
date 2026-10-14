@@ -2807,5 +2807,14 @@ window.FA_PUBLISHED = [
 "square-shekel:24",
 "hryvnia:25",
 "circle-9:26",
-"timer:1"
+"timer:1",
+"person-to-door:26",
+"cheese-swiss:0",
+"binary:23",
+"danish-krone-sign:25",
+"capricorn:2",
+"right-to-bracket:9",
+"user-circle-minus:23",
+"trash-arrow-up:19",
+"hand-lizard:23"
 ];

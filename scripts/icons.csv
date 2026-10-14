@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-question,20,fa-sharp fa-regular fa-user-question,User Question,Sharp Regular
-circle-ellipsis,7,fa-duotone fa-light fa-circle-ellipsis,Circle Ellipsis,Duotone Light
-star-sharp,22,fa-sharp fa-thin fa-star-sharp,Star Sharp,Sharp Thin
-chemex,3,fa-thin fa-chemex,Chemex,Thin
-biking-mountain,19,fa-sharp fa-light fa-biking-mountain,Biking Mountain,Sharp Light
-table-cells-lock,19,fa-sharp fa-light fa-table-cells-lock,Table Cells Lock,Sharp Light
-place-of-worship,20,fa-sharp fa-regular fa-place-of-worship,Place Of Worship,Sharp Regular
-handshake-alt-slash,7,fa-duotone fa-light fa-handshake-alt-slash,Handshake Alt Slash,Duotone Light
-timeline,2,fa-light fa-timeline,Timeline,Light
 chart-bullet,3,fa-thin fa-chart-bullet,Chart Bullet,Thin
 booth-curtain,26,fa-sharp-duotone fa-thin fa-booth-curtain,Booth Curtain,Sharp Duotone Thin
 aquarius,8,fa-duotone fa-regular fa-aquarius,Aquarius,Duotone Regular

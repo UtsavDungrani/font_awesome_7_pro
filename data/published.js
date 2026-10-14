@@ -2888,5 +2888,14 @@ window.FA_PUBLISHED = [
 "grid-round-2-plus:21",
 "virus:26",
 "square-e:9",
-"clock-desk:1"
+"clock-desk:1",
+"user-question:20",
+"circle-ellipsis:7",
+"star-sharp:22",
+"chemex:3",
+"biking-mountain:19",
+"table-cells-lock:19",
+"place-of-worship:20",
+"handshake-alt-slash:7",
+"timeline:2"
 ];

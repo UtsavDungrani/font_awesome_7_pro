@@ -2861,5 +2861,14 @@ window.FA_PUBLISHED = [
 "down-from-dotted-line:19",
 "anchor-circle-check:22",
 "caret-circle-left:9",
-"paw-alt:3"
+"paw-alt:3",
+"gem:26",
+"user-key:1",
+"mask-face:8",
+"border-bottom-right:0",
+"rotate:7",
+"medkit:9",
+"outlet:25",
+"eyes:9",
+"memory:25"
 ];

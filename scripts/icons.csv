@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-gem,26,fa-sharp-duotone fa-thin fa-gem,Gem,Sharp Duotone Thin
-user-key,1,fa-regular fa-user-key,User Key,Regular
-mask-face,8,fa-duotone fa-regular fa-mask-face,Mask Face,Duotone Regular
-border-bottom-right,0,fa-solid fa-border-bottom-right,Border Bottom Right,Solid
-rotate,7,fa-duotone fa-light fa-rotate,Rotate,Duotone Light
-medkit,9,fa-duotone fa-thin fa-medkit,Medkit,Duotone Thin
-outlet,25,fa-sharp-duotone fa-solid fa-outlet,Outlet,Sharp Duotone Solid
-eyes,9,fa-duotone fa-thin fa-eyes,Eyes,Duotone Thin
-memory,25,fa-sharp-duotone fa-solid fa-memory,Memory,Sharp Duotone Solid
 trowel,2,fa-light fa-trowel,Trowel,Light
 bars-staggered,20,fa-sharp fa-regular fa-bars-staggered,Bars Staggered,Sharp Regular
 heart-rate,6,fa-duotone fa-heart-rate,Heart Rate,Duotone Solid

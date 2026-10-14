@@ -2834,5 +2834,14 @@ window.FA_PUBLISHED = [
 "face-confounded:22",
 "bench-tree:26",
 "close:31",
-"user-beard-bolt:19"
+"user-beard-bolt:19",
+"cassette-vhs:23",
+"play-pause:0",
+"sack-dollar:3",
+"comment-alt-slash:1",
+"horse:7",
+"cloud-question:8",
+"pompebled:1",
+"camera-home:3",
+"bomb:15"
 ];

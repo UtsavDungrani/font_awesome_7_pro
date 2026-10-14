@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-cassette-vhs,23,fa-sharp-duotone fa-light fa-cassette-vhs,Cassette Vhs,Sharp Duotone Light
-play-pause,0,fa-solid fa-play-pause,Play Pause,Solid
-sack-dollar,3,fa-thin fa-sack-dollar,Sack Dollar,Thin
-comment-alt-slash,1,fa-regular fa-comment-alt-slash,Comment Alt Slash,Regular
-horse,7,fa-duotone fa-light fa-horse,Horse,Duotone Light
-cloud-question,8,fa-duotone fa-regular fa-cloud-question,Cloud Question,Duotone Regular
-pompebled,1,fa-regular fa-pompebled,Pompebled,Regular
-camera-home,3,fa-thin fa-camera-home,Camera Home,Thin
-bomb,15,fa-mosaic fa-solid fa-bomb,Bomb,Mosaic Solid
 transgender,25,fa-sharp-duotone fa-solid fa-transgender,Transgender,Sharp Duotone Solid
 person-pinball,22,fa-sharp fa-thin fa-person-pinball,Person Pinball,Sharp Thin
 clock-six,8,fa-duotone fa-regular fa-clock-six,Clock Six,Duotone Regular

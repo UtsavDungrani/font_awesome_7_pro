@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trowel,2,fa-light fa-trowel,Trowel,Light
-bars-staggered,20,fa-sharp fa-regular fa-bars-staggered,Bars Staggered,Sharp Regular
-heart-rate,6,fa-duotone fa-heart-rate,Heart Rate,Duotone Solid
-square-f,7,fa-duotone fa-light fa-square-f,Square F,Duotone Light
-ruler,8,fa-duotone fa-regular fa-ruler,Ruler,Duotone Regular
-ski-boot,22,fa-sharp fa-thin fa-ski-boot,Ski Boot,Sharp Thin
-mars-stroke,9,fa-duotone fa-thin fa-mars-stroke,Mars Stroke,Duotone Thin
-inbox-arrow-up,6,fa-duotone fa-inbox-arrow-up,Inbox Arrow Up,Duotone Solid
-fire-alt,1,fa-regular fa-fire-alt,Fire Alt,Regular
 wave,24,fa-sharp-duotone fa-regular fa-wave,Wave,Sharp Duotone Regular
 keyboard-brightness-low,21,fa-sharp fa-solid fa-keyboard-brightness-low,Keyboard Brightness Low,Sharp Solid
 landmark-magnifying-glass,1,fa-regular fa-landmark-magnifying-glass,Landmark Magnifying Glass,Regular

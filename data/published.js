@@ -2870,5 +2870,14 @@ window.FA_PUBLISHED = [
 "medkit:9",
 "outlet:25",
 "eyes:9",
-"memory:25"
+"memory:25",
+"trowel:2",
+"bars-staggered:20",
+"heart-rate:6",
+"square-f:7",
+"ruler:8",
+"ski-boot:22",
+"mars-stroke:9",
+"inbox-arrow-up:6",
+"fire-alt:1"
 ];

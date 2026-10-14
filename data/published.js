@@ -2798,5 +2798,14 @@ window.FA_PUBLISHED = [
 "shirt:8",
 "duck:24",
 "camera-circle-ellipsis:23",
-"person-circle-question:24"
+"person-circle-question:24",
+"comment-arrow-up-right:22",
+"file-circle-question:20",
+"teletype:20",
+"calendar-day:6",
+"reel:2",
+"square-shekel:24",
+"hryvnia:25",
+"circle-9:26",
+"timer:1"
 ];

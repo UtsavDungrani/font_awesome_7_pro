@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-arrow-up-right,22,fa-sharp fa-thin fa-comment-arrow-up-right,Comment Arrow Up Right,Sharp Thin
-file-circle-question,20,fa-sharp fa-regular fa-file-circle-question,File Circle Question,Sharp Regular
-teletype,20,fa-sharp fa-regular fa-teletype,Teletype,Sharp Regular
-calendar-day,6,fa-duotone fa-calendar-day,Calendar Day,Duotone Solid
-reel,2,fa-light fa-reel,Reel,Light
-square-shekel,24,fa-sharp-duotone fa-regular fa-square-shekel,Square Shekel,Sharp Duotone Regular
-hryvnia,25,fa-sharp-duotone fa-solid fa-hryvnia,Hryvnia,Sharp Duotone Solid
-circle-9,26,fa-sharp-duotone fa-thin fa-circle-9,Circle 9,Sharp Duotone Thin
-timer,1,fa-regular fa-timer,Timer,Regular
 person-to-door,26,fa-sharp-duotone fa-thin fa-person-to-door,Person To Door,Sharp Duotone Thin
 cheese-swiss,0,fa-solid fa-cheese-swiss,Cheese Swiss,Solid
 binary,23,fa-sharp-duotone fa-light fa-binary,Binary,Sharp Duotone Light

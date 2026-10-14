@@ -2816,5 +2816,14 @@ window.FA_PUBLISHED = [
 "right-to-bracket:9",
 "user-circle-minus:23",
 "trash-arrow-up:19",
-"hand-lizard:23"
+"hand-lizard:23",
+"siren-on:11",
+"paper-plane:21",
+"bowl-scoop:19",
+"book-heart:19",
+"filter-circle-xmark:9",
+"grid:30",
+"clock-desk:9",
+"jeans-straight:8",
+"drum-steelpan:26"
 ];

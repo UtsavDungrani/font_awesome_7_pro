@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-siren-on,11,fa-graphite fa-thin fa-siren-on,Siren On,Graphite Thin
-paper-plane,21,fa-sharp fa-solid fa-paper-plane,Paper Plane,Sharp Solid
-bowl-scoop,19,fa-sharp fa-light fa-bowl-scoop,Bowl Scoop,Sharp Light
-book-heart,19,fa-sharp fa-light fa-book-heart,Book Heart,Sharp Light
-filter-circle-xmark,9,fa-duotone fa-thin fa-filter-circle-xmark,Filter Circle Xmark,Duotone Thin
-grid,30,fa-slab-press-duo fa-regular fa-grid,Grid,Slab Press Duo Regular
-clock-desk,9,fa-duotone fa-thin fa-clock-desk,Clock Desk,Duotone Thin
-jeans-straight,8,fa-duotone fa-regular fa-jeans-straight,Jeans Straight,Duotone Regular
-drum-steelpan,26,fa-sharp-duotone fa-thin fa-drum-steelpan,Drum Steelpan,Sharp Duotone Thin
 box-arrow-down,9,fa-duotone fa-thin fa-box-arrow-down,Box Arrow Down,Duotone Thin
 chart-user,24,fa-sharp-duotone fa-regular fa-chart-user,Chart User,Sharp Duotone Regular
 motorcycle,21,fa-sharp fa-solid fa-motorcycle,Motorcycle,Sharp Solid

@@ -2852,5 +2852,14 @@ window.FA_PUBLISHED = [
 "volume-slash:16",
 "graduation-cap:8",
 "inhaler:2",
-"wifi:35"
+"wifi:35",
+"adjust:6",
+"game-console-handheld-crank:1",
+"business-front:0",
+"chevron-circle-up:2",
+"school-circle-check:3",
+"down-from-dotted-line:19",
+"anchor-circle-check:22",
+"caret-circle-left:9",
+"paw-alt:3"
 ];

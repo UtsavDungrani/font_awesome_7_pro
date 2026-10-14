@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-adjust,6,fa-duotone fa-adjust,Adjust,Duotone Solid
-game-console-handheld-crank,1,fa-regular fa-game-console-handheld-crank,Game Console Handheld Crank,Regular
-business-front,0,fa-solid fa-business-front,Business Front,Solid
-chevron-circle-up,2,fa-light fa-chevron-circle-up,Chevron Circle Up,Light
-school-circle-check,3,fa-thin fa-school-circle-check,School Circle Check,Thin
-down-from-dotted-line,19,fa-sharp fa-light fa-down-from-dotted-line,Down From Dotted Line,Sharp Light
-anchor-circle-check,22,fa-sharp fa-thin fa-anchor-circle-check,Anchor Circle Check,Sharp Thin
-caret-circle-left,9,fa-duotone fa-thin fa-caret-circle-left,Caret Circle Left,Duotone Thin
-paw-alt,3,fa-thin fa-paw-alt,Paw Alt,Thin
 gem,26,fa-sharp-duotone fa-thin fa-gem,Gem,Sharp Duotone Thin
 user-key,1,fa-regular fa-user-key,User Key,Regular
 mask-face,8,fa-duotone fa-regular fa-mask-face,Mask Face,Duotone Regular

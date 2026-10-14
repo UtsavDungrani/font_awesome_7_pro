@@ -2843,5 +2843,14 @@ window.FA_PUBLISHED = [
 "cloud-question:8",
 "pompebled:1",
 "camera-home:3",
-"bomb:15"
+"bomb:15",
+"transgender:25",
+"person-pinball:22",
+"clock-six:8",
+"money-bill-1-wave:1",
+"shop:21",
+"volume-slash:16",
+"graduation-cap:8",
+"inhaler:2",
+"wifi:35"
 ];

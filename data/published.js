@@ -2879,5 +2879,14 @@ window.FA_PUBLISHED = [
 "ski-boot:22",
 "mars-stroke:9",
 "inbox-arrow-up:6",
-"fire-alt:1"
+"fire-alt:1",
+"wave:24",
+"keyboard-brightness-low:21",
+"landmark-magnifying-glass:1",
+"arrow-up-right-from-square:7",
+"arrow-right-from-file:21",
+"grid-round-2-plus:21",
+"virus:26",
+"square-e:9",
+"clock-desk:1"
 ];

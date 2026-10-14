@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-wave,24,fa-sharp-duotone fa-regular fa-wave,Wave,Sharp Duotone Regular
-keyboard-brightness-low,21,fa-sharp fa-solid fa-keyboard-brightness-low,Keyboard Brightness Low,Sharp Solid
-landmark-magnifying-glass,1,fa-regular fa-landmark-magnifying-glass,Landmark Magnifying Glass,Regular
-arrow-up-right-from-square,7,fa-duotone fa-light fa-arrow-up-right-from-square,Arrow Up Right From Square,Duotone Light
-arrow-right-from-file,21,fa-sharp fa-solid fa-arrow-right-from-file,Arrow Right From File,Sharp Solid
-grid-round-2-plus,21,fa-sharp fa-solid fa-grid-round-2-plus,Grid Round 2 Plus,Sharp Solid
-virus,26,fa-sharp-duotone fa-thin fa-virus,Virus,Sharp Duotone Thin
-square-e,9,fa-duotone fa-thin fa-square-e,Square E,Duotone Thin
-clock-desk,1,fa-regular fa-clock-desk,Clock Desk,Regular
 user-question,20,fa-sharp fa-regular fa-user-question,User Question,Sharp Regular
 circle-ellipsis,7,fa-duotone fa-light fa-circle-ellipsis,Circle Ellipsis,Duotone Light
 star-sharp,22,fa-sharp fa-thin fa-star-sharp,Star Sharp,Sharp Thin

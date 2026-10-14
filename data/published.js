@@ -2789,5 +2789,14 @@ window.FA_PUBLISHED = [
 "tally:25",
 "folder-plus:7",
 "robot-astromech:22",
-"aperture:23"
+"aperture:23",
+"code-simple:8",
+"hose-reel:26",
+"digging:3",
+"table-cells-merge:22",
+"route-interstate:26",
+"shirt:8",
+"duck:24",
+"camera-circle-ellipsis:23",
+"person-circle-question:24"
 ];

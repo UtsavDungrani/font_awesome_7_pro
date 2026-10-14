@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-code-simple,8,fa-duotone fa-regular fa-code-simple,Code Simple,Duotone Regular
-hose-reel,26,fa-sharp-duotone fa-thin fa-hose-reel,Hose Reel,Sharp Duotone Thin
-digging,3,fa-thin fa-digging,Digging,Thin
-table-cells-merge,22,fa-sharp fa-thin fa-table-cells-merge,Table Cells Merge,Sharp Thin
-route-interstate,26,fa-sharp-duotone fa-thin fa-route-interstate,Route Interstate,Sharp Duotone Thin
-shirt,8,fa-duotone fa-regular fa-shirt,Shirt,Duotone Regular
-duck,24,fa-sharp-duotone fa-regular fa-duck,Duck,Sharp Duotone Regular
-camera-circle-ellipsis,23,fa-sharp-duotone fa-light fa-camera-circle-ellipsis,Camera Circle Ellipsis,Sharp Duotone Light
-person-circle-question,24,fa-sharp-duotone fa-regular fa-person-circle-question,Person Circle Question,Sharp Duotone Regular
 comment-arrow-up-right,22,fa-sharp fa-thin fa-comment-arrow-up-right,Comment Arrow Up Right,Sharp Thin
 file-circle-question,20,fa-sharp fa-regular fa-file-circle-question,File Circle Question,Sharp Regular
 teletype,20,fa-sharp fa-regular fa-teletype,Teletype,Sharp Regular

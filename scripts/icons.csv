@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-magnifying-glass-location,23,fa-sharp-duotone fa-light fa-magnifying-glass-location,Magnifying Glass Location,Sharp Duotone Light
-check,24,fa-sharp-duotone fa-regular fa-check,Check,Sharp Duotone Regular
-jedi,25,fa-sharp-duotone fa-solid fa-jedi,Jedi,Sharp Duotone Solid
-bowl-hot,3,fa-thin fa-bowl-hot,Bowl Hot,Thin
-hexagon-minus,21,fa-sharp fa-solid fa-hexagon-minus,Hexagon Minus,Sharp Solid
-tooth,7,fa-duotone fa-light fa-tooth,Tooth,Duotone Light
-circle-r,20,fa-sharp fa-regular fa-circle-r,Circle R,Sharp Regular
-hand-holding-droplet,8,fa-duotone fa-regular fa-hand-holding-droplet,Hand Holding Droplet,Duotone Regular
-registered,21,fa-sharp fa-solid fa-registered,Registered,Sharp Solid
 bread-slice,24,fa-sharp-duotone fa-regular fa-bread-slice,Bread Slice,Sharp Duotone Regular
 square-cruzeiro,24,fa-sharp-duotone fa-regular fa-square-cruzeiro,Square Cruzeiro,Sharp Duotone Regular
 balance-scale-left,0,fa-solid fa-balance-scale-left,Balance Scale Left,Solid

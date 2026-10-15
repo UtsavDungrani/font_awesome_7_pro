@@ -2915,5 +2915,14 @@ window.FA_PUBLISHED = [
 "clarinet:20",
 "microphone:20",
 "circle-heart:19",
-"grip-dots:24"
+"grip-dots:24",
+"magnifying-glass-location:23",
+"check:24",
+"jedi:25",
+"bowl-hot:3",
+"hexagon-minus:21",
+"tooth:7",
+"circle-r:20",
+"hand-holding-droplet:8",
+"registered:21"
 ];

@@ -2951,5 +2951,14 @@ window.FA_PUBLISHED = [
 "dollar:6",
 "house-chimney-window:24",
 "home-blank:8",
-"briefcase-arrow-right:7"
+"briefcase-arrow-right:7",
+"user-doctor:0",
+"calendar:7",
+"flag-pennant:25",
+"galaxy:0",
+"caret-circle-right:2",
+"scanner-image:7",
+"swedish-krona-sign:1",
+"plus-minus:6",
+"hourglass-3:1"
 ];

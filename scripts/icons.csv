@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-doctor,0,fa-solid fa-user-doctor,User Doctor,Solid
-calendar,7,fa-duotone fa-light fa-calendar,Calendar,Duotone Light
-flag-pennant,25,fa-sharp-duotone fa-solid fa-flag-pennant,Flag Pennant,Sharp Duotone Solid
-galaxy,0,fa-solid fa-galaxy,Galaxy,Solid
-caret-circle-right,2,fa-light fa-caret-circle-right,Caret Circle Right,Light
-scanner-image,7,fa-duotone fa-light fa-scanner-image,Scanner Image,Duotone Light
-swedish-krona-sign,1,fa-regular fa-swedish-krona-sign,Swedish Krona Sign,Regular
-plus-minus,6,fa-duotone fa-plus-minus,Plus Minus,Duotone Solid
-hourglass-3,1,fa-regular fa-hourglass-3,Hourglass 3,Regular
 temperature-1,8,fa-duotone fa-regular fa-temperature-1,Temperature 1,Duotone Regular
 ferry,7,fa-duotone fa-light fa-ferry,Ferry,Duotone Light
 cloud-sleet,0,fa-solid fa-cloud-sleet,Cloud Sleet,Solid

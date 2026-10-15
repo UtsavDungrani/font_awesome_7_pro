@@ -2942,5 +2942,14 @@ window.FA_PUBLISHED = [
 "memo:23",
 "folder-tree:0",
 "vest-patches:3",
-"user:18"
+"user:18",
+"user-visor:7",
+"hydra:21",
+"arrow-up-to-bracket:6",
+"pen:2",
+"nfc-slash:26",
+"dollar:6",
+"house-chimney-window:24",
+"home-blank:8",
+"briefcase-arrow-right:7"
 ];

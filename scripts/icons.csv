@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-visor,7,fa-duotone fa-light fa-user-visor,User Visor,Duotone Light
-hydra,21,fa-sharp fa-solid fa-hydra,Hydra,Sharp Solid
-arrow-up-to-bracket,6,fa-duotone fa-arrow-up-to-bracket,Arrow Up To Bracket,Duotone Solid
-pen,2,fa-light fa-pen,Pen,Light
-nfc-slash,26,fa-sharp-duotone fa-thin fa-nfc-slash,Nfc Slash,Sharp Duotone Thin
-dollar,6,fa-duotone fa-dollar,Dollar,Duotone Solid
-house-chimney-window,24,fa-sharp-duotone fa-regular fa-house-chimney-window,House Chimney Window,Sharp Duotone Regular
-home-blank,8,fa-duotone fa-regular fa-home-blank,Home Blank,Duotone Regular
-briefcase-arrow-right,7,fa-duotone fa-light fa-briefcase-arrow-right,Briefcase Arrow Right,Duotone Light
 user-doctor,0,fa-solid fa-user-doctor,User Doctor,Solid
 calendar,7,fa-duotone fa-light fa-calendar,Calendar,Duotone Light
 flag-pennant,25,fa-sharp-duotone fa-solid fa-flag-pennant,Flag Pennant,Sharp Duotone Solid

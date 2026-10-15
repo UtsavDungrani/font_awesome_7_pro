@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-dot,24,fa-sharp-duotone fa-regular fa-comment-dot,Comment Dot,Sharp Duotone Regular
-lock,35,fa-vellum fa-solid fa-lock,Lock,Vellum Solid
-chart-radar,24,fa-sharp-duotone fa-regular fa-chart-radar,Chart Radar,Sharp Duotone Regular
-face-grin,26,fa-sharp-duotone fa-thin fa-face-grin,Face Grin,Sharp Duotone Thin
-phone,10,fa-etch fa-solid fa-phone,Phone,Etch Solid
-suitcase,3,fa-thin fa-suitcase,Suitcase,Thin
-section,19,fa-sharp fa-light fa-section,Section,Sharp Light
-direction-left-right,9,fa-duotone fa-thin fa-direction-left-right,Direction Left Right,Duotone Thin
-files-medical,21,fa-sharp fa-solid fa-files-medical,Files Medical,Sharp Solid
 gauge-simple-max,20,fa-sharp fa-regular fa-gauge-simple-max,Gauge Simple Max,Sharp Regular
 at,7,fa-duotone fa-light fa-at,At,Duotone Light
 chair-office,19,fa-sharp fa-light fa-chair-office,Chair Office,Sharp Light

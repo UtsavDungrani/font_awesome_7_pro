@@ -2996,5 +2996,14 @@ window.FA_PUBLISHED = [
 "phone-connection:20",
 "torii-gate:26",
 "pencil-mechanical:9",
-"arrow-alt-circle-right:23"
+"arrow-alt-circle-right:23",
+"comment-dot:24",
+"lock:35",
+"chart-radar:24",
+"face-grin:26",
+"phone:10",
+"suitcase:3",
+"section:19",
+"direction-left-right:9",
+"files-medical:21"
 ];

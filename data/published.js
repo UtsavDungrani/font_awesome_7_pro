@@ -2897,5 +2897,14 @@ window.FA_PUBLISHED = [
 "table-cells-lock:19",
 "place-of-worship:20",
 "handshake-alt-slash:7",
-"timeline:2"
+"timeline:2",
+"chart-bullet:3",
+"booth-curtain:26",
+"aquarius:8",
+"solar-system:23",
+"tree-palm:2",
+"ussunnah:4",
+"circle-lari:1",
+"baseball-bat:24",
+"up-left:0"
 ];

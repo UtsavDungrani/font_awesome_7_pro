@@ -2924,5 +2924,14 @@ window.FA_PUBLISHED = [
 "tooth:7",
 "circle-r:20",
 "hand-holding-droplet:8",
-"registered:21"
+"registered:21",
+"bread-slice:24",
+"square-cruzeiro:24",
+"balance-scale-left:0",
+"poll:23",
+"rupee:0",
+"landmark-magnifying-glass:24",
+"eclipse-alt:2",
+"redo-alt:21",
+"trowel:24"
 ];

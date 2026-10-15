@@ -2978,5 +2978,14 @@ window.FA_PUBLISHED = [
 "comment-music:20",
 "bags-shopping:24",
 "file-caret-down:24",
-"earth-asia:7"
+"earth-asia:7",
+"film:15",
+"bridge-lock:24",
+"cloud-binary:21",
+"pipe-section:19",
+"circle-mill:6",
+"face-tongue-money:22",
+"message-arrow-up-right:1",
+"message-heart:26",
+"mobile-signal:1"
 ];

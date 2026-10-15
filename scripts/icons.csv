@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-film,15,fa-mosaic fa-solid fa-film,Film,Mosaic Solid
-bridge-lock,24,fa-sharp-duotone fa-regular fa-bridge-lock,Bridge Lock,Sharp Duotone Regular
-cloud-binary,21,fa-sharp fa-solid fa-cloud-binary,Cloud Binary,Sharp Solid
-pipe-section,19,fa-sharp fa-light fa-pipe-section,Pipe Section,Sharp Light
-circle-mill,6,fa-duotone fa-circle-mill,Circle Mill,Duotone Solid
-face-tongue-money,22,fa-sharp fa-thin fa-face-tongue-money,Face Tongue Money,Sharp Thin
-message-arrow-up-right,1,fa-regular fa-message-arrow-up-right,Message Arrow Up Right,Regular
-message-heart,26,fa-sharp-duotone fa-thin fa-message-heart,Message Heart,Sharp Duotone Thin
-mobile-signal,1,fa-regular fa-mobile-signal,Mobile Signal,Regular
 u-turn-right-down,21,fa-sharp fa-solid fa-u-turn-right-down,U Turn Right Down,Sharp Solid
 face-grin-squint-tears,24,fa-sharp-duotone fa-regular fa-face-grin-squint-tears,Face Grin Squint Tears,Sharp Duotone Regular
 house-chimney-heart,0,fa-solid fa-house-chimney-heart,House Chimney Heart,Solid

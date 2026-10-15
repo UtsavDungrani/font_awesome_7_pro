@@ -2906,5 +2906,14 @@ window.FA_PUBLISHED = [
 "ussunnah:4",
 "circle-lari:1",
 "baseball-bat:24",
-"up-left:0"
+"up-left:0",
+"sleigh:23",
+"dog:3",
+"long-arrow-alt-right:7",
+"envelopes:19",
+"toilet:20",
+"clarinet:20",
+"microphone:20",
+"circle-heart:19",
+"grip-dots:24"
 ];

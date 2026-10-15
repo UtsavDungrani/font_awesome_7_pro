@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-temperature-1,8,fa-duotone fa-regular fa-temperature-1,Temperature 1,Duotone Regular
-ferry,7,fa-duotone fa-light fa-ferry,Ferry,Duotone Light
-cloud-sleet,0,fa-solid fa-cloud-sleet,Cloud Sleet,Solid
-dice-d12,25,fa-sharp-duotone fa-solid fa-dice-d12,Dice D12,Sharp Duotone Solid
-arrow-up-to-dotted-line,8,fa-duotone fa-regular fa-arrow-up-to-dotted-line,Arrow Up To Dotted Line,Duotone Regular
-check-circle,33,fa-utility-duo fa-semibold fa-check-circle,Check Circle,Utility Duo Semibold
-dice-three,26,fa-sharp-duotone fa-thin fa-dice-three,Dice Three,Sharp Duotone Thin
-motorcycle,3,fa-thin fa-motorcycle,Motorcycle,Thin
-container-storage,21,fa-sharp fa-solid fa-container-storage,Container Storage,Sharp Solid
 comment-dots,9,fa-duotone fa-thin fa-comment-dots,Comment Dots,Duotone Thin
 tire-flat,0,fa-solid fa-tire-flat,Tire Flat,Solid
 arrow-down-small-big,2,fa-light fa-arrow-down-small-big,Arrow Down Small Big,Light

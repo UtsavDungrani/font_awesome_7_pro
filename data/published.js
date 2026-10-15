@@ -2960,5 +2960,14 @@ window.FA_PUBLISHED = [
 "scanner-image:7",
 "swedish-krona-sign:1",
 "plus-minus:6",
-"hourglass-3:1"
+"hourglass-3:1",
+"temperature-1:8",
+"ferry:7",
+"cloud-sleet:0",
+"dice-d12:25",
+"arrow-up-to-dotted-line:8",
+"check-circle:33",
+"dice-three:26",
+"motorcycle:3",
+"container-storage:21"
 ];

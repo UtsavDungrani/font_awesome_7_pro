@@ -2969,5 +2969,14 @@ window.FA_PUBLISHED = [
 "check-circle:33",
 "dice-three:26",
 "motorcycle:3",
-"container-storage:21"
+"container-storage:21",
+"comment-dots:9",
+"tire-flat:0",
+"arrow-down-small-big:2",
+"prescription-bottle-alt:7",
+"buildings:21",
+"comment-music:20",
+"bags-shopping:24",
+"file-caret-down:24",
+"earth-asia:7"
 ];

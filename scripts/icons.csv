@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comment-dots,9,fa-duotone fa-thin fa-comment-dots,Comment Dots,Duotone Thin
-tire-flat,0,fa-solid fa-tire-flat,Tire Flat,Solid
-arrow-down-small-big,2,fa-light fa-arrow-down-small-big,Arrow Down Small Big,Light
-prescription-bottle-alt,7,fa-duotone fa-light fa-prescription-bottle-alt,Prescription Bottle Alt,Duotone Light
-buildings,21,fa-sharp fa-solid fa-buildings,Buildings,Sharp Solid
-comment-music,20,fa-sharp fa-regular fa-comment-music,Comment Music,Sharp Regular
-bags-shopping,24,fa-sharp-duotone fa-regular fa-bags-shopping,Bags Shopping,Sharp Duotone Regular
-file-caret-down,24,fa-sharp-duotone fa-regular fa-file-caret-down,File Caret Down,Sharp Duotone Regular
-earth-asia,7,fa-duotone fa-light fa-earth-asia,Earth Asia,Duotone Light
 film,15,fa-mosaic fa-solid fa-film,Film,Mosaic Solid
 bridge-lock,24,fa-sharp-duotone fa-regular fa-bridge-lock,Bridge Lock,Sharp Duotone Regular
 cloud-binary,21,fa-sharp fa-solid fa-cloud-binary,Cloud Binary,Sharp Solid

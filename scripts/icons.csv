@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-shield,24,fa-sharp-duotone fa-regular fa-shield,Shield,Sharp Duotone Regular
-user-shakespeare,8,fa-duotone fa-regular fa-user-shakespeare,User Shakespeare,Duotone Regular
-triangle,29,fa-slab-press fa-regular fa-triangle,Triangle,Slab Press Regular
-kip-sign,0,fa-solid fa-kip-sign,Kip Sign,Solid
-watch-fitness,7,fa-duotone fa-light fa-watch-fitness,Watch Fitness,Duotone Light
-memo,23,fa-sharp-duotone fa-light fa-memo,Memo,Sharp Duotone Light
-folder-tree,0,fa-solid fa-folder-tree,Folder Tree,Solid
-vest-patches,3,fa-thin fa-vest-patches,Vest Patches,Thin
-user,18,fa-pixel fa-regular fa-user,User,Pixel Regular
 user-visor,7,fa-duotone fa-light fa-user-visor,User Visor,Duotone Light
 hydra,21,fa-sharp fa-solid fa-hydra,Hydra,Sharp Solid
 arrow-up-to-bracket,6,fa-duotone fa-arrow-up-to-bracket,Arrow Up To Bracket,Duotone Solid

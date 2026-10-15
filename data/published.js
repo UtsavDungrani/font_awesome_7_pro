@@ -2933,5 +2933,14 @@ window.FA_PUBLISHED = [
 "landmark-magnifying-glass:24",
 "eclipse-alt:2",
 "redo-alt:21",
-"trowel:24"
+"trowel:24",
+"shield:24",
+"user-shakespeare:8",
+"triangle:29",
+"kip-sign:0",
+"watch-fitness:7",
+"memo:23",
+"folder-tree:0",
+"vest-patches:3",
+"user:18"
 ];

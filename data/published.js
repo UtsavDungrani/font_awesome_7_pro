@@ -2987,5 +2987,14 @@ window.FA_PUBLISHED = [
 "face-tongue-money:22",
 "message-arrow-up-right:1",
 "message-heart:26",
-"mobile-signal:1"
+"mobile-signal:1",
+"u-turn-right-down:21",
+"face-grin-squint-tears:24",
+"house-chimney-heart:0",
+"headphones:30",
+"angle-double-down:0",
+"phone-connection:20",
+"torii-gate:26",
+"pencil-mechanical:9",
+"arrow-alt-circle-right:23"
 ];

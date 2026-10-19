@@ -3032,5 +3032,14 @@ window.FA_PUBLISHED = [
 "toolbox:8",
 "octagon-exclamation:21",
 "reflect-both:21",
-"external-link-alt:21"
+"external-link-alt:21",
+"clipboard-question:25",
+"life-ring:28",
+"cc-amazon-pay:4",
+"burst-new:24",
+"barn:23",
+"bangladeshi-taka-sign:26",
+"sparkle:21",
+"earth-asia:26",
+"camera-web-slash:7"
 ];

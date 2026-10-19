@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-burst,23,fa-sharp-duotone fa-light fa-person-burst,Person Burst,Sharp Duotone Light
-truck,29,fa-slab-press fa-regular fa-truck,Truck,Slab Press Regular
-chart-kanban,22,fa-sharp fa-thin fa-chart-kanban,Chart Kanban,Sharp Thin
-snowflake,6,fa-duotone fa-snowflake,Snowflake,Duotone Solid
-truck-plow,23,fa-sharp-duotone fa-light fa-truck-plow,Truck Plow,Sharp Duotone Light
-hand-wave,19,fa-sharp fa-light fa-hand-wave,Hand Wave,Sharp Light
-square-yen,26,fa-sharp-duotone fa-thin fa-square-yen,Square Yen,Sharp Duotone Thin
-magnifying-glass,27,fa-slab fa-regular fa-magnifying-glass,Magnifying Glass,Slab Regular
-cog,18,fa-pixel fa-regular fa-cog,Cog,Pixel Regular
 bar-progress-empty,23,fa-sharp-duotone fa-light fa-bar-progress-empty,Bar Progress Empty,Sharp Duotone Light
 box-full,0,fa-solid fa-box-full,Box Full,Solid
 building-circle-exclamation,0,fa-solid fa-building-circle-exclamation,Building Circle Exclamation,Solid

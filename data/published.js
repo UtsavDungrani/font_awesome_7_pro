@@ -3041,5 +3041,14 @@ window.FA_PUBLISHED = [
 "bangladeshi-taka-sign:26",
 "sparkle:21",
 "earth-asia:26",
-"camera-web-slash:7"
+"camera-web-slash:7",
+"person-burst:23",
+"truck:29",
+"chart-kanban:22",
+"snowflake:6",
+"truck-plow:23",
+"hand-wave:19",
+"square-yen:26",
+"magnifying-glass:27",
+"cog:18"
 ];

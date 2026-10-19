@@ -3050,5 +3050,14 @@ window.FA_PUBLISHED = [
 "hand-wave:19",
 "square-yen:26",
 "magnifying-glass:27",
-"cog:18"
+"cog:18",
+"bar-progress-empty:23",
+"box-full:0",
+"building-circle-exclamation:0",
+"objects-align-top:1",
+"bus:15",
+"briefs:25",
+"roblox-creator-studio:4",
+"burger:6",
+"pencil:20"
 ];

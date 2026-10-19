@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bar-progress-empty,23,fa-sharp-duotone fa-light fa-bar-progress-empty,Bar Progress Empty,Sharp Duotone Light
-box-full,0,fa-solid fa-box-full,Box Full,Solid
-building-circle-exclamation,0,fa-solid fa-building-circle-exclamation,Building Circle Exclamation,Solid
-objects-align-top,1,fa-regular fa-objects-align-top,Objects Align Top,Regular
-bus,15,fa-mosaic fa-solid fa-bus,Bus,Mosaic Solid
-briefs,25,fa-sharp-duotone fa-solid fa-briefs,Briefs,Sharp Duotone Solid
-roblox-creator-studio,4,fa-brands fa-roblox-creator-studio,Roblox Creator Studio,Brands
-burger,6,fa-duotone fa-burger,Burger,Duotone Solid
-pencil,20,fa-sharp fa-regular fa-pencil,Pencil,Sharp Regular
 thought-bubble,7,fa-duotone fa-light fa-thought-bubble,Thought Bubble,Duotone Light
 ruler-combined,8,fa-duotone fa-regular fa-ruler-combined,Ruler Combined,Duotone Regular
 drum,9,fa-duotone fa-thin fa-drum,Drum,Duotone Thin

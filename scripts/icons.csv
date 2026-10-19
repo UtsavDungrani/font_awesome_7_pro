@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-flask-potion,20,fa-sharp fa-regular fa-flask-potion,Flask Potion,Sharp Regular
-floppy-disk,2,fa-light fa-floppy-disk,Floppy Disk,Light
-cabin,0,fa-solid fa-cabin,Cabin,Solid
-child-combatant,24,fa-sharp-duotone fa-regular fa-child-combatant,Child Combatant,Sharp Duotone Regular
-code-compare,7,fa-duotone fa-light fa-code-compare,Code Compare,Duotone Light
-comment-medical,26,fa-sharp-duotone fa-thin fa-comment-medical,Comment Medical,Sharp Duotone Thin
-bowl-scoop,22,fa-sharp fa-thin fa-bowl-scoop,Bowl Scoop,Sharp Thin
-landmark-flag,7,fa-duotone fa-light fa-landmark-flag,Landmark Flag,Duotone Light
-volume-off,24,fa-sharp-duotone fa-regular fa-volume-off,Volume Off,Sharp Duotone Regular
 circle-peruvian-soles,7,fa-duotone fa-light fa-circle-peruvian-soles,Circle Peruvian Soles,Duotone Light
 ellipsis,13,fa-jelly-duo fa-regular fa-ellipsis,Ellipsis,Jelly Duo Regular
 circle-norwegian-krone,25,fa-sharp-duotone fa-solid fa-circle-norwegian-krone,Circle Norwegian Krone,Sharp Duotone Solid

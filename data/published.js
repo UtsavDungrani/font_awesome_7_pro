@@ -3131,5 +3131,14 @@ window.FA_PUBLISHED = [
 "ticket-airline:2",
 "temperature-arrow-up:0",
 "clock-desk:20",
-"flashlight:3"
+"flashlight:3",
+"flask-potion:20",
+"floppy-disk:2",
+"cabin:0",
+"child-combatant:24",
+"code-compare:7",
+"comment-medical:26",
+"bowl-scoop:22",
+"landmark-flag:7",
+"volume-off:24"
 ];

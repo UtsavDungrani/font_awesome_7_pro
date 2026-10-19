@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-thought-bubble,7,fa-duotone fa-light fa-thought-bubble,Thought Bubble,Duotone Light
-ruler-combined,8,fa-duotone fa-regular fa-ruler-combined,Ruler Combined,Duotone Regular
-drum,9,fa-duotone fa-thin fa-drum,Drum,Duotone Thin
-television,24,fa-sharp-duotone fa-regular fa-television,Television,Sharp Duotone Regular
-bitcoin-sign,26,fa-sharp-duotone fa-thin fa-bitcoin-sign,Bitcoin Sign,Sharp Duotone Thin
-airplay,23,fa-sharp-duotone fa-light fa-airplay,Airplay,Sharp Duotone Light
-tractor,8,fa-duotone fa-regular fa-tractor,Tractor,Duotone Regular
-users-slash,2,fa-light fa-users-slash,Users Slash,Light
-square-user,21,fa-sharp fa-solid fa-square-user,Square User,Sharp Solid
 clone,11,fa-graphite fa-thin fa-clone,Clone,Graphite Thin
 container-storage,19,fa-sharp fa-light fa-container-storage,Container Storage,Sharp Light
 republican,6,fa-duotone fa-republican,Republican,Duotone Solid

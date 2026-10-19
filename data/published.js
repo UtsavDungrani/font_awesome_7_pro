@@ -3059,5 +3059,14 @@ window.FA_PUBLISHED = [
 "briefs:25",
 "roblox-creator-studio:4",
 "burger:6",
-"pencil:20"
+"pencil:20",
+"thought-bubble:7",
+"ruler-combined:8",
+"drum:9",
+"television:24",
+"bitcoin-sign:26",
+"airplay:23",
+"tractor:8",
+"users-slash:2",
+"square-user:21"
 ];

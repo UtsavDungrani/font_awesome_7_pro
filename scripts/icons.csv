@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-briefcase,8,fa-duotone fa-regular fa-briefcase,Briefcase,Duotone Regular
-trees,2,fa-light fa-trees,Trees,Light
-circle-turkish-lira,19,fa-sharp fa-light fa-circle-turkish-lira,Circle Turkish Lira,Sharp Light
-tombstone-alt,9,fa-duotone fa-thin fa-tombstone-alt,Tombstone Alt,Duotone Thin
-face-meh,27,fa-slab fa-regular fa-face-meh,Face Meh,Slab Regular
-close,13,fa-jelly-duo fa-regular fa-close,Close,Jelly Duo Regular
-calendar-circle-user,7,fa-duotone fa-light fa-calendar-circle-user,Calendar Circle User,Duotone Light
-signal,7,fa-duotone fa-light fa-signal,Signal,Duotone Light
-arrow-alt-square-up,0,fa-solid fa-arrow-alt-square-up,Arrow Alt Square Up,Solid
 signal-2,20,fa-sharp fa-regular fa-signal-2,Signal 2,Sharp Regular
 heart,23,fa-sharp-duotone fa-light fa-heart,Heart,Sharp Duotone Light
 book,26,fa-sharp-duotone fa-thin fa-book,Book,Sharp Duotone Thin

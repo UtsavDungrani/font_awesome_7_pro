@@ -3014,5 +3014,14 @@ window.FA_PUBLISHED = [
 "comment-middle-top:19",
 "table-columns-remove-after:22",
 "tally-2:25",
-"female:3"
+"female:3",
+"briefcase:8",
+"trees:2",
+"circle-turkish-lira:19",
+"tombstone-alt:9",
+"face-meh:27",
+"close:13",
+"calendar-circle-user:7",
+"signal:7",
+"arrow-alt-square-up:0"
 ];

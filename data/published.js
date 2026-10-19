@@ -3068,5 +3068,14 @@ window.FA_PUBLISHED = [
 "airplay:23",
 "tractor:8",
 "users-slash:2",
-"square-user:21"
+"square-user:21",
+"clone:11",
+"container-storage:19",
+"republican:6",
+"lasso:2",
+"traffic-light-slow:3",
+"cauldron:3",
+"images:19",
+"chain:35",
+"e:25"
 ];

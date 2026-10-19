@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clone,11,fa-graphite fa-thin fa-clone,Clone,Graphite Thin
-container-storage,19,fa-sharp fa-light fa-container-storage,Container Storage,Sharp Light
-republican,6,fa-duotone fa-republican,Republican,Duotone Solid
-lasso,2,fa-light fa-lasso,Lasso,Light
-traffic-light-slow,3,fa-thin fa-traffic-light-slow,Traffic Light Slow,Thin
-cauldron,3,fa-thin fa-cauldron,Cauldron,Thin
-images,19,fa-sharp fa-light fa-images,Images,Sharp Light
-chain,35,fa-vellum fa-solid fa-chain,Chain,Vellum Solid
-e,25,fa-sharp-duotone fa-solid fa-e,E,Sharp Duotone Solid
 brackets,2,fa-light fa-brackets,Brackets,Light
 arrow-alt-circle-left,21,fa-sharp fa-solid fa-arrow-alt-circle-left,Arrow Alt Circle Left,Sharp Solid
 car-mechanic,25,fa-sharp-duotone fa-solid fa-car-mechanic,Car Mechanic,Sharp Duotone Solid

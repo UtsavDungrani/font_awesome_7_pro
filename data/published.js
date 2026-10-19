@@ -3077,5 +3077,14 @@ window.FA_PUBLISHED = [
 "cauldron:3",
 "images:19",
 "chain:35",
-"e:25"
+"e:25",
+"brackets:2",
+"arrow-alt-circle-left:21",
+"car-mechanic:25",
+"table-rows-add-above:26",
+"bars-filter:24",
+"notes-sticky:9",
+"caret-down:8",
+"nextcloud:4",
+"cloud-check:22"
 ];

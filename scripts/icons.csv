@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-brackets,2,fa-light fa-brackets,Brackets,Light
-arrow-alt-circle-left,21,fa-sharp fa-solid fa-arrow-alt-circle-left,Arrow Alt Circle Left,Sharp Solid
-car-mechanic,25,fa-sharp-duotone fa-solid fa-car-mechanic,Car Mechanic,Sharp Duotone Solid
-table-rows-add-above,26,fa-sharp-duotone fa-thin fa-table-rows-add-above,Table Rows Add Above,Sharp Duotone Thin
-bars-filter,24,fa-sharp-duotone fa-regular fa-bars-filter,Bars Filter,Sharp Duotone Regular
-notes-sticky,9,fa-duotone fa-thin fa-notes-sticky,Notes Sticky,Duotone Thin
-caret-down,8,fa-duotone fa-regular fa-caret-down,Caret Down,Duotone Regular
-nextcloud,4,fa-brands fa-nextcloud,Nextcloud,Brands
-cloud-check,22,fa-sharp fa-thin fa-cloud-check,Cloud Check,Sharp Thin
 mobile-signal,22,fa-sharp fa-thin fa-mobile-signal,Mobile Signal,Sharp Thin
 mask-ventilator,0,fa-solid fa-mask-ventilator,Mask Ventilator,Solid
 square-nfi,24,fa-sharp-duotone fa-regular fa-square-nfi,Square Nfi,Sharp Duotone Regular

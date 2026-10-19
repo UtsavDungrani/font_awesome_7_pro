@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-gauge-simple-max,20,fa-sharp fa-regular fa-gauge-simple-max,Gauge Simple Max,Sharp Regular
-at,7,fa-duotone fa-light fa-at,At,Duotone Light
-chair-office,19,fa-sharp fa-light fa-chair-office,Chair Office,Sharp Light
-code-fork,0,fa-solid fa-code-fork,Code Fork,Solid
-calendar,13,fa-jelly-duo fa-regular fa-calendar,Calendar,Jelly Duo Regular
-comment-middle-top,19,fa-sharp fa-light fa-comment-middle-top,Comment Middle Top,Sharp Light
-table-columns-remove-after,22,fa-sharp fa-thin fa-table-columns-remove-after,Table Columns Remove After,Sharp Thin
-tally-2,25,fa-sharp-duotone fa-solid fa-tally-2,Tally 2,Sharp Duotone Solid
-female,3,fa-thin fa-female,Female,Thin
 briefcase,8,fa-duotone fa-regular fa-briefcase,Briefcase,Duotone Regular
 trees,2,fa-light fa-trees,Trees,Light
 circle-turkish-lira,19,fa-sharp fa-light fa-circle-turkish-lira,Circle Turkish Lira,Sharp Light

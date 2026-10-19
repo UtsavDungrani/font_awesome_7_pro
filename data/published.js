@@ -3005,5 +3005,14 @@ window.FA_PUBLISHED = [
 "suitcase:3",
 "section:19",
 "direction-left-right:9",
-"files-medical:21"
+"files-medical:21",
+"gauge-simple-max:20",
+"at:7",
+"chair-office:19",
+"code-fork:0",
+"calendar:13",
+"comment-middle-top:19",
+"table-columns-remove-after:22",
+"tally-2:25",
+"female:3"
 ];

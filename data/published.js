@@ -3104,5 +3104,14 @@ window.FA_PUBLISHED = [
 "location-question:2",
 "image:20",
 "bridge:3",
-"4:25"
+"4:25",
+"question:34",
+"list-1-2:3",
+"circle-info:7",
+"square-swedish-krona:23",
+"robot:3",
+"person-ski-lift:1",
+"bottle-baby:25",
+"money-bill-transfer:1",
+"arrow-up-to-arc:3"
 ];

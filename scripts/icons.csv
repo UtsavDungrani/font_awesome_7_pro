@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-question,34,fa-utility-fill fa-semibold fa-question,Question,Utility Fill Semibold
-list-1-2,3,fa-thin fa-list-1-2,List 1 2,Thin
-circle-info,7,fa-duotone fa-light fa-circle-info,Circle Info,Duotone Light
-square-swedish-krona,23,fa-sharp-duotone fa-light fa-square-swedish-krona,Square Swedish Krona,Sharp Duotone Light
-robot,3,fa-thin fa-robot,Robot,Thin
-person-ski-lift,1,fa-regular fa-person-ski-lift,Person Ski Lift,Regular
-bottle-baby,25,fa-sharp-duotone fa-solid fa-bottle-baby,Bottle Baby,Sharp Duotone Solid
-money-bill-transfer,1,fa-regular fa-money-bill-transfer,Money Bill Transfer,Regular
-arrow-up-to-arc,3,fa-thin fa-arrow-up-to-arc,Arrow Up To Arc,Thin
 starship-freighter,23,fa-sharp-duotone fa-light fa-starship-freighter,Starship Freighter,Sharp Duotone Light
 folder-user,19,fa-sharp fa-light fa-folder-user,Folder User,Sharp Light
 trowel-bricks,0,fa-solid fa-trowel-bricks,Trowel Bricks,Solid

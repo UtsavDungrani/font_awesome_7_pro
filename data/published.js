@@ -3113,5 +3113,14 @@ window.FA_PUBLISHED = [
 "person-ski-lift:1",
 "bottle-baby:25",
 "money-bill-transfer:1",
-"arrow-up-to-arc:3"
+"arrow-up-to-arc:3",
+"starship-freighter:23",
+"folder-user:19",
+"trowel-bricks:0",
+"square-f:26",
+"cart-circle-arrow-up:7",
+"home-user:7",
+"handshake-alt-slash:2",
+"camera-web:8",
+"chevron-double-right:22"
 ];

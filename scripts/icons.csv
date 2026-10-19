@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-signal-2,20,fa-sharp fa-regular fa-signal-2,Signal 2,Sharp Regular
-heart,23,fa-sharp-duotone fa-light fa-heart,Heart,Sharp Duotone Light
-book,26,fa-sharp-duotone fa-thin fa-book,Book,Sharp Duotone Thin
-rectangles-mixed,21,fa-sharp fa-solid fa-rectangles-mixed,Rectangles Mixed,Sharp Solid
-spider,26,fa-sharp-duotone fa-thin fa-spider,Spider,Sharp Duotone Thin
-toolbox,8,fa-duotone fa-regular fa-toolbox,Toolbox,Duotone Regular
-octagon-exclamation,21,fa-sharp fa-solid fa-octagon-exclamation,Octagon Exclamation,Sharp Solid
-reflect-both,21,fa-sharp fa-solid fa-reflect-both,Reflect Both,Sharp Solid
-external-link-alt,21,fa-sharp fa-solid fa-external-link-alt,External Link Alt,Sharp Solid
 clipboard-question,25,fa-sharp-duotone fa-solid fa-clipboard-question,Clipboard Question,Sharp Duotone Solid
 life-ring,28,fa-slab-duo fa-regular fa-life-ring,Life Ring,Slab Duo Regular
 cc-amazon-pay,4,fa-brands fa-cc-amazon-pay,Cc Amazon Pay,Brands

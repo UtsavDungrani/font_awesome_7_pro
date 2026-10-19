@@ -3023,5 +3023,14 @@ window.FA_PUBLISHED = [
 "close:13",
 "calendar-circle-user:7",
 "signal:7",
-"arrow-alt-square-up:0"
+"arrow-alt-square-up:0",
+"signal-2:20",
+"heart:23",
+"book:26",
+"rectangles-mixed:21",
+"spider:26",
+"toolbox:8",
+"octagon-exclamation:21",
+"reflect-both:21",
+"external-link-alt:21"
 ];

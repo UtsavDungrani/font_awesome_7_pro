@@ -3122,5 +3122,14 @@ window.FA_PUBLISHED = [
 "home-user:7",
 "handshake-alt-slash:2",
 "camera-web:8",
-"chevron-double-right:22"
+"chevron-double-right:22",
+"dial-med:3",
+"burst-new:19",
+"shield-times:24",
+"memory:24",
+"brightness-low:26",
+"ticket-airline:2",
+"temperature-arrow-up:0",
+"clock-desk:20",
+"flashlight:3"
 ];

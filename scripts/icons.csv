@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dial-med,3,fa-thin fa-dial-med,Dial Med,Thin
-burst-new,19,fa-sharp fa-light fa-burst-new,Burst New,Sharp Light
-shield-times,24,fa-sharp-duotone fa-regular fa-shield-times,Shield Times,Sharp Duotone Regular
-memory,24,fa-sharp-duotone fa-regular fa-memory,Memory,Sharp Duotone Regular
-brightness-low,26,fa-sharp-duotone fa-thin fa-brightness-low,Brightness Low,Sharp Duotone Thin
-ticket-airline,2,fa-light fa-ticket-airline,Ticket Airline,Light
-temperature-arrow-up,0,fa-solid fa-temperature-arrow-up,Temperature Arrow Up,Solid
-clock-desk,20,fa-sharp fa-regular fa-clock-desk,Clock Desk,Sharp Regular
-flashlight,3,fa-thin fa-flashlight,Flashlight,Thin
 flask-potion,20,fa-sharp fa-regular fa-flask-potion,Flask Potion,Sharp Regular
 floppy-disk,2,fa-light fa-floppy-disk,Floppy Disk,Light
 cabin,0,fa-solid fa-cabin,Cabin,Solid

@@ -3095,5 +3095,14 @@ window.FA_PUBLISHED = [
 "battery-exclamation:23",
 "lacrosse-stick:26",
 "mask-snorkel:22",
-"folder:31"
+"folder:31",
+"text-height:1",
+"diagram-predecessor:1",
+"gas-pump-left:25",
+"calendar-minus:0",
+"chess-queen-alt:25",
+"location-question:2",
+"image:20",
+"bridge:3",
+"4:25"
 ];

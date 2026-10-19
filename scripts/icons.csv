@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-text-height,1,fa-regular fa-text-height,Text Height,Regular
-diagram-predecessor,1,fa-regular fa-diagram-predecessor,Diagram Predecessor,Regular
-gas-pump-left,25,fa-sharp-duotone fa-solid fa-gas-pump-left,Gas Pump Left,Sharp Duotone Solid
-calendar-minus,0,fa-solid fa-calendar-minus,Calendar Minus,Solid
-chess-queen-alt,25,fa-sharp-duotone fa-solid fa-chess-queen-alt,Chess Queen Alt,Sharp Duotone Solid
-location-question,2,fa-light fa-location-question,Location Question,Light
-image,20,fa-sharp fa-regular fa-image,Image,Sharp Regular
-bridge,3,fa-thin fa-bridge,Bridge,Thin
-4,25,fa-sharp-duotone fa-solid fa-4,4,Sharp Duotone Solid
 question,34,fa-utility-fill fa-semibold fa-question,Question,Utility Fill Semibold
 list-1-2,3,fa-thin fa-list-1-2,List 1 2,Thin
 circle-info,7,fa-duotone fa-light fa-circle-info,Circle Info,Duotone Light

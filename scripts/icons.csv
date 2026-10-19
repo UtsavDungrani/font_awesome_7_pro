@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mobile-signal,22,fa-sharp fa-thin fa-mobile-signal,Mobile Signal,Sharp Thin
-mask-ventilator,0,fa-solid fa-mask-ventilator,Mask Ventilator,Solid
-square-nfi,24,fa-sharp-duotone fa-regular fa-square-nfi,Square Nfi,Sharp Duotone Regular
-burger-cheese,2,fa-light fa-burger-cheese,Burger Cheese,Light
-flag-usa,26,fa-sharp-duotone fa-thin fa-flag-usa,Flag Usa,Sharp Duotone Thin
-battery-exclamation,23,fa-sharp-duotone fa-light fa-battery-exclamation,Battery Exclamation,Sharp Duotone Light
-lacrosse-stick,26,fa-sharp-duotone fa-thin fa-lacrosse-stick,Lacrosse Stick,Sharp Duotone Thin
-mask-snorkel,22,fa-sharp fa-thin fa-mask-snorkel,Mask Snorkel,Sharp Thin
-folder,31,fa-thumbprint fa-light fa-folder,Folder,Thumbprint Light
 text-height,1,fa-regular fa-text-height,Text Height,Regular
 diagram-predecessor,1,fa-regular fa-diagram-predecessor,Diagram Predecessor,Regular
 gas-pump-left,25,fa-sharp-duotone fa-solid fa-gas-pump-left,Gas Pump Left,Sharp Duotone Solid

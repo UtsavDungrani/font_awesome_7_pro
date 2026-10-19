@@ -3086,5 +3086,14 @@ window.FA_PUBLISHED = [
 "notes-sticky:9",
 "caret-down:8",
 "nextcloud:4",
-"cloud-check:22"
+"cloud-check:22",
+"mobile-signal:22",
+"mask-ventilator:0",
+"square-nfi:24",
+"burger-cheese:2",
+"flag-usa:26",
+"battery-exclamation:23",
+"lacrosse-stick:26",
+"mask-snorkel:22",
+"folder:31"
 ];

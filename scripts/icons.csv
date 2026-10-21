@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rupiah-sign,21,fa-sharp fa-solid fa-rupiah-sign,Rupiah Sign,Sharp Solid
-arrow-up-from-bracket,28,fa-slab-duo fa-regular fa-arrow-up-from-bracket,Arrow Up From Bracket,Slab Duo Regular
-address-card,21,fa-sharp fa-solid fa-address-card,Address Card,Sharp Solid
-pinata,2,fa-light fa-pinata,Pinata,Light
-circle-currency,0,fa-solid fa-circle-currency,Circle Currency,Solid
-american-sign-language-interpreting,6,fa-duotone fa-american-sign-language-interpreting,American Sign Language Interpreting,Duotone Solid
-file-minus,7,fa-duotone fa-light fa-file-minus,File Minus,Duotone Light
-chess-pawn-alt,1,fa-regular fa-chess-pawn-alt,Chess Pawn Alt,Regular
-ruler-vertical,1,fa-regular fa-ruler-vertical,Ruler Vertical,Regular
 tower-receive,25,fa-sharp-duotone fa-solid fa-tower-receive,Tower Receive,Sharp Duotone Solid
 grapes,21,fa-sharp fa-solid fa-grapes,Grapes,Sharp Solid
 grid-2-plus,20,fa-sharp fa-regular fa-grid-2-plus,Grid 2 Plus,Sharp Regular

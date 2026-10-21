@@ -3230,5 +3230,14 @@ window.FA_PUBLISHED = [
 "balance-scale-right:0",
 "plane-up:32",
 "arrow-up-to-dotted-line:26",
-"dash:3"
+"dash:3",
+"rupiah-sign:21",
+"arrow-up-from-bracket:28",
+"address-card:21",
+"pinata:2",
+"circle-currency:0",
+"american-sign-language-interpreting:6",
+"file-minus:7",
+"chess-pawn-alt:1",
+"ruler-vertical:1"
 ];

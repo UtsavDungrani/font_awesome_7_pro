@@ -3158,5 +3158,14 @@ window.FA_PUBLISHED = [
 "h5:25",
 "ruler-triangle:0",
 "circle-4:20",
-"raccoon:9"
+"raccoon:9",
+"traffic-light:3",
+"dash:21",
+"helmet-battle:22",
+"utility-pole-double:3",
+"angle-double-down:22",
+"chess-bishop:26",
+"caret-circle-up:20",
+"car-bus:8",
+"dice-five:6"
 ];

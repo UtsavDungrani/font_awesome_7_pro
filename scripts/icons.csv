@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-traffic-light,3,fa-thin fa-traffic-light,Traffic Light,Thin
-dash,21,fa-sharp fa-solid fa-dash,Dash,Sharp Solid
-helmet-battle,22,fa-sharp fa-thin fa-helmet-battle,Helmet Battle,Sharp Thin
-utility-pole-double,3,fa-thin fa-utility-pole-double,Utility Pole Double,Thin
-angle-double-down,22,fa-sharp fa-thin fa-angle-double-down,Angle Double Down,Sharp Thin
-chess-bishop,26,fa-sharp-duotone fa-thin fa-chess-bishop,Chess Bishop,Sharp Duotone Thin
-caret-circle-up,20,fa-sharp fa-regular fa-caret-circle-up,Caret Circle Up,Sharp Regular
-car-bus,8,fa-duotone fa-regular fa-car-bus,Car Bus,Duotone Regular
-dice-five,6,fa-duotone fa-dice-five,Dice Five,Duotone Solid
 hat-cowboy-side,0,fa-solid fa-hat-cowboy-side,Hat Cowboy Side,Solid
 arrow-up-long-to-line,2,fa-light fa-arrow-up-long-to-line,Arrow Up Long To Line,Light
 trailer,1,fa-regular fa-trailer,Trailer,Regular

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clipboard-exclamation,21,fa-sharp fa-solid fa-clipboard-exclamation,Clipboard Exclamation,Sharp Solid
-hood-cloak,0,fa-solid fa-hood-cloak,Hood Cloak,Solid
-file-icns,21,fa-sharp fa-solid fa-file-icns,File Icns,Sharp Solid
-universal-access,18,fa-pixel fa-regular fa-universal-access,Universal Access,Pixel Regular
-jack-o-lantern,25,fa-sharp-duotone fa-solid fa-jack-o-lantern,Jack O Lantern,Sharp Duotone Solid
-calendar-lines-pen,19,fa-sharp fa-light fa-calendar-lines-pen,Calendar Lines Pen,Sharp Light
-square-j,6,fa-duotone fa-square-j,Square J,Duotone Solid
-angle-double-up,0,fa-solid fa-angle-double-up,Angle Double Up,Solid
-comment-captions,1,fa-regular fa-comment-captions,Comment Captions,Regular
 caravan,9,fa-duotone fa-thin fa-caravan,Caravan,Duotone Thin
 mosque,22,fa-sharp fa-thin fa-mosque,Mosque,Sharp Thin
 image,31,fa-thumbprint fa-light fa-image,Image,Thumbprint Light

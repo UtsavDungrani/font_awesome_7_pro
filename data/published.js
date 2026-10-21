@@ -3203,5 +3203,14 @@ window.FA_PUBLISHED = [
 "calendar-week:8",
 "hippo:7",
 "face-eyes-xmarks:1",
-"bar-chart:5"
+"bar-chart:5",
+"clipboard-exclamation:21",
+"hood-cloak:0",
+"file-icns:21",
+"universal-access:18",
+"jack-o-lantern:25",
+"calendar-lines-pen:19",
+"square-j:6",
+"angle-double-up:0",
+"comment-captions:1"
 ];

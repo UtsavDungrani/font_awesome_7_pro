@@ -3140,5 +3140,14 @@ window.FA_PUBLISHED = [
 "comment-medical:26",
 "bowl-scoop:22",
 "landmark-flag:7",
-"volume-off:24"
+"volume-off:24",
+"circle-peruvian-soles:7",
+"ellipsis:13",
+"circle-norwegian-krone:25",
+"circle-renminbi:19",
+"capsule:19",
+"eyes:2",
+"piano-keyboard:2",
+"building-circle-check:6",
+"circle-p:2"
 ];

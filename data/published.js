@@ -3266,5 +3266,14 @@ window.FA_PUBLISHED = [
 "person-falling-burst:3",
 "grip-lines-vertical:7",
 "tally-4:24",
-"film-music:25"
+"film-music:25",
+"plane-tail:6",
+"wind-turbine:20",
+"desktop-slash:6",
+"grill-hot:6",
+"input-pipe:0",
+"chevron-circle-up:22",
+"truck-container-empty:8",
+"face-anguished:19",
+"arrow-rotate-right-15:7"
 ];

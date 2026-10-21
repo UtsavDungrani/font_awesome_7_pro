@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-plane-tail,6,fa-duotone fa-plane-tail,Plane Tail,Duotone Solid
-wind-turbine,20,fa-sharp fa-regular fa-wind-turbine,Wind Turbine,Sharp Regular
-desktop-slash,6,fa-duotone fa-desktop-slash,Desktop Slash,Duotone Solid
-grill-hot,6,fa-duotone fa-grill-hot,Grill Hot,Duotone Solid
-input-pipe,0,fa-solid fa-input-pipe,Input Pipe,Solid
-chevron-circle-up,22,fa-sharp fa-thin fa-chevron-circle-up,Chevron Circle Up,Sharp Thin
-truck-container-empty,8,fa-duotone fa-regular fa-truck-container-empty,Truck Container Empty,Duotone Regular
-face-anguished,19,fa-sharp fa-light fa-face-anguished,Face Anguished,Sharp Light
-arrow-rotate-right-15,7,fa-duotone fa-light fa-arrow-rotate-right-15,Arrow Rotate Right 15,Duotone Light
 arrow-right-to-dotted-line,24,fa-sharp-duotone fa-regular fa-arrow-right-to-dotted-line,Arrow Right To Dotted Line,Sharp Duotone Regular
 microphone-slash,28,fa-slab-duo fa-regular fa-microphone-slash,Microphone Slash,Slab Duo Regular
 floppy-disk,21,fa-sharp fa-solid fa-floppy-disk,Floppy Disk,Sharp Solid

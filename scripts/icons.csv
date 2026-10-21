@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-caravan,9,fa-duotone fa-thin fa-caravan,Caravan,Duotone Thin
-mosque,22,fa-sharp fa-thin fa-mosque,Mosque,Sharp Thin
-image,31,fa-thumbprint fa-light fa-image,Image,Thumbprint Light
-signal-alt-2,23,fa-sharp-duotone fa-light fa-signal-alt-2,Signal Alt 2,Sharp Duotone Light
-angel,25,fa-sharp-duotone fa-solid fa-angel,Angel,Sharp Duotone Solid
-bottle-water,3,fa-thin fa-bottle-water,Bottle Water,Thin
-canoe-person,3,fa-thin fa-canoe-person,Canoe Person,Thin
-user-tie-hair,8,fa-duotone fa-regular fa-user-tie-hair,User Tie Hair,Duotone Regular
-message-heart,2,fa-light fa-message-heart,Message Heart,Light
 equals,18,fa-pixel fa-regular fa-equals,Equals,Pixel Regular
 windsock,21,fa-sharp fa-solid fa-windsock,Windsock,Sharp Solid
 triangle,26,fa-sharp-duotone fa-thin fa-triangle,Triangle,Sharp Duotone Thin

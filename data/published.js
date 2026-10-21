@@ -3212,5 +3212,14 @@ window.FA_PUBLISHED = [
 "calendar-lines-pen:19",
 "square-j:6",
 "angle-double-up:0",
-"comment-captions:1"
+"comment-captions:1",
+"caravan:9",
+"mosque:22",
+"image:31",
+"signal-alt-2:23",
+"angel:25",
+"bottle-water:3",
+"canoe-person:3",
+"user-tie-hair:8",
+"message-heart:2"
 ];

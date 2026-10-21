@@ -3167,5 +3167,14 @@ window.FA_PUBLISHED = [
 "chess-bishop:26",
 "caret-circle-up:20",
 "car-bus:8",
-"dice-five:6"
+"dice-five:6",
+"hat-cowboy-side:0",
+"arrow-up-long-to-line:2",
+"trailer:1",
+"money-check-dollar-pen:8",
+"bgg:4",
+"boot-heeled:21",
+"file-caret-down:9",
+"box-circle-check:24",
+"comment-middle:25"
 ];

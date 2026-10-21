@@ -3149,5 +3149,14 @@ window.FA_PUBLISHED = [
 "eyes:2",
 "piano-keyboard:2",
 "building-circle-check:6",
-"circle-p:2"
+"circle-p:2",
+"phone-office:26",
+"planet-ringed:8",
+"arrow-down-to-square:7",
+"bacteria:3",
+"phone-plus:25",
+"h5:25",
+"ruler-triangle:0",
+"circle-4:20",
+"raccoon:9"
 ];

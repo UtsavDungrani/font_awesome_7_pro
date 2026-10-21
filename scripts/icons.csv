@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-phone-office,26,fa-sharp-duotone fa-thin fa-phone-office,Phone Office,Sharp Duotone Thin
-planet-ringed,8,fa-duotone fa-regular fa-planet-ringed,Planet Ringed,Duotone Regular
-arrow-down-to-square,7,fa-duotone fa-light fa-arrow-down-to-square,Arrow Down To Square,Duotone Light
-bacteria,3,fa-thin fa-bacteria,Bacteria,Thin
-phone-plus,25,fa-sharp-duotone fa-solid fa-phone-plus,Phone Plus,Sharp Duotone Solid
-h5,25,fa-sharp-duotone fa-solid fa-h5,H5,Sharp Duotone Solid
-ruler-triangle,0,fa-solid fa-ruler-triangle,Ruler Triangle,Solid
-circle-4,20,fa-sharp fa-regular fa-circle-4,Circle 4,Sharp Regular
-raccoon,9,fa-duotone fa-thin fa-raccoon,Raccoon,Duotone Thin
 traffic-light,3,fa-thin fa-traffic-light,Traffic Light,Thin
 dash,21,fa-sharp fa-solid fa-dash,Dash,Sharp Solid
 helmet-battle,22,fa-sharp fa-thin fa-helmet-battle,Helmet Battle,Sharp Thin

@@ -3176,5 +3176,14 @@ window.FA_PUBLISHED = [
 "boot-heeled:21",
 "file-caret-down:9",
 "box-circle-check:24",
-"comment-middle:25"
+"comment-middle:25",
+"circle-user-circle-question:0",
+"table-tennis-paddle:0",
+"user-sith:25",
+"sparkles:8",
+"badge-percent:3",
+"hands-bubbles:9",
+"radio-alt:3",
+"fondue-pot:6",
+"repeat-1:20"
 ];

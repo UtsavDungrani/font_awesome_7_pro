@@ -3221,5 +3221,14 @@ window.FA_PUBLISHED = [
 "bottle-water:3",
 "canoe-person:3",
 "user-tie-hair:8",
-"message-heart:2"
+"message-heart:2",
+"equals:18",
+"windsock:21",
+"triangle:26",
+"comment-alt-arrow-down:9",
+"glass-whiskey-rocks:1",
+"balance-scale-right:0",
+"plane-up:32",
+"arrow-up-to-dotted-line:26",
+"dash:3"
 ];

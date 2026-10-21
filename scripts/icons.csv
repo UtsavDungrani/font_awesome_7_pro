@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-equals,18,fa-pixel fa-regular fa-equals,Equals,Pixel Regular
-windsock,21,fa-sharp fa-solid fa-windsock,Windsock,Sharp Solid
-triangle,26,fa-sharp-duotone fa-thin fa-triangle,Triangle,Sharp Duotone Thin
-comment-alt-arrow-down,9,fa-duotone fa-thin fa-comment-alt-arrow-down,Comment Alt Arrow Down,Duotone Thin
-glass-whiskey-rocks,1,fa-regular fa-glass-whiskey-rocks,Glass Whiskey Rocks,Regular
-balance-scale-right,0,fa-solid fa-balance-scale-right,Balance Scale Right,Solid
-plane-up,32,fa-utility fa-semibold fa-plane-up,Plane Up,Utility Semibold
-arrow-up-to-dotted-line,26,fa-sharp-duotone fa-thin fa-arrow-up-to-dotted-line,Arrow Up To Dotted Line,Sharp Duotone Thin
-dash,3,fa-thin fa-dash,Dash,Thin
 rupiah-sign,21,fa-sharp fa-solid fa-rupiah-sign,Rupiah Sign,Sharp Solid
 arrow-up-from-bracket,28,fa-slab-duo fa-regular fa-arrow-up-from-bracket,Arrow Up From Bracket,Slab Duo Regular
 address-card,21,fa-sharp fa-solid fa-address-card,Address Card,Sharp Solid

@@ -3185,5 +3185,14 @@ window.FA_PUBLISHED = [
 "hands-bubbles:9",
 "radio-alt:3",
 "fondue-pot:6",
-"repeat-1:20"
+"repeat-1:20",
+"deer:22",
+"chest-drawers:9",
+"file-cad:19",
+"pisces:8",
+"toilet-paper-slash:25",
+"slot-machine:6",
+"arrows-turn-right:24",
+"volume-off:12",
+"sd-cards:22"
 ];

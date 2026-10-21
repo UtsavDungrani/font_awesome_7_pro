@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-deer,22,fa-sharp fa-thin fa-deer,Deer,Sharp Thin
-chest-drawers,9,fa-duotone fa-thin fa-chest-drawers,Chest Drawers,Duotone Thin
-file-cad,19,fa-sharp fa-light fa-file-cad,File Cad,Sharp Light
-pisces,8,fa-duotone fa-regular fa-pisces,Pisces,Duotone Regular
-toilet-paper-slash,25,fa-sharp-duotone fa-solid fa-toilet-paper-slash,Toilet Paper Slash,Sharp Duotone Solid
-slot-machine,6,fa-duotone fa-slot-machine,Slot Machine,Duotone Solid
-arrows-turn-right,24,fa-sharp-duotone fa-regular fa-arrows-turn-right,Arrows Turn Right,Sharp Duotone Regular
-volume-off,12,fa-jelly fa-regular fa-volume-off,Volume Off,Jelly Regular
-sd-cards,22,fa-sharp fa-thin fa-sd-cards,Sd Cards,Sharp Thin
 upload,23,fa-sharp-duotone fa-light fa-upload,Upload,Sharp Duotone Light
 chart-network,8,fa-duotone fa-regular fa-chart-network,Chart Network,Duotone Regular
 ruler-vertical,25,fa-sharp-duotone fa-solid fa-ruler-vertical,Ruler Vertical,Sharp Duotone Solid

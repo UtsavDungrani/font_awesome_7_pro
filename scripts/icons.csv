@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tower-receive,25,fa-sharp-duotone fa-solid fa-tower-receive,Tower Receive,Sharp Duotone Solid
-grapes,21,fa-sharp fa-solid fa-grapes,Grapes,Sharp Solid
-grid-2-plus,20,fa-sharp fa-regular fa-grid-2-plus,Grid 2 Plus,Sharp Regular
-nfc,19,fa-sharp fa-light fa-nfc,Nfc,Sharp Light
-shield-cat,23,fa-sharp-duotone fa-light fa-shield-cat,Shield Cat,Sharp Duotone Light
-traffic-light-stop,8,fa-duotone fa-regular fa-traffic-light-stop,Traffic Light Stop,Duotone Regular
-unlock-alt,6,fa-duotone fa-unlock-alt,Unlock Alt,Duotone Solid
-desk,9,fa-duotone fa-thin fa-desk,Desk,Duotone Thin
-robot,24,fa-sharp-duotone fa-regular fa-robot,Robot,Sharp Duotone Regular
 wheat,23,fa-sharp-duotone fa-light fa-wheat,Wheat,Sharp Duotone Light
 burger-soda,2,fa-light fa-burger-soda,Burger Soda,Light
 redhat,4,fa-brands fa-redhat,Redhat,Brands

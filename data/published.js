@@ -3239,5 +3239,14 @@ window.FA_PUBLISHED = [
 "american-sign-language-interpreting:6",
 "file-minus:7",
 "chess-pawn-alt:1",
-"ruler-vertical:1"
+"ruler-vertical:1",
+"tower-receive:25",
+"grapes:21",
+"grid-2-plus:20",
+"nfc:19",
+"shield-cat:23",
+"traffic-light-stop:8",
+"unlock-alt:6",
+"desk:9",
+"robot:24"
 ];

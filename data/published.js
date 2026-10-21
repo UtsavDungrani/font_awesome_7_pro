@@ -3248,5 +3248,14 @@ window.FA_PUBLISHED = [
 "traffic-light-stop:8",
 "unlock-alt:6",
 "desk:9",
-"robot:24"
+"robot:24",
+"wheat:23",
+"burger-soda:2",
+"redhat:4",
+"block-brick-fire:8",
+"warehouse-alt:22",
+"eye-closed:20",
+"user-unlock:9",
+"brackets-round:3",
+"square-bolt:1"
 ];

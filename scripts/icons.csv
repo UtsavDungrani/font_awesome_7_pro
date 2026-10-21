@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-upload,23,fa-sharp-duotone fa-light fa-upload,Upload,Sharp Duotone Light
-chart-network,8,fa-duotone fa-regular fa-chart-network,Chart Network,Duotone Regular
-ruler-vertical,25,fa-sharp-duotone fa-solid fa-ruler-vertical,Ruler Vertical,Sharp Duotone Solid
-code-fork,1,fa-regular fa-code-fork,Code Fork,Regular
-location-minus,24,fa-sharp-duotone fa-regular fa-location-minus,Location Minus,Sharp Duotone Regular
-calendar-week,8,fa-duotone fa-regular fa-calendar-week,Calendar Week,Duotone Regular
-hippo,7,fa-duotone fa-light fa-hippo,Hippo,Duotone Light
-face-eyes-xmarks,1,fa-regular fa-face-eyes-xmarks,Face Eyes Xmarks,Regular
-bar-chart,5,fa-chisel fa-regular fa-bar-chart,Bar Chart,Chisel Regular
 clipboard-exclamation,21,fa-sharp fa-solid fa-clipboard-exclamation,Clipboard Exclamation,Sharp Solid
 hood-cloak,0,fa-solid fa-hood-cloak,Hood Cloak,Solid
 file-icns,21,fa-sharp fa-solid fa-file-icns,File Icns,Sharp Solid

@@ -3194,5 +3194,14 @@ window.FA_PUBLISHED = [
 "slot-machine:6",
 "arrows-turn-right:24",
 "volume-off:12",
-"sd-cards:22"
+"sd-cards:22",
+"upload:23",
+"chart-network:8",
+"ruler-vertical:25",
+"code-fork:1",
+"location-minus:24",
+"calendar-week:8",
+"hippo:7",
+"face-eyes-xmarks:1",
+"bar-chart:5"
 ];

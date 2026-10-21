@@ -3257,5 +3257,14 @@ window.FA_PUBLISHED = [
 "eye-closed:20",
 "user-unlock:9",
 "brackets-round:3",
-"square-bolt:1"
+"square-bolt:1",
+"shoe-prints:6",
+"dinosaur:9",
+"bowl-scoops:23",
+"square-s:23",
+"code-pull-request-closed:6",
+"person-falling-burst:3",
+"grip-lines-vertical:7",
+"tally-4:24",
+"film-music:25"
 ];

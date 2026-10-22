@@ -3284,5 +3284,14 @@ window.FA_PUBLISHED = [
 "turntable:6",
 "cheese:22",
 "flower-tulip:6",
-"comment-middle-top:22"
+"comment-middle-top:22",
+"table-rows-merge-next:21",
+"cloud-fog:1",
+"pen-ruler:2",
+"people-pulling:7",
+"train-stop:19",
+"dryer:6",
+"square-d:0",
+"photo-film:2",
+"toggle-large-on:1"
 ];

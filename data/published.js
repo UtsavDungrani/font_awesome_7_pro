@@ -3338,5 +3338,14 @@ window.FA_PUBLISHED = [
 "arrow-left-rotate:1",
 "eclipse-alt:1",
 "barcode-alt:20",
-"tablet:9"
+"tablet:9",
+"folders:20",
+"drumstick-bite:26",
+"shoe:0",
+"plug-circle-xmark:19",
+"pencil:0",
+"file-ban:19",
+"stars:21",
+"microphone-alt-slash:2",
+"moon-full:3"
 ];

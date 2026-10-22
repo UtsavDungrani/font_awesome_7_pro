@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-ellipsis,20,fa-sharp fa-regular fa-square-ellipsis,Square Ellipsis,Sharp Regular
-lock-open,24,fa-sharp-duotone fa-regular fa-lock-open,Lock Open,Sharp Duotone Regular
-phone,21,fa-sharp fa-solid fa-phone,Phone,Sharp Solid
-square-ellipsis-vertical,25,fa-sharp-duotone fa-solid fa-square-ellipsis-vertical,Square Ellipsis Vertical,Sharp Duotone Solid
-music,2,fa-light fa-music,Music,Light
-file-jpg,3,fa-thin fa-file-jpg,File Jpg,Thin
-umbrella,30,fa-slab-press-duo fa-regular fa-umbrella,Umbrella,Slab Press Duo Regular
-gif,24,fa-sharp-duotone fa-regular fa-gif,Gif,Sharp Duotone Regular
-birthday-cake,0,fa-solid fa-birthday-cake,Birthday Cake,Solid
 fire-alt,3,fa-thin fa-fire-alt,Fire Alt,Thin
 gear-complex,6,fa-duotone fa-gear-complex,Gear Complex,Duotone Solid
 folders,7,fa-duotone fa-light fa-folders,Folders,Duotone Light

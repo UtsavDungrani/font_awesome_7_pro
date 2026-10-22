@@ -3311,5 +3311,14 @@ window.FA_PUBLISHED = [
 "square-arrow-down-left:25",
 "road-circle-check:19",
 "face-confused:3",
-"circle-half:19"
+"circle-half:19",
+"square-ellipsis:20",
+"lock-open:24",
+"phone:21",
+"square-ellipsis-vertical:25",
+"music:2",
+"file-jpg:3",
+"umbrella:30",
+"gif:24",
+"birthday-cake:0"
 ];

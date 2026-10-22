@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-fire-alt,3,fa-thin fa-fire-alt,Fire Alt,Thin
-gear-complex,6,fa-duotone fa-gear-complex,Gear Complex,Duotone Solid
-folders,7,fa-duotone fa-light fa-folders,Folders,Duotone Light
-circle-phone-hangup,0,fa-solid fa-circle-phone-hangup,Circle Phone Hangup,Solid
-arrow-left-from-dotted-line,21,fa-sharp fa-solid fa-arrow-left-from-dotted-line,Arrow Left From Dotted Line,Sharp Solid
-square-v,23,fa-sharp-duotone fa-light fa-square-v,Square V,Sharp Duotone Light
-gamepad-alt,20,fa-sharp fa-regular fa-gamepad-alt,Gamepad Alt,Sharp Regular
-face-grin,28,fa-slab-duo fa-regular fa-face-grin,Face Grin,Slab Duo Regular
-face-laugh-wink,26,fa-sharp-duotone fa-thin fa-face-laugh-wink,Face Laugh Wink,Sharp Duotone Thin
 face-smile-tear,25,fa-sharp-duotone fa-solid fa-face-smile-tear,Face Smile Tear,Sharp Duotone Solid
 hurricane,23,fa-sharp-duotone fa-light fa-hurricane,Hurricane,Sharp Duotone Light
 h3,23,fa-sharp-duotone fa-light fa-h3,H3,Sharp Duotone Light

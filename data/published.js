@@ -3320,5 +3320,14 @@ window.FA_PUBLISHED = [
 "file-jpg:3",
 "umbrella:30",
 "gif:24",
-"birthday-cake:0"
+"birthday-cake:0",
+"fire-alt:3",
+"gear-complex:6",
+"folders:7",
+"circle-phone-hangup:0",
+"arrow-left-from-dotted-line:21",
+"square-v:23",
+"gamepad-alt:20",
+"face-grin:28",
+"face-laugh-wink:26"
 ];

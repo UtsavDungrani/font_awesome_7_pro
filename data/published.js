@@ -3275,5 +3275,14 @@ window.FA_PUBLISHED = [
 "chevron-circle-up:22",
 "truck-container-empty:8",
 "face-anguished:19",
-"arrow-rotate-right-15:7"
+"arrow-rotate-right-15:7",
+"arrow-right-to-dotted-line:24",
+"microphone-slash:28",
+"floppy-disk:21",
+"turntable:21",
+"circle-user:1",
+"turntable:6",
+"cheese:22",
+"flower-tulip:6",
+"comment-middle-top:22"
 ];

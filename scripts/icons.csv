@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-right-to-dotted-line,24,fa-sharp-duotone fa-regular fa-arrow-right-to-dotted-line,Arrow Right To Dotted Line,Sharp Duotone Regular
-microphone-slash,28,fa-slab-duo fa-regular fa-microphone-slash,Microphone Slash,Slab Duo Regular
-floppy-disk,21,fa-sharp fa-solid fa-floppy-disk,Floppy Disk,Sharp Solid
-turntable,21,fa-sharp fa-solid fa-turntable,Turntable,Sharp Solid
-circle-user,1,fa-regular fa-circle-user,Circle User,Regular
-turntable,6,fa-duotone fa-turntable,Turntable,Duotone Solid
-cheese,22,fa-sharp fa-thin fa-cheese,Cheese,Sharp Thin
-flower-tulip,6,fa-duotone fa-flower-tulip,Flower Tulip,Duotone Solid
-comment-middle-top,22,fa-sharp fa-thin fa-comment-middle-top,Comment Middle Top,Sharp Thin
 table-rows-merge-next,21,fa-sharp fa-solid fa-table-rows-merge-next,Table Rows Merge Next,Sharp Solid
 cloud-fog,1,fa-regular fa-cloud-fog,Cloud Fog,Regular
 pen-ruler,2,fa-light fa-pen-ruler,Pen Ruler,Light

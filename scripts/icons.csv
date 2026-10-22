@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-smile-tear,25,fa-sharp-duotone fa-solid fa-face-smile-tear,Face Smile Tear,Sharp Duotone Solid
-hurricane,23,fa-sharp-duotone fa-light fa-hurricane,Hurricane,Sharp Duotone Light
-h3,23,fa-sharp-duotone fa-light fa-h3,H3,Sharp Duotone Light
-check-circle,18,fa-pixel fa-regular fa-check-circle,Check Circle,Pixel Regular
-nfc-trash,21,fa-sharp fa-solid fa-nfc-trash,Nfc Trash,Sharp Solid
-arrow-left-rotate,1,fa-regular fa-arrow-left-rotate,Arrow Left Rotate,Regular
-eclipse-alt,1,fa-regular fa-eclipse-alt,Eclipse Alt,Regular
-barcode-alt,20,fa-sharp fa-regular fa-barcode-alt,Barcode Alt,Sharp Regular
-tablet,9,fa-duotone fa-thin fa-tablet,Tablet,Duotone Thin
 folders,20,fa-sharp fa-regular fa-folders,Folders,Sharp Regular
 drumstick-bite,26,fa-sharp-duotone fa-thin fa-drumstick-bite,Drumstick Bite,Sharp Duotone Thin
 shoe,0,fa-solid fa-shoe,Shoe,Solid

@@ -3329,5 +3329,14 @@ window.FA_PUBLISHED = [
 "square-v:23",
 "gamepad-alt:20",
 "face-grin:28",
-"face-laugh-wink:26"
+"face-laugh-wink:26",
+"face-smile-tear:25",
+"hurricane:23",
+"h3:23",
+"check-circle:18",
+"nfc-trash:21",
+"arrow-left-rotate:1",
+"eclipse-alt:1",
+"barcode-alt:20",
+"tablet:9"
 ];

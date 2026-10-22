@@ -3302,5 +3302,14 @@ window.FA_PUBLISHED = [
 "money-check-edit:19",
 "h1:25",
 "clock-eight-thirty:0",
-"paintbrush-pencil:2"
+"paintbrush-pencil:2",
+"ban-smoking:20",
+"fax:19",
+"ice-cream:26",
+"podcast:1",
+"circle-microphone-lines:23",
+"square-arrow-down-left:25",
+"road-circle-check:19",
+"face-confused:3",
+"circle-half:19"
 ];

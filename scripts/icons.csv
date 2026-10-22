@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-ban-smoking,20,fa-sharp fa-regular fa-ban-smoking,Ban Smoking,Sharp Regular
-fax,19,fa-sharp fa-light fa-fax,Fax,Sharp Light
-ice-cream,26,fa-sharp-duotone fa-thin fa-ice-cream,Ice Cream,Sharp Duotone Thin
-podcast,1,fa-regular fa-podcast,Podcast,Regular
-circle-microphone-lines,23,fa-sharp-duotone fa-light fa-circle-microphone-lines,Circle Microphone Lines,Sharp Duotone Light
-square-arrow-down-left,25,fa-sharp-duotone fa-solid fa-square-arrow-down-left,Square Arrow Down Left,Sharp Duotone Solid
-road-circle-check,19,fa-sharp fa-light fa-road-circle-check,Road Circle Check,Sharp Light
-face-confused,3,fa-thin fa-face-confused,Face Confused,Thin
-circle-half,19,fa-sharp fa-light fa-circle-half,Circle Half,Sharp Light
 square-ellipsis,20,fa-sharp fa-regular fa-square-ellipsis,Square Ellipsis,Sharp Regular
 lock-open,24,fa-sharp-duotone fa-regular fa-lock-open,Lock Open,Sharp Duotone Regular
 phone,21,fa-sharp fa-solid fa-phone,Phone,Sharp Solid

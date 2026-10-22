@@ -3293,5 +3293,14 @@ window.FA_PUBLISHED = [
 "dryer:6",
 "square-d:0",
 "photo-film:2",
-"toggle-large-on:1"
+"toggle-large-on:1",
+"code-merge:23",
+"waffle:21",
+"crop-alt:24",
+"cowbell:19",
+"bars-staggered:24",
+"money-check-edit:19",
+"h1:25",
+"clock-eight-thirty:0",
+"paintbrush-pencil:2"
 ];

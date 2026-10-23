@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hill-avalanche,22,fa-sharp fa-thin fa-hill-avalanche,Hill Avalanche,Sharp Thin
-pen-fancy-slash,22,fa-sharp fa-thin fa-pen-fancy-slash,Pen Fancy Slash,Sharp Thin
-balance-scale-right,8,fa-duotone fa-regular fa-balance-scale-right,Balance Scale Right,Duotone Regular
-grid-dividers,25,fa-sharp-duotone fa-solid fa-grid-dividers,Grid Dividers,Sharp Duotone Solid
-temperature-hot,7,fa-duotone fa-light fa-temperature-hot,Temperature Hot,Duotone Light
-user-friends,8,fa-duotone fa-regular fa-user-friends,User Friends,Duotone Regular
-rotate-exclamation,24,fa-sharp-duotone fa-regular fa-rotate-exclamation,Rotate Exclamation,Sharp Duotone Regular
-single-quote-left,3,fa-thin fa-single-quote-left,Single Quote Left,Thin
-turn-down-left,24,fa-sharp-duotone fa-regular fa-turn-down-left,Turn Down Left,Sharp Duotone Regular
 hacker-news-square,4,fa-brands fa-hacker-news-square,Hacker News Square,Brands
 shapes,20,fa-sharp fa-regular fa-shapes,Shapes,Sharp Regular
 tilde,1,fa-regular fa-tilde,Tilde,Regular

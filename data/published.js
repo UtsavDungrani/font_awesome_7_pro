@@ -3383,5 +3383,14 @@ window.FA_PUBLISHED = [
 "teddy-bear:20",
 "comment-medical:23",
 "arrow-right-rotate:31",
-"container-storage:20"
+"container-storage:20",
+"hill-avalanche:22",
+"pen-fancy-slash:22",
+"balance-scale-right:8",
+"grid-dividers:25",
+"temperature-hot:7",
+"user-friends:8",
+"rotate-exclamation:24",
+"single-quote-left:3",
+"turn-down-left:24"
 ];

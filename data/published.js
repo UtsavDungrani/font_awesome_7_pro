@@ -3392,5 +3392,14 @@ window.FA_PUBLISHED = [
 "user-friends:8",
 "rotate-exclamation:24",
 "single-quote-left:3",
-"turn-down-left:24"
+"turn-down-left:24",
+"hacker-news-square:4",
+"shapes:20",
+"tilde:1",
+"music-alt-slash:23",
+"user-shield:6",
+"life-ring:26",
+"crop:22",
+"narwhal:0",
+"bolt-lightning:0"
 ];

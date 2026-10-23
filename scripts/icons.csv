@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hacker-news-square,4,fa-brands fa-hacker-news-square,Hacker News Square,Brands
-shapes,20,fa-sharp fa-regular fa-shapes,Shapes,Sharp Regular
-tilde,1,fa-regular fa-tilde,Tilde,Regular
-music-alt-slash,23,fa-sharp-duotone fa-light fa-music-alt-slash,Music Alt Slash,Sharp Duotone Light
-user-shield,6,fa-duotone fa-user-shield,User Shield,Duotone Solid
-life-ring,26,fa-sharp-duotone fa-thin fa-life-ring,Life Ring,Sharp Duotone Thin
-crop,22,fa-sharp fa-thin fa-crop,Crop,Sharp Thin
-narwhal,0,fa-solid fa-narwhal,Narwhal,Solid
-bolt-lightning,0,fa-solid fa-bolt-lightning,Bolt Lightning,Solid
 user-pilot,6,fa-duotone fa-user-pilot,User Pilot,Duotone Solid
 house-tsunami,9,fa-duotone fa-thin fa-house-tsunami,House Tsunami,Duotone Thin
 palette,18,fa-pixel fa-regular fa-palette,Palette,Pixel Regular

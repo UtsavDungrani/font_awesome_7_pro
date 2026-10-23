@@ -3365,5 +3365,14 @@ window.FA_PUBLISHED = [
 "square-p:9",
 "square-currency:25",
 "sun-plant-wilt:26",
-"boxing-glove:8"
+"boxing-glove:8",
+"house-medical-flag:19",
+"thumbtack-angle:26",
+"coffee-bean:3",
+"toggle-large-off:7",
+"gift:35",
+"blanket:23",
+"boot-heeled:6",
+"arrow-rotate-left-15:6",
+"square-q:24"
 ];

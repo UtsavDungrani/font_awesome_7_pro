@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-pilot,6,fa-duotone fa-user-pilot,User Pilot,Duotone Solid
-house-tsunami,9,fa-duotone fa-thin fa-house-tsunami,House Tsunami,Duotone Thin
-palette,18,fa-pixel fa-regular fa-palette,Palette,Pixel Regular
-tree-christmas,22,fa-sharp fa-thin fa-tree-christmas,Tree Christmas,Sharp Thin
-music,8,fa-duotone fa-regular fa-music,Music,Duotone Regular
-bowl-food,6,fa-duotone fa-bowl-food,Bowl Food,Duotone Solid
-bicycle,0,fa-solid fa-bicycle,Bicycle,Solid
-pickaxe,21,fa-sharp fa-solid fa-pickaxe,Pickaxe,Sharp Solid
-clock-three-thirty,23,fa-sharp-duotone fa-light fa-clock-three-thirty,Clock Three Thirty,Sharp Duotone Light
 person-dress-simple,9,fa-duotone fa-thin fa-person-dress-simple,Person Dress Simple,Duotone Thin
 head-side-mask,26,fa-sharp-duotone fa-thin fa-head-side-mask,Head Side Mask,Sharp Duotone Thin
 moon,18,fa-pixel fa-regular fa-moon,Moon,Pixel Regular

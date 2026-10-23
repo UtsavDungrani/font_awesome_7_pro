@@ -3401,5 +3401,14 @@ window.FA_PUBLISHED = [
 "life-ring:26",
 "crop:22",
 "narwhal:0",
-"bolt-lightning:0"
+"bolt-lightning:0",
+"user-pilot:6",
+"house-tsunami:9",
+"palette:18",
+"tree-christmas:22",
+"music:8",
+"bowl-food:6",
+"bicycle:0",
+"pickaxe:21",
+"clock-three-thirty:23"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-dress-simple,9,fa-duotone fa-thin fa-person-dress-simple,Person Dress Simple,Duotone Thin
-head-side-mask,26,fa-sharp-duotone fa-thin fa-head-side-mask,Head Side Mask,Sharp Duotone Thin
-moon,18,fa-pixel fa-regular fa-moon,Moon,Pixel Regular
-sun-cloud,8,fa-duotone fa-regular fa-sun-cloud,Sun Cloud,Duotone Regular
-shuttle-space,7,fa-duotone fa-light fa-shuttle-space,Shuttle Space,Duotone Light
-square-ellipsis,9,fa-duotone fa-thin fa-square-ellipsis,Square Ellipsis,Duotone Thin
-store-slash,21,fa-sharp fa-solid fa-store-slash,Store Slash,Sharp Solid
-box-ballot,8,fa-duotone fa-regular fa-box-ballot,Box Ballot,Duotone Regular
-message-dot,6,fa-duotone fa-message-dot,Message Dot,Duotone Solid
 rectangle-code,25,fa-sharp-duotone fa-solid fa-rectangle-code,Rectangle Code,Sharp Duotone Solid
 cloud-music,22,fa-sharp fa-thin fa-cloud-music,Cloud Music,Sharp Thin
 plug-circle-plus,26,fa-sharp-duotone fa-thin fa-plug-circle-plus,Plug Circle Plus,Sharp Duotone Thin

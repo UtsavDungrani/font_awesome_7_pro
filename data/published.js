@@ -3410,5 +3410,14 @@ window.FA_PUBLISHED = [
 "bowl-food:6",
 "bicycle:0",
 "pickaxe:21",
-"clock-three-thirty:23"
+"clock-three-thirty:23",
+"person-dress-simple:9",
+"head-side-mask:26",
+"moon:18",
+"sun-cloud:8",
+"shuttle-space:7",
+"square-ellipsis:9",
+"store-slash:21",
+"box-ballot:8",
+"message-dot:6"
 ];

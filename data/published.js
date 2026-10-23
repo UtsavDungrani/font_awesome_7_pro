@@ -3374,5 +3374,14 @@ window.FA_PUBLISHED = [
 "blanket:23",
 "boot-heeled:6",
 "arrow-rotate-left-15:6",
-"square-q:24"
+"square-q:24",
+"bag-shopping:14",
+"caret-right:22",
+"bar-chart:12",
+"forward:14",
+"arrow-alt-from-right:22",
+"teddy-bear:20",
+"comment-medical:23",
+"arrow-right-rotate:31",
+"container-storage:20"
 ];

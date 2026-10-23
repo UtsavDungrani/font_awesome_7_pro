@@ -3356,5 +3356,14 @@ window.FA_PUBLISHED = [
 "globe-wifi:23",
 "window-frame:20",
 "blinds-raised:21",
-"hand-receiving:7"
+"hand-receiving:7",
+"rss-square:23",
+"circle-user:14",
+"mobile-android-alt:9",
+"star-of-david:8",
+"trash-slash:6",
+"square-p:9",
+"square-currency:25",
+"sun-plant-wilt:26",
+"boxing-glove:8"
 ];

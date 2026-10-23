@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-w,1,fa-regular fa-circle-w,Circle W,Regular
-arrow-alt-from-bottom,22,fa-sharp fa-thin fa-arrow-alt-from-bottom,Arrow Alt From Bottom,Sharp Thin
-currency-sign,9,fa-duotone fa-thin fa-currency-sign,Currency Sign,Duotone Thin
-folder-arrow-down,2,fa-light fa-folder-arrow-down,Folder Arrow Down,Light
-hand-lizard,2,fa-light fa-hand-lizard,Hand Lizard,Light
-globe-wifi,23,fa-sharp-duotone fa-light fa-globe-wifi,Globe Wifi,Sharp Duotone Light
-window-frame,20,fa-sharp fa-regular fa-window-frame,Window Frame,Sharp Regular
-blinds-raised,21,fa-sharp fa-solid fa-blinds-raised,Blinds Raised,Sharp Solid
-hand-receiving,7,fa-duotone fa-light fa-hand-receiving,Hand Receiving,Duotone Light
 rss-square,23,fa-sharp-duotone fa-light fa-rss-square,Rss Square,Sharp Duotone Light
 circle-user,14,fa-jelly-fill fa-regular fa-circle-user,Circle User,Jelly Fill Regular
 mobile-android-alt,9,fa-duotone fa-thin fa-mobile-android-alt,Mobile Android Alt,Duotone Thin

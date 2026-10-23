@@ -3347,5 +3347,14 @@ window.FA_PUBLISHED = [
 "file-ban:19",
 "stars:21",
 "microphone-alt-slash:2",
-"moon-full:3"
+"moon-full:3",
+"circle-w:1",
+"arrow-alt-from-bottom:22",
+"currency-sign:9",
+"folder-arrow-down:2",
+"hand-lizard:2",
+"globe-wifi:23",
+"window-frame:20",
+"blinds-raised:21",
+"hand-receiving:7"
 ];

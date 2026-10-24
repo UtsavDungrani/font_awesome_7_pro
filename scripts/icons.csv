@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-umbrella,27,fa-slab fa-regular fa-umbrella,Umbrella,Slab Regular
-corner,8,fa-duotone fa-regular fa-corner,Corner,Duotone Regular
-square-4,0,fa-solid fa-square-4,Square 4,Solid
-circle-u,7,fa-duotone fa-light fa-circle-u,Circle U,Duotone Light
-face-smile-wink,23,fa-sharp-duotone fa-light fa-face-smile-wink,Face Smile Wink,Sharp Duotone Light
-burger-soda,23,fa-sharp-duotone fa-light fa-burger-soda,Burger Soda,Sharp Duotone Light
-book-open-reader,1,fa-regular fa-book-open-reader,Book Open Reader,Regular
-person-seat-window,0,fa-solid fa-person-seat-window,Person Seat Window,Solid
-folder-music,19,fa-sharp fa-light fa-folder-music,Folder Music,Sharp Light
 ticket-perforated,2,fa-light fa-ticket-perforated,Ticket Perforated,Light
 bullseye-arrow,20,fa-sharp fa-regular fa-bullseye-arrow,Bullseye Arrow,Sharp Regular
 house-medical-circle-check,2,fa-light fa-house-medical-circle-check,House Medical Circle Check,Light

@@ -3509,5 +3509,14 @@ window.FA_PUBLISHED = [
 "shop:13",
 "arrow-down-up-across-line:3",
 "circle-arrow-up-right:1",
-"circle-lira:9"
+"circle-lira:9",
+"umbrella:27",
+"corner:8",
+"square-4:0",
+"circle-u:7",
+"face-smile-wink:23",
+"burger-soda:23",
+"book-open-reader:1",
+"person-seat-window:0",
+"folder-music:19"
 ];

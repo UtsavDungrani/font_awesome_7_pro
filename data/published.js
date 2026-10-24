@@ -3482,5 +3482,14 @@ window.FA_PUBLISHED = [
 "polish-zloty-sign:21",
 "bell-plus:1",
 "ski-boot:25",
-"vacuum:24"
+"vacuum:24",
+"video-slash:7",
+"shuttle-space-vertical:19",
+"square-norwegian-krone:0",
+"album-collection-circle-user:20",
+"dial-low:19",
+"alarm-clock:3",
+"mobile-retro:26",
+"border-none:21",
+"arrow-up-9-1:20"
 ];

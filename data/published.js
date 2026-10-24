@@ -3464,5 +3464,14 @@ window.FA_PUBLISHED = [
 "hand-wave:6",
 "lacrosse-stick-ball:0",
 "pencil-line:34",
-"user-vneck-hair:24"
+"user-vneck-hair:24",
+"trowel-bricks:6",
+"phone-square-alt:23",
+"chemex:20",
+"shield-exclamation:22",
+"file-doc:22",
+"sprinkler:23",
+"pencil-mechanical:22",
+"ruler-combined:19",
+"user-robot-xmarks:3"
 ];

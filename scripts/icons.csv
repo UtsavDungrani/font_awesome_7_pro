@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clipboard-user,9,fa-duotone fa-thin fa-clipboard-user,Clipboard User,Duotone Thin
-person-snowmobiling,6,fa-duotone fa-person-snowmobiling,Person Snowmobiling,Duotone Solid
-circle-arrow-down-left,21,fa-sharp fa-solid fa-circle-arrow-down-left,Circle Arrow Down Left,Sharp Solid
-ferris-wheel,0,fa-solid fa-ferris-wheel,Ferris Wheel,Solid
-ghost,33,fa-utility-duo fa-semibold fa-ghost,Ghost,Utility Duo Semibold
-shop,13,fa-jelly-duo fa-regular fa-shop,Shop,Jelly Duo Regular
-arrow-down-up-across-line,3,fa-thin fa-arrow-down-up-across-line,Arrow Down Up Across Line,Thin
-circle-arrow-up-right,1,fa-regular fa-circle-arrow-up-right,Circle Arrow Up Right,Regular
-circle-lira,9,fa-duotone fa-thin fa-circle-lira,Circle Lira,Duotone Thin
 umbrella,27,fa-slab fa-regular fa-umbrella,Umbrella,Slab Regular
 corner,8,fa-duotone fa-regular fa-corner,Corner,Duotone Regular
 square-4,0,fa-solid fa-square-4,Square 4,Solid

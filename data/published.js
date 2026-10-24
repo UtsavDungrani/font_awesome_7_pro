@@ -3500,5 +3500,14 @@ window.FA_PUBLISHED = [
 "square-w:21",
 "square-cruzeiro:8",
 "diamond:33",
-"bell-slash:26"
+"bell-slash:26",
+"clipboard-user:9",
+"person-snowmobiling:6",
+"circle-arrow-down-left:21",
+"ferris-wheel:0",
+"ghost:33",
+"shop:13",
+"arrow-down-up-across-line:3",
+"circle-arrow-up-right:1",
+"circle-lira:9"
 ];

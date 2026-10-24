@@ -3437,5 +3437,14 @@ window.FA_PUBLISHED = [
 "8:3",
 "table-cells-unlock:19",
 "microphone-alt:25",
-"ellipsis:6"
+"ellipsis:6",
+"heart-circle-xmark:2",
+"person-swimming:26",
+"circle-user-circle-user:23",
+"square-z:9",
+"slot-machine:0",
+"face-grimace:0",
+"grill-fire:19",
+"square-d:7",
+"rupiah-sign:9"
 ];

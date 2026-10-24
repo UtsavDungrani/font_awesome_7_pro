@@ -3446,5 +3446,14 @@ window.FA_PUBLISHED = [
 "face-grimace:0",
 "grill-fire:19",
 "square-d:7",
-"rupiah-sign:9"
+"rupiah-sign:9",
+"arrows-to-eye:6",
+"wifi-1:2",
+"folder-arrow-left:0",
+"at:11",
+"face-grin-beam:22",
+"inbox-arrow-down:21",
+"ankh:1",
+"arrow-down-from-arc:26",
+"shield-alt:2"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrows-to-eye,6,fa-duotone fa-arrows-to-eye,Arrows To Eye,Duotone Solid
-wifi-1,2,fa-light fa-wifi-1,Wifi 1,Light
-folder-arrow-left,0,fa-solid fa-folder-arrow-left,Folder Arrow Left,Solid
-at,11,fa-graphite fa-thin fa-at,At,Graphite Thin
-face-grin-beam,22,fa-sharp fa-thin fa-face-grin-beam,Face Grin Beam,Sharp Thin
-inbox-arrow-down,21,fa-sharp fa-solid fa-inbox-arrow-down,Inbox Arrow Down,Sharp Solid
-ankh,1,fa-regular fa-ankh,Ankh,Regular
-arrow-down-from-arc,26,fa-sharp-duotone fa-thin fa-arrow-down-from-arc,Arrow Down From Arc,Sharp Duotone Thin
-shield-alt,2,fa-light fa-shield-alt,Shield Alt,Light
 mobile-rotate-reverse,22,fa-sharp fa-thin fa-mobile-rotate-reverse,Mobile Rotate Reverse,Sharp Thin
 lightbulb-on,19,fa-sharp fa-light fa-lightbulb-on,Lightbulb On,Sharp Light
 circle-exclamation-check,26,fa-sharp-duotone fa-thin fa-circle-exclamation-check,Circle Exclamation Check,Sharp Duotone Thin

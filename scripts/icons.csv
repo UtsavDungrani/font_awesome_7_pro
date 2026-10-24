@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-life-ring,17,fa-notdog-duo fa-solid fa-life-ring,Life Ring,Notdog Duo Solid
-house-unlock,0,fa-solid fa-house-unlock,House Unlock,Solid
-truck-ramp,0,fa-solid fa-truck-ramp,Truck Ramp,Solid
-temperature-low,0,fa-solid fa-temperature-low,Temperature Low,Solid
-user-chef,26,fa-sharp-duotone fa-thin fa-user-chef,User Chef,Sharp Duotone Thin
-8,3,fa-thin fa-8,8,Thin
-table-cells-unlock,19,fa-sharp fa-light fa-table-cells-unlock,Table Cells Unlock,Sharp Light
-microphone-alt,25,fa-sharp-duotone fa-solid fa-microphone-alt,Microphone Alt,Sharp Duotone Solid
-ellipsis,6,fa-duotone fa-ellipsis,Ellipsis,Duotone Solid
 heart-circle-xmark,2,fa-light fa-heart-circle-xmark,Heart Circle Xmark,Light
 person-swimming,26,fa-sharp-duotone fa-thin fa-person-swimming,Person Swimming,Sharp Duotone Thin
 circle-user-circle-user,23,fa-sharp-duotone fa-light fa-circle-user-circle-user,Circle User Circle User,Sharp Duotone Light

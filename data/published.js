@@ -3428,5 +3428,14 @@ window.FA_PUBLISHED = [
 "question-square:1",
 "arrow-down-square-triangle:22",
 "dewpoint:19",
-"table-cells-row-lock:8"
+"table-cells-row-lock:8",
+"life-ring:17",
+"house-unlock:0",
+"truck-ramp:0",
+"temperature-low:0",
+"user-chef:26",
+"8:3",
+"table-cells-unlock:19",
+"microphone-alt:25",
+"ellipsis:6"
 ];

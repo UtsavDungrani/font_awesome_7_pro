@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-wrench,27,fa-slab fa-regular fa-wrench,Wrench,Slab Regular
-house-medical,24,fa-sharp-duotone fa-regular fa-house-medical,House Medical,Sharp Duotone Regular
-clock-two,9,fa-duotone fa-thin fa-clock-two,Clock Two,Duotone Thin
-signal-alt-1,35,fa-vellum fa-solid fa-signal-alt-1,Signal Alt 1,Vellum Solid
-chart-pie,0,fa-solid fa-chart-pie,Chart Pie,Solid
-square-w,21,fa-sharp fa-solid fa-square-w,Square W,Sharp Solid
-square-cruzeiro,8,fa-duotone fa-regular fa-square-cruzeiro,Square Cruzeiro,Duotone Regular
-diamond,33,fa-utility-duo fa-semibold fa-diamond,Diamond,Utility Duo Semibold
-bell-slash,26,fa-sharp-duotone fa-thin fa-bell-slash,Bell Slash,Sharp Duotone Thin
 clipboard-user,9,fa-duotone fa-thin fa-clipboard-user,Clipboard User,Duotone Thin
 person-snowmobiling,6,fa-duotone fa-person-snowmobiling,Person Snowmobiling,Duotone Solid
 circle-arrow-down-left,21,fa-sharp fa-solid fa-circle-arrow-down-left,Circle Arrow Down Left,Sharp Solid

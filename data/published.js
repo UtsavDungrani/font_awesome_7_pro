@@ -3491,5 +3491,14 @@ window.FA_PUBLISHED = [
 "alarm-clock:3",
 "mobile-retro:26",
 "border-none:21",
-"arrow-up-9-1:20"
+"arrow-up-9-1:20",
+"wrench:27",
+"house-medical:24",
+"clock-two:9",
+"signal-alt-1:35",
+"chart-pie:0",
+"square-w:21",
+"square-cruzeiro:8",
+"diamond:33",
+"bell-slash:26"
 ];

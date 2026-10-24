@@ -3419,5 +3419,14 @@ window.FA_PUBLISHED = [
 "square-ellipsis:9",
 "store-slash:21",
 "box-ballot:8",
-"message-dot:6"
+"message-dot:6",
+"rectangle-code:25",
+"cloud-music:22",
+"plug-circle-plus:26",
+"align-slash:21",
+"image-circle-check:26",
+"question-square:1",
+"arrow-down-square-triangle:22",
+"dewpoint:19",
+"table-cells-row-lock:8"
 ];

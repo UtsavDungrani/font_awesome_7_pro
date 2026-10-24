@@ -3455,5 +3455,14 @@ window.FA_PUBLISHED = [
 "inbox-arrow-down:21",
 "ankh:1",
 "arrow-down-from-arc:26",
-"shield-alt:2"
+"shield-alt:2",
+"mobile-rotate-reverse:22",
+"lightbulb-on:19",
+"circle-exclamation-check:26",
+"gear-code:2",
+"teeth:7",
+"hand-wave:6",
+"lacrosse-stick-ball:0",
+"pencil-line:34",
+"user-vneck-hair:24"
 ];

@@ -3473,5 +3473,14 @@ window.FA_PUBLISHED = [
 "sprinkler:23",
 "pencil-mechanical:22",
 "ruler-combined:19",
-"user-robot-xmarks:3"
+"user-robot-xmarks:3",
+"money-bill:7",
+"circle-polish-zloty:26",
+"egg-fried:22",
+"video-down-to-line:22",
+"shop-lock:3",
+"polish-zloty-sign:21",
+"bell-plus:1",
+"ski-boot:25",
+"vacuum:24"
 ];

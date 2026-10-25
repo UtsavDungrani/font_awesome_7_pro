@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-battery,15,fa-mosaic fa-solid fa-battery,Battery,Mosaic Solid
-display-chart-up,0,fa-solid fa-display-chart-up,Display Chart Up,Solid
-planet-moon,8,fa-duotone fa-regular fa-planet-moon,Planet Moon,Duotone Regular
-compact-disc,36,fa-whiteboard fa-semibold fa-compact-disc,Compact Disc,Whiteboard Semibold
-table-cells-header-unlock,8,fa-duotone fa-regular fa-table-cells-header-unlock,Table Cells Header Unlock,Duotone Regular
-virus-covid,19,fa-sharp fa-light fa-virus-covid,Virus Covid,Sharp Light
-ghost,36,fa-whiteboard fa-semibold fa-ghost,Ghost,Whiteboard Semibold
-projector,26,fa-sharp-duotone fa-thin fa-projector,Projector,Sharp Duotone Thin
-signature-slash,26,fa-sharp-duotone fa-thin fa-signature-slash,Signature Slash,Sharp Duotone Thin
 folder-grid,22,fa-sharp fa-thin fa-folder-grid,Folder Grid,Sharp Thin
 truck-couch,3,fa-thin fa-truck-couch,Truck Couch,Thin
 microphone-alt,8,fa-duotone fa-regular fa-microphone-alt,Microphone Alt,Duotone Regular

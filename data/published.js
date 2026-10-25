@@ -3536,5 +3536,14 @@ window.FA_PUBLISHED = [
 "theta:20",
 "folder-arrow-left:21",
 "clock-eleven-thirty:23",
-"file-caret-down:23"
+"file-caret-down:23",
+"battery:15",
+"display-chart-up:0",
+"planet-moon:8",
+"compact-disc:36",
+"table-cells-header-unlock:8",
+"virus-covid:19",
+"ghost:36",
+"projector:26",
+"signature-slash:26"
 ];

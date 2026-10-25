@@ -3545,5 +3545,14 @@ window.FA_PUBLISHED = [
 "virus-covid:19",
 "ghost:36",
 "projector:26",
-"signature-slash:26"
+"signature-slash:26",
+"folder-grid:22",
+"truck-couch:3",
+"microphone-alt:8",
+"face-worried:20",
+"signal-3:32",
+"computer-mouse-scrollwheel:24",
+"comment-slash:19",
+"book-circle-arrow-up:23",
+"trash-arrow-turn-left:19"
 ];

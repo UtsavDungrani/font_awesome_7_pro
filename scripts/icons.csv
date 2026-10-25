@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-folder-grid,22,fa-sharp fa-thin fa-folder-grid,Folder Grid,Sharp Thin
-truck-couch,3,fa-thin fa-truck-couch,Truck Couch,Thin
-microphone-alt,8,fa-duotone fa-regular fa-microphone-alt,Microphone Alt,Duotone Regular
-face-worried,20,fa-sharp fa-regular fa-face-worried,Face Worried,Sharp Regular
-signal-3,32,fa-utility fa-semibold fa-signal-3,Signal 3,Utility Semibold
-computer-mouse-scrollwheel,24,fa-sharp-duotone fa-regular fa-computer-mouse-scrollwheel,Computer Mouse Scrollwheel,Sharp Duotone Regular
-comment-slash,19,fa-sharp fa-light fa-comment-slash,Comment Slash,Sharp Light
-book-circle-arrow-up,23,fa-sharp-duotone fa-light fa-book-circle-arrow-up,Book Circle Arrow Up,Sharp Duotone Light
-trash-arrow-turn-left,19,fa-sharp fa-light fa-trash-arrow-turn-left,Trash Arrow Turn Left,Sharp Light
 mars-and-venus,6,fa-duotone fa-mars-and-venus,Mars And Venus,Duotone Solid
 broccoli,7,fa-duotone fa-light fa-broccoli,Broccoli,Duotone Light
 cloud,19,fa-sharp fa-light fa-cloud,Cloud,Sharp Light

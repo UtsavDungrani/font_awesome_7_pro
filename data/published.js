@@ -3563,5 +3563,14 @@ window.FA_PUBLISHED = [
 "arrow-alt-circle-right:2",
 "file-edit:3",
 "circle-sterling:19",
-"expand-arrows-alt:22"
+"expand-arrows-alt:22",
+"tombstone-alt:1",
+"circle-currency:26",
+"close:16",
+"browsers:0",
+"school-circle-check:9",
+"mortar-pestle:9",
+"foot-wing:21",
+"hourglass-2:6",
+"bread-loaf:6"
 ];

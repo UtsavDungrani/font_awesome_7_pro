@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tombstone-alt,1,fa-regular fa-tombstone-alt,Tombstone Alt,Regular
-circle-currency,26,fa-sharp-duotone fa-thin fa-circle-currency,Circle Currency,Sharp Duotone Thin
-close,16,fa-notdog fa-solid fa-close,Close,Notdog Solid
-browsers,0,fa-solid fa-browsers,Browsers,Solid
-school-circle-check,9,fa-duotone fa-thin fa-school-circle-check,School Circle Check,Duotone Thin
-mortar-pestle,9,fa-duotone fa-thin fa-mortar-pestle,Mortar Pestle,Duotone Thin
-foot-wing,21,fa-sharp fa-solid fa-foot-wing,Foot Wing,Sharp Solid
-hourglass-2,6,fa-duotone fa-hourglass-2,Hourglass 2,Duotone Solid
-bread-loaf,6,fa-duotone fa-bread-loaf,Bread Loaf,Duotone Solid
 registered,26,fa-sharp-duotone fa-thin fa-registered,Registered,Sharp Duotone Thin
 trash-can-arrow-turn-left,23,fa-sharp-duotone fa-light fa-trash-can-arrow-turn-left,Trash Can Arrow Turn Left,Sharp Duotone Light
 cutlery,17,fa-notdog-duo fa-solid fa-cutlery,Cutlery,Notdog Duo Solid

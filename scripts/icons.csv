@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-ticket-perforated,2,fa-light fa-ticket-perforated,Ticket Perforated,Light
-bullseye-arrow,20,fa-sharp fa-regular fa-bullseye-arrow,Bullseye Arrow,Sharp Regular
-house-medical-circle-check,2,fa-light fa-house-medical-circle-check,House Medical Circle Check,Light
-comments,36,fa-whiteboard fa-semibold fa-comments,Comments,Whiteboard Semibold
-arrows-to-eye,8,fa-duotone fa-regular fa-arrows-to-eye,Arrows To Eye,Duotone Regular
-car-bus,0,fa-solid fa-car-bus,Car Bus,Solid
-clipboard-exclamation,22,fa-sharp fa-thin fa-clipboard-exclamation,Clipboard Exclamation,Sharp Thin
-caret-square-up,25,fa-sharp-duotone fa-solid fa-caret-square-up,Caret Square Up,Sharp Duotone Solid
-diagram-venn,2,fa-light fa-diagram-venn,Diagram Venn,Light
 calendar-plus,9,fa-duotone fa-thin fa-calendar-plus,Calendar Plus,Duotone Thin
 hand-holding,6,fa-duotone fa-hand-holding,Hand Holding,Duotone Solid
 table-cells-header-lock,3,fa-thin fa-table-cells-header-lock,Table Cells Header Lock,Thin

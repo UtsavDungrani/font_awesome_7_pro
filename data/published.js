@@ -3518,5 +3518,14 @@ window.FA_PUBLISHED = [
 "burger-soda:23",
 "book-open-reader:1",
 "person-seat-window:0",
-"folder-music:19"
+"folder-music:19",
+"ticket-perforated:2",
+"bullseye-arrow:20",
+"house-medical-circle-check:2",
+"comments:36",
+"arrows-to-eye:8",
+"car-bus:0",
+"clipboard-exclamation:22",
+"caret-square-up:25",
+"diagram-venn:2"
 ];

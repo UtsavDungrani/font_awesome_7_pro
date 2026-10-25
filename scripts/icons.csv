@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-calendar-plus,9,fa-duotone fa-thin fa-calendar-plus,Calendar Plus,Duotone Thin
-hand-holding,6,fa-duotone fa-hand-holding,Hand Holding,Duotone Solid
-table-cells-header-lock,3,fa-thin fa-table-cells-header-lock,Table Cells Header Lock,Thin
-circle-4,0,fa-solid fa-circle-4,Circle 4,Solid
-bomb,20,fa-sharp fa-regular fa-bomb,Bomb,Sharp Regular
-theta,20,fa-sharp fa-regular fa-theta,Theta,Sharp Regular
-folder-arrow-left,21,fa-sharp fa-solid fa-folder-arrow-left,Folder Arrow Left,Sharp Solid
-clock-eleven-thirty,23,fa-sharp-duotone fa-light fa-clock-eleven-thirty,Clock Eleven Thirty,Sharp Duotone Light
-file-caret-down,23,fa-sharp-duotone fa-light fa-file-caret-down,File Caret Down,Sharp Duotone Light
 battery,15,fa-mosaic fa-solid fa-battery,Battery,Mosaic Solid
 display-chart-up,0,fa-solid fa-display-chart-up,Display Chart Up,Solid
 planet-moon,8,fa-duotone fa-regular fa-planet-moon,Planet Moon,Duotone Regular

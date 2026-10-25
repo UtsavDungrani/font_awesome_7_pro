@@ -3527,5 +3527,14 @@ window.FA_PUBLISHED = [
 "car-bus:0",
 "clipboard-exclamation:22",
 "caret-square-up:25",
-"diagram-venn:2"
+"diagram-venn:2",
+"calendar-plus:9",
+"hand-holding:6",
+"table-cells-header-lock:3",
+"circle-4:0",
+"bomb:20",
+"theta:20",
+"folder-arrow-left:21",
+"clock-eleven-thirty:23",
+"file-caret-down:23"
 ];

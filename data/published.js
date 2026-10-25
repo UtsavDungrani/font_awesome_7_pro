@@ -3581,5 +3581,14 @@ window.FA_PUBLISHED = [
 "comment-dollar:1",
 "terminal:26",
 "threema:4",
-"trash-list:3"
+"trash-list:3",
+"globe-pointer:9",
+"alien:1",
+"dial-med:1",
+"book-circle-arrow-right:19",
+"arrow-u-turn-down-right:1",
+"rupiah-sign:20",
+"square-n:20",
+"face-meh:19",
+"clipboard-clock:2"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-globe-pointer,9,fa-duotone fa-thin fa-globe-pointer,Globe Pointer,Duotone Thin
-alien,1,fa-regular fa-alien,Alien,Regular
-dial-med,1,fa-regular fa-dial-med,Dial Med,Regular
-book-circle-arrow-right,19,fa-sharp fa-light fa-book-circle-arrow-right,Book Circle Arrow Right,Sharp Light
-arrow-u-turn-down-right,1,fa-regular fa-arrow-u-turn-down-right,Arrow U Turn Down Right,Regular
-rupiah-sign,20,fa-sharp fa-regular fa-rupiah-sign,Rupiah Sign,Sharp Regular
-square-n,20,fa-sharp fa-regular fa-square-n,Square N,Sharp Regular
-face-meh,19,fa-sharp fa-light fa-face-meh,Face Meh,Sharp Light
-clipboard-clock,2,fa-light fa-clipboard-clock,Clipboard Clock,Light
 circle-shekel,2,fa-light fa-circle-shekel,Circle Shekel,Light
 s,22,fa-sharp fa-thin fa-s,S,Sharp Thin
 file-chart-column,23,fa-sharp-duotone fa-light fa-file-chart-column,File Chart Column,Sharp Duotone Light

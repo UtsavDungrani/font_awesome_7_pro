@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-shekel,2,fa-light fa-circle-shekel,Circle Shekel,Light
-s,22,fa-sharp fa-thin fa-s,S,Sharp Thin
-file-chart-column,23,fa-sharp-duotone fa-light fa-file-chart-column,File Chart Column,Sharp Duotone Light
-comment-slash,21,fa-sharp fa-solid fa-comment-slash,Comment Slash,Sharp Solid
-block-brick-fire,19,fa-sharp fa-light fa-block-brick-fire,Block Brick Fire,Sharp Light
-glass-water-droplet,8,fa-duotone fa-regular fa-glass-water-droplet,Glass Water Droplet,Duotone Regular
-panorama,19,fa-sharp fa-light fa-panorama,Panorama,Sharp Light
-notdef,36,fa-whiteboard fa-semibold fa-notdef,Notdef,Whiteboard Semibold
-hand-back-point-up,2,fa-light fa-hand-back-point-up,Hand Back Point Up,Light
 truck-ramp,24,fa-sharp-duotone fa-regular fa-truck-ramp,Truck Ramp,Sharp Duotone Regular
 ramp-loading,9,fa-duotone fa-thin fa-ramp-loading,Ramp Loading,Duotone Thin
 broom-wide,23,fa-sharp-duotone fa-light fa-broom-wide,Broom Wide,Sharp Duotone Light

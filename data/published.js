@@ -3590,5 +3590,14 @@ window.FA_PUBLISHED = [
 "rupiah-sign:20",
 "square-n:20",
 "face-meh:19",
-"clipboard-clock:2"
+"clipboard-clock:2",
+"circle-shekel:2",
+"s:22",
+"file-chart-column:23",
+"comment-slash:21",
+"block-brick-fire:19",
+"glass-water-droplet:8",
+"panorama:19",
+"notdef:36",
+"hand-back-point-up:2"
 ];

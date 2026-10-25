@@ -3554,5 +3554,14 @@ window.FA_PUBLISHED = [
 "computer-mouse-scrollwheel:24",
 "comment-slash:19",
 "book-circle-arrow-up:23",
-"trash-arrow-turn-left:19"
+"trash-arrow-turn-left:19",
+"mars-and-venus:6",
+"broccoli:7",
+"cloud:19",
+"arrow-right-from-file:0",
+"luchador:1",
+"arrow-alt-circle-right:2",
+"file-edit:3",
+"circle-sterling:19",
+"expand-arrows-alt:22"
 ];

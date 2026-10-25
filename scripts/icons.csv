@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mars-and-venus,6,fa-duotone fa-mars-and-venus,Mars And Venus,Duotone Solid
-broccoli,7,fa-duotone fa-light fa-broccoli,Broccoli,Duotone Light
-cloud,19,fa-sharp fa-light fa-cloud,Cloud,Sharp Light
-arrow-right-from-file,0,fa-solid fa-arrow-right-from-file,Arrow Right From File,Solid
-luchador,1,fa-regular fa-luchador,Luchador,Regular
-arrow-alt-circle-right,2,fa-light fa-arrow-alt-circle-right,Arrow Alt Circle Right,Light
-file-edit,3,fa-thin fa-file-edit,File Edit,Thin
-circle-sterling,19,fa-sharp fa-light fa-circle-sterling,Circle Sterling,Sharp Light
-expand-arrows-alt,22,fa-sharp fa-thin fa-expand-arrows-alt,Expand Arrows Alt,Sharp Thin
 tombstone-alt,1,fa-regular fa-tombstone-alt,Tombstone Alt,Regular
 circle-currency,26,fa-sharp-duotone fa-thin fa-circle-currency,Circle Currency,Sharp Duotone Thin
 close,16,fa-notdog fa-solid fa-close,Close,Notdog Solid

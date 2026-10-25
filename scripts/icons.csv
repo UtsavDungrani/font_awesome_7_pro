@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-registered,26,fa-sharp-duotone fa-thin fa-registered,Registered,Sharp Duotone Thin
-trash-can-arrow-turn-left,23,fa-sharp-duotone fa-light fa-trash-can-arrow-turn-left,Trash Can Arrow Turn Left,Sharp Duotone Light
-cutlery,17,fa-notdog-duo fa-solid fa-cutlery,Cutlery,Notdog Duo Solid
-value-absolute,7,fa-duotone fa-light fa-value-absolute,Value Absolute,Duotone Light
-comment-lines,7,fa-duotone fa-light fa-comment-lines,Comment Lines,Duotone Light
-comment-dollar,1,fa-regular fa-comment-dollar,Comment Dollar,Regular
-terminal,26,fa-sharp-duotone fa-thin fa-terminal,Terminal,Sharp Duotone Thin
-threema,4,fa-brands fa-threema,Threema,Brands
-trash-list,3,fa-thin fa-trash-list,Trash List,Thin
 globe-pointer,9,fa-duotone fa-thin fa-globe-pointer,Globe Pointer,Duotone Thin
 alien,1,fa-regular fa-alien,Alien,Regular
 dial-med,1,fa-regular fa-dial-med,Dial Med,Regular

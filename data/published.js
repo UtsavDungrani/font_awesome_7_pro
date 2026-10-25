@@ -3572,5 +3572,14 @@ window.FA_PUBLISHED = [
 "mortar-pestle:9",
 "foot-wing:21",
 "hourglass-2:6",
-"bread-loaf:6"
+"bread-loaf:6",
+"registered:26",
+"trash-can-arrow-turn-left:23",
+"cutlery:17",
+"value-absolute:7",
+"comment-lines:7",
+"comment-dollar:1",
+"terminal:26",
+"threema:4",
+"trash-list:3"
 ];

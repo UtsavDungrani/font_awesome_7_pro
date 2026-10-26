@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tire,0,fa-solid fa-tire,Tire,Solid
-colon,19,fa-sharp fa-light fa-colon,Colon,Sharp Light
-h-square,3,fa-thin fa-h-square,H Square,Thin
-comment-alt,26,fa-sharp-duotone fa-thin fa-comment-alt,Comment Alt,Sharp Duotone Thin
-life-ring,6,fa-duotone fa-life-ring,Life Ring,Duotone Solid
-signal-stream,24,fa-sharp-duotone fa-regular fa-signal-stream,Signal Stream,Sharp Duotone Regular
-lamp,23,fa-sharp-duotone fa-light fa-lamp,Lamp,Sharp Duotone Light
-rectangle,10,fa-etch fa-solid fa-rectangle,Rectangle,Etch Solid
-face-exhaling,23,fa-sharp-duotone fa-light fa-face-exhaling,Face Exhaling,Sharp Duotone Light
 thumb-tack-slash,2,fa-light fa-thumb-tack-slash,Thumb Tack Slash,Light
 bug,16,fa-notdog fa-solid fa-bug,Bug,Notdog Solid
 circle-i,19,fa-sharp fa-light fa-circle-i,Circle I,Sharp Light

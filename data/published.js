@@ -3626,5 +3626,14 @@ window.FA_PUBLISHED = [
 "land-mine-on:9",
 "thumbtack-angle:20",
 "person-walking-arrow-loop-left:22",
-"face-grin:10"
+"face-grin:10",
+"tire:0",
+"colon:19",
+"h-square:3",
+"comment-alt:26",
+"life-ring:6",
+"signal-stream:24",
+"lamp:23",
+"rectangle:10",
+"face-exhaling:23"
 ];

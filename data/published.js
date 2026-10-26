@@ -3599,5 +3599,14 @@ window.FA_PUBLISHED = [
 "glass-water-droplet:8",
 "panorama:19",
 "notdef:36",
-"hand-back-point-up:2"
+"hand-back-point-up:2",
+"truck-ramp:24",
+"ramp-loading:9",
+"broom-wide:23",
+"command:1",
+"landmark:35",
+"user-clock:3",
+"wheat-awn-circle-exclamation:19",
+"bomb:34",
+"torii-gate:23"
 ];

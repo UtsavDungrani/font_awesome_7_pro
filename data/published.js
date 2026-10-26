@@ -3617,5 +3617,14 @@ window.FA_PUBLISHED = [
 "image-landscape:1",
 "inbox:20",
 "person-rifle:22",
-"plane-circle-check:25"
+"plane-circle-check:25",
+"folders:16",
+"gauge-simple-high:7",
+"arrows-spin:8",
+"face-smile-relaxed:3",
+"fax:9",
+"land-mine-on:9",
+"thumbtack-angle:20",
+"person-walking-arrow-loop-left:22",
+"face-grin:10"
 ];

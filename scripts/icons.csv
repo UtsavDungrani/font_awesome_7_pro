@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-thumb-tack-slash,2,fa-light fa-thumb-tack-slash,Thumb Tack Slash,Light
-bug,16,fa-notdog fa-solid fa-bug,Bug,Notdog Solid
-circle-i,19,fa-sharp fa-light fa-circle-i,Circle I,Sharp Light
-mistletoe,3,fa-thin fa-mistletoe,Mistletoe,Thin
-intersection,23,fa-sharp-duotone fa-light fa-intersection,Intersection,Sharp Duotone Light
-coffee,33,fa-utility-duo fa-semibold fa-coffee,Coffee,Utility Duo Semibold
-arrow-down-to-line,7,fa-duotone fa-light fa-arrow-down-to-line,Arrow Down To Line,Duotone Light
-dice-one,8,fa-duotone fa-regular fa-dice-one,Dice One,Duotone Regular
-file-chart-column,21,fa-sharp fa-solid fa-file-chart-column,File Chart Column,Sharp Solid
 police-box,26,fa-sharp-duotone fa-thin fa-police-box,Police Box,Sharp Duotone Thin
 cancer,1,fa-regular fa-cancer,Cancer,Regular
 weight,26,fa-sharp-duotone fa-thin fa-weight,Weight,Sharp Duotone Thin

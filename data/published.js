@@ -3635,5 +3635,14 @@ window.FA_PUBLISHED = [
 "signal-stream:24",
 "lamp:23",
 "rectangle:10",
-"face-exhaling:23"
+"face-exhaling:23",
+"thumb-tack-slash:2",
+"bug:16",
+"circle-i:19",
+"mistletoe:3",
+"intersection:23",
+"coffee:33",
+"arrow-down-to-line:7",
+"dice-one:8",
+"file-chart-column:21"
 ];

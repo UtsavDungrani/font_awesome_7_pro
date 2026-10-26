@@ -3662,5 +3662,14 @@ window.FA_PUBLISHED = [
 "table-cells-header-lock:26",
 "sort:23",
 "highlighter:26",
-"transporter-7:24"
+"transporter-7:24",
+"triple-chevrons-up:19",
+"teletype:0",
+"comment-alt-quote:6",
+"bracket:22",
+"dice-d8:6",
+"arrow-right-arrow-left:24",
+"repeat-1:2",
+"comment-alt-exclamation:24",
+"greater-than:21"
 ];

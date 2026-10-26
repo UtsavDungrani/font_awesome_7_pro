@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-triple-chevrons-up,19,fa-sharp fa-light fa-triple-chevrons-up,Triple Chevrons Up,Sharp Light
-teletype,0,fa-solid fa-teletype,Teletype,Solid
-comment-alt-quote,6,fa-duotone fa-comment-alt-quote,Comment Alt Quote,Duotone Solid
-bracket,22,fa-sharp fa-thin fa-bracket,Bracket,Sharp Thin
-dice-d8,6,fa-duotone fa-dice-d8,Dice D8,Duotone Solid
-arrow-right-arrow-left,24,fa-sharp-duotone fa-regular fa-arrow-right-arrow-left,Arrow Right Arrow Left,Sharp Duotone Regular
-repeat-1,2,fa-light fa-repeat-1,Repeat 1,Light
-comment-alt-exclamation,24,fa-sharp-duotone fa-regular fa-comment-alt-exclamation,Comment Alt Exclamation,Sharp Duotone Regular
-greater-than,21,fa-sharp fa-solid fa-greater-than,Greater Than,Sharp Solid
 stopwatch,0,fa-solid fa-stopwatch,Stopwatch,Solid
 arrow-alt-to-right,20,fa-sharp fa-regular fa-arrow-alt-to-right,Arrow Alt To Right,Sharp Regular
 comments-dollar,21,fa-sharp fa-solid fa-comments-dollar,Comments Dollar,Sharp Solid

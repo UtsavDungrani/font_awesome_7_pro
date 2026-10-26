@@ -3653,5 +3653,14 @@ window.FA_PUBLISHED = [
 "folder-medical:6",
 "pizza:23",
 "desktop:11",
-"underline:33"
+"underline:33",
+"building-memo:20",
+"phone-plus:8",
+"location-xmark:9",
+"flag-checkered:0",
+"seedling:7",
+"table-cells-header-lock:26",
+"sort:23",
+"highlighter:26",
+"transporter-7:24"
 ];

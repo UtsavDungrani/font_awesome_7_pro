@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-building-memo,20,fa-sharp fa-regular fa-building-memo,Building Memo,Sharp Regular
-phone-plus,8,fa-duotone fa-regular fa-phone-plus,Phone Plus,Duotone Regular
-location-xmark,9,fa-duotone fa-thin fa-location-xmark,Location Xmark,Duotone Thin
-flag-checkered,0,fa-solid fa-flag-checkered,Flag Checkered,Solid
-seedling,7,fa-duotone fa-light fa-seedling,Seedling,Duotone Light
-table-cells-header-lock,26,fa-sharp-duotone fa-thin fa-table-cells-header-lock,Table Cells Header Lock,Sharp Duotone Thin
-sort,23,fa-sharp-duotone fa-light fa-sort,Sort,Sharp Duotone Light
-highlighter,26,fa-sharp-duotone fa-thin fa-highlighter,Highlighter,Sharp Duotone Thin
-transporter-7,24,fa-sharp-duotone fa-regular fa-transporter-7,Transporter 7,Sharp Duotone Regular
 triple-chevrons-up,19,fa-sharp fa-light fa-triple-chevrons-up,Triple Chevrons Up,Sharp Light
 teletype,0,fa-solid fa-teletype,Teletype,Solid
 comment-alt-quote,6,fa-duotone fa-comment-alt-quote,Comment Alt Quote,Duotone Solid

@@ -3608,5 +3608,14 @@ window.FA_PUBLISHED = [
 "user-clock:3",
 "wheat-awn-circle-exclamation:19",
 "bomb:34",
-"torii-gate:23"
+"torii-gate:23",
+"stamp:3",
+"shipping-fast:8",
+"rectangle-times:19",
+"puzzle-piece-alt:3",
+"arrow-turn-down-left:6",
+"image-landscape:1",
+"inbox:20",
+"person-rifle:22",
+"plane-circle-check:25"
 ];

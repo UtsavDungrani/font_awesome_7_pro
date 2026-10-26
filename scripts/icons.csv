@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-stamp,3,fa-thin fa-stamp,Stamp,Thin
-shipping-fast,8,fa-duotone fa-regular fa-shipping-fast,Shipping Fast,Duotone Regular
-rectangle-times,19,fa-sharp fa-light fa-rectangle-times,Rectangle Times,Sharp Light
-puzzle-piece-alt,3,fa-thin fa-puzzle-piece-alt,Puzzle Piece Alt,Thin
-arrow-turn-down-left,6,fa-duotone fa-arrow-turn-down-left,Arrow Turn Down Left,Duotone Solid
-image-landscape,1,fa-regular fa-image-landscape,Image Landscape,Regular
-inbox,20,fa-sharp fa-regular fa-inbox,Inbox,Sharp Regular
-person-rifle,22,fa-sharp fa-thin fa-person-rifle,Person Rifle,Sharp Thin
-plane-circle-check,25,fa-sharp-duotone fa-solid fa-plane-circle-check,Plane Circle Check,Sharp Duotone Solid
 folders,16,fa-notdog fa-solid fa-folders,Folders,Notdog Solid
 gauge-simple-high,7,fa-duotone fa-light fa-gauge-simple-high,Gauge Simple High,Duotone Light
 arrows-spin,8,fa-duotone fa-regular fa-arrows-spin,Arrows Spin,Duotone Regular

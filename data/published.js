@@ -3644,5 +3644,14 @@ window.FA_PUBLISHED = [
 "coffee:33",
 "arrow-down-to-line:7",
 "dice-one:8",
-"file-chart-column:21"
+"file-chart-column:21",
+"police-box:26",
+"cancer:1",
+"weight:26",
+"ellipsis:7",
+"mobile-signal:20",
+"folder-medical:6",
+"pizza:23",
+"desktop:11",
+"underline:33"
 ];

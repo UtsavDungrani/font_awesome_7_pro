@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-police-box,26,fa-sharp-duotone fa-thin fa-police-box,Police Box,Sharp Duotone Thin
-cancer,1,fa-regular fa-cancer,Cancer,Regular
-weight,26,fa-sharp-duotone fa-thin fa-weight,Weight,Sharp Duotone Thin
-ellipsis,7,fa-duotone fa-light fa-ellipsis,Ellipsis,Duotone Light
-mobile-signal,20,fa-sharp fa-regular fa-mobile-signal,Mobile Signal,Sharp Regular
-folder-medical,6,fa-duotone fa-folder-medical,Folder Medical,Duotone Solid
-pizza,23,fa-sharp-duotone fa-light fa-pizza,Pizza,Sharp Duotone Light
-desktop,11,fa-graphite fa-thin fa-desktop,Desktop,Graphite Thin
-underline,33,fa-utility-duo fa-semibold fa-underline,Underline,Utility Duo Semibold
 building-memo,20,fa-sharp fa-regular fa-building-memo,Building Memo,Sharp Regular
 phone-plus,8,fa-duotone fa-regular fa-phone-plus,Phone Plus,Duotone Regular
 location-xmark,9,fa-duotone fa-thin fa-location-xmark,Location Xmark,Duotone Thin

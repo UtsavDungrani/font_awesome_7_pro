@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-car-alt,0,fa-solid fa-car-alt,Car Alt,Solid
-layer,22,fa-sharp fa-thin fa-layer,Layer,Sharp Thin
-peseta-sign,1,fa-regular fa-peseta-sign,Peseta Sign,Regular
-chart-pie-alt,25,fa-sharp-duotone fa-solid fa-chart-pie-alt,Chart Pie Alt,Sharp Duotone Solid
-tags,3,fa-thin fa-tags,Tags,Thin
-tablet-alt,6,fa-duotone fa-tablet-alt,Tablet Alt,Duotone Solid
-down-up,6,fa-duotone fa-down-up,Down Up,Duotone Solid
-arrow-up-from-dotted-line,25,fa-sharp-duotone fa-solid fa-arrow-up-from-dotted-line,Arrow Up From Dotted Line,Sharp Duotone Solid
-square-peruvian-soles,20,fa-sharp fa-regular fa-square-peruvian-soles,Square Peruvian Soles,Sharp Regular
 mobile-vibrate-slash,24,fa-sharp-duotone fa-regular fa-mobile-vibrate-slash,Mobile Vibrate Slash,Sharp Duotone Regular
 calendar-circle-plus,21,fa-sharp fa-solid fa-calendar-circle-plus,Calendar Circle Plus,Sharp Solid
 rotate-back,7,fa-duotone fa-light fa-rotate-back,Rotate Back,Duotone Light

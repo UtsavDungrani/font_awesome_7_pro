@@ -3797,5 +3797,14 @@ window.FA_PUBLISHED = [
 "capsule:6",
 "circle-malaysian-ringgit:8",
 "barn:1",
-"location:26"
+"location:26",
+"car-alt:0",
+"layer:22",
+"peseta-sign:1",
+"chart-pie-alt:25",
+"tags:3",
+"tablet-alt:6",
+"down-up:6",
+"arrow-up-from-dotted-line:25",
+"square-peruvian-soles:20"
 ];

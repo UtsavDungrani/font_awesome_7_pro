@@ -3680,5 +3680,14 @@ window.FA_PUBLISHED = [
 "window-frame-open:3",
 "bag-shopping:32",
 "door-open:22",
-"border-right:22"
+"border-right:22",
+"signal-4:0",
+"ellipsis:19",
+"jack-o-lantern:26",
+"transgender:9",
+"desktop-medical:3",
+"circle-naira:3",
+"balance-scale-left:19",
+"kaaba:8",
+"face-beam-hand-over-mouth:19"
 ];

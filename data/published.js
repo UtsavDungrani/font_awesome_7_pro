@@ -3725,5 +3725,14 @@ window.FA_PUBLISHED = [
 "fire-smoke:2",
 "sign-post:2",
 "ellipsis-stroke-vertical:26",
-"user:13"
+"user:13",
+"floppy-disk-pen:0",
+"school-circle-xmark:9",
+"cloud-fog:24",
+"arrow-down-9-1:0",
+"plane:15",
+"arrow-circle-right:1",
+"tooth:3",
+"hand-middle-finger:19",
+"circle-n:23"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-spinner-third,7,fa-duotone fa-light fa-spinner-third,Spinner Third,Duotone Light
-wifi-slash,26,fa-sharp-duotone fa-thin fa-wifi-slash,Wifi Slash,Sharp Duotone Thin
-headphones,29,fa-slab-press fa-regular fa-headphones,Headphones,Slab Press Regular
-code-compare,6,fa-duotone fa-code-compare,Code Compare,Duotone Solid
-image-polaroid,24,fa-sharp-duotone fa-regular fa-image-polaroid,Image Polaroid,Sharp Duotone Regular
-face-confounded,8,fa-duotone fa-regular fa-face-confounded,Face Confounded,Duotone Regular
-moon,10,fa-etch fa-solid fa-moon,Moon,Etch Solid
-hexagon-image,20,fa-sharp fa-regular fa-hexagon-image,Hexagon Image,Sharp Regular
-cloud-bolt,32,fa-utility fa-semibold fa-cloud-bolt,Cloud Bolt,Utility Semibold
 location-xmark,25,fa-sharp-duotone fa-solid fa-location-xmark,Location Xmark,Sharp Duotone Solid
 arrow-right-to-dotted-line,0,fa-solid fa-arrow-right-to-dotted-line,Arrow Right To Dotted Line,Solid
 face-laugh-squint,25,fa-sharp-duotone fa-solid fa-face-laugh-squint,Face Laugh Squint,Sharp Duotone Solid

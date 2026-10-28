@@ -3734,5 +3734,14 @@ window.FA_PUBLISHED = [
 "arrow-circle-right:1",
 "tooth:3",
 "hand-middle-finger:19",
-"circle-n:23"
+"circle-n:23",
+"spinner-third:7",
+"wifi-slash:26",
+"headphones:29",
+"code-compare:6",
+"image-polaroid:24",
+"face-confounded:8",
+"moon:10",
+"hexagon-image:20",
+"cloud-bolt:32"
 ];

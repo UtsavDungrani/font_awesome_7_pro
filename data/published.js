@@ -3752,5 +3752,14 @@ window.FA_PUBLISHED = [
 "pepper:2",
 "dollar:23",
 "user-unlock:19",
-"calendar-lines-pen:22"
+"calendar-lines-pen:22",
+"timeline:24",
+"foot-wing:24",
+"arrow-down-1-9:0",
+"star-exclamation:20",
+"bell-school:22",
+"hammer:7",
+"bomb:14",
+"picture-in-picture:0",
+"chain:25"
 ];

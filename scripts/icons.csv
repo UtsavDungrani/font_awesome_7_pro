@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-timeline,24,fa-sharp-duotone fa-regular fa-timeline,Timeline,Sharp Duotone Regular
-foot-wing,24,fa-sharp-duotone fa-regular fa-foot-wing,Foot Wing,Sharp Duotone Regular
-arrow-down-1-9,0,fa-solid fa-arrow-down-1-9,Arrow Down 1 9,Solid
-star-exclamation,20,fa-sharp fa-regular fa-star-exclamation,Star Exclamation,Sharp Regular
-bell-school,22,fa-sharp fa-thin fa-bell-school,Bell School,Sharp Thin
-hammer,7,fa-duotone fa-light fa-hammer,Hammer,Duotone Light
-bomb,14,fa-jelly-fill fa-regular fa-bomb,Bomb,Jelly Fill Regular
-picture-in-picture,0,fa-solid fa-picture-in-picture,Picture In Picture,Solid
-chain,25,fa-sharp-duotone fa-solid fa-chain,Chain,Sharp Duotone Solid
 mars-stroke-up,0,fa-solid fa-mars-stroke-up,Mars Stroke Up,Solid
 unlock-alt,1,fa-regular fa-unlock-alt,Unlock Alt,Regular
 fighter-jet,23,fa-sharp-duotone fa-light fa-fighter-jet,Fighter Jet,Sharp Duotone Light

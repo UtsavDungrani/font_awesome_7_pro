@@ -3698,5 +3698,14 @@ window.FA_PUBLISHED = [
 "backspace:20",
 "rectangle-tall:26",
 "raygun:0",
-"circle-turkish-lira:20"
+"circle-turkish-lira:20",
+"square-e:8",
+"heart-half-alt:9",
+"plane-up-slash:9",
+"dryer:25",
+"itch-io:4",
+"coffee:24",
+"turn-down-right:9",
+"guitar-electric:23",
+"r:26"
 ];

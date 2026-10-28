@@ -3788,5 +3788,14 @@ window.FA_PUBLISHED = [
 "horse-saddle:2",
 "icons-alt:23",
 "gingerbread-man:26",
-"circle-indian-rupee:25"
+"circle-indian-rupee:25",
+"circle-won:3",
+"circle-waveform-lines:1",
+"circle-bangladeshi-taka:0",
+"face-laugh:33",
+"stroopwafel:7",
+"capsule:6",
+"circle-malaysian-ringgit:8",
+"barn:1",
+"location:26"
 ];

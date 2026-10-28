@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-won,3,fa-thin fa-circle-won,Circle Won,Thin
-circle-waveform-lines,1,fa-regular fa-circle-waveform-lines,Circle Waveform Lines,Regular
-circle-bangladeshi-taka,0,fa-solid fa-circle-bangladeshi-taka,Circle Bangladeshi Taka,Solid
-face-laugh,33,fa-utility-duo fa-semibold fa-face-laugh,Face Laugh,Utility Duo Semibold
-stroopwafel,7,fa-duotone fa-light fa-stroopwafel,Stroopwafel,Duotone Light
-capsule,6,fa-duotone fa-capsule,Capsule,Duotone Solid
-circle-malaysian-ringgit,8,fa-duotone fa-regular fa-circle-malaysian-ringgit,Circle Malaysian Ringgit,Duotone Regular
-barn,1,fa-regular fa-barn,Barn,Regular
-location,26,fa-sharp-duotone fa-thin fa-location,Location,Sharp Duotone Thin
 car-alt,0,fa-solid fa-car-alt,Car Alt,Solid
 layer,22,fa-sharp fa-thin fa-layer,Layer,Sharp Thin
 peseta-sign,1,fa-regular fa-peseta-sign,Peseta Sign,Regular

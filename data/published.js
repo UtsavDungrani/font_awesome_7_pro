@@ -3779,5 +3779,14 @@ window.FA_PUBLISHED = [
 "people-simple:22",
 "couch:20",
 "shuttle-van:0",
-"i-cursor:23"
+"i-cursor:23",
+"book-open-reader:3",
+"dial-med-low:2",
+"mandolin:25",
+"hockey-stick-puck:25",
+"link-simple:25",
+"horse-saddle:2",
+"icons-alt:23",
+"gingerbread-man:26",
+"circle-indian-rupee:25"
 ];

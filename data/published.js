@@ -3770,5 +3770,14 @@ window.FA_PUBLISHED = [
 "garage-empty:20",
 "light-emergency-on:25",
 "glass-martini-alt:20",
-"arrow-turn-down-right:3"
+"arrow-turn-down-right:3",
+"magnifying-glass-plus:33",
+"sparkles:1",
+"circle-turkish-lira:3",
+"clock-eleven-thirty:21",
+"face-beam-hand-over-mouth:2",
+"people-simple:22",
+"couch:20",
+"shuttle-van:0",
+"i-cursor:23"
 ];

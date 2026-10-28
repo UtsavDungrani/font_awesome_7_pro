@@ -3743,5 +3743,14 @@ window.FA_PUBLISHED = [
 "face-confounded:8",
 "moon:10",
 "hexagon-image:20",
-"cloud-bolt:32"
+"cloud-bolt:32",
+"location-xmark:25",
+"arrow-right-to-dotted-line:0",
+"face-laugh-squint:25",
+"chart-line-up:22",
+"share-alt:28",
+"pepper:2",
+"dollar:23",
+"user-unlock:19",
+"calendar-lines-pen:22"
 ];

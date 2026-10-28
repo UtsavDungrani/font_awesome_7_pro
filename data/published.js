@@ -3716,5 +3716,14 @@ window.FA_PUBLISHED = [
 "chain-broken:1",
 "rabbit:6",
 "cabin:2",
-"people-simple:25"
+"people-simple:25",
+"book-law:2",
+"arrow-up-short-wide:0",
+"bracket-round:3",
+"biohazard:9",
+"hand-holding-star:25",
+"fire-smoke:2",
+"sign-post:2",
+"ellipsis-stroke-vertical:26",
+"user:13"
 ];

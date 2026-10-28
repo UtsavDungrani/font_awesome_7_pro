@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-book-law,2,fa-light fa-book-law,Book Law,Light
-arrow-up-short-wide,0,fa-solid fa-arrow-up-short-wide,Arrow Up Short Wide,Solid
-bracket-round,3,fa-thin fa-bracket-round,Bracket Round,Thin
-biohazard,9,fa-duotone fa-thin fa-biohazard,Biohazard,Duotone Thin
-hand-holding-star,25,fa-sharp-duotone fa-solid fa-hand-holding-star,Hand Holding Star,Sharp Duotone Solid
-fire-smoke,2,fa-light fa-fire-smoke,Fire Smoke,Light
-sign-post,2,fa-light fa-sign-post,Sign Post,Light
-ellipsis-stroke-vertical,26,fa-sharp-duotone fa-thin fa-ellipsis-stroke-vertical,Ellipsis Stroke Vertical,Sharp Duotone Thin
-user,13,fa-jelly-duo fa-regular fa-user,User,Jelly Duo Regular
 floppy-disk-pen,0,fa-solid fa-floppy-disk-pen,Floppy Disk Pen,Solid
 school-circle-xmark,9,fa-duotone fa-thin fa-school-circle-xmark,School Circle Xmark,Duotone Thin
 cloud-fog,24,fa-sharp-duotone fa-regular fa-cloud-fog,Cloud Fog,Sharp Duotone Regular

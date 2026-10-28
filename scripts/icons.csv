@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-stopwatch,0,fa-solid fa-stopwatch,Stopwatch,Solid
-arrow-alt-to-right,20,fa-sharp fa-regular fa-arrow-alt-to-right,Arrow Alt To Right,Sharp Regular
-comments-dollar,21,fa-sharp fa-solid fa-comments-dollar,Comments Dollar,Sharp Solid
-face-awesome,23,fa-sharp-duotone fa-light fa-face-awesome,Face Awesome,Sharp Duotone Light
-gear-complex,1,fa-regular fa-gear-complex,Gear Complex,Regular
-window-frame-open,3,fa-thin fa-window-frame-open,Window Frame Open,Thin
-bag-shopping,32,fa-utility fa-semibold fa-bag-shopping,Bag Shopping,Utility Semibold
-door-open,22,fa-sharp fa-thin fa-door-open,Door Open,Sharp Thin
-border-right,22,fa-sharp fa-thin fa-border-right,Border Right,Sharp Thin
 signal-4,0,fa-solid fa-signal-4,Signal 4,Solid
 ellipsis,19,fa-sharp fa-light fa-ellipsis,Ellipsis,Sharp Light
 jack-o-lantern,26,fa-sharp-duotone fa-thin fa-jack-o-lantern,Jack O Lantern,Sharp Duotone Thin

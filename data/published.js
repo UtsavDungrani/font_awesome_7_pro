@@ -3671,5 +3671,14 @@ window.FA_PUBLISHED = [
 "arrow-right-arrow-left:24",
 "repeat-1:2",
 "comment-alt-exclamation:24",
-"greater-than:21"
+"greater-than:21",
+"stopwatch:0",
+"arrow-alt-to-right:20",
+"comments-dollar:21",
+"face-awesome:23",
+"gear-complex:1",
+"window-frame-open:3",
+"bag-shopping:32",
+"door-open:22",
+"border-right:22"
 ];

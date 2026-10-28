@@ -3707,5 +3707,14 @@ window.FA_PUBLISHED = [
 "coffee:24",
 "turn-down-right:9",
 "guitar-electric:23",
-"r:26"
+"r:26",
+"d:8",
+"face-zany:23",
+"egg-fried:23",
+"microchip:32",
+"dice-five:21",
+"chain-broken:1",
+"rabbit:6",
+"cabin:2",
+"people-simple:25"
 ];

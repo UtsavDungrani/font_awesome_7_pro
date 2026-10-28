@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-d,8,fa-duotone fa-regular fa-d,D,Duotone Regular
-face-zany,23,fa-sharp-duotone fa-light fa-face-zany,Face Zany,Sharp Duotone Light
-egg-fried,23,fa-sharp-duotone fa-light fa-egg-fried,Egg Fried,Sharp Duotone Light
-microchip,32,fa-utility fa-semibold fa-microchip,Microchip,Utility Semibold
-dice-five,21,fa-sharp fa-solid fa-dice-five,Dice Five,Sharp Solid
-chain-broken,1,fa-regular fa-chain-broken,Chain Broken,Regular
-rabbit,6,fa-duotone fa-rabbit,Rabbit,Duotone Solid
-cabin,2,fa-light fa-cabin,Cabin,Light
-people-simple,25,fa-sharp-duotone fa-solid fa-people-simple,People Simple,Sharp Duotone Solid
 book-law,2,fa-light fa-book-law,Book Law,Light
 arrow-up-short-wide,0,fa-solid fa-arrow-up-short-wide,Arrow Up Short Wide,Solid
 bracket-round,3,fa-thin fa-bracket-round,Bracket Round,Thin

@@ -3761,5 +3761,14 @@ window.FA_PUBLISHED = [
 "hammer:7",
 "bomb:14",
 "picture-in-picture:0",
-"chain:25"
+"chain:25",
+"mars-stroke-up:0",
+"unlock-alt:1",
+"fighter-jet:23",
+"light-switch:8",
+"bow-arrow:6",
+"garage-empty:20",
+"light-emergency-on:25",
+"glass-martini-alt:20",
+"arrow-turn-down-right:3"
 ];

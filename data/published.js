@@ -3689,5 +3689,14 @@ window.FA_PUBLISHED = [
 "circle-naira:3",
 "balance-scale-left:19",
 "kaaba:8",
-"face-beam-hand-over-mouth:19"
+"face-beam-hand-over-mouth:19",
+"truck-fire:21",
+"square-colon:24",
+"envelopes:26",
+"bullhorn:19",
+"list-radio:9",
+"backspace:20",
+"rectangle-tall:26",
+"raygun:0",
+"circle-turkish-lira:20"
 ];

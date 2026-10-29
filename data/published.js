@@ -3833,5 +3833,14 @@ window.FA_PUBLISHED = [
 "arrow-right-from-bracket:10",
 "arrow-down-right:6",
 "burrito:6",
-"building-ngo:22"
+"building-ngo:22",
+"scribble:0",
+"venus:2",
+"ticket-alt:8",
+"magnifying-glass-waveform:24",
+"person-swimming-water:9",
+"glass:20",
+"bed:31",
+"scalpel-line-dashed:20",
+"feather:21"
 ];

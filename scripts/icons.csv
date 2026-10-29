@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-scribble,0,fa-solid fa-scribble,Scribble,Solid
-venus,2,fa-light fa-venus,Venus,Light
-ticket-alt,8,fa-duotone fa-regular fa-ticket-alt,Ticket Alt,Duotone Regular
-magnifying-glass-waveform,24,fa-sharp-duotone fa-regular fa-magnifying-glass-waveform,Magnifying Glass Waveform,Sharp Duotone Regular
-person-swimming-water,9,fa-duotone fa-thin fa-person-swimming-water,Person Swimming Water,Duotone Thin
-glass,20,fa-sharp fa-regular fa-glass,Glass,Sharp Regular
-bed,31,fa-thumbprint fa-light fa-bed,Bed,Thumbprint Light
-scalpel-line-dashed,20,fa-sharp fa-regular fa-scalpel-line-dashed,Scalpel Line Dashed,Sharp Regular
-feather,21,fa-sharp fa-solid fa-feather,Feather,Sharp Solid
 percent,0,fa-solid fa-percent,Percent,Solid
 square-i,2,fa-light fa-square-i,Square I,Light
 envelopes-bulk,21,fa-sharp fa-solid fa-envelopes-bulk,Envelopes Bulk,Sharp Solid

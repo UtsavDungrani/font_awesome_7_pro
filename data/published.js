@@ -3824,5 +3824,14 @@ window.FA_PUBLISHED = [
 "sensor-fire:25",
 "down-from-bracket:26",
 "bookmark-plus:3",
-"pen-swirl:7"
+"pen-swirl:7",
+"trash:3",
+"comment-dots:25",
+"hand-back-fist:19",
+"person-skiing:9",
+"mailbox-open-empty:9",
+"arrow-right-from-bracket:10",
+"arrow-down-right:6",
+"burrito:6",
+"building-ngo:22"
 ];

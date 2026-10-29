@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trash,3,fa-thin fa-trash,Trash,Thin
-comment-dots,25,fa-sharp-duotone fa-solid fa-comment-dots,Comment Dots,Sharp Duotone Solid
-hand-back-fist,19,fa-sharp fa-light fa-hand-back-fist,Hand Back Fist,Sharp Light
-person-skiing,9,fa-duotone fa-thin fa-person-skiing,Person Skiing,Duotone Thin
-mailbox-open-empty,9,fa-duotone fa-thin fa-mailbox-open-empty,Mailbox Open Empty,Duotone Thin
-arrow-right-from-bracket,10,fa-etch fa-solid fa-arrow-right-from-bracket,Arrow Right From Bracket,Etch Solid
-arrow-down-right,6,fa-duotone fa-arrow-down-right,Arrow Down Right,Duotone Solid
-burrito,6,fa-duotone fa-burrito,Burrito,Duotone Solid
-building-ngo,22,fa-sharp fa-thin fa-building-ngo,Building Ngo,Sharp Thin
 scribble,0,fa-solid fa-scribble,Scribble,Solid
 venus,2,fa-light fa-venus,Venus,Light
 ticket-alt,8,fa-duotone fa-regular fa-ticket-alt,Ticket Alt,Duotone Regular

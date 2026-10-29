@@ -3851,5 +3851,14 @@ window.FA_PUBLISHED = [
 "desk:22",
 "engine-exclamation:3",
 "octagon-xmark:3",
-"cloud-moon:26"
+"cloud-moon:26",
+"panel-fire:25",
+"person-pinball:8",
+"gauge-circle-plus:22",
+"arrow-turn-down:24",
+"tree-city:0",
+"hashtag-lock:7",
+"magnifying-glass:2",
+"delete-right:6",
+"hockey-puck:21"
 ];

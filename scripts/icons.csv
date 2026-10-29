@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-panel-fire,25,fa-sharp-duotone fa-solid fa-panel-fire,Panel Fire,Sharp Duotone Solid
-person-pinball,8,fa-duotone fa-regular fa-person-pinball,Person Pinball,Duotone Regular
-gauge-circle-plus,22,fa-sharp fa-thin fa-gauge-circle-plus,Gauge Circle Plus,Sharp Thin
-arrow-turn-down,24,fa-sharp-duotone fa-regular fa-arrow-turn-down,Arrow Turn Down,Sharp Duotone Regular
-tree-city,0,fa-solid fa-tree-city,Tree City,Solid
-hashtag-lock,7,fa-duotone fa-light fa-hashtag-lock,Hashtag Lock,Duotone Light
-magnifying-glass,2,fa-light fa-magnifying-glass,Magnifying Glass,Light
-delete-right,6,fa-duotone fa-delete-right,Delete Right,Duotone Solid
-hockey-puck,21,fa-sharp fa-solid fa-hockey-puck,Hockey Puck,Sharp Solid
 meter-bolt,19,fa-sharp fa-light fa-meter-bolt,Meter Bolt,Sharp Light
 check,16,fa-notdog fa-solid fa-check,Check,Notdog Solid
 gear-code,24,fa-sharp-duotone fa-regular fa-gear-code,Gear Code,Sharp Duotone Regular

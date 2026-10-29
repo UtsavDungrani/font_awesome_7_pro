@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-percent,0,fa-solid fa-percent,Percent,Solid
-square-i,2,fa-light fa-square-i,Square I,Light
-envelopes-bulk,21,fa-sharp fa-solid fa-envelopes-bulk,Envelopes Bulk,Sharp Solid
-republican,23,fa-sharp-duotone fa-light fa-republican,Republican,Sharp Duotone Light
-headphones,3,fa-thin fa-headphones,Headphones,Thin
-desk,22,fa-sharp fa-thin fa-desk,Desk,Sharp Thin
-engine-exclamation,3,fa-thin fa-engine-exclamation,Engine Exclamation,Thin
-octagon-xmark,3,fa-thin fa-octagon-xmark,Octagon Xmark,Thin
-cloud-moon,26,fa-sharp-duotone fa-thin fa-cloud-moon,Cloud Moon,Sharp Duotone Thin
 panel-fire,25,fa-sharp-duotone fa-solid fa-panel-fire,Panel Fire,Sharp Duotone Solid
 person-pinball,8,fa-duotone fa-regular fa-person-pinball,Person Pinball,Duotone Regular
 gauge-circle-plus,22,fa-sharp fa-thin fa-gauge-circle-plus,Gauge Circle Plus,Sharp Thin

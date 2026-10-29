@@ -3842,5 +3842,14 @@ window.FA_PUBLISHED = [
 "glass:20",
 "bed:31",
 "scalpel-line-dashed:20",
-"feather:21"
+"feather:21",
+"percent:0",
+"square-i:2",
+"envelopes-bulk:21",
+"republican:23",
+"headphones:3",
+"desk:22",
+"engine-exclamation:3",
+"octagon-xmark:3",
+"cloud-moon:26"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-heart-circle-minus,1,fa-regular fa-heart-circle-minus,Heart Circle Minus,Regular
-bullseye-pointer,1,fa-regular fa-bullseye-pointer,Bullseye Pointer,Regular
-user-music,7,fa-duotone fa-light fa-user-music,User Music,Duotone Light
-sun-dust,9,fa-duotone fa-thin fa-sun-dust,Sun Dust,Duotone Thin
-arrow-down-from-dotted-line,22,fa-sharp fa-thin fa-arrow-down-from-dotted-line,Arrow Down From Dotted Line,Sharp Thin
-face-grin-squint-tears,7,fa-duotone fa-light fa-face-grin-squint-tears,Face Grin Squint Tears,Duotone Light
-tickets-airline,1,fa-regular fa-tickets-airline,Tickets Airline,Regular
-circle-danish-krone,26,fa-sharp-duotone fa-thin fa-circle-danish-krone,Circle Danish Krone,Sharp Duotone Thin
-pumpkin,19,fa-sharp fa-light fa-pumpkin,Pumpkin,Sharp Light
 wine-glass-alt,21,fa-sharp fa-solid fa-wine-glass-alt,Wine Glass Alt,Sharp Solid
 meter-fire,3,fa-thin fa-meter-fire,Meter Fire,Thin
 plane-up,23,fa-sharp-duotone fa-light fa-plane-up,Plane Up,Sharp Duotone Light

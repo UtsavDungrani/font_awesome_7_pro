@@ -3905,5 +3905,14 @@ window.FA_PUBLISHED = [
 "otter:3",
 "cloud:33",
 "mountain:25",
-"comment-alt-music:21"
+"comment-alt-music:21",
+"heart-circle-minus:1",
+"bullseye-pointer:1",
+"user-music:7",
+"sun-dust:9",
+"arrow-down-from-dotted-line:22",
+"face-grin-squint-tears:7",
+"tickets-airline:1",
+"circle-danish-krone:26",
+"pumpkin:19"
 ];

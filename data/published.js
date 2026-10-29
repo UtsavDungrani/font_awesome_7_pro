@@ -3860,5 +3860,14 @@ window.FA_PUBLISHED = [
 "hashtag-lock:7",
 "magnifying-glass:2",
 "delete-right:6",
-"hockey-puck:21"
+"hockey-puck:21",
+"meter-bolt:19",
+"check:16",
+"gear-code:24",
+"wine-bottle:6",
+"circle-video:19",
+"cent-sign:6",
+"microphone-slash:31",
+"level-down-alt:20",
+"monitor-heart-rate:8"
 ];

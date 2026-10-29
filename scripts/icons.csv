@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-meter-bolt,19,fa-sharp fa-light fa-meter-bolt,Meter Bolt,Sharp Light
-check,16,fa-notdog fa-solid fa-check,Check,Notdog Solid
-gear-code,24,fa-sharp-duotone fa-regular fa-gear-code,Gear Code,Sharp Duotone Regular
-wine-bottle,6,fa-duotone fa-wine-bottle,Wine Bottle,Duotone Solid
-circle-video,19,fa-sharp fa-light fa-circle-video,Circle Video,Sharp Light
-cent-sign,6,fa-duotone fa-cent-sign,Cent Sign,Duotone Solid
-microphone-slash,31,fa-thumbprint fa-light fa-microphone-slash,Microphone Slash,Thumbprint Light
-level-down-alt,20,fa-sharp fa-regular fa-level-down-alt,Level Down Alt,Sharp Regular
-monitor-heart-rate,8,fa-duotone fa-regular fa-monitor-heart-rate,Monitor Heart Rate,Duotone Regular
 user-chef,8,fa-duotone fa-regular fa-user-chef,User Chef,Duotone Regular
 location-exclamation,25,fa-sharp-duotone fa-solid fa-location-exclamation,Location Exclamation,Sharp Duotone Solid
 diamond-exclamation,3,fa-thin fa-diamond-exclamation,Diamond Exclamation,Thin

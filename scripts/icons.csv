@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-adjust,27,fa-slab fa-regular fa-adjust,Adjust,Slab Regular
-money-simple-from-bracket,19,fa-sharp fa-light fa-money-simple-from-bracket,Money Simple From Bracket,Sharp Light
-rectangle-sd,0,fa-solid fa-rectangle-sd,Rectangle Sd,Solid
-scalpel,23,fa-sharp-duotone fa-light fa-scalpel,Scalpel,Sharp Duotone Light
-brightness,21,fa-sharp fa-solid fa-brightness,Brightness,Sharp Solid
-otter,3,fa-thin fa-otter,Otter,Thin
-cloud,33,fa-utility-duo fa-semibold fa-cloud,Cloud,Utility Duo Semibold
-mountain,25,fa-sharp-duotone fa-solid fa-mountain,Mountain,Sharp Duotone Solid
-comment-alt-music,21,fa-sharp fa-solid fa-comment-alt-music,Comment Alt Music,Sharp Solid
 heart-circle-minus,1,fa-regular fa-heart-circle-minus,Heart Circle Minus,Regular
 bullseye-pointer,1,fa-regular fa-bullseye-pointer,Bullseye Pointer,Regular
 user-music,7,fa-duotone fa-light fa-user-music,User Music,Duotone Light

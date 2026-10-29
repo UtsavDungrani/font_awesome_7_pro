@@ -3896,5 +3896,14 @@ window.FA_PUBLISHED = [
 "mobile-slash:8",
 "clock-five-thirty:25",
 "brackets:23",
-"earth:8"
+"earth:8",
+"adjust:27",
+"money-simple-from-bracket:19",
+"rectangle-sd:0",
+"scalpel:23",
+"brightness:21",
+"otter:3",
+"cloud:33",
+"mountain:25",
+"comment-alt-music:21"
 ];

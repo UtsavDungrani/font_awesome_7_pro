@@ -3878,5 +3878,14 @@ window.FA_PUBLISHED = [
 "shield-exclamation:7",
 "inventory:26",
 "square-peruvian-soles:25",
-"gear-complex-api:21"
+"gear-complex-api:21",
+"album-circle-user:25",
+"vacuum:1",
+"turntable:22",
+"people-pants:24",
+"arrow-u-turn-left-down:8",
+"hand-holding-droplet:24",
+"arrow-up-short-wide:9",
+"binary-circle-check:19",
+"circle-down-right:19"
 ];

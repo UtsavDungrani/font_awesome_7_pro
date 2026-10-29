@@ -3806,5 +3806,14 @@ window.FA_PUBLISHED = [
 "tablet-alt:6",
 "down-up:6",
 "arrow-up-from-dotted-line:25",
-"square-peruvian-soles:20"
+"square-peruvian-soles:20",
+"mobile-vibrate-slash:24",
+"calendar-circle-plus:21",
+"rotate-back:7",
+"adversal:4",
+"lock-open:10",
+"bar-progress-empty:25",
+"arrow-rotate-right-30:24",
+"treasure-chest:1",
+"pipe-valve:25"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mobile-vibrate-slash,24,fa-sharp-duotone fa-regular fa-mobile-vibrate-slash,Mobile Vibrate Slash,Sharp Duotone Regular
-calendar-circle-plus,21,fa-sharp fa-solid fa-calendar-circle-plus,Calendar Circle Plus,Sharp Solid
-rotate-back,7,fa-duotone fa-light fa-rotate-back,Rotate Back,Duotone Light
-adversal,4,fa-brands fa-adversal,Adversal,Brands
-lock-open,10,fa-etch fa-solid fa-lock-open,Lock Open,Etch Solid
-bar-progress-empty,25,fa-sharp-duotone fa-solid fa-bar-progress-empty,Bar Progress Empty,Sharp Duotone Solid
-arrow-rotate-right-30,24,fa-sharp-duotone fa-regular fa-arrow-rotate-right-30,Arrow Rotate Right 30,Sharp Duotone Regular
-treasure-chest,1,fa-regular fa-treasure-chest,Treasure Chest,Regular
-pipe-valve,25,fa-sharp-duotone fa-solid fa-pipe-valve,Pipe Valve,Sharp Duotone Solid
 music,24,fa-sharp-duotone fa-regular fa-music,Music,Sharp Duotone Regular
 book-copy,7,fa-duotone fa-light fa-book-copy,Book Copy,Duotone Light
 face-flushed,21,fa-sharp fa-solid fa-face-flushed,Face Flushed,Sharp Solid

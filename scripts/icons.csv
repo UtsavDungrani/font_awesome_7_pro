@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-music,24,fa-sharp-duotone fa-regular fa-music,Music,Sharp Duotone Regular
-book-copy,7,fa-duotone fa-light fa-book-copy,Book Copy,Duotone Light
-face-flushed,21,fa-sharp fa-solid fa-face-flushed,Face Flushed,Sharp Solid
-screwdriver-wrench,20,fa-sharp fa-regular fa-screwdriver-wrench,Screwdriver Wrench,Sharp Regular
-face-unamused,9,fa-duotone fa-thin fa-face-unamused,Face Unamused,Duotone Thin
-sensor-fire,25,fa-sharp-duotone fa-solid fa-sensor-fire,Sensor Fire,Sharp Duotone Solid
-down-from-bracket,26,fa-sharp-duotone fa-thin fa-down-from-bracket,Down From Bracket,Sharp Duotone Thin
-bookmark-plus,3,fa-thin fa-bookmark-plus,Bookmark Plus,Thin
-pen-swirl,7,fa-duotone fa-light fa-pen-swirl,Pen Swirl,Duotone Light
 trash,3,fa-thin fa-trash,Trash,Thin
 comment-dots,25,fa-sharp-duotone fa-solid fa-comment-dots,Comment Dots,Sharp Duotone Solid
 hand-back-fist,19,fa-sharp fa-light fa-hand-back-fist,Hand Back Fist,Sharp Light

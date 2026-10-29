@@ -3815,5 +3815,14 @@ window.FA_PUBLISHED = [
 "bar-progress-empty:25",
 "arrow-rotate-right-30:24",
 "treasure-chest:1",
-"pipe-valve:25"
+"pipe-valve:25",
+"music:24",
+"book-copy:7",
+"face-flushed:21",
+"screwdriver-wrench:20",
+"face-unamused:9",
+"sensor-fire:25",
+"down-from-bracket:26",
+"bookmark-plus:3",
+"pen-swirl:7"
 ];

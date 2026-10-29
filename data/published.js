@@ -3887,5 +3887,14 @@ window.FA_PUBLISHED = [
 "hand-holding-droplet:24",
 "arrow-up-short-wide:9",
 "binary-circle-check:19",
-"circle-down-right:19"
+"circle-down-right:19",
+"arrow-up-long:19",
+"square-currency:19",
+"circle-shekel:0",
+"owl:22",
+"champagne-glasses:6",
+"mobile-slash:8",
+"clock-five-thirty:25",
+"brackets:23",
+"earth:8"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-up-long,19,fa-sharp fa-light fa-arrow-up-long,Arrow Up Long,Sharp Light
-square-currency,19,fa-sharp fa-light fa-square-currency,Square Currency,Sharp Light
-circle-shekel,0,fa-solid fa-circle-shekel,Circle Shekel,Solid
-owl,22,fa-sharp fa-thin fa-owl,Owl,Sharp Thin
-champagne-glasses,6,fa-duotone fa-champagne-glasses,Champagne Glasses,Duotone Solid
-mobile-slash,8,fa-duotone fa-regular fa-mobile-slash,Mobile Slash,Duotone Regular
-clock-five-thirty,25,fa-sharp-duotone fa-solid fa-clock-five-thirty,Clock Five Thirty,Sharp Duotone Solid
-brackets,23,fa-sharp-duotone fa-light fa-brackets,Brackets,Sharp Duotone Light
-earth,8,fa-duotone fa-regular fa-earth,Earth,Duotone Regular
 adjust,27,fa-slab fa-regular fa-adjust,Adjust,Slab Regular
 money-simple-from-bracket,19,fa-sharp fa-light fa-money-simple-from-bracket,Money Simple From Bracket,Sharp Light
 rectangle-sd,0,fa-solid fa-rectangle-sd,Rectangle Sd,Solid

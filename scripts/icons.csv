@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-chef,8,fa-duotone fa-regular fa-user-chef,User Chef,Duotone Regular
-location-exclamation,25,fa-sharp-duotone fa-solid fa-location-exclamation,Location Exclamation,Sharp Duotone Solid
-diamond-exclamation,3,fa-thin fa-diamond-exclamation,Diamond Exclamation,Thin
-square-brazilian-real,22,fa-sharp fa-thin fa-square-brazilian-real,Square Brazilian Real,Sharp Thin
-bar-progress-half,20,fa-sharp fa-regular fa-bar-progress-half,Bar Progress Half,Sharp Regular
-shield-exclamation,7,fa-duotone fa-light fa-shield-exclamation,Shield Exclamation,Duotone Light
-inventory,26,fa-sharp-duotone fa-thin fa-inventory,Inventory,Sharp Duotone Thin
-square-peruvian-soles,25,fa-sharp-duotone fa-solid fa-square-peruvian-soles,Square Peruvian Soles,Sharp Duotone Solid
-gear-complex-api,21,fa-sharp fa-solid fa-gear-complex-api,Gear Complex Api,Sharp Solid
 album-circle-user,25,fa-sharp-duotone fa-solid fa-album-circle-user,Album Circle User,Sharp Duotone Solid
 vacuum,1,fa-regular fa-vacuum,Vacuum,Regular
 turntable,22,fa-sharp fa-thin fa-turntable,Turntable,Sharp Thin

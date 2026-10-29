@@ -3869,5 +3869,14 @@ window.FA_PUBLISHED = [
 "cent-sign:6",
 "microphone-slash:31",
 "level-down-alt:20",
-"monitor-heart-rate:8"
+"monitor-heart-rate:8",
+"user-chef:8",
+"location-exclamation:25",
+"diamond-exclamation:3",
+"square-brazilian-real:22",
+"bar-progress-half:20",
+"shield-exclamation:7",
+"inventory:26",
+"square-peruvian-soles:25",
+"gear-complex-api:21"
 ];

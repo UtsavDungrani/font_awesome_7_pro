@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-wine-glass-alt,21,fa-sharp fa-solid fa-wine-glass-alt,Wine Glass Alt,Sharp Solid
-meter-fire,3,fa-thin fa-meter-fire,Meter Fire,Thin
-plane-up,23,fa-sharp-duotone fa-light fa-plane-up,Plane Up,Sharp Duotone Light
-fighter-jet,9,fa-duotone fa-thin fa-fighter-jet,Fighter Jet,Duotone Thin
-lollipop,24,fa-sharp-duotone fa-regular fa-lollipop,Lollipop,Sharp Duotone Regular
-cart-arrow-up,1,fa-regular fa-cart-arrow-up,Cart Arrow Up,Regular
-bridge-circle-xmark,0,fa-solid fa-bridge-circle-xmark,Bridge Circle Xmark,Solid
-colon-sign,0,fa-solid fa-colon-sign,Colon Sign,Solid
-signal-stream-slash,0,fa-solid fa-signal-stream-slash,Signal Stream Slash,Solid
 cowbell,1,fa-regular fa-cowbell,Cowbell,Regular
 magnifying-glass-minus,7,fa-duotone fa-light fa-magnifying-glass-minus,Magnifying Glass Minus,Duotone Light
 chevron-right,24,fa-sharp-duotone fa-regular fa-chevron-right,Chevron Right,Sharp Duotone Regular

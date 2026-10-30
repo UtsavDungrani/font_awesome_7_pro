@@ -3914,5 +3914,14 @@ window.FA_PUBLISHED = [
 "face-grin-squint-tears:7",
 "tickets-airline:1",
 "circle-danish-krone:26",
-"pumpkin:19"
+"pumpkin:19",
+"wine-glass-alt:21",
+"meter-fire:3",
+"plane-up:23",
+"fighter-jet:9",
+"lollipop:24",
+"cart-arrow-up:1",
+"bridge-circle-xmark:0",
+"colon-sign:0",
+"signal-stream-slash:0"
 ];

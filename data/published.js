@@ -3950,5 +3950,14 @@ window.FA_PUBLISHED = [
 "star-of-life:3",
 "file-award:7",
 "boot:0",
-"cheese:24"
+"cheese:24",
+"meter-droplet:23",
+"remove-format:3",
+"dreidel:2",
+"kerning:21",
+"warehouse-alt:6",
+"user-police:1",
+"subscript:22",
+"pastafarianism:22",
+"cannabis:26"
 ];

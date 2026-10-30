@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-meter-droplet,23,fa-sharp-duotone fa-light fa-meter-droplet,Meter Droplet,Sharp Duotone Light
-remove-format,3,fa-thin fa-remove-format,Remove Format,Thin
-dreidel,2,fa-light fa-dreidel,Dreidel,Light
-kerning,21,fa-sharp fa-solid fa-kerning,Kerning,Sharp Solid
-warehouse-alt,6,fa-duotone fa-warehouse-alt,Warehouse Alt,Duotone Solid
-user-police,1,fa-regular fa-user-police,User Police,Regular
-subscript,22,fa-sharp fa-thin fa-subscript,Subscript,Sharp Thin
-pastafarianism,22,fa-sharp fa-thin fa-pastafarianism,Pastafarianism,Sharp Thin
-cannabis,26,fa-sharp-duotone fa-thin fa-cannabis,Cannabis,Sharp Duotone Thin
 grid,16,fa-notdog fa-solid fa-grid,Grid,Notdog Solid
 arrow-down-to-dotted-line,0,fa-solid fa-arrow-down-to-dotted-line,Arrow Down To Dotted Line,Solid
 right-from-dotted-line,9,fa-duotone fa-thin fa-right-from-dotted-line,Right From Dotted Line,Duotone Thin

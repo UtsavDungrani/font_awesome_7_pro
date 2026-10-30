@@ -3986,5 +3986,14 @@ window.FA_PUBLISHED = [
 "circle-arrow-down-right:25",
 "video-slash:1",
 "hand-pointer:0",
-"cars:7"
+"cars:7",
+"parking:24",
+"calendar-plus:24",
+"database:22",
+"claw-marks:6",
+"arrow-rotate-left-10:32",
+"rotate:1",
+"triple-chevrons-right:21",
+"cedi-sign:20",
+"clinic-medical:22"
 ];

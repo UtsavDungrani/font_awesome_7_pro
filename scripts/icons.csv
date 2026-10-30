@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-envelope-badge,6,fa-duotone fa-envelope-badge,Envelope Badge,Duotone Solid
-repeat,8,fa-duotone fa-regular fa-repeat,Repeat,Duotone Regular
-envelopes,7,fa-duotone fa-light fa-envelopes,Envelopes,Duotone Light
-kidneys,2,fa-light fa-kidneys,Kidneys,Light
-face-saluting,3,fa-thin fa-face-saluting,Face Saluting,Thin
-circle-arrow-down-right,25,fa-sharp-duotone fa-solid fa-circle-arrow-down-right,Circle Arrow Down Right,Sharp Duotone Solid
-video-slash,1,fa-regular fa-video-slash,Video Slash,Regular
-hand-pointer,0,fa-solid fa-hand-pointer,Hand Pointer,Solid
-cars,7,fa-duotone fa-light fa-cars,Cars,Duotone Light
 parking,24,fa-sharp-duotone fa-regular fa-parking,Parking,Sharp Duotone Regular
 calendar-plus,24,fa-sharp-duotone fa-regular fa-calendar-plus,Calendar Plus,Sharp Duotone Regular
 database,22,fa-sharp fa-thin fa-database,Database,Sharp Thin

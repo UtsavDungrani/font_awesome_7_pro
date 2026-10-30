@@ -3977,5 +3977,14 @@ window.FA_PUBLISHED = [
 "club:2",
 "square-root-alt:24",
 "arrow-right-from-bracket:0",
-"chart-line:22"
+"chart-line:22",
+"envelope-badge:6",
+"repeat:8",
+"envelopes:7",
+"kidneys:2",
+"face-saluting:3",
+"circle-arrow-down-right:25",
+"video-slash:1",
+"hand-pointer:0",
+"cars:7"
 ];

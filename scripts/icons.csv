@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grid,16,fa-notdog fa-solid fa-grid,Grid,Notdog Solid
-arrow-down-to-dotted-line,0,fa-solid fa-arrow-down-to-dotted-line,Arrow Down To Dotted Line,Solid
-right-from-dotted-line,9,fa-duotone fa-thin fa-right-from-dotted-line,Right From Dotted Line,Duotone Thin
-images-user,6,fa-duotone fa-images-user,Images User,Duotone Solid
-circle-user-circle-user,8,fa-duotone fa-regular fa-circle-user-circle-user,Circle User Circle User,Duotone Regular
-shop-lock,0,fa-solid fa-shop-lock,Shop Lock,Solid
-mug-hot,0,fa-solid fa-mug-hot,Mug Hot,Solid
-people-pulling,19,fa-sharp fa-light fa-people-pulling,People Pulling,Sharp Light
-microphone-stand,7,fa-duotone fa-light fa-microphone-stand,Microphone Stand,Duotone Light
 cabinet-filing,8,fa-duotone fa-regular fa-cabinet-filing,Cabinet Filing,Duotone Regular
 skull-crossbones,8,fa-duotone fa-regular fa-skull-crossbones,Skull Crossbones,Duotone Regular
 window,6,fa-duotone fa-window,Window,Duotone Solid

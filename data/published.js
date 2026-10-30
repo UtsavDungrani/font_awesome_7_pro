@@ -3959,5 +3959,14 @@ window.FA_PUBLISHED = [
 "user-police:1",
 "subscript:22",
 "pastafarianism:22",
-"cannabis:26"
+"cannabis:26",
+"grid:16",
+"arrow-down-to-dotted-line:0",
+"right-from-dotted-line:9",
+"images-user:6",
+"circle-user-circle-user:8",
+"shop-lock:0",
+"mug-hot:0",
+"people-pulling:19",
+"microphone-stand:7"
 ];

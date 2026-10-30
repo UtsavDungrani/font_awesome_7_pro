@@ -3968,5 +3968,14 @@ window.FA_PUBLISHED = [
 "shop-lock:0",
 "mug-hot:0",
 "people-pulling:19",
-"microphone-stand:7"
+"microphone-stand:7",
+"cabinet-filing:8",
+"skull-crossbones:8",
+"window:6",
+"table-rows-remove-above:25",
+"cart-flatbed-empty:7",
+"club:2",
+"square-root-alt:24",
+"arrow-right-from-bracket:0",
+"chart-line:22"
 ];

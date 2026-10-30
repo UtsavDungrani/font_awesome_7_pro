@@ -3923,5 +3923,14 @@ window.FA_PUBLISHED = [
 "cart-arrow-up:1",
 "bridge-circle-xmark:0",
 "colon-sign:0",
-"signal-stream-slash:0"
+"signal-stream-slash:0",
+"cowbell:1",
+"magnifying-glass-minus:7",
+"chevron-right:24",
+"diagram-successor:9",
+"seal-question:3",
+"grid-2:7",
+"dedent:19",
+"bring-forward:7",
+"pipe-collar:20"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-cowbell,1,fa-regular fa-cowbell,Cowbell,Regular
-magnifying-glass-minus,7,fa-duotone fa-light fa-magnifying-glass-minus,Magnifying Glass Minus,Duotone Light
-chevron-right,24,fa-sharp-duotone fa-regular fa-chevron-right,Chevron Right,Sharp Duotone Regular
-diagram-successor,9,fa-duotone fa-thin fa-diagram-successor,Diagram Successor,Duotone Thin
-seal-question,3,fa-thin fa-seal-question,Seal Question,Thin
-grid-2,7,fa-duotone fa-light fa-grid-2,Grid 2,Duotone Light
-dedent,19,fa-sharp fa-light fa-dedent,Dedent,Sharp Light
-bring-forward,7,fa-duotone fa-light fa-bring-forward,Bring Forward,Duotone Light
-pipe-collar,20,fa-sharp fa-regular fa-pipe-collar,Pipe Collar,Sharp Regular
 map,1,fa-regular fa-map,Map,Regular
 object-intersect,1,fa-regular fa-object-intersect,Object Intersect,Regular
 face-hand-over-mouth,26,fa-sharp-duotone fa-thin fa-face-hand-over-mouth,Face Hand Over Mouth,Sharp Duotone Thin

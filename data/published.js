@@ -3995,5 +3995,14 @@ window.FA_PUBLISHED = [
 "rotate:1",
 "triple-chevrons-right:21",
 "cedi-sign:20",
-"clinic-medical:22"
+"clinic-medical:22",
+"coffin-cross:0",
+"ad:23",
+"file-xls:2",
+"phone-hangup:26",
+"envelope:20",
+"lotus:9",
+"bench-tree:9",
+"boxing-glove:6",
+"thumbs-up:31"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-coffin-cross,0,fa-solid fa-coffin-cross,Coffin Cross,Solid
-ad,23,fa-sharp-duotone fa-light fa-ad,Ad,Sharp Duotone Light
-file-xls,2,fa-light fa-file-xls,File Xls,Light
-phone-hangup,26,fa-sharp-duotone fa-thin fa-phone-hangup,Phone Hangup,Sharp Duotone Thin
-envelope,20,fa-sharp fa-regular fa-envelope,Envelope,Sharp Regular
-lotus,9,fa-duotone fa-thin fa-lotus,Lotus,Duotone Thin
-bench-tree,9,fa-duotone fa-thin fa-bench-tree,Bench Tree,Duotone Thin
-boxing-glove,6,fa-duotone fa-boxing-glove,Boxing Glove,Duotone Solid
-thumbs-up,31,fa-thumbprint fa-light fa-thumbs-up,Thumbs Up,Thumbprint Light
 arrow-left-to-arc,24,fa-sharp-duotone fa-regular fa-arrow-left-to-arc,Arrow Left To Arc,Sharp Duotone Regular
 mobile-signal,2,fa-light fa-mobile-signal,Mobile Signal,Light
 plane-circle-check,1,fa-regular fa-plane-circle-check,Plane Circle Check,Regular

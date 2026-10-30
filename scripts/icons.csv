@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-star-exclamation,2,fa-light fa-star-exclamation,Star Exclamation,Light
-mouse-field,20,fa-sharp fa-regular fa-mouse-field,Mouse Field,Sharp Regular
-stethoscope,7,fa-duotone fa-light fa-stethoscope,Stethoscope,Duotone Light
-buoy-mooring,9,fa-duotone fa-thin fa-buoy-mooring,Buoy Mooring,Duotone Thin
-water,20,fa-sharp fa-regular fa-water,Water,Sharp Regular
-star-of-life,3,fa-thin fa-star-of-life,Star Of Life,Thin
-file-award,7,fa-duotone fa-light fa-file-award,File Award,Duotone Light
-boot,0,fa-solid fa-boot,Boot,Solid
-cheese,24,fa-sharp-duotone fa-regular fa-cheese,Cheese,Sharp Duotone Regular
 meter-droplet,23,fa-sharp-duotone fa-light fa-meter-droplet,Meter Droplet,Sharp Duotone Light
 remove-format,3,fa-thin fa-remove-format,Remove Format,Thin
 dreidel,2,fa-light fa-dreidel,Dreidel,Light

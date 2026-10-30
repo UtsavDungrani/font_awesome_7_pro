@@ -3941,5 +3941,14 @@ window.FA_PUBLISHED = [
 "naira-sign:26",
 "rouble:21",
 "square-half-stroke-horizontal:3",
-"circle-2:22"
+"circle-2:22",
+"star-exclamation:2",
+"mouse-field:20",
+"stethoscope:7",
+"buoy-mooring:9",
+"water:20",
+"star-of-life:3",
+"file-award:7",
+"boot:0",
+"cheese:24"
 ];

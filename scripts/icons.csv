@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-map,1,fa-regular fa-map,Map,Regular
-object-intersect,1,fa-regular fa-object-intersect,Object Intersect,Regular
-face-hand-over-mouth,26,fa-sharp-duotone fa-thin fa-face-hand-over-mouth,Face Hand Over Mouth,Sharp Duotone Thin
-arrow-turn-left-down,3,fa-thin fa-arrow-turn-left-down,Arrow Turn Left Down,Thin
-plane-tail,20,fa-sharp fa-regular fa-plane-tail,Plane Tail,Sharp Regular
-naira-sign,26,fa-sharp-duotone fa-thin fa-naira-sign,Naira Sign,Sharp Duotone Thin
-rouble,21,fa-sharp fa-solid fa-rouble,Rouble,Sharp Solid
-square-half-stroke-horizontal,3,fa-thin fa-square-half-stroke-horizontal,Square Half Stroke Horizontal,Thin
-circle-2,22,fa-sharp fa-thin fa-circle-2,Circle 2,Sharp Thin
 star-exclamation,2,fa-light fa-star-exclamation,Star Exclamation,Light
 mouse-field,20,fa-sharp fa-regular fa-mouse-field,Mouse Field,Sharp Regular
 stethoscope,7,fa-duotone fa-light fa-stethoscope,Stethoscope,Duotone Light

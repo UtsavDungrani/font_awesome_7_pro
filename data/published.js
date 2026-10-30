@@ -3932,5 +3932,14 @@ window.FA_PUBLISHED = [
 "grid-2:7",
 "dedent:19",
 "bring-forward:7",
-"pipe-collar:20"
+"pipe-collar:20",
+"map:1",
+"object-intersect:1",
+"face-hand-over-mouth:26",
+"arrow-turn-left-down:3",
+"plane-tail:20",
+"naira-sign:26",
+"rouble:21",
+"square-half-stroke-horizontal:3",
+"circle-2:22"
 ];

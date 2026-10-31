@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bowling-ball,20,fa-sharp fa-regular fa-bowling-ball,Bowling Ball,Sharp Regular
-comment-slash,9,fa-duotone fa-thin fa-comment-slash,Comment Slash,Duotone Thin
-id-card-alt,1,fa-regular fa-id-card-alt,Id Card Alt,Regular
-hood-cloak,25,fa-sharp-duotone fa-solid fa-hood-cloak,Hood Cloak,Sharp Duotone Solid
-square-cent,3,fa-thin fa-square-cent,Square Cent,Thin
-file-contract,1,fa-regular fa-file-contract,File Contract,Regular
-scorpio,24,fa-sharp-duotone fa-regular fa-scorpio,Scorpio,Sharp Duotone Regular
-ello,4,fa-brands fa-ello,Ello,Brands
-padel-ball,21,fa-sharp fa-solid fa-padel-ball,Padel Ball,Sharp Solid
 file-chart-column,24,fa-sharp-duotone fa-regular fa-file-chart-column,File Chart Column,Sharp Duotone Regular
 house-day,22,fa-sharp fa-thin fa-house-day,House Day,Sharp Thin
 poop,0,fa-solid fa-poop,Poop,Solid

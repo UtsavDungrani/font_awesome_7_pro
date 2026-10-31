@@ -4067,5 +4067,14 @@ window.FA_PUBLISHED = [
 "pause:1",
 "square-kip:8",
 "chevron-circle-right:0",
-"heart-circle-exclamation:9"
+"heart-circle-exclamation:9",
+"bowling-ball:20",
+"comment-slash:9",
+"id-card-alt:1",
+"hood-cloak:25",
+"square-cent:3",
+"file-contract:1",
+"scorpio:24",
+"ello:4",
+"padel-ball:21"
 ];

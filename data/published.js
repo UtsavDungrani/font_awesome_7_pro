@@ -4022,5 +4022,14 @@ window.FA_PUBLISHED = [
 "person-ski-lift:25",
 "fire:1",
 "temperature-2:19",
-"arrow-rotate-right-30:9"
+"arrow-rotate-right-30:9",
+"plane-flying:7",
+"long-arrow-alt-right:26",
+"bars-progress:26",
+"chart-sine:26",
+"arrows-split-up-and-left:22",
+"octagon-check:2",
+"arrow-up-to-bracket:25",
+"cloud-question:7",
+"shield:8"
 ];

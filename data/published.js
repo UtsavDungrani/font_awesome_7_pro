@@ -4058,5 +4058,14 @@ window.FA_PUBLISHED = [
 "ellipsis-h-alt:22",
 "bowl-scoops:9",
 "avocado:19",
-"thumb-tack:28"
+"thumb-tack:28",
+"border-outer:26",
+"square-currency:21",
+"users-viewfinder:19",
+"building:31",
+"podium:26",
+"pause:1",
+"square-kip:8",
+"chevron-circle-right:0",
+"heart-circle-exclamation:9"
 ];

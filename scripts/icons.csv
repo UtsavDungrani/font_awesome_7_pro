@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-border-outer,26,fa-sharp-duotone fa-thin fa-border-outer,Border Outer,Sharp Duotone Thin
-square-currency,21,fa-sharp fa-solid fa-square-currency,Square Currency,Sharp Solid
-users-viewfinder,19,fa-sharp fa-light fa-users-viewfinder,Users Viewfinder,Sharp Light
-building,31,fa-thumbprint fa-light fa-building,Building,Thumbprint Light
-podium,26,fa-sharp-duotone fa-thin fa-podium,Podium,Sharp Duotone Thin
-pause,1,fa-regular fa-pause,Pause,Regular
-square-kip,8,fa-duotone fa-regular fa-square-kip,Square Kip,Duotone Regular
-chevron-circle-right,0,fa-solid fa-chevron-circle-right,Chevron Circle Right,Solid
-heart-circle-exclamation,9,fa-duotone fa-thin fa-heart-circle-exclamation,Heart Circle Exclamation,Duotone Thin
 bowling-ball,20,fa-sharp fa-regular fa-bowling-ball,Bowling Ball,Sharp Regular
 comment-slash,9,fa-duotone fa-thin fa-comment-slash,Comment Slash,Duotone Thin
 id-card-alt,1,fa-regular fa-id-card-alt,Id Card Alt,Regular

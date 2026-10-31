@@ -4004,5 +4004,14 @@ window.FA_PUBLISHED = [
 "lotus:9",
 "bench-tree:9",
 "boxing-glove:6",
-"thumbs-up:31"
+"thumbs-up:31",
+"arrow-left-to-arc:24",
+"mobile-signal:2",
+"plane-circle-check:1",
+"megaphone:24",
+"utensils-slash:21",
+"folder:11",
+"face-monocle:0",
+"plane-prop:24",
+"link-simple-slash:2"
 ];

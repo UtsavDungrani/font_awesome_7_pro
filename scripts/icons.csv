@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-left-to-arc,24,fa-sharp-duotone fa-regular fa-arrow-left-to-arc,Arrow Left To Arc,Sharp Duotone Regular
-mobile-signal,2,fa-light fa-mobile-signal,Mobile Signal,Light
-plane-circle-check,1,fa-regular fa-plane-circle-check,Plane Circle Check,Regular
-megaphone,24,fa-sharp-duotone fa-regular fa-megaphone,Megaphone,Sharp Duotone Regular
-utensils-slash,21,fa-sharp fa-solid fa-utensils-slash,Utensils Slash,Sharp Solid
-folder,11,fa-graphite fa-thin fa-folder,Folder,Graphite Thin
-face-monocle,0,fa-solid fa-face-monocle,Face Monocle,Solid
-plane-prop,24,fa-sharp-duotone fa-regular fa-plane-prop,Plane Prop,Sharp Duotone Regular
-link-simple-slash,2,fa-light fa-link-simple-slash,Link Simple Slash,Light
 spoon,9,fa-duotone fa-thin fa-spoon,Spoon,Duotone Thin
 joystick,32,fa-utility fa-semibold fa-joystick,Joystick,Utility Semibold
 comment-middle-top,21,fa-sharp fa-solid fa-comment-middle-top,Comment Middle Top,Sharp Solid

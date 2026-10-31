@@ -4031,5 +4031,14 @@ window.FA_PUBLISHED = [
 "octagon-check:2",
 "arrow-up-to-bracket:25",
 "cloud-question:7",
-"shield:8"
+"shield:8",
+"jug-detergent:1",
+"exchange-alt:9",
+"person-walking:25",
+"face-pleading:23",
+"hand-holding-skull:19",
+"circle-phone:0",
+"file-heart:3",
+"ring-diamond:23",
+"circle-baht:8"
 ];

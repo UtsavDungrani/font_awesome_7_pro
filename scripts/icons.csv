@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-9,7,fa-duotone fa-light fa-circle-9,Circle 9,Duotone Light
-superscript,20,fa-sharp fa-regular fa-superscript,Superscript,Sharp Regular
-circle-arrow-up-left,20,fa-sharp fa-regular fa-circle-arrow-up-left,Circle Arrow Up Left,Sharp Regular
-futbol,2,fa-light fa-futbol,Futbol,Light
-sink,21,fa-sharp fa-solid fa-sink,Sink,Sharp Solid
-distribute-spacing-vertical,25,fa-sharp-duotone fa-solid fa-distribute-spacing-vertical,Distribute Spacing Vertical,Sharp Duotone Solid
-calendar-lines,8,fa-duotone fa-regular fa-calendar-lines,Calendar Lines,Duotone Regular
-play,23,fa-sharp-duotone fa-light fa-play,Play,Sharp Duotone Light
-arrow-left-to-line,20,fa-sharp fa-regular fa-arrow-left-to-line,Arrow Left To Line,Sharp Regular
 space-station-moon,21,fa-sharp fa-solid fa-space-station-moon,Space Station Moon,Sharp Solid
 expand,15,fa-mosaic fa-solid fa-expand,Expand,Mosaic Solid
 video-slash,35,fa-vellum fa-solid fa-video-slash,Video Slash,Vellum Solid

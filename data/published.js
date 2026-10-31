@@ -4040,5 +4040,14 @@ window.FA_PUBLISHED = [
 "circle-phone:0",
 "file-heart:3",
 "ring-diamond:23",
-"circle-baht:8"
+"circle-baht:8",
+"circle-9:7",
+"superscript:20",
+"circle-arrow-up-left:20",
+"futbol:2",
+"sink:21",
+"distribute-spacing-vertical:25",
+"calendar-lines:8",
+"play:23",
+"arrow-left-to-line:20"
 ];

@@ -4013,5 +4013,14 @@ window.FA_PUBLISHED = [
 "folder:11",
 "face-monocle:0",
 "plane-prop:24",
-"link-simple-slash:2"
+"link-simple-slash:2",
+"spoon:9",
+"joystick:32",
+"comment-middle-top:21",
+"bicep:9",
+"code:1",
+"person-ski-lift:25",
+"fire:1",
+"temperature-2:19",
+"arrow-rotate-right-30:9"
 ];

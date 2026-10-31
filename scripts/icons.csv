@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-spoon,9,fa-duotone fa-thin fa-spoon,Spoon,Duotone Thin
-joystick,32,fa-utility fa-semibold fa-joystick,Joystick,Utility Semibold
-comment-middle-top,21,fa-sharp fa-solid fa-comment-middle-top,Comment Middle Top,Sharp Solid
-bicep,9,fa-duotone fa-thin fa-bicep,Bicep,Duotone Thin
-code,1,fa-regular fa-code,Code,Regular
-person-ski-lift,25,fa-sharp-duotone fa-solid fa-person-ski-lift,Person Ski Lift,Sharp Duotone Solid
-fire,1,fa-regular fa-fire,Fire,Regular
-temperature-2,19,fa-sharp fa-light fa-temperature-2,Temperature 2,Sharp Light
-arrow-rotate-right-30,9,fa-duotone fa-thin fa-arrow-rotate-right-30,Arrow Rotate Right 30,Duotone Thin
 plane-flying,7,fa-duotone fa-light fa-plane-flying,Plane Flying,Duotone Light
 long-arrow-alt-right,26,fa-sharp-duotone fa-thin fa-long-arrow-alt-right,Long Arrow Alt Right,Sharp Duotone Thin
 bars-progress,26,fa-sharp-duotone fa-thin fa-bars-progress,Bars Progress,Sharp Duotone Thin

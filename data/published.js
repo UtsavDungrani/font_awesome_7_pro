@@ -4049,5 +4049,14 @@ window.FA_PUBLISHED = [
 "distribute-spacing-vertical:25",
 "calendar-lines:8",
 "play:23",
-"arrow-left-to-line:20"
+"arrow-left-to-line:20",
+"space-station-moon:21",
+"expand:15",
+"video-slash:35",
+"square-franc:25",
+"circle-shekel:22",
+"ellipsis-h-alt:22",
+"bowl-scoops:9",
+"avocado:19",
+"thumb-tack:28"
 ];

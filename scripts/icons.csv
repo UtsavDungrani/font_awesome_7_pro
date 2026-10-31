@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-space-station-moon,21,fa-sharp fa-solid fa-space-station-moon,Space Station Moon,Sharp Solid
-expand,15,fa-mosaic fa-solid fa-expand,Expand,Mosaic Solid
-video-slash,35,fa-vellum fa-solid fa-video-slash,Video Slash,Vellum Solid
-square-franc,25,fa-sharp-duotone fa-solid fa-square-franc,Square Franc,Sharp Duotone Solid
-circle-shekel,22,fa-sharp fa-thin fa-circle-shekel,Circle Shekel,Sharp Thin
-ellipsis-h-alt,22,fa-sharp fa-thin fa-ellipsis-h-alt,Ellipsis H Alt,Sharp Thin
-bowl-scoops,9,fa-duotone fa-thin fa-bowl-scoops,Bowl Scoops,Duotone Thin
-avocado,19,fa-sharp fa-light fa-avocado,Avocado,Sharp Light
-thumb-tack,28,fa-slab-duo fa-regular fa-thumb-tack,Thumb Tack,Slab Duo Regular
 border-outer,26,fa-sharp-duotone fa-thin fa-border-outer,Border Outer,Sharp Duotone Thin
 square-currency,21,fa-sharp fa-solid fa-square-currency,Square Currency,Sharp Solid
 users-viewfinder,19,fa-sharp fa-light fa-users-viewfinder,Users Viewfinder,Sharp Light

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dreidel,26,fa-sharp-duotone fa-thin fa-dreidel,Dreidel,Sharp Duotone Thin
-moon-first-quarter,2,fa-light fa-moon-first-quarter,Moon First Quarter,Light
-hands-praying,7,fa-duotone fa-light fa-hands-praying,Hands Praying,Duotone Light
-calendar-minus,21,fa-sharp fa-solid fa-calendar-minus,Calendar Minus,Sharp Solid
-newspaper,1,fa-regular fa-newspaper,Newspaper,Regular
-speaker,21,fa-sharp fa-solid fa-speaker,Speaker,Sharp Solid
-cars,26,fa-sharp-duotone fa-thin fa-cars,Cars,Sharp Duotone Thin
-bullseye-pointer,19,fa-sharp fa-light fa-bullseye-pointer,Bullseye Pointer,Sharp Light
-lightbulb-gear,6,fa-duotone fa-lightbulb-gear,Lightbulb Gear,Duotone Solid
 star-of-david,23,fa-sharp-duotone fa-light fa-star-of-david,Star Of David,Sharp Duotone Light
 face-saluting,25,fa-sharp-duotone fa-solid fa-face-saluting,Face Saluting,Sharp Duotone Solid
 tape,3,fa-thin fa-tape,Tape,Thin

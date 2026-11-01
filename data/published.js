@@ -4103,5 +4103,14 @@ window.FA_PUBLISHED = [
 "h:19",
 "floppy-disk-pen:1",
 "lines-leaning:24",
-"file-image:23"
+"file-image:23",
+"dreidel:26",
+"moon-first-quarter:2",
+"hands-praying:7",
+"calendar-minus:21",
+"newspaper:1",
+"speaker:21",
+"cars:26",
+"bullseye-pointer:19",
+"lightbulb-gear:6"
 ];

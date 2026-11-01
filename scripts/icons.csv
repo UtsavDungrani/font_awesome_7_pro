@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-truck,5,fa-chisel fa-regular fa-truck,Truck,Chisel Regular
-head-side-mask,9,fa-duotone fa-thin fa-head-side-mask,Head Side Mask,Duotone Thin
-bacteria,25,fa-sharp-duotone fa-solid fa-bacteria,Bacteria,Sharp Duotone Solid
-table-rows-add-below,23,fa-sharp-duotone fa-light fa-table-rows-add-below,Table Rows Add Below,Sharp Duotone Light
-plug-circle-bolt,20,fa-sharp fa-regular fa-plug-circle-bolt,Plug Circle Bolt,Sharp Regular
-ambulance,20,fa-sharp fa-regular fa-ambulance,Ambulance,Sharp Regular
-glass-empty,6,fa-duotone fa-glass-empty,Glass Empty,Duotone Solid
-tally-4,20,fa-sharp fa-regular fa-tally-4,Tally 4,Sharp Regular
-box-arrow-down,19,fa-sharp fa-light fa-box-arrow-down,Box Arrow Down,Sharp Light
 brake-warning,1,fa-regular fa-brake-warning,Brake Warning,Regular
 chess-queen,26,fa-sharp-duotone fa-thin fa-chess-queen,Chess Queen,Sharp Duotone Thin
 hands-clapping,23,fa-sharp-duotone fa-light fa-hands-clapping,Hands Clapping,Sharp Duotone Light

@@ -4121,5 +4121,14 @@ window.FA_PUBLISHED = [
 "rectangle-portrait:31",
 "square-quote:19",
 "bread-loaf:25",
-"cloud-moon:32"
+"cloud-moon:32",
+"truck:5",
+"head-side-mask:9",
+"bacteria:25",
+"table-rows-add-below:23",
+"plug-circle-bolt:20",
+"ambulance:20",
+"glass-empty:6",
+"tally-4:20",
+"box-arrow-down:19"
 ];

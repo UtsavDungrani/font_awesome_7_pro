@@ -4085,5 +4085,14 @@ window.FA_PUBLISHED = [
 "bracket-curly-right:24",
 "right-from-bracket:19",
 "badge-sheriff:1",
-"phone-square-alt:9"
+"phone-square-alt:9",
+"0:9",
+"chess-rook:25",
+"phone:13",
+"users-line:7",
+"trash-arrow-up:3",
+"user-hat-tie:23",
+"phone-volume:25",
+"file-odf:6",
+"file-shield:2"
 ];

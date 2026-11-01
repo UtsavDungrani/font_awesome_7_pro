@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-0,9,fa-duotone fa-thin fa-0,0,Duotone Thin
-chess-rook,25,fa-sharp-duotone fa-solid fa-chess-rook,Chess Rook,Sharp Duotone Solid
-phone,13,fa-jelly-duo fa-regular fa-phone,Phone,Jelly Duo Regular
-users-line,7,fa-duotone fa-light fa-users-line,Users Line,Duotone Light
-trash-arrow-up,3,fa-thin fa-trash-arrow-up,Trash Arrow Up,Thin
-user-hat-tie,23,fa-sharp-duotone fa-light fa-user-hat-tie,User Hat Tie,Sharp Duotone Light
-phone-volume,25,fa-sharp-duotone fa-solid fa-phone-volume,Phone Volume,Sharp Duotone Solid
-file-odf,6,fa-duotone fa-file-odf,File Odf,Duotone Solid
-file-shield,2,fa-light fa-file-shield,File Shield,Light
 signature-slash,8,fa-duotone fa-regular fa-signature-slash,Signature Slash,Duotone Regular
 clock-eight-thirty,24,fa-sharp-duotone fa-regular fa-clock-eight-thirty,Clock Eight Thirty,Sharp Duotone Regular
 cloud,28,fa-slab-duo fa-regular fa-cloud,Cloud,Slab Duo Regular

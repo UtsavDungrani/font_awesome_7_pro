@@ -4175,5 +4175,14 @@ window.FA_PUBLISHED = [
 "spinner-third:0",
 "bag-seedling:26",
 "square-a-lock:0",
-"inhaler:9"
+"inhaler:9",
+"mitten:1",
+"ban:17",
+"comment-alt-plus:19",
+"bullhorn:22",
+"3:1",
+"volume-mute:13",
+"grapes:26",
+"divide:3",
+"image-circle-plus:20"
 ];

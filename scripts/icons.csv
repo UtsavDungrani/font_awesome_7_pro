@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mitten,1,fa-regular fa-mitten,Mitten,Regular
-ban,17,fa-notdog-duo fa-solid fa-ban,Ban,Notdog Duo Solid
-comment-alt-plus,19,fa-sharp fa-light fa-comment-alt-plus,Comment Alt Plus,Sharp Light
-bullhorn,22,fa-sharp fa-thin fa-bullhorn,Bullhorn,Sharp Thin
-3,1,fa-regular fa-3,3,Regular
-volume-mute,13,fa-jelly-duo fa-regular fa-volume-mute,Volume Mute,Jelly Duo Regular
-grapes,26,fa-sharp-duotone fa-thin fa-grapes,Grapes,Sharp Duotone Thin
-divide,3,fa-thin fa-divide,Divide,Thin
-image-circle-plus,20,fa-sharp fa-regular fa-image-circle-plus,Image Circle Plus,Sharp Regular
 circle-x,8,fa-duotone fa-regular fa-circle-x,Circle X,Duotone Regular
 gauge-simple-max,25,fa-sharp-duotone fa-solid fa-gauge-simple-max,Gauge Simple Max,Sharp Duotone Solid
 file-dashed-line,1,fa-regular fa-file-dashed-line,File Dashed Line,Regular

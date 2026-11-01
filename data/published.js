@@ -4193,5 +4193,14 @@ window.FA_PUBLISHED = [
 "chart-line-up:2",
 "briefs:9",
 "square-danish-krone:21",
-"burger-lettuce:6"
+"burger-lettuce:6",
+"face-tongue-sweat:24",
+"plane:1",
+"hat-wizard:21",
+"hand-sparkles:9",
+"circle-u:8",
+"toggle-off:26",
+"folder:12",
+"folder-tree:8",
+"corn:6"
 ];

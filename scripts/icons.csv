@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-chart-column,24,fa-sharp-duotone fa-regular fa-file-chart-column,File Chart Column,Sharp Duotone Regular
-house-day,22,fa-sharp fa-thin fa-house-day,House Day,Sharp Thin
-poop,0,fa-solid fa-poop,Poop,Solid
-aeropress,8,fa-duotone fa-regular fa-aeropress,Aeropress,Duotone Regular
-nfc-symbol,4,fa-brands fa-nfc-symbol,Nfc Symbol,Brands
-bracket-curly-right,24,fa-sharp-duotone fa-regular fa-bracket-curly-right,Bracket Curly Right,Sharp Duotone Regular
-right-from-bracket,19,fa-sharp fa-light fa-right-from-bracket,Right From Bracket,Sharp Light
-badge-sheriff,1,fa-regular fa-badge-sheriff,Badge Sheriff,Regular
-phone-square-alt,9,fa-duotone fa-thin fa-phone-square-alt,Phone Square Alt,Duotone Thin
 0,9,fa-duotone fa-thin fa-0,0,Duotone Thin
 chess-rook,25,fa-sharp-duotone fa-solid fa-chess-rook,Chess Rook,Sharp Duotone Solid
 phone,13,fa-jelly-duo fa-regular fa-phone,Phone,Jelly Duo Regular

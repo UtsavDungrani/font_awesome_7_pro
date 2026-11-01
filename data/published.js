@@ -4076,5 +4076,14 @@ window.FA_PUBLISHED = [
 "file-contract:1",
 "scorpio:24",
 "ello:4",
-"padel-ball:21"
+"padel-ball:21",
+"file-chart-column:24",
+"house-day:22",
+"poop:0",
+"aeropress:8",
+"nfc-symbol:4",
+"bracket-curly-right:24",
+"right-from-bracket:19",
+"badge-sheriff:1",
+"phone-square-alt:9"
 ];

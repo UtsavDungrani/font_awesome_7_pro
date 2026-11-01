@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-brake-warning,1,fa-regular fa-brake-warning,Brake Warning,Regular
-chess-queen,26,fa-sharp-duotone fa-thin fa-chess-queen,Chess Queen,Sharp Duotone Thin
-hands-clapping,23,fa-sharp-duotone fa-light fa-hands-clapping,Hands Clapping,Sharp Duotone Light
-person-swimming,3,fa-thin fa-person-swimming,Person Swimming,Thin
-chevron-double-up,2,fa-light fa-chevron-double-up,Chevron Double Up,Light
-message-question,26,fa-sharp-duotone fa-thin fa-message-question,Message Question,Sharp Duotone Thin
-rectangle-tall,27,fa-slab fa-regular fa-rectangle-tall,Rectangle Tall,Slab Regular
-tower-control,0,fa-solid fa-tower-control,Tower Control,Solid
-arrow-right-arrow-left,2,fa-light fa-arrow-right-arrow-left,Arrow Right Arrow Left,Light
 circle-microphone-lines,8,fa-duotone fa-regular fa-circle-microphone-lines,Circle Microphone Lines,Duotone Regular
 pie,3,fa-thin fa-pie,Pie,Thin
 pix,4,fa-brands fa-pix,Pix,Brands

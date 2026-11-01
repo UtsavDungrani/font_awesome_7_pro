@@ -4130,5 +4130,14 @@ window.FA_PUBLISHED = [
 "ambulance:20",
 "glass-empty:6",
 "tally-4:20",
-"box-arrow-down:19"
+"box-arrow-down:19",
+"brake-warning:1",
+"chess-queen:26",
+"hands-clapping:23",
+"person-swimming:3",
+"chevron-double-up:2",
+"message-question:26",
+"rectangle-tall:27",
+"tower-control:0",
+"arrow-right-arrow-left:2"
 ];

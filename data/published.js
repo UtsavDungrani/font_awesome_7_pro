@@ -4139,5 +4139,14 @@ window.FA_PUBLISHED = [
 "message-question:26",
 "rectangle-tall:27",
 "tower-control:0",
-"arrow-right-arrow-left:2"
+"arrow-right-arrow-left:2",
+"circle-microphone-lines:8",
+"pie:3",
+"pix:4",
+"mountain-city:20",
+"dinosaur:24",
+"atlas:21",
+"circle-dollar:33",
+"pen-swirl:26",
+"arrow-circle-right:7"
 ];

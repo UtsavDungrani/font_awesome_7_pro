@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-microphone-lines,8,fa-duotone fa-regular fa-circle-microphone-lines,Circle Microphone Lines,Duotone Regular
-pie,3,fa-thin fa-pie,Pie,Thin
-pix,4,fa-brands fa-pix,Pix,Brands
-mountain-city,20,fa-sharp fa-regular fa-mountain-city,Mountain City,Sharp Regular
-dinosaur,24,fa-sharp-duotone fa-regular fa-dinosaur,Dinosaur,Sharp Duotone Regular
-atlas,21,fa-sharp fa-solid fa-atlas,Atlas,Sharp Solid
-circle-dollar,33,fa-utility-duo fa-semibold fa-circle-dollar,Circle Dollar,Utility Duo Semibold
-pen-swirl,26,fa-sharp-duotone fa-thin fa-pen-swirl,Pen Swirl,Sharp Duotone Thin
-arrow-circle-right,7,fa-duotone fa-light fa-arrow-circle-right,Arrow Circle Right,Duotone Light
 thumbs-down,0,fa-solid fa-thumbs-down,Thumbs Down,Solid
 thumbtack-angle-slash,21,fa-sharp fa-solid fa-thumbtack-angle-slash,Thumbtack Angle Slash,Sharp Solid
 aperture,19,fa-sharp fa-light fa-aperture,Aperture,Sharp Light

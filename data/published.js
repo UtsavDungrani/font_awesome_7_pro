@@ -4112,5 +4112,14 @@ window.FA_PUBLISHED = [
 "speaker:21",
 "cars:26",
 "bullseye-pointer:19",
-"lightbulb-gear:6"
+"lightbulb-gear:6",
+"star-of-david:23",
+"face-saluting:25",
+"tape:3",
+"rectangle-plus:24",
+"chemex:23",
+"rectangle-portrait:31",
+"square-quote:19",
+"bread-loaf:25",
+"cloud-moon:32"
 ];

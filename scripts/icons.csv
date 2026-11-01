@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-star-of-david,23,fa-sharp-duotone fa-light fa-star-of-david,Star Of David,Sharp Duotone Light
-face-saluting,25,fa-sharp-duotone fa-solid fa-face-saluting,Face Saluting,Sharp Duotone Solid
-tape,3,fa-thin fa-tape,Tape,Thin
-rectangle-plus,24,fa-sharp-duotone fa-regular fa-rectangle-plus,Rectangle Plus,Sharp Duotone Regular
-chemex,23,fa-sharp-duotone fa-light fa-chemex,Chemex,Sharp Duotone Light
-rectangle-portrait,31,fa-thumbprint fa-light fa-rectangle-portrait,Rectangle Portrait,Thumbprint Light
-square-quote,19,fa-sharp fa-light fa-square-quote,Square Quote,Sharp Light
-bread-loaf,25,fa-sharp-duotone fa-solid fa-bread-loaf,Bread Loaf,Sharp Duotone Solid
-cloud-moon,32,fa-utility fa-semibold fa-cloud-moon,Cloud Moon,Utility Semibold
 truck,5,fa-chisel fa-regular fa-truck,Truck,Chisel Regular
 head-side-mask,9,fa-duotone fa-thin fa-head-side-mask,Head Side Mask,Duotone Thin
 bacteria,25,fa-sharp-duotone fa-solid fa-bacteria,Bacteria,Sharp Duotone Solid

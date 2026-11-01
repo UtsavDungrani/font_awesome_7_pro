@@ -4157,5 +4157,14 @@ window.FA_PUBLISHED = [
 "pickaxe:2",
 "mobile-signal:7",
 "rocket:19",
-"money-simple-from-bracket:6"
+"money-simple-from-bracket:6",
+"columns:19",
+"comments:2",
+"image-slash:0",
+"door-closed:12",
+"aeropress:22",
+"hat-cowboy:0",
+"signal-2:33",
+"heart:33",
+"plug-circle-plus:1"
 ];

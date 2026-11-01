@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-columns,19,fa-sharp fa-light fa-columns,Columns,Sharp Light
-comments,2,fa-light fa-comments,Comments,Light
-image-slash,0,fa-solid fa-image-slash,Image Slash,Solid
-door-closed,12,fa-jelly fa-regular fa-door-closed,Door Closed,Jelly Regular
-aeropress,22,fa-sharp fa-thin fa-aeropress,Aeropress,Sharp Thin
-hat-cowboy,0,fa-solid fa-hat-cowboy,Hat Cowboy,Solid
-signal-2,33,fa-utility-duo fa-semibold fa-signal-2,Signal 2,Utility Duo Semibold
-heart,33,fa-utility-duo fa-semibold fa-heart,Heart,Utility Duo Semibold
-plug-circle-plus,1,fa-regular fa-plug-circle-plus,Plug Circle Plus,Regular
 user-sith,23,fa-sharp-duotone fa-light fa-user-sith,User Sith,Sharp Duotone Light
 battery-4,9,fa-duotone fa-thin fa-battery-4,Battery 4,Duotone Thin
 mouse-field,0,fa-solid fa-mouse-field,Mouse Field,Solid

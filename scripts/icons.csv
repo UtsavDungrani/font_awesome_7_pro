@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-thumbs-down,0,fa-solid fa-thumbs-down,Thumbs Down,Solid
-thumbtack-angle-slash,21,fa-sharp fa-solid fa-thumbtack-angle-slash,Thumbtack Angle Slash,Sharp Solid
-aperture,19,fa-sharp fa-light fa-aperture,Aperture,Sharp Light
-calendar-exclamation,9,fa-duotone fa-thin fa-calendar-exclamation,Calendar Exclamation,Duotone Thin
-hands-clapping,20,fa-sharp fa-regular fa-hands-clapping,Hands Clapping,Sharp Regular
-pickaxe,2,fa-light fa-pickaxe,Pickaxe,Light
-mobile-signal,7,fa-duotone fa-light fa-mobile-signal,Mobile Signal,Duotone Light
-rocket,19,fa-sharp fa-light fa-rocket,Rocket,Sharp Light
-money-simple-from-bracket,6,fa-duotone fa-money-simple-from-bracket,Money Simple From Bracket,Duotone Solid
 columns,19,fa-sharp fa-light fa-columns,Columns,Sharp Light
 comments,2,fa-light fa-comments,Comments,Light
 image-slash,0,fa-solid fa-image-slash,Image Slash,Solid

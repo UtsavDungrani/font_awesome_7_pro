@@ -4148,5 +4148,14 @@ window.FA_PUBLISHED = [
 "atlas:21",
 "circle-dollar:33",
 "pen-swirl:26",
-"arrow-circle-right:7"
+"arrow-circle-right:7",
+"thumbs-down:0",
+"thumbtack-angle-slash:21",
+"aperture:19",
+"calendar-exclamation:9",
+"hands-clapping:20",
+"pickaxe:2",
+"mobile-signal:7",
+"rocket:19",
+"money-simple-from-bracket:6"
 ];

@@ -4094,5 +4094,14 @@ window.FA_PUBLISHED = [
 "user-hat-tie:23",
 "phone-volume:25",
 "file-odf:6",
-"file-shield:2"
+"file-shield:2",
+"signature-slash:8",
+"clock-eight-thirty:24",
+"cloud:28",
+"virus-covid:8",
+"eclipse:25",
+"h:19",
+"floppy-disk-pen:1",
+"lines-leaning:24",
+"file-image:23"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-signature-slash,8,fa-duotone fa-regular fa-signature-slash,Signature Slash,Duotone Regular
-clock-eight-thirty,24,fa-sharp-duotone fa-regular fa-clock-eight-thirty,Clock Eight Thirty,Sharp Duotone Regular
-cloud,28,fa-slab-duo fa-regular fa-cloud,Cloud,Slab Duo Regular
-virus-covid,8,fa-duotone fa-regular fa-virus-covid,Virus Covid,Duotone Regular
-eclipse,25,fa-sharp-duotone fa-solid fa-eclipse,Eclipse,Sharp Duotone Solid
-h,19,fa-sharp fa-light fa-h,H,Sharp Light
-floppy-disk-pen,1,fa-regular fa-floppy-disk-pen,Floppy Disk Pen,Regular
-lines-leaning,24,fa-sharp-duotone fa-regular fa-lines-leaning,Lines Leaning,Sharp Duotone Regular
-file-image,23,fa-sharp-duotone fa-light fa-file-image,File Image,Sharp Duotone Light
 dreidel,26,fa-sharp-duotone fa-thin fa-dreidel,Dreidel,Sharp Duotone Thin
 moon-first-quarter,2,fa-light fa-moon-first-quarter,Moon First Quarter,Light
 hands-praying,7,fa-duotone fa-light fa-hands-praying,Hands Praying,Duotone Light

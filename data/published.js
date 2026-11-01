@@ -4202,5 +4202,14 @@ window.FA_PUBLISHED = [
 "toggle-off:26",
 "folder:12",
 "folder-tree:8",
-"corn:6"
+"corn:6",
+"clarinet:9",
+"trash-arrow-up:9",
+"shop-slash:0",
+"0:8",
+"comment-alt-edit:2",
+"shrimp:6",
+"bread-slice-butter:9",
+"transformer-bolt:1",
+"weight:20"
 ];

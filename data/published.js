@@ -4166,5 +4166,14 @@ window.FA_PUBLISHED = [
 "hat-cowboy:0",
 "signal-2:33",
 "heart:33",
-"plug-circle-plus:1"
+"plug-circle-plus:1",
+"user-sith:23",
+"battery-4:9",
+"mouse-field:0",
+"alien:6",
+"rectangle-video-on-demand:20",
+"spinner-third:0",
+"bag-seedling:26",
+"square-a-lock:0",
+"inhaler:9"
 ];

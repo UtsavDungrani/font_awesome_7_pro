@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-sith,23,fa-sharp-duotone fa-light fa-user-sith,User Sith,Sharp Duotone Light
-battery-4,9,fa-duotone fa-thin fa-battery-4,Battery 4,Duotone Thin
-mouse-field,0,fa-solid fa-mouse-field,Mouse Field,Solid
-alien,6,fa-duotone fa-alien,Alien,Duotone Solid
-rectangle-video-on-demand,20,fa-sharp fa-regular fa-rectangle-video-on-demand,Rectangle Video On Demand,Sharp Regular
-spinner-third,0,fa-solid fa-spinner-third,Spinner Third,Solid
-bag-seedling,26,fa-sharp-duotone fa-thin fa-bag-seedling,Bag Seedling,Sharp Duotone Thin
-square-a-lock,0,fa-solid fa-square-a-lock,Square A Lock,Solid
-inhaler,9,fa-duotone fa-thin fa-inhaler,Inhaler,Duotone Thin
 mitten,1,fa-regular fa-mitten,Mitten,Regular
 ban,17,fa-notdog-duo fa-solid fa-ban,Ban,Notdog Duo Solid
 comment-alt-plus,19,fa-sharp fa-light fa-comment-alt-plus,Comment Alt Plus,Sharp Light

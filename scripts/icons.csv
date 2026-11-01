@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-x,8,fa-duotone fa-regular fa-circle-x,Circle X,Duotone Regular
-gauge-simple-max,25,fa-sharp-duotone fa-solid fa-gauge-simple-max,Gauge Simple Max,Sharp Duotone Solid
-file-dashed-line,1,fa-regular fa-file-dashed-line,File Dashed Line,Regular
-jar-wheat,26,fa-sharp-duotone fa-thin fa-jar-wheat,Jar Wheat,Sharp Duotone Thin
-subtitles-slash,22,fa-sharp fa-thin fa-subtitles-slash,Subtitles Slash,Sharp Thin
-chart-line-up,2,fa-light fa-chart-line-up,Chart Line Up,Light
-briefs,9,fa-duotone fa-thin fa-briefs,Briefs,Duotone Thin
-square-danish-krone,21,fa-sharp fa-solid fa-square-danish-krone,Square Danish Krone,Sharp Solid
-burger-lettuce,6,fa-duotone fa-burger-lettuce,Burger Lettuce,Duotone Solid
 face-tongue-sweat,24,fa-sharp-duotone fa-regular fa-face-tongue-sweat,Face Tongue Sweat,Sharp Duotone Regular
 plane,1,fa-regular fa-plane,Plane,Regular
 hat-wizard,21,fa-sharp fa-solid fa-hat-wizard,Hat Wizard,Sharp Solid

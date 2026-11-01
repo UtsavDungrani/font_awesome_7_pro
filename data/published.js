@@ -4184,5 +4184,14 @@ window.FA_PUBLISHED = [
 "volume-mute:13",
 "grapes:26",
 "divide:3",
-"image-circle-plus:20"
+"image-circle-plus:20",
+"circle-x:8",
+"gauge-simple-max:25",
+"file-dashed-line:1",
+"jar-wheat:26",
+"subtitles-slash:22",
+"chart-line-up:2",
+"briefs:9",
+"square-danish-krone:21",
+"burger-lettuce:6"
 ];

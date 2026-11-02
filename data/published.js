@@ -4283,5 +4283,14 @@ window.FA_PUBLISHED = [
 "arrow-alt-from-right:9",
 "chart-scatter-3d:25",
 "dial-med-low:19",
-"tape:0"
+"tape:0",
+"forward-step:31",
+"shipping-fast:3",
+"truck-container:26",
+"arrow-up-wide-short:10",
+"football:7",
+"assistive-listening-systems:22",
+"table-columns-remove-after:8",
+"tent:6",
+"ballot:24"
 ];

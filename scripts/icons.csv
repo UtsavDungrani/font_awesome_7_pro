@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-forward-step,31,fa-thumbprint fa-light fa-forward-step,Forward Step,Thumbprint Light
-shipping-fast,3,fa-thin fa-shipping-fast,Shipping Fast,Thin
-truck-container,26,fa-sharp-duotone fa-thin fa-truck-container,Truck Container,Sharp Duotone Thin
-arrow-up-wide-short,10,fa-etch fa-solid fa-arrow-up-wide-short,Arrow Up Wide Short,Etch Solid
-football,7,fa-duotone fa-light fa-football,Football,Duotone Light
-assistive-listening-systems,22,fa-sharp fa-thin fa-assistive-listening-systems,Assistive Listening Systems,Sharp Thin
-table-columns-remove-after,8,fa-duotone fa-regular fa-table-columns-remove-after,Table Columns Remove After,Duotone Regular
-tent,6,fa-duotone fa-tent,Tent,Duotone Solid
-ballot,24,fa-sharp-duotone fa-regular fa-ballot,Ballot,Sharp Duotone Regular
 meat,6,fa-duotone fa-meat,Meat,Duotone Solid
 video-arrow-down-left,8,fa-duotone fa-regular fa-video-arrow-down-left,Video Arrow Down Left,Duotone Regular
 file-mp4,6,fa-duotone fa-file-mp4,File Mp4,Duotone Solid

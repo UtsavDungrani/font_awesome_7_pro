@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-film-slash,22,fa-sharp fa-thin fa-film-slash,Film Slash,Sharp Thin
-arrow-down-square-triangle,3,fa-thin fa-arrow-down-square-triangle,Arrow Down Square Triangle,Thin
-mug-marshmallows,8,fa-duotone fa-regular fa-mug-marshmallows,Mug Marshmallows,Duotone Regular
-waves-sine,6,fa-duotone fa-waves-sine,Waves Sine,Duotone Solid
-face-expressionless,19,fa-sharp fa-light fa-face-expressionless,Face Expressionless,Sharp Light
-clapperboard-play,0,fa-solid fa-clapperboard-play,Clapperboard Play,Solid
-ship-large,23,fa-sharp-duotone fa-light fa-ship-large,Ship Large,Sharp Duotone Light
-file-plus-minus,24,fa-sharp-duotone fa-regular fa-file-plus-minus,File Plus Minus,Sharp Duotone Regular
-filter-circle-xmark,6,fa-duotone fa-filter-circle-xmark,Filter Circle Xmark,Duotone Solid
 engine,25,fa-sharp-duotone fa-solid fa-engine,Engine,Sharp Duotone Solid
 chain-horizontal,3,fa-thin fa-chain-horizontal,Chain Horizontal,Thin
 ballot-check,23,fa-sharp-duotone fa-light fa-ballot-check,Ballot Check,Sharp Duotone Light

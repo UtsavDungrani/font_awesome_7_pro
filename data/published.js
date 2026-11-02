@@ -4247,5 +4247,14 @@ window.FA_PUBLISHED = [
 "gramophone:3",
 "egg-fried:6",
 "triple-chevrons-right:0",
-"long-arrow-alt-up:20"
+"long-arrow-alt-up:20",
+"film-slash:22",
+"arrow-down-square-triangle:3",
+"mug-marshmallows:8",
+"waves-sine:6",
+"face-expressionless:19",
+"clapperboard-play:0",
+"ship-large:23",
+"file-plus-minus:24",
+"filter-circle-xmark:6"
 ];

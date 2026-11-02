@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chess-king,20,fa-sharp fa-regular fa-chess-king,Chess King,Sharp Regular
-arrow-left-to-dotted-line,7,fa-duotone fa-light fa-arrow-left-to-dotted-line,Arrow Left To Dotted Line,Duotone Light
-microphone-slash,3,fa-thin fa-microphone-slash,Microphone Slash,Thin
-face-melting,26,fa-sharp-duotone fa-thin fa-face-melting,Face Melting,Sharp Duotone Thin
-internet-archive,4,fa-brands fa-internet-archive,Internet Archive,Brands
-mosquito,20,fa-sharp fa-regular fa-mosquito,Mosquito,Sharp Regular
-reflect-vertical,23,fa-sharp-duotone fa-light fa-reflect-vertical,Reflect Vertical,Sharp Duotone Light
-calendar-edit,6,fa-duotone fa-calendar-edit,Calendar Edit,Duotone Solid
-brush,6,fa-duotone fa-brush,Brush,Duotone Solid
 dialpad,19,fa-sharp fa-light fa-dialpad,Dialpad,Sharp Light
 reel,6,fa-duotone fa-reel,Reel,Duotone Solid
 input-password,23,fa-sharp-duotone fa-light fa-input-password,Input Password,Sharp Duotone Light

@@ -4319,5 +4319,14 @@ window.FA_PUBLISHED = [
 "audio-description:26",
 "person-meditating:2",
 "cauldron:21",
-"candle-holder:22"
+"candle-holder:22",
+"chess-king:20",
+"arrow-left-to-dotted-line:7",
+"microphone-slash:3",
+"face-melting:26",
+"internet-archive:4",
+"mosquito:20",
+"reflect-vertical:23",
+"calendar-edit:6",
+"brush:6"
 ];

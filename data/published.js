@@ -4265,5 +4265,14 @@ window.FA_PUBLISHED = [
 "grill-fire:23",
 "layer-group:14",
 "hockey-puck:3",
-"clock-eleven-thirty:3"
+"clock-eleven-thirty:3",
+"head-side-goggles:24",
+"passport:20",
+"bowl-soft-serve:26",
+"computer-classic:3",
+"dot:8",
+"skull-cow:22",
+"grill:23",
+"construction:21",
+"blanket:22"
 ];

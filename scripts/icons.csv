@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-head-side-goggles,24,fa-sharp-duotone fa-regular fa-head-side-goggles,Head Side Goggles,Sharp Duotone Regular
-passport,20,fa-sharp fa-regular fa-passport,Passport,Sharp Regular
-bowl-soft-serve,26,fa-sharp-duotone fa-thin fa-bowl-soft-serve,Bowl Soft Serve,Sharp Duotone Thin
-computer-classic,3,fa-thin fa-computer-classic,Computer Classic,Thin
-dot,8,fa-duotone fa-regular fa-dot,Dot,Duotone Regular
-skull-cow,22,fa-sharp fa-thin fa-skull-cow,Skull Cow,Sharp Thin
-grill,23,fa-sharp-duotone fa-light fa-grill,Grill,Sharp Duotone Light
-construction,21,fa-sharp fa-solid fa-construction,Construction,Sharp Solid
-blanket,22,fa-sharp fa-thin fa-blanket,Blanket,Sharp Thin
 distribute-spacing-horizontal,9,fa-duotone fa-thin fa-distribute-spacing-horizontal,Distribute Spacing Horizontal,Duotone Thin
 camera,36,fa-whiteboard fa-semibold fa-camera,Camera,Whiteboard Semibold
 phone-missed,20,fa-sharp fa-regular fa-phone-missed,Phone Missed,Sharp Regular

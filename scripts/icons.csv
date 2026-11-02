@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tombstone,2,fa-light fa-tombstone,Tombstone,Light
-comment-alt,0,fa-solid fa-comment-alt,Comment Alt,Solid
-apartment,7,fa-duotone fa-light fa-apartment,Apartment,Duotone Light
-microphone-slash,2,fa-light fa-microphone-slash,Microphone Slash,Light
-file-half-dashed,1,fa-regular fa-file-half-dashed,File Half Dashed,Regular
-audio-description,26,fa-sharp-duotone fa-thin fa-audio-description,Audio Description,Sharp Duotone Thin
-person-meditating,2,fa-light fa-person-meditating,Person Meditating,Light
-cauldron,21,fa-sharp fa-solid fa-cauldron,Cauldron,Sharp Solid
-candle-holder,22,fa-sharp fa-thin fa-candle-holder,Candle Holder,Sharp Thin
 chess-king,20,fa-sharp fa-regular fa-chess-king,Chess King,Sharp Regular
 arrow-left-to-dotted-line,7,fa-duotone fa-light fa-arrow-left-to-dotted-line,Arrow Left To Dotted Line,Duotone Light
 microphone-slash,3,fa-thin fa-microphone-slash,Microphone Slash,Thin

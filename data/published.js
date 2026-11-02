@@ -4310,5 +4310,14 @@ window.FA_PUBLISHED = [
 "grid-round-4:22",
 "rod-asclepius:2",
 "snowflake-droplets:23",
-"plane-circle-xmark:20"
+"plane-circle-xmark:20",
+"tombstone:2",
+"comment-alt:0",
+"apartment:7",
+"microphone-slash:2",
+"file-half-dashed:1",
+"audio-description:26",
+"person-meditating:2",
+"cauldron:21",
+"candle-holder:22"
 ];

@@ -4220,5 +4220,14 @@ window.FA_PUBLISHED = [
 "calendar-users:7",
 "microphone-alt:26",
 "volume-down:8",
-"function:21"
+"function:21",
+"landmark:3",
+"arrow-rotate-right-30:1",
+"image-landscape:22",
+"expand-wide:0",
+"face-laugh-squint:20",
+"globe:25",
+"blanket-fire:2",
+"wrench:6",
+"bring-front:23"
 ];

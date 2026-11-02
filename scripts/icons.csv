@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-landmark,3,fa-thin fa-landmark,Landmark,Thin
-arrow-rotate-right-30,1,fa-regular fa-arrow-rotate-right-30,Arrow Rotate Right 30,Regular
-image-landscape,22,fa-sharp fa-thin fa-image-landscape,Image Landscape,Sharp Thin
-expand-wide,0,fa-solid fa-expand-wide,Expand Wide,Solid
-face-laugh-squint,20,fa-sharp fa-regular fa-face-laugh-squint,Face Laugh Squint,Sharp Regular
-globe,25,fa-sharp-duotone fa-solid fa-globe,Globe,Sharp Duotone Solid
-blanket-fire,2,fa-light fa-blanket-fire,Blanket Fire,Light
-wrench,6,fa-duotone fa-wrench,Wrench,Duotone Solid
-bring-front,23,fa-sharp-duotone fa-light fa-bring-front,Bring Front,Sharp Duotone Light
 crosshairs,0,fa-solid fa-crosshairs,Crosshairs,Solid
 gallery-thumbnails,24,fa-sharp-duotone fa-regular fa-gallery-thumbnails,Gallery Thumbnails,Sharp Duotone Regular
 comment-middle,22,fa-sharp fa-thin fa-comment-middle,Comment Middle,Sharp Thin

@@ -4211,5 +4211,14 @@ window.FA_PUBLISHED = [
 "shrimp:6",
 "bread-slice-butter:9",
 "transformer-bolt:1",
-"weight:20"
+"weight:20",
+"table-picnic:21",
+"subway-tunnel:9",
+"truck-plow:6",
+"bong:25",
+"boot-heeled:1",
+"calendar-users:7",
+"microphone-alt:26",
+"volume-down:8",
+"function:21"
 ];

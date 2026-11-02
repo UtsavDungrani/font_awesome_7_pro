@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-table-picnic,21,fa-sharp fa-solid fa-table-picnic,Table Picnic,Sharp Solid
-subway-tunnel,9,fa-duotone fa-thin fa-subway-tunnel,Subway Tunnel,Duotone Thin
-truck-plow,6,fa-duotone fa-truck-plow,Truck Plow,Duotone Solid
-bong,25,fa-sharp-duotone fa-solid fa-bong,Bong,Sharp Duotone Solid
-boot-heeled,1,fa-regular fa-boot-heeled,Boot Heeled,Regular
-calendar-users,7,fa-duotone fa-light fa-calendar-users,Calendar Users,Duotone Light
-microphone-alt,26,fa-sharp-duotone fa-thin fa-microphone-alt,Microphone Alt,Sharp Duotone Thin
-volume-down,8,fa-duotone fa-regular fa-volume-down,Volume Down,Duotone Regular
-function,21,fa-sharp fa-solid fa-function,Function,Sharp Solid
 landmark,3,fa-thin fa-landmark,Landmark,Thin
 arrow-rotate-right-30,1,fa-regular fa-arrow-rotate-right-30,Arrow Rotate Right 30,Regular
 image-landscape,22,fa-sharp fa-thin fa-image-landscape,Image Landscape,Sharp Thin

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-distribute-spacing-horizontal,9,fa-duotone fa-thin fa-distribute-spacing-horizontal,Distribute Spacing Horizontal,Duotone Thin
-camera,36,fa-whiteboard fa-semibold fa-camera,Camera,Whiteboard Semibold
-phone-missed,20,fa-sharp fa-regular fa-phone-missed,Phone Missed,Sharp Regular
-olive-branch,8,fa-duotone fa-regular fa-olive-branch,Olive Branch,Duotone Regular
-card-heart,2,fa-light fa-card-heart,Card Heart,Light
-arrow-alt-from-right,9,fa-duotone fa-thin fa-arrow-alt-from-right,Arrow Alt From Right,Duotone Thin
-chart-scatter-3d,25,fa-sharp-duotone fa-solid fa-chart-scatter-3d,Chart Scatter 3D,Sharp Duotone Solid
-dial-med-low,19,fa-sharp fa-light fa-dial-med-low,Dial Med Low,Sharp Light
-tape,0,fa-solid fa-tape,Tape,Solid
 forward-step,31,fa-thumbprint fa-light fa-forward-step,Forward Step,Thumbprint Light
 shipping-fast,3,fa-thin fa-shipping-fast,Shipping Fast,Thin
 truck-container,26,fa-sharp-duotone fa-thin fa-truck-container,Truck Container,Sharp Duotone Thin

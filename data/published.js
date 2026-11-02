@@ -4274,5 +4274,14 @@ window.FA_PUBLISHED = [
 "skull-cow:22",
 "grill:23",
 "construction:21",
-"blanket:22"
+"blanket:22",
+"distribute-spacing-horizontal:9",
+"camera:36",
+"phone-missed:20",
+"olive-branch:8",
+"card-heart:2",
+"arrow-alt-from-right:9",
+"chart-scatter-3d:25",
+"dial-med-low:19",
+"tape:0"
 ];

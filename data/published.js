@@ -4229,5 +4229,14 @@ window.FA_PUBLISHED = [
 "globe:25",
 "blanket-fire:2",
 "wrench:6",
-"bring-front:23"
+"bring-front:23",
+"crosshairs:0",
+"gallery-thumbnails:24",
+"comment-middle:22",
+"wifi:34",
+"venus-mars:26",
+"trash-arrow-up:6",
+"square-1:9",
+"rainbow:19",
+"cart-circle-check:6"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-crosshairs,0,fa-solid fa-crosshairs,Crosshairs,Solid
-gallery-thumbnails,24,fa-sharp-duotone fa-regular fa-gallery-thumbnails,Gallery Thumbnails,Sharp Duotone Regular
-comment-middle,22,fa-sharp fa-thin fa-comment-middle,Comment Middle,Sharp Thin
-wifi,34,fa-utility-fill fa-semibold fa-wifi,Wifi,Utility Fill Semibold
-venus-mars,26,fa-sharp-duotone fa-thin fa-venus-mars,Venus Mars,Sharp Duotone Thin
-trash-arrow-up,6,fa-duotone fa-trash-arrow-up,Trash Arrow Up,Duotone Solid
-square-1,9,fa-duotone fa-thin fa-square-1,Square 1,Duotone Thin
-rainbow,19,fa-sharp fa-light fa-rainbow,Rainbow,Sharp Light
-cart-circle-check,6,fa-duotone fa-cart-circle-check,Cart Circle Check,Duotone Solid
 circle-turkish-lira,26,fa-sharp-duotone fa-thin fa-circle-turkish-lira,Circle Turkish Lira,Sharp Duotone Thin
 face-grin-beam,26,fa-sharp-duotone fa-thin fa-face-grin-beam,Face Grin Beam,Sharp Duotone Thin
 video-slash,3,fa-thin fa-video-slash,Video Slash,Thin

@@ -4256,5 +4256,14 @@ window.FA_PUBLISHED = [
 "clapperboard-play:0",
 "ship-large:23",
 "file-plus-minus:24",
-"filter-circle-xmark:6"
+"filter-circle-xmark:6",
+"engine:25",
+"chain-horizontal:3",
+"ballot-check:23",
+"turtle:26",
+"square-user:2",
+"grill-fire:23",
+"layer-group:14",
+"hockey-puck:3",
+"clock-eleven-thirty:3"
 ];

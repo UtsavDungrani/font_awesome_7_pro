@@ -4238,5 +4238,14 @@ window.FA_PUBLISHED = [
 "trash-arrow-up:6",
 "square-1:9",
 "rainbow:19",
-"cart-circle-check:6"
+"cart-circle-check:6",
+"circle-turkish-lira:26",
+"face-grin-beam:26",
+"video-slash:3",
+"file-midi:23",
+"bars-progress:21",
+"gramophone:3",
+"egg-fried:6",
+"triple-chevrons-right:0",
+"long-arrow-alt-up:20"
 ];

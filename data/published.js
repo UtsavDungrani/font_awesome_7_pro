@@ -4301,5 +4301,14 @@ window.FA_PUBLISHED = [
 "lock-hashtag:23",
 "bed:36",
 "gopuram:22",
-"filter-slash:0"
+"filter-slash:0",
+"burst-new:26",
+"automobile:6",
+"square-franc:20",
+"house-person-arrive:9",
+"axe-battle:1",
+"grid-round-4:22",
+"rod-asclepius:2",
+"snowflake-droplets:23",
+"plane-circle-xmark:20"
 ];

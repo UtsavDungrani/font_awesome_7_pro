@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-burst-new,26,fa-sharp-duotone fa-thin fa-burst-new,Burst New,Sharp Duotone Thin
-automobile,6,fa-duotone fa-automobile,Automobile,Duotone Solid
-square-franc,20,fa-sharp fa-regular fa-square-franc,Square Franc,Sharp Regular
-house-person-arrive,9,fa-duotone fa-thin fa-house-person-arrive,House Person Arrive,Duotone Thin
-axe-battle,1,fa-regular fa-axe-battle,Axe Battle,Regular
-grid-round-4,22,fa-sharp fa-thin fa-grid-round-4,Grid Round 4,Sharp Thin
-rod-asclepius,2,fa-light fa-rod-asclepius,Rod Asclepius,Light
-snowflake-droplets,23,fa-sharp-duotone fa-light fa-snowflake-droplets,Snowflake Droplets,Sharp Duotone Light
-plane-circle-xmark,20,fa-sharp fa-regular fa-plane-circle-xmark,Plane Circle Xmark,Sharp Regular
 tombstone,2,fa-light fa-tombstone,Tombstone,Light
 comment-alt,0,fa-solid fa-comment-alt,Comment Alt,Solid
 apartment,7,fa-duotone fa-light fa-apartment,Apartment,Duotone Light

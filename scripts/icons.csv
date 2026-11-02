@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dialpad,19,fa-sharp fa-light fa-dialpad,Dialpad,Sharp Light
-reel,6,fa-duotone fa-reel,Reel,Duotone Solid
-input-password,23,fa-sharp-duotone fa-light fa-input-password,Input Password,Sharp Duotone Light
-comment-alt-medical,9,fa-duotone fa-thin fa-comment-alt-medical,Comment Alt Medical,Duotone Thin
-flask-potion,7,fa-duotone fa-light fa-flask-potion,Flask Potion,Duotone Light
-mailbox-flag-up,1,fa-regular fa-mailbox-flag-up,Mailbox Flag Up,Regular
-clock-eleven-thirty,19,fa-sharp fa-light fa-clock-eleven-thirty,Clock Eleven Thirty,Sharp Light
-face-sunglasses,20,fa-sharp fa-regular fa-face-sunglasses,Face Sunglasses,Sharp Regular
-less-than,2,fa-light fa-less-than,Less Than,Light
 file-invoice-dollar,21,fa-sharp fa-solid fa-file-invoice-dollar,File Invoice Dollar,Sharp Solid
 tent-arrow-down-to-line,20,fa-sharp fa-regular fa-tent-arrow-down-to-line,Tent Arrow Down To Line,Sharp Regular
 lungs,23,fa-sharp-duotone fa-light fa-lungs,Lungs,Sharp Duotone Light

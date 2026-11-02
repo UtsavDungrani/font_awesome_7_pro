@@ -4328,5 +4328,14 @@ window.FA_PUBLISHED = [
 "mosquito:20",
 "reflect-vertical:23",
 "calendar-edit:6",
-"brush:6"
+"brush:6",
+"dialpad:19",
+"reel:6",
+"input-password:23",
+"comment-alt-medical:9",
+"flask-potion:7",
+"mailbox-flag-up:1",
+"clock-eleven-thirty:19",
+"face-sunglasses:20",
+"less-than:2"
 ];

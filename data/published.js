@@ -4292,5 +4292,14 @@ window.FA_PUBLISHED = [
 "assistive-listening-systems:22",
 "table-columns-remove-after:8",
 "tent:6",
-"ballot:24"
+"ballot:24",
+"meat:6",
+"video-arrow-down-left:8",
+"file-mp4:6",
+"arrow-up-long-to-line:8",
+"arrow-down-left-and-arrow-up-right-to-center:7",
+"lock-hashtag:23",
+"bed:36",
+"gopuram:22",
+"filter-slash:0"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-meat,6,fa-duotone fa-meat,Meat,Duotone Solid
-video-arrow-down-left,8,fa-duotone fa-regular fa-video-arrow-down-left,Video Arrow Down Left,Duotone Regular
-file-mp4,6,fa-duotone fa-file-mp4,File Mp4,Duotone Solid
-arrow-up-long-to-line,8,fa-duotone fa-regular fa-arrow-up-long-to-line,Arrow Up Long To Line,Duotone Regular
-arrow-down-left-and-arrow-up-right-to-center,7,fa-duotone fa-light fa-arrow-down-left-and-arrow-up-right-to-center,Arrow Down Left And Arrow Up Right To Center,Duotone Light
-lock-hashtag,23,fa-sharp-duotone fa-light fa-lock-hashtag,Lock Hashtag,Sharp Duotone Light
-bed,36,fa-whiteboard fa-semibold fa-bed,Bed,Whiteboard Semibold
-gopuram,22,fa-sharp fa-thin fa-gopuram,Gopuram,Sharp Thin
-filter-slash,0,fa-solid fa-filter-slash,Filter Slash,Solid
 burst-new,26,fa-sharp-duotone fa-thin fa-burst-new,Burst New,Sharp Duotone Thin
 automobile,6,fa-duotone fa-automobile,Automobile,Duotone Solid
 square-franc,20,fa-sharp fa-regular fa-square-franc,Square Franc,Sharp Regular

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-forward,22,fa-sharp fa-thin fa-forward,Forward,Sharp Thin
-notdef,0,fa-solid fa-notdef,Notdef,Solid
-comment-alt-minus,26,fa-sharp-duotone fa-thin fa-comment-alt-minus,Comment Alt Minus,Sharp Duotone Thin
-truck-bolt,2,fa-light fa-truck-bolt,Truck Bolt,Light
-pinball,0,fa-solid fa-pinball,Pinball,Solid
-circle-rupee,19,fa-sharp fa-light fa-circle-rupee,Circle Rupee,Sharp Light
-beer,7,fa-duotone fa-light fa-beer,Beer,Duotone Light
-wifi-2,7,fa-duotone fa-light fa-wifi-2,Wifi 2,Duotone Light
-walker,19,fa-sharp fa-light fa-walker,Walker,Sharp Light
 objects-align-center-horizontal,0,fa-solid fa-objects-align-center-horizontal,Objects Align Center Horizontal,Solid
 arrow-left-from-dotted-line,8,fa-duotone fa-regular fa-arrow-left-from-dotted-line,Arrow Left From Dotted Line,Duotone Regular
 2,21,fa-sharp fa-solid fa-2,2,Sharp Solid

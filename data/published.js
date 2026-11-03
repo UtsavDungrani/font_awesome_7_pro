@@ -4427,5 +4427,14 @@ window.FA_PUBLISHED = [
 "arrow-up-to-arc:22",
 "square-half-horizontal:24",
 "truck:6",
-"accent-grave:0"
+"accent-grave:0",
+"forward:22",
+"notdef:0",
+"comment-alt-minus:26",
+"truck-bolt:2",
+"pinball:0",
+"circle-rupee:19",
+"beer:7",
+"wifi-2:7",
+"walker:19"
 ];

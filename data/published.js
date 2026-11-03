@@ -4418,5 +4418,14 @@ window.FA_PUBLISHED = [
 "compress-alt:23",
 "comma:6",
 "stop:7",
-"key:28"
+"key:28",
+"gift:26",
+"tower-cell:7",
+"envelope-open-dollar:0",
+"signal-stream:22",
+"fire-hydrant:6",
+"arrow-up-to-arc:22",
+"square-half-horizontal:24",
+"truck:6",
+"accent-grave:0"
 ];

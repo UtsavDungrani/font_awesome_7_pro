@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-music,12,fa-jelly fa-regular fa-music,Music,Jelly Regular
-diamond-turn-right,8,fa-duotone fa-regular fa-diamond-turn-right,Diamond Turn Right,Duotone Regular
-face-raised-eyebrow,21,fa-sharp fa-solid fa-face-raised-eyebrow,Face Raised Eyebrow,Sharp Solid
-chart-sine,2,fa-light fa-chart-sine,Chart Sine,Light
-circle-rupee,23,fa-sharp-duotone fa-light fa-circle-rupee,Circle Rupee,Sharp Duotone Light
-spider,22,fa-sharp fa-thin fa-spider,Spider,Sharp Thin
-apple-crate,21,fa-sharp fa-solid fa-apple-crate,Apple Crate,Sharp Solid
-face-smile-plus,23,fa-sharp-duotone fa-light fa-face-smile-plus,Face Smile Plus,Sharp Duotone Light
-gas-pump-right,20,fa-sharp fa-regular fa-gas-pump-right,Gas Pump Right,Sharp Regular
 circle-baht,1,fa-regular fa-circle-baht,Circle Baht,Regular
 mobile-signal,23,fa-sharp-duotone fa-light fa-mobile-signal,Mobile Signal,Sharp Duotone Light
 user-tag,6,fa-duotone fa-user-tag,User Tag,Duotone Solid

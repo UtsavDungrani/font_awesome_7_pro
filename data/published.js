@@ -4382,5 +4382,14 @@ window.FA_PUBLISHED = [
 "mosque:1",
 "virus-covid-slash:25",
 "gem:24",
-"draw-circle:19"
+"draw-circle:19",
+"music:12",
+"diamond-turn-right:8",
+"face-raised-eyebrow:21",
+"chart-sine:2",
+"circle-rupee:23",
+"spider:22",
+"apple-crate:21",
+"face-smile-plus:23",
+"gas-pump-right:20"
 ];

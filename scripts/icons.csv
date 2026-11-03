@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-screencast,0,fa-solid fa-screencast,Screencast,Solid
-violin,1,fa-regular fa-violin,Violin,Regular
-face-vomit,21,fa-sharp fa-solid fa-face-vomit,Face Vomit,Sharp Solid
-drivers-license,1,fa-regular fa-drivers-license,Drivers License,Regular
-folder-image,19,fa-sharp fa-light fa-folder-image,Folder Image,Sharp Light
-image,26,fa-sharp-duotone fa-thin fa-image,Image,Sharp Duotone Thin
-mars,22,fa-sharp fa-thin fa-mars,Mars,Sharp Thin
-moon-waning-gibbous-inverse,2,fa-light fa-moon-waning-gibbous-inverse,Moon Waning Gibbous Inverse,Light
-comment-question,9,fa-duotone fa-thin fa-comment-question,Comment Question,Duotone Thin
 square-turkish-lira,8,fa-duotone fa-regular fa-square-turkish-lira,Square Turkish Lira,Duotone Regular
 axe-battle,22,fa-sharp fa-thin fa-axe-battle,Axe Battle,Sharp Thin
 laptop-arrow-down,25,fa-sharp-duotone fa-solid fa-laptop-arrow-down,Laptop Arrow Down,Sharp Duotone Solid

@@ -4400,5 +4400,14 @@ window.FA_PUBLISHED = [
 "moon-cloud:1",
 "terminal:8",
 "mountain-sun:24",
-"face-tired:0"
+"face-tired:0",
+"screencast:0",
+"violin:1",
+"face-vomit:21",
+"drivers-license:1",
+"folder-image:19",
+"image:26",
+"mars:22",
+"moon-waning-gibbous-inverse:2",
+"comment-question:9"
 ];

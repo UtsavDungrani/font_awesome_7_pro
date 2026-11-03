@@ -4409,5 +4409,14 @@ window.FA_PUBLISHED = [
 "image:26",
 "mars:22",
 "moon-waning-gibbous-inverse:2",
-"comment-question:9"
+"comment-question:9",
+"square-turkish-lira:8",
+"axe-battle:22",
+"laptop-arrow-down:25",
+"rectangle-video-on-demand:0",
+"crutch:24",
+"compress-alt:23",
+"comma:6",
+"stop:7",
+"key:28"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-turkish-lira,8,fa-duotone fa-regular fa-square-turkish-lira,Square Turkish Lira,Duotone Regular
-axe-battle,22,fa-sharp fa-thin fa-axe-battle,Axe Battle,Sharp Thin
-laptop-arrow-down,25,fa-sharp-duotone fa-solid fa-laptop-arrow-down,Laptop Arrow Down,Sharp Duotone Solid
-rectangle-video-on-demand,0,fa-solid fa-rectangle-video-on-demand,Rectangle Video On Demand,Solid
-crutch,24,fa-sharp-duotone fa-regular fa-crutch,Crutch,Sharp Duotone Regular
-compress-alt,23,fa-sharp-duotone fa-light fa-compress-alt,Compress Alt,Sharp Duotone Light
-comma,6,fa-duotone fa-comma,Comma,Duotone Solid
-stop,7,fa-duotone fa-light fa-stop,Stop,Duotone Light
-key,28,fa-slab-duo fa-regular fa-key,Key,Slab Duo Regular
 gift,26,fa-sharp-duotone fa-thin fa-gift,Gift,Sharp Duotone Thin
 tower-cell,7,fa-duotone fa-light fa-tower-cell,Tower Cell,Duotone Light
 envelope-open-dollar,0,fa-solid fa-envelope-open-dollar,Envelope Open Dollar,Solid

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-table-picnic,25,fa-sharp-duotone fa-solid fa-table-picnic,Table Picnic,Sharp Duotone Solid
-person-swimming-pool,26,fa-sharp-duotone fa-thin fa-person-swimming-pool,Person Swimming Pool,Sharp Duotone Thin
-battery-car,21,fa-sharp fa-solid fa-battery-car,Battery Car,Sharp Solid
-not-equal,0,fa-solid fa-not-equal,Not Equal,Solid
-mp3-player,24,fa-sharp-duotone fa-regular fa-mp3-player,Mp3 Player,Sharp Duotone Regular
-house-chimney-window,23,fa-sharp-duotone fa-light fa-house-chimney-window,House Chimney Window,Sharp Duotone Light
-router,2,fa-light fa-router,Router,Light
-terminal,7,fa-duotone fa-light fa-terminal,Terminal,Duotone Light
-compress,23,fa-sharp-duotone fa-light fa-compress,Compress,Sharp Duotone Light
 circle-exclamation,24,fa-sharp-duotone fa-regular fa-circle-exclamation,Circle Exclamation,Sharp Duotone Regular
 file-signature,23,fa-sharp-duotone fa-light fa-file-signature,File Signature,Sharp Duotone Light
 group-arrows-rotate,9,fa-duotone fa-thin fa-group-arrows-rotate,Group Arrows Rotate,Duotone Thin

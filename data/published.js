@@ -4364,5 +4364,14 @@ window.FA_PUBLISHED = [
 "stopwatch:2",
 "head-side-heart:23",
 "male:20",
-"road-lock:19"
+"road-lock:19",
+"table-picnic:25",
+"person-swimming-pool:26",
+"battery-car:21",
+"not-equal:0",
+"mp3-player:24",
+"house-chimney-window:23",
+"router:2",
+"terminal:7",
+"compress:23"
 ];

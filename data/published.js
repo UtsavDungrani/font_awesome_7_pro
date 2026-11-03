@@ -4373,5 +4373,14 @@ window.FA_PUBLISHED = [
 "house-chimney-window:23",
 "router:2",
 "terminal:7",
-"compress:23"
+"compress:23",
+"circle-exclamation:24",
+"file-signature:23",
+"group-arrows-rotate:9",
+"wand-sparkles:22",
+"pencil:27",
+"mosque:1",
+"virus-covid-slash:25",
+"gem:24",
+"draw-circle:19"
 ];

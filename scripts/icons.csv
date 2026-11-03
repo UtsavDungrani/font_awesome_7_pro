@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-exclamation,24,fa-sharp-duotone fa-regular fa-circle-exclamation,Circle Exclamation,Sharp Duotone Regular
-file-signature,23,fa-sharp-duotone fa-light fa-file-signature,File Signature,Sharp Duotone Light
-group-arrows-rotate,9,fa-duotone fa-thin fa-group-arrows-rotate,Group Arrows Rotate,Duotone Thin
-wand-sparkles,22,fa-sharp fa-thin fa-wand-sparkles,Wand Sparkles,Sharp Thin
-pencil,27,fa-slab fa-regular fa-pencil,Pencil,Slab Regular
-mosque,1,fa-regular fa-mosque,Mosque,Regular
-virus-covid-slash,25,fa-sharp-duotone fa-solid fa-virus-covid-slash,Virus Covid Slash,Sharp Duotone Solid
-gem,24,fa-sharp-duotone fa-regular fa-gem,Gem,Sharp Duotone Regular
-draw-circle,19,fa-sharp fa-light fa-draw-circle,Draw Circle,Sharp Light
 music,12,fa-jelly fa-regular fa-music,Music,Jelly Regular
 diamond-turn-right,8,fa-duotone fa-regular fa-diamond-turn-right,Diamond Turn Right,Duotone Regular
 face-raised-eyebrow,21,fa-sharp fa-solid fa-face-raised-eyebrow,Face Raised Eyebrow,Sharp Solid

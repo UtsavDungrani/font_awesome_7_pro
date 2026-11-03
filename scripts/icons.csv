@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-box-alt,1,fa-regular fa-box-alt,Box Alt,Regular
-face-tired,8,fa-duotone fa-regular fa-face-tired,Face Tired,Duotone Regular
-skull,25,fa-sharp-duotone fa-solid fa-skull,Skull,Sharp Duotone Solid
-camcorder,25,fa-sharp-duotone fa-solid fa-camcorder,Camcorder,Sharp Duotone Solid
-ellipsis-stroke-vertical,9,fa-duotone fa-thin fa-ellipsis-stroke-vertical,Ellipsis Stroke Vertical,Duotone Thin
-stopwatch,2,fa-light fa-stopwatch,Stopwatch,Light
-head-side-heart,23,fa-sharp-duotone fa-light fa-head-side-heart,Head Side Heart,Sharp Duotone Light
-male,20,fa-sharp fa-regular fa-male,Male,Sharp Regular
-road-lock,19,fa-sharp fa-light fa-road-lock,Road Lock,Sharp Light
 table-picnic,25,fa-sharp-duotone fa-solid fa-table-picnic,Table Picnic,Sharp Duotone Solid
 person-swimming-pool,26,fa-sharp-duotone fa-thin fa-person-swimming-pool,Person Swimming Pool,Sharp Duotone Thin
 battery-car,21,fa-sharp fa-solid fa-battery-car,Battery Car,Sharp Solid

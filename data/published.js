@@ -4355,5 +4355,14 @@ window.FA_PUBLISHED = [
 "files:21",
 "pants-straight:26",
 "camera-web-slash:26",
-"trash-can-arrow-turn-left:25"
+"trash-can-arrow-turn-left:25",
+"box-alt:1",
+"face-tired:8",
+"skull:25",
+"camcorder:25",
+"ellipsis-stroke-vertical:9",
+"stopwatch:2",
+"head-side-heart:23",
+"male:20",
+"road-lock:19"
 ];

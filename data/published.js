@@ -4436,5 +4436,14 @@ window.FA_PUBLISHED = [
 "circle-rupee:19",
 "beer:7",
 "wifi-2:7",
-"walker:19"
+"walker:19",
+"objects-align-center-horizontal:0",
+"arrow-left-from-dotted-line:8",
+"2:21",
+"toothbrush:21",
+"envelopes-bulk:2",
+"flower:30",
+"shield-cat:9",
+"file-arrow-up:3",
+"face-smile-beam:1"
 ];

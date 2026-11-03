@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-baht,1,fa-regular fa-circle-baht,Circle Baht,Regular
-mobile-signal,23,fa-sharp-duotone fa-light fa-mobile-signal,Mobile Signal,Sharp Duotone Light
-user-tag,6,fa-duotone fa-user-tag,User Tag,Duotone Solid
-user-dashed,23,fa-sharp-duotone fa-light fa-user-dashed,User Dashed,Sharp Duotone Light
-arrow-alt-to-left,20,fa-sharp fa-regular fa-arrow-alt-to-left,Arrow Alt To Left,Sharp Regular
-moon-cloud,1,fa-regular fa-moon-cloud,Moon Cloud,Regular
-terminal,8,fa-duotone fa-regular fa-terminal,Terminal,Duotone Regular
-mountain-sun,24,fa-sharp-duotone fa-regular fa-mountain-sun,Mountain Sun,Sharp Duotone Regular
-face-tired,0,fa-solid fa-face-tired,Face Tired,Solid
 screencast,0,fa-solid fa-screencast,Screencast,Solid
 violin,1,fa-regular fa-violin,Violin,Regular
 face-vomit,21,fa-sharp fa-solid fa-face-vomit,Face Vomit,Sharp Solid

@@ -4391,5 +4391,14 @@ window.FA_PUBLISHED = [
 "spider:22",
 "apple-crate:21",
 "face-smile-plus:23",
-"gas-pump-right:20"
+"gas-pump-right:20",
+"circle-baht:1",
+"mobile-signal:23",
+"user-tag:6",
+"user-dashed:23",
+"arrow-alt-to-left:20",
+"moon-cloud:1",
+"terminal:8",
+"mountain-sun:24",
+"face-tired:0"
 ];

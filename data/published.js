@@ -4337,5 +4337,14 @@ window.FA_PUBLISHED = [
 "mailbox-flag-up:1",
 "clock-eleven-thirty:19",
 "face-sunglasses:20",
-"less-than:2"
+"less-than:2",
+"file-invoice-dollar:21",
+"tent-arrow-down-to-line:20",
+"lungs:23",
+"sun-dust:7",
+"dial-max:9",
+"forward-step:36",
+"narwhal:26",
+"unicorn:9",
+"sensor:21"
 ];

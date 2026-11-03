@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-invoice-dollar,21,fa-sharp fa-solid fa-file-invoice-dollar,File Invoice Dollar,Sharp Solid
-tent-arrow-down-to-line,20,fa-sharp fa-regular fa-tent-arrow-down-to-line,Tent Arrow Down To Line,Sharp Regular
-lungs,23,fa-sharp-duotone fa-light fa-lungs,Lungs,Sharp Duotone Light
-sun-dust,7,fa-duotone fa-light fa-sun-dust,Sun Dust,Duotone Light
-dial-max,9,fa-duotone fa-thin fa-dial-max,Dial Max,Duotone Thin
-forward-step,36,fa-whiteboard fa-semibold fa-forward-step,Forward Step,Whiteboard Semibold
-narwhal,26,fa-sharp-duotone fa-thin fa-narwhal,Narwhal,Sharp Duotone Thin
-unicorn,9,fa-duotone fa-thin fa-unicorn,Unicorn,Duotone Thin
-sensor,21,fa-sharp fa-solid fa-sensor,Sensor,Sharp Solid
 traffic-light-slow,6,fa-duotone fa-traffic-light-slow,Traffic Light Slow,Duotone Solid
 circle-sort-down,8,fa-duotone fa-regular fa-circle-sort-down,Circle Sort Down,Duotone Regular
 om,20,fa-sharp fa-regular fa-om,Om,Sharp Regular

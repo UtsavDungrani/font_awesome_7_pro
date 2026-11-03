@@ -4346,5 +4346,14 @@ window.FA_PUBLISHED = [
 "forward-step:36",
 "narwhal:26",
 "unicorn:9",
-"sensor:21"
+"sensor:21",
+"traffic-light-slow:6",
+"circle-sort-down:8",
+"om:20",
+"jug-bottle:24",
+"user-cog:9",
+"files:21",
+"pants-straight:26",
+"camera-web-slash:26",
+"trash-can-arrow-turn-left:25"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-traffic-light-slow,6,fa-duotone fa-traffic-light-slow,Traffic Light Slow,Duotone Solid
-circle-sort-down,8,fa-duotone fa-regular fa-circle-sort-down,Circle Sort Down,Duotone Regular
-om,20,fa-sharp fa-regular fa-om,Om,Sharp Regular
-jug-bottle,24,fa-sharp-duotone fa-regular fa-jug-bottle,Jug Bottle,Sharp Duotone Regular
-user-cog,9,fa-duotone fa-thin fa-user-cog,User Cog,Duotone Thin
-files,21,fa-sharp fa-solid fa-files,Files,Sharp Solid
-pants-straight,26,fa-sharp-duotone fa-thin fa-pants-straight,Pants Straight,Sharp Duotone Thin
-camera-web-slash,26,fa-sharp-duotone fa-thin fa-camera-web-slash,Camera Web Slash,Sharp Duotone Thin
-trash-can-arrow-turn-left,25,fa-sharp-duotone fa-solid fa-trash-can-arrow-turn-left,Trash Can Arrow Turn Left,Sharp Duotone Solid
 box-alt,1,fa-regular fa-box-alt,Box Alt,Regular
 face-tired,8,fa-duotone fa-regular fa-face-tired,Face Tired,Duotone Regular
 skull,25,fa-sharp-duotone fa-solid fa-skull,Skull,Sharp Duotone Solid

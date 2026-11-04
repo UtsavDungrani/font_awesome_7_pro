@@ -4571,5 +4571,14 @@ window.FA_PUBLISHED = [
 "dreidel:25",
 "truck-moving:20",
 "tombstone:22",
-"square-naira:7"
+"square-naira:7",
+"fire-alt:23",
+"bar-progress-full:22",
+"octagon-plus:22",
+"magic:1",
+"face-cowboy-hat:23",
+"power-off:21",
+"seat-airline-window:26",
+"subtitles-slash:23",
+"mobile-signal:3"
 ];

@@ -4553,5 +4553,14 @@ window.FA_PUBLISHED = [
 "clipboard-clock:26",
 "quotes:35",
 "arrow-down-small-big:6",
-"hourglass-1:21"
+"hourglass-1:21",
+"nfc-trash:1",
+"scanner:6",
+"circle-wifi:22",
+"line-height:26",
+"file-mp3:21",
+"u:26",
+"comment-arrow-up-right:21",
+"flower:14",
+"shield-alt:20"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-nfc-trash,1,fa-regular fa-nfc-trash,Nfc Trash,Regular
-scanner,6,fa-duotone fa-scanner,Scanner,Duotone Solid
-circle-wifi,22,fa-sharp fa-thin fa-circle-wifi,Circle Wifi,Sharp Thin
-line-height,26,fa-sharp-duotone fa-thin fa-line-height,Line Height,Sharp Duotone Thin
-file-mp3,21,fa-sharp fa-solid fa-file-mp3,File Mp3,Sharp Solid
-u,26,fa-sharp-duotone fa-thin fa-u,U,Sharp Duotone Thin
-comment-arrow-up-right,21,fa-sharp fa-solid fa-comment-arrow-up-right,Comment Arrow Up Right,Sharp Solid
-flower,14,fa-jelly-fill fa-regular fa-flower,Flower,Jelly Fill Regular
-shield-alt,20,fa-sharp fa-regular fa-shield-alt,Shield Alt,Sharp Regular
 camera-clock,1,fa-regular fa-camera-clock,Camera Clock,Regular
 amp-guitar,6,fa-duotone fa-amp-guitar,Amp Guitar,Duotone Solid
 coffee-togo,22,fa-sharp fa-thin fa-coffee-togo,Coffee Togo,Sharp Thin

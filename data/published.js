@@ -4535,5 +4535,14 @@ window.FA_PUBLISHED = [
 "reflect-both:7",
 "redo-alt:9",
 "train-tunnel:7",
-"square-peseta:7"
+"square-peseta:7",
+"filter:34",
+"clock-eleven-thirty:8",
+"arrow-left-to-dotted-line:1",
+"rectangle-history:9",
+"heart:2",
+"laptop-binary:0",
+"box-magnifying-glass:21",
+"notes-sticky:24",
+"opossum:21"
 ];

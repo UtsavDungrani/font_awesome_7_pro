@@ -4454,5 +4454,14 @@ window.FA_PUBLISHED = [
 "nfc-signal:23",
 "sax-hot:21",
 "transporter-4:1",
-"comment-alt-times:6"
+"comment-alt-times:6",
+"heart-half:8",
+"hat-santa:23",
+"car-alt:23",
+"cut:14",
+"comment-dot:26",
+"sticker-mule:4",
+"underline:26",
+"greater-than-equal:26",
+"file-caret-down:20"
 ];

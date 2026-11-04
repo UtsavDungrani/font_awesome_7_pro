@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-heart-half,8,fa-duotone fa-regular fa-heart-half,Heart Half,Duotone Regular
-hat-santa,23,fa-sharp-duotone fa-light fa-hat-santa,Hat Santa,Sharp Duotone Light
-car-alt,23,fa-sharp-duotone fa-light fa-car-alt,Car Alt,Sharp Duotone Light
-cut,14,fa-jelly-fill fa-regular fa-cut,Cut,Jelly Fill Regular
-comment-dot,26,fa-sharp-duotone fa-thin fa-comment-dot,Comment Dot,Sharp Duotone Thin
-sticker-mule,4,fa-brands fa-sticker-mule,Sticker Mule,Brands
-underline,26,fa-sharp-duotone fa-thin fa-underline,Underline,Sharp Duotone Thin
-greater-than-equal,26,fa-sharp-duotone fa-thin fa-greater-than-equal,Greater Than Equal,Sharp Duotone Thin
-file-caret-down,20,fa-sharp fa-regular fa-file-caret-down,File Caret Down,Sharp Regular
 teddy-bear,7,fa-duotone fa-light fa-teddy-bear,Teddy Bear,Duotone Light
 user-tie,21,fa-sharp fa-solid fa-user-tie,User Tie,Sharp Solid
 poll,19,fa-sharp fa-light fa-poll,Poll,Sharp Light

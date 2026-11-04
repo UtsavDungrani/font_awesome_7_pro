@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-camera-clock,1,fa-regular fa-camera-clock,Camera Clock,Regular
-amp-guitar,6,fa-duotone fa-amp-guitar,Amp Guitar,Duotone Solid
-coffee-togo,22,fa-sharp fa-thin fa-coffee-togo,Coffee Togo,Sharp Thin
-arrow-right-to-line,7,fa-duotone fa-light fa-arrow-right-to-line,Arrow Right To Line,Duotone Light
-moon,7,fa-duotone fa-light fa-moon,Moon,Duotone Light
-dreidel,25,fa-sharp-duotone fa-solid fa-dreidel,Dreidel,Sharp Duotone Solid
-truck-moving,20,fa-sharp fa-regular fa-truck-moving,Truck Moving,Sharp Regular
-tombstone,22,fa-sharp fa-thin fa-tombstone,Tombstone,Sharp Thin
-square-naira,7,fa-duotone fa-light fa-square-naira,Square Naira,Duotone Light
 fire-alt,23,fa-sharp-duotone fa-light fa-fire-alt,Fire Alt,Sharp Duotone Light
 bar-progress-full,22,fa-sharp fa-thin fa-bar-progress-full,Bar Progress Full,Sharp Thin
 octagon-plus,22,fa-sharp fa-thin fa-octagon-plus,Octagon Plus,Sharp Thin

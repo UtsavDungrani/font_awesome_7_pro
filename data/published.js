@@ -4562,5 +4562,14 @@ window.FA_PUBLISHED = [
 "u:26",
 "comment-arrow-up-right:21",
 "flower:14",
-"shield-alt:20"
+"shield-alt:20",
+"camera-clock:1",
+"amp-guitar:6",
+"coffee-togo:22",
+"arrow-right-to-line:7",
+"moon:7",
+"dreidel:25",
+"truck-moving:20",
+"tombstone:22",
+"square-naira:7"
 ];

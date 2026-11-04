@@ -4481,5 +4481,14 @@ window.FA_PUBLISHED = [
 "field-hockey:25",
 "face-grin-beam-sweat:0",
 "utility-pole:21",
-"thumb-tack:8"
+"thumb-tack:8",
+"trailer:0",
+"circles-overlap:7",
+"aquarius:22",
+"paw:14",
+"meter-bolt:20",
+"suitcase:17",
+"face-unamused:6",
+"taxi-bus:2",
+"home-heart:7"
 ];

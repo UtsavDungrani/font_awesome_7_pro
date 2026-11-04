@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trailer,0,fa-solid fa-trailer,Trailer,Solid
-circles-overlap,7,fa-duotone fa-light fa-circles-overlap,Circles Overlap,Duotone Light
-aquarius,22,fa-sharp fa-thin fa-aquarius,Aquarius,Sharp Thin
-paw,14,fa-jelly-fill fa-regular fa-paw,Paw,Jelly Fill Regular
-meter-bolt,20,fa-sharp fa-regular fa-meter-bolt,Meter Bolt,Sharp Regular
-suitcase,17,fa-notdog-duo fa-solid fa-suitcase,Suitcase,Notdog Duo Solid
-face-unamused,6,fa-duotone fa-face-unamused,Face Unamused,Duotone Solid
-taxi-bus,2,fa-light fa-taxi-bus,Taxi Bus,Light
-home-heart,7,fa-duotone fa-light fa-home-heart,Home Heart,Duotone Light
 face-monocle,23,fa-sharp-duotone fa-light fa-face-monocle,Face Monocle,Sharp Duotone Light
 cloud-snow,8,fa-duotone fa-regular fa-cloud-snow,Cloud Snow,Duotone Regular
 grill-fire,21,fa-sharp fa-solid fa-grill-fire,Grill Fire,Sharp Solid

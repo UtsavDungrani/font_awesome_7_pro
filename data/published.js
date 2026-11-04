@@ -4544,5 +4544,14 @@ window.FA_PUBLISHED = [
 "laptop-binary:0",
 "box-magnifying-glass:21",
 "notes-sticky:24",
-"opossum:21"
+"opossum:21",
+"up-long-to-line:6",
+"hand-fingers-crossed:21",
+"display-chart-up-circle-currency:0",
+"hand-back-point-down:8",
+"camera-cctv:22",
+"clipboard-clock:26",
+"quotes:35",
+"arrow-down-small-big:6",
+"hourglass-1:21"
 ];

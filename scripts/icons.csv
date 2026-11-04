@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-up-long-to-line,6,fa-duotone fa-up-long-to-line,Up Long To Line,Duotone Solid
-hand-fingers-crossed,21,fa-sharp fa-solid fa-hand-fingers-crossed,Hand Fingers Crossed,Sharp Solid
-display-chart-up-circle-currency,0,fa-solid fa-display-chart-up-circle-currency,Display Chart Up Circle Currency,Solid
-hand-back-point-down,8,fa-duotone fa-regular fa-hand-back-point-down,Hand Back Point Down,Duotone Regular
-camera-cctv,22,fa-sharp fa-thin fa-camera-cctv,Camera Cctv,Sharp Thin
-clipboard-clock,26,fa-sharp-duotone fa-thin fa-clipboard-clock,Clipboard Clock,Sharp Duotone Thin
-quotes,35,fa-vellum fa-solid fa-quotes,Quotes,Vellum Solid
-arrow-down-small-big,6,fa-duotone fa-arrow-down-small-big,Arrow Down Small Big,Duotone Solid
-hourglass-1,21,fa-sharp fa-solid fa-hourglass-1,Hourglass 1,Sharp Solid
 nfc-trash,1,fa-regular fa-nfc-trash,Nfc Trash,Regular
 scanner,6,fa-duotone fa-scanner,Scanner,Duotone Solid
 circle-wifi,22,fa-sharp fa-thin fa-circle-wifi,Circle Wifi,Sharp Thin

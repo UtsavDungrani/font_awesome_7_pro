@@ -4517,5 +4517,14 @@ window.FA_PUBLISHED = [
 "arrow-right-to-city:1",
 "heart-pulse:0",
 "italic:36",
-"moon-star:19"
+"moon-star:19",
+"user-robot:7",
+"sword-laser-alt:25",
+"bar-progress-full:21",
+"temperature-1:0",
+"tower-observation:21",
+"face-sleepy:19",
+"book-medical:25",
+"trash-slash:0",
+"info:24"
 ];

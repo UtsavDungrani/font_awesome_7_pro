@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-user-robot,7,fa-duotone fa-light fa-user-robot,User Robot,Duotone Light
-sword-laser-alt,25,fa-sharp-duotone fa-solid fa-sword-laser-alt,Sword Laser Alt,Sharp Duotone Solid
-bar-progress-full,21,fa-sharp fa-solid fa-bar-progress-full,Bar Progress Full,Sharp Solid
-temperature-1,0,fa-solid fa-temperature-1,Temperature 1,Solid
-tower-observation,21,fa-sharp fa-solid fa-tower-observation,Tower Observation,Sharp Solid
-face-sleepy,19,fa-sharp fa-light fa-face-sleepy,Face Sleepy,Sharp Light
-book-medical,25,fa-sharp-duotone fa-solid fa-book-medical,Book Medical,Sharp Duotone Solid
-trash-slash,0,fa-solid fa-trash-slash,Trash Slash,Solid
-info,24,fa-sharp-duotone fa-regular fa-info,Info,Sharp Duotone Regular
 file-circle-xmark,26,fa-sharp-duotone fa-thin fa-file-circle-xmark,File Circle Xmark,Sharp Duotone Thin
 castle,25,fa-sharp-duotone fa-solid fa-castle,Castle,Sharp Duotone Solid
 ring,8,fa-duotone fa-regular fa-ring,Ring,Duotone Regular

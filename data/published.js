@@ -4499,5 +4499,14 @@ window.FA_PUBLISHED = [
 "hexagon-check:9",
 "calendar:34",
 "house-chimney-heart:23",
-"person-praying:24"
+"person-praying:24",
+"arrows-to-eye:23",
+"vials:6",
+"square-indian-rupee:1",
+"conveyor-belt-alt:6",
+"book-open-alt:3",
+"satellite-dish:8",
+"envelope-badge:22",
+"objects-align-right:8",
+"aperture:1"
 ];

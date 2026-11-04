@@ -4472,5 +4472,14 @@ window.FA_PUBLISHED = [
 "suitcase:9",
 "truck-couch:6",
 "timer:6",
-"table-cells:6"
+"table-cells:6",
+"floppy-disks:7",
+"rectangle-irc:22",
+"cheese-swiss:23",
+"hands-clapping:3",
+"headset:9",
+"field-hockey:25",
+"face-grin-beam-sweat:0",
+"utility-pole:21",
+"thumb-tack:8"
 ];

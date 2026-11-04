@@ -4526,5 +4526,14 @@ window.FA_PUBLISHED = [
 "face-sleepy:19",
 "book-medical:25",
 "trash-slash:0",
-"info:24"
+"info:24",
+"file-circle-xmark:26",
+"castle:25",
+"ring:8",
+"file-lock:25",
+"trash-can-list:9",
+"reflect-both:7",
+"redo-alt:9",
+"train-tunnel:7",
+"square-peseta:7"
 ];

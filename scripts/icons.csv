@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-circle-xmark,26,fa-sharp-duotone fa-thin fa-file-circle-xmark,File Circle Xmark,Sharp Duotone Thin
-castle,25,fa-sharp-duotone fa-solid fa-castle,Castle,Sharp Duotone Solid
-ring,8,fa-duotone fa-regular fa-ring,Ring,Duotone Regular
-file-lock,25,fa-sharp-duotone fa-solid fa-file-lock,File Lock,Sharp Duotone Solid
-trash-can-list,9,fa-duotone fa-thin fa-trash-can-list,Trash Can List,Duotone Thin
-reflect-both,7,fa-duotone fa-light fa-reflect-both,Reflect Both,Duotone Light
-redo-alt,9,fa-duotone fa-thin fa-redo-alt,Redo Alt,Duotone Thin
-train-tunnel,7,fa-duotone fa-light fa-train-tunnel,Train Tunnel,Duotone Light
-square-peseta,7,fa-duotone fa-light fa-square-peseta,Square Peseta,Duotone Light
 filter,34,fa-utility-fill fa-semibold fa-filter,Filter,Utility Fill Semibold
 clock-eleven-thirty,8,fa-duotone fa-regular fa-clock-eleven-thirty,Clock Eleven Thirty,Duotone Regular
 arrow-left-to-dotted-line,1,fa-regular fa-arrow-left-to-dotted-line,Arrow Left To Dotted Line,Regular

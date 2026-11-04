@@ -4508,5 +4508,14 @@ window.FA_PUBLISHED = [
 "satellite-dish:8",
 "envelope-badge:22",
 "objects-align-right:8",
-"aperture:1"
+"aperture:1",
+"chess-king-alt:2",
+"dryer-alt:22",
+"cart-shopping:23",
+"object-exclude:23",
+"dice-d12:26",
+"arrow-right-to-city:1",
+"heart-pulse:0",
+"italic:36",
+"moon-star:19"
 ];

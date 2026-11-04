@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chess-king-alt,2,fa-light fa-chess-king-alt,Chess King Alt,Light
-dryer-alt,22,fa-sharp fa-thin fa-dryer-alt,Dryer Alt,Sharp Thin
-cart-shopping,23,fa-sharp-duotone fa-light fa-cart-shopping,Cart Shopping,Sharp Duotone Light
-object-exclude,23,fa-sharp-duotone fa-light fa-object-exclude,Object Exclude,Sharp Duotone Light
-dice-d12,26,fa-sharp-duotone fa-thin fa-dice-d12,Dice D12,Sharp Duotone Thin
-arrow-right-to-city,1,fa-regular fa-arrow-right-to-city,Arrow Right To City,Regular
-heart-pulse,0,fa-solid fa-heart-pulse,Heart Pulse,Solid
-italic,36,fa-whiteboard fa-semibold fa-italic,Italic,Whiteboard Semibold
-moon-star,19,fa-sharp fa-light fa-moon-star,Moon Star,Sharp Light
 user-robot,7,fa-duotone fa-light fa-user-robot,User Robot,Duotone Light
 sword-laser-alt,25,fa-sharp-duotone fa-solid fa-sword-laser-alt,Sword Laser Alt,Sharp Duotone Solid
 bar-progress-full,21,fa-sharp fa-solid fa-bar-progress-full,Bar Progress Full,Sharp Solid

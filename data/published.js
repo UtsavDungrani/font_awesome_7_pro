@@ -4463,5 +4463,14 @@ window.FA_PUBLISHED = [
 "sticker-mule:4",
 "underline:26",
 "greater-than-equal:26",
-"file-caret-down:20"
+"file-caret-down:20",
+"teddy-bear:7",
+"user-tie:21",
+"poll:19",
+"circle-play:0",
+"face-thinking:25",
+"suitcase:9",
+"truck-couch:6",
+"timer:6",
+"table-cells:6"
 ];

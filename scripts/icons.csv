@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-teddy-bear,7,fa-duotone fa-light fa-teddy-bear,Teddy Bear,Duotone Light
-user-tie,21,fa-sharp fa-solid fa-user-tie,User Tie,Sharp Solid
-poll,19,fa-sharp fa-light fa-poll,Poll,Sharp Light
-circle-play,0,fa-solid fa-circle-play,Circle Play,Solid
-face-thinking,25,fa-sharp-duotone fa-solid fa-face-thinking,Face Thinking,Sharp Duotone Solid
-suitcase,9,fa-duotone fa-thin fa-suitcase,Suitcase,Duotone Thin
-truck-couch,6,fa-duotone fa-truck-couch,Truck Couch,Duotone Solid
-timer,6,fa-duotone fa-timer,Timer,Duotone Solid
-table-cells,6,fa-duotone fa-table-cells,Table Cells,Duotone Solid
 floppy-disks,7,fa-duotone fa-light fa-floppy-disks,Floppy Disks,Duotone Light
 rectangle-irc,22,fa-sharp fa-thin fa-rectangle-irc,Rectangle Irc,Sharp Thin
 cheese-swiss,23,fa-sharp-duotone fa-light fa-cheese-swiss,Cheese Swiss,Sharp Duotone Light

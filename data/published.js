@@ -4490,5 +4490,14 @@ window.FA_PUBLISHED = [
 "suitcase:17",
 "face-unamused:6",
 "taxi-bus:2",
-"home-heart:7"
+"home-heart:7",
+"face-monocle:23",
+"cloud-snow:8",
+"grill-fire:21",
+"angle-up:27",
+"pen-circle:3",
+"hexagon-check:9",
+"calendar:34",
+"house-chimney-heart:23",
+"person-praying:24"
 ];

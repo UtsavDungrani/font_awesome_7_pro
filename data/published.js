@@ -4445,5 +4445,14 @@ window.FA_PUBLISHED = [
 "flower:30",
 "shield-cat:9",
 "file-arrow-up:3",
-"face-smile-beam:1"
+"face-smile-beam:1",
+"circle-7:19",
+"sprinkler:9",
+"lungs-virus:8",
+"person-walking:23",
+"square-half-stroke:22",
+"nfc-signal:23",
+"sax-hot:21",
+"transporter-4:1",
+"comment-alt-times:6"
 ];

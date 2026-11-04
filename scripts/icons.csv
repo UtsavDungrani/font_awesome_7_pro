@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-7,19,fa-sharp fa-light fa-circle-7,Circle 7,Sharp Light
-sprinkler,9,fa-duotone fa-thin fa-sprinkler,Sprinkler,Duotone Thin
-lungs-virus,8,fa-duotone fa-regular fa-lungs-virus,Lungs Virus,Duotone Regular
-person-walking,23,fa-sharp-duotone fa-light fa-person-walking,Person Walking,Sharp Duotone Light
-square-half-stroke,22,fa-sharp fa-thin fa-square-half-stroke,Square Half Stroke,Sharp Thin
-nfc-signal,23,fa-sharp-duotone fa-light fa-nfc-signal,Nfc Signal,Sharp Duotone Light
-sax-hot,21,fa-sharp fa-solid fa-sax-hot,Sax Hot,Sharp Solid
-transporter-4,1,fa-regular fa-transporter-4,Transporter 4,Regular
-comment-alt-times,6,fa-duotone fa-comment-alt-times,Comment Alt Times,Duotone Solid
 heart-half,8,fa-duotone fa-regular fa-heart-half,Heart Half,Duotone Regular
 hat-santa,23,fa-sharp-duotone fa-light fa-hat-santa,Hat Santa,Sharp Duotone Light
 car-alt,23,fa-sharp-duotone fa-light fa-car-alt,Car Alt,Sharp Duotone Light

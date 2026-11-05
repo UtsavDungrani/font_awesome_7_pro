@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-notes,3,fa-thin fa-notes,Notes,Thin
-location-xmark,7,fa-duotone fa-light fa-location-xmark,Location Xmark,Duotone Light
-user-police-tie,23,fa-sharp-duotone fa-light fa-user-police-tie,User Police Tie,Sharp Duotone Light
-circle-bolt,7,fa-duotone fa-light fa-circle-bolt,Circle Bolt,Duotone Light
-person-carry-empty,7,fa-duotone fa-light fa-person-carry-empty,Person Carry Empty,Duotone Light
-ice-skate,19,fa-sharp fa-light fa-ice-skate,Ice Skate,Sharp Light
-user-hat-tie-magnifying-glass,3,fa-thin fa-user-hat-tie-magnifying-glass,User Hat Tie Magnifying Glass,Thin
-arrow-down-from-bracket,1,fa-regular fa-arrow-down-from-bracket,Arrow Down From Bracket,Regular
-renminbi-sign,19,fa-sharp fa-light fa-renminbi-sign,Renminbi Sign,Sharp Light
 tick,26,fa-sharp-duotone fa-thin fa-tick,Tick,Sharp Duotone Thin
 scarf,21,fa-sharp fa-solid fa-scarf,Scarf,Sharp Solid
 wave-square,7,fa-duotone fa-light fa-wave-square,Wave Square,Duotone Light

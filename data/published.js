@@ -4643,5 +4643,14 @@ window.FA_PUBLISHED = [
 "bat:26",
 "bee:6",
 "arrows-turn-right:6",
-"location-plus:7"
+"location-plus:7",
+"notes:3",
+"location-xmark:7",
+"user-police-tie:23",
+"circle-bolt:7",
+"person-carry-empty:7",
+"ice-skate:19",
+"user-hat-tie-magnifying-glass:3",
+"arrow-down-from-bracket:1",
+"renminbi-sign:19"
 ];

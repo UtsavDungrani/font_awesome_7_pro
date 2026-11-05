@@ -4580,5 +4580,14 @@ window.FA_PUBLISHED = [
 "power-off:21",
 "seat-airline-window:26",
 "subtitles-slash:23",
-"mobile-signal:3"
+"mobile-signal:3",
+"trash-slash:1",
+"plug-circle-check:0",
+"arrow-down-big-small:7",
+"sensor-on:19",
+"shield-quartered:1",
+"hand-shaka:24",
+"hammer:1",
+"draw-polygon:22",
+"shish-kebab:23"
 ];

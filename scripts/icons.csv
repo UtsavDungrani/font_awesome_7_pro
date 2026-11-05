@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trash-slash,1,fa-regular fa-trash-slash,Trash Slash,Regular
-plug-circle-check,0,fa-solid fa-plug-circle-check,Plug Circle Check,Solid
-arrow-down-big-small,7,fa-duotone fa-light fa-arrow-down-big-small,Arrow Down Big Small,Duotone Light
-sensor-on,19,fa-sharp fa-light fa-sensor-on,Sensor On,Sharp Light
-shield-quartered,1,fa-regular fa-shield-quartered,Shield Quartered,Regular
-hand-shaka,24,fa-sharp-duotone fa-regular fa-hand-shaka,Hand Shaka,Sharp Duotone Regular
-hammer,1,fa-regular fa-hammer,Hammer,Regular
-draw-polygon,22,fa-sharp fa-thin fa-draw-polygon,Draw Polygon,Sharp Thin
-shish-kebab,23,fa-sharp-duotone fa-light fa-shish-kebab,Shish Kebab,Sharp Duotone Light
 rectangle-minus,23,fa-sharp-duotone fa-light fa-rectangle-minus,Rectangle Minus,Sharp Duotone Light
 balloons,9,fa-duotone fa-thin fa-balloons,Balloons,Duotone Thin
 circle-currency,25,fa-sharp-duotone fa-solid fa-circle-currency,Circle Currency,Sharp Duotone Solid

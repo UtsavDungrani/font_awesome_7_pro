@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-exclamation-check,24,fa-sharp-duotone fa-regular fa-circle-exclamation-check,Circle Exclamation Check,Sharp Duotone Regular
-align-left,22,fa-sharp fa-thin fa-align-left,Align Left,Sharp Thin
-user-question,6,fa-duotone fa-user-question,User Question,Duotone Solid
-table-layout,3,fa-thin fa-table-layout,Table Layout,Thin
-arrow-down-up-across-line,22,fa-sharp fa-thin fa-arrow-down-up-across-line,Arrow Down Up Across Line,Sharp Thin
-book-dead,0,fa-solid fa-book-dead,Book Dead,Solid
-x-ray,25,fa-sharp-duotone fa-solid fa-x-ray,X Ray,Sharp Duotone Solid
-circle-sort-down,2,fa-light fa-circle-sort-down,Circle Sort Down,Light
-home-user,9,fa-duotone fa-thin fa-home-user,Home User,Duotone Thin
 thumbs-down,25,fa-sharp-duotone fa-solid fa-thumbs-down,Thumbs Down,Sharp Duotone Solid
 ribbon,26,fa-sharp-duotone fa-thin fa-ribbon,Ribbon,Sharp Duotone Thin
 language,24,fa-sharp-duotone fa-regular fa-language,Language,Sharp Duotone Regular

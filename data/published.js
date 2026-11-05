@@ -4697,5 +4697,14 @@ window.FA_PUBLISHED = [
 "child-dress:9",
 "planet-moon:23",
 "square-turkish-lira:1",
-"object-ungroup:7"
+"object-ungroup:7",
+"circle-exclamation-check:24",
+"align-left:22",
+"user-question:6",
+"table-layout:3",
+"arrow-down-up-across-line:22",
+"book-dead:0",
+"x-ray:25",
+"circle-sort-down:2",
+"home-user:9"
 ];

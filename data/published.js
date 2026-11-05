@@ -4634,5 +4634,14 @@ window.FA_PUBLISHED = [
 "arrows-to-dotted-line:0",
 "mail-reply-all:7",
 "font:0",
-"rectangle-sd:2"
+"rectangle-sd:2",
+"table:20",
+"square-peseta:8",
+"display-chart-up-circle-dollar:26",
+"globe-stand:21",
+"exclamation-square:1",
+"bat:26",
+"bee:6",
+"arrows-turn-right:6",
+"location-plus:7"
 ];

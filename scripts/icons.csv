@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-table,20,fa-sharp fa-regular fa-table,Table,Sharp Regular
-square-peseta,8,fa-duotone fa-regular fa-square-peseta,Square Peseta,Duotone Regular
-display-chart-up-circle-dollar,26,fa-sharp-duotone fa-thin fa-display-chart-up-circle-dollar,Display Chart Up Circle Dollar,Sharp Duotone Thin
-globe-stand,21,fa-sharp fa-solid fa-globe-stand,Globe Stand,Sharp Solid
-exclamation-square,1,fa-regular fa-exclamation-square,Exclamation Square,Regular
-bat,26,fa-sharp-duotone fa-thin fa-bat,Bat,Sharp Duotone Thin
-bee,6,fa-duotone fa-bee,Bee,Duotone Solid
-arrows-turn-right,6,fa-duotone fa-arrows-turn-right,Arrows Turn Right,Duotone Solid
-location-plus,7,fa-duotone fa-light fa-location-plus,Location Plus,Duotone Light
 notes,3,fa-thin fa-notes,Notes,Thin
 location-xmark,7,fa-duotone fa-light fa-location-xmark,Location Xmark,Duotone Light
 user-police-tie,23,fa-sharp-duotone fa-light fa-user-police-tie,User Police Tie,Sharp Duotone Light

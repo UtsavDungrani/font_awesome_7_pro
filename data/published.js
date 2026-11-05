@@ -4679,5 +4679,14 @@ window.FA_PUBLISHED = [
 "file-wav:1",
 "jeans-straight:9",
 "head-side-brain:23",
-"mitten:0"
+"mitten:0",
+"fire:26",
+"broom:2",
+"ear-muffs:20",
+"face-meh-blank:0",
+"user-clock:8",
+"stool:23",
+"grip-lines:24",
+"map:8",
+"game-console-handheld:24"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-fire,26,fa-sharp-duotone fa-thin fa-fire,Fire,Sharp Duotone Thin
-broom,2,fa-light fa-broom,Broom,Light
-ear-muffs,20,fa-sharp fa-regular fa-ear-muffs,Ear Muffs,Sharp Regular
-face-meh-blank,0,fa-solid fa-face-meh-blank,Face Meh Blank,Solid
-user-clock,8,fa-duotone fa-regular fa-user-clock,User Clock,Duotone Regular
-stool,23,fa-sharp-duotone fa-light fa-stool,Stool,Sharp Duotone Light
-grip-lines,24,fa-sharp-duotone fa-regular fa-grip-lines,Grip Lines,Sharp Duotone Regular
-map,8,fa-duotone fa-regular fa-map,Map,Duotone Regular
-game-console-handheld,24,fa-sharp-duotone fa-regular fa-game-console-handheld,Game Console Handheld,Sharp Duotone Regular
 hand-fingers-crossed,6,fa-duotone fa-hand-fingers-crossed,Hand Fingers Crossed,Duotone Solid
 shop,18,fa-pixel fa-regular fa-shop,Shop,Pixel Regular
 recycle,8,fa-duotone fa-regular fa-recycle,Recycle,Duotone Regular

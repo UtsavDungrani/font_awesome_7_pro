@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-thumbs-down,15,fa-mosaic fa-solid fa-thumbs-down,Thumbs Down,Mosaic Solid
-globe-wifi,1,fa-regular fa-globe-wifi,Globe Wifi,Regular
-location-check,0,fa-solid fa-location-check,Location Check,Solid
-arrow-alt-to-left,6,fa-duotone fa-arrow-alt-to-left,Arrow Alt To Left,Duotone Solid
-bowl-soft-serve,21,fa-sharp fa-solid fa-bowl-soft-serve,Bowl Soft Serve,Sharp Solid
-file-wav,1,fa-regular fa-file-wav,File Wav,Regular
-jeans-straight,9,fa-duotone fa-thin fa-jeans-straight,Jeans Straight,Duotone Thin
-head-side-brain,23,fa-sharp-duotone fa-light fa-head-side-brain,Head Side Brain,Sharp Duotone Light
-mitten,0,fa-solid fa-mitten,Mitten,Solid
 fire,26,fa-sharp-duotone fa-thin fa-fire,Fire,Sharp Duotone Thin
 broom,2,fa-light fa-broom,Broom,Light
 ear-muffs,20,fa-sharp fa-regular fa-ear-muffs,Ear Muffs,Sharp Regular

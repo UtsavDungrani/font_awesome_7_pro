@@ -4670,5 +4670,14 @@ window.FA_PUBLISHED = [
 "clock-nine:2",
 "forward:19",
 "comment-quote:26",
-"clock-three-thirty:25"
+"clock-three-thirty:25",
+"thumbs-down:15",
+"globe-wifi:1",
+"location-check:0",
+"arrow-alt-to-left:6",
+"bowl-soft-serve:21",
+"file-wav:1",
+"jeans-straight:9",
+"head-side-brain:23",
+"mitten:0"
 ];

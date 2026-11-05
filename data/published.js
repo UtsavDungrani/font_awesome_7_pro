@@ -4661,5 +4661,14 @@ window.FA_PUBLISHED = [
 "arrow-archery:20",
 "arrow-up-to-dotted-line:21",
 "magnet:22",
-"heart-square:21"
+"heart-square:21",
+"house-medical-circle-exclamation:22",
+"honey-pot:24",
+"file-powerpoint:19",
+"file-signature:24",
+"box-dollar:8",
+"clock-nine:2",
+"forward:19",
+"comment-quote:26",
+"clock-three-thirty:25"
 ];

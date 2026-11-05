@@ -4625,5 +4625,14 @@ window.FA_PUBLISHED = [
 "poll:8",
 "sack:21",
 "wand:8",
-"square-bolt:23"
+"square-bolt:23",
+"rectangle-minus:20",
+"hashtag:7",
+"9:26",
+"house-flood:20",
+"users-viewfinder:7",
+"arrows-to-dotted-line:0",
+"mail-reply-all:7",
+"font:0",
+"rectangle-sd:2"
 ];

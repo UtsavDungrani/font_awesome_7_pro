@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-rectangle-minus,20,fa-sharp fa-regular fa-rectangle-minus,Rectangle Minus,Sharp Regular
-hashtag,7,fa-duotone fa-light fa-hashtag,Hashtag,Duotone Light
-9,26,fa-sharp-duotone fa-thin fa-9,9,Sharp Duotone Thin
-house-flood,20,fa-sharp fa-regular fa-house-flood,House Flood,Sharp Regular
-users-viewfinder,7,fa-duotone fa-light fa-users-viewfinder,Users Viewfinder,Duotone Light
-arrows-to-dotted-line,0,fa-solid fa-arrows-to-dotted-line,Arrows To Dotted Line,Solid
-mail-reply-all,7,fa-duotone fa-light fa-mail-reply-all,Mail Reply All,Duotone Light
-font,0,fa-solid fa-font,Font,Solid
-rectangle-sd,2,fa-light fa-rectangle-sd,Rectangle Sd,Light
 table,20,fa-sharp fa-regular fa-table,Table,Sharp Regular
 square-peseta,8,fa-duotone fa-regular fa-square-peseta,Square Peseta,Duotone Regular
 display-chart-up-circle-dollar,26,fa-sharp-duotone fa-thin fa-display-chart-up-circle-dollar,Display Chart Up Circle Dollar,Sharp Duotone Thin

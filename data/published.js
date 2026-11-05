@@ -4652,5 +4652,14 @@ window.FA_PUBLISHED = [
 "ice-skate:19",
 "user-hat-tie-magnifying-glass:3",
 "arrow-down-from-bracket:1",
-"renminbi-sign:19"
+"renminbi-sign:19",
+"tick:26",
+"scarf:21",
+"wave-square:7",
+"bra:22",
+"hat-winter:20",
+"arrow-archery:20",
+"arrow-up-to-dotted-line:21",
+"magnet:22",
+"heart-square:21"
 ];

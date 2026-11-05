@@ -4589,5 +4589,14 @@ window.FA_PUBLISHED = [
 "hand-shaka:24",
 "hammer:1",
 "draw-polygon:22",
-"shish-kebab:23"
+"shish-kebab:23",
+"rectangle-minus:23",
+"balloons:9",
+"circle-currency:25",
+"user-vneck-hair-mullet:22",
+"bridge-suspension:20",
+"user-pilot:24",
+"transporter-6:6",
+"cricket-bat:21",
+"binoculars:9"
 ];

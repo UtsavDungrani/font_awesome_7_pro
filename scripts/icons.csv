@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-remove-format,9,fa-duotone fa-thin fa-remove-format,Remove Format,Duotone Thin
-digging,0,fa-solid fa-digging,Digging,Solid
-file-signature,1,fa-regular fa-file-signature,File Signature,Regular
-horse,3,fa-thin fa-horse,Horse,Thin
-tablet-alt,1,fa-regular fa-tablet-alt,Tablet Alt,Regular
-cart-flatbed,20,fa-sharp fa-regular fa-cart-flatbed,Cart Flatbed,Sharp Regular
-table-cells-header-unlock,24,fa-sharp-duotone fa-regular fa-table-cells-header-unlock,Table Cells Header Unlock,Sharp Duotone Regular
-circle-gf,9,fa-duotone fa-thin fa-circle-gf,Circle Gf,Duotone Thin
-message-arrow-up-right,26,fa-sharp-duotone fa-thin fa-message-arrow-up-right,Message Arrow Up Right,Sharp Duotone Thin
 folder-user,9,fa-duotone fa-thin fa-folder-user,Folder User,Duotone Thin
 clock-one,8,fa-duotone fa-regular fa-clock-one,Clock One,Duotone Regular
 lightbulb-slash,23,fa-sharp-duotone fa-light fa-lightbulb-slash,Lightbulb Slash,Sharp Duotone Light

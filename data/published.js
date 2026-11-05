@@ -4607,5 +4607,14 @@ window.FA_PUBLISHED = [
 "code-branch:9",
 "rectangle-wide:12",
 "bowl-rice:25",
-"tomato:23"
+"tomato:23",
+"remove-format:9",
+"digging:0",
+"file-signature:1",
+"horse:3",
+"tablet-alt:1",
+"cart-flatbed:20",
+"table-cells-header-unlock:24",
+"circle-gf:9",
+"message-arrow-up-right:26"
 ];

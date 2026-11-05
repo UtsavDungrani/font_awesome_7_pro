@@ -4688,5 +4688,14 @@ window.FA_PUBLISHED = [
 "stool:23",
 "grip-lines:24",
 "map:8",
-"game-console-handheld:24"
+"game-console-handheld:24",
+"hand-fingers-crossed:6",
+"shop:18",
+"recycle:8",
+"gallery-thumbnails:9",
+"tank-water:21",
+"child-dress:9",
+"planet-moon:23",
+"square-turkish-lira:1",
+"object-ungroup:7"
 ];

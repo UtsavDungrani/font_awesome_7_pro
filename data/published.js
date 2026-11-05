@@ -4598,5 +4598,14 @@ window.FA_PUBLISHED = [
 "user-pilot:24",
 "transporter-6:6",
 "cricket-bat:21",
-"binoculars:9"
+"binoculars:9",
+"virgo:25",
+"book-circle:25",
+"radar:24",
+"exclamation-square:26",
+"trash:14",
+"code-branch:9",
+"rectangle-wide:12",
+"bowl-rice:25",
+"tomato:23"
 ];

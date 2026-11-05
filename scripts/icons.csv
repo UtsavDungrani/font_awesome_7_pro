@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-virgo,25,fa-sharp-duotone fa-solid fa-virgo,Virgo,Sharp Duotone Solid
-book-circle,25,fa-sharp-duotone fa-solid fa-book-circle,Book Circle,Sharp Duotone Solid
-radar,24,fa-sharp-duotone fa-regular fa-radar,Radar,Sharp Duotone Regular
-exclamation-square,26,fa-sharp-duotone fa-thin fa-exclamation-square,Exclamation Square,Sharp Duotone Thin
-trash,14,fa-jelly-fill fa-regular fa-trash,Trash,Jelly Fill Regular
-code-branch,9,fa-duotone fa-thin fa-code-branch,Code Branch,Duotone Thin
-rectangle-wide,12,fa-jelly fa-regular fa-rectangle-wide,Rectangle Wide,Jelly Regular
-bowl-rice,25,fa-sharp-duotone fa-solid fa-bowl-rice,Bowl Rice,Sharp Duotone Solid
-tomato,23,fa-sharp-duotone fa-light fa-tomato,Tomato,Sharp Duotone Light
 remove-format,9,fa-duotone fa-thin fa-remove-format,Remove Format,Duotone Thin
 digging,0,fa-solid fa-digging,Digging,Solid
 file-signature,1,fa-regular fa-file-signature,File Signature,Regular

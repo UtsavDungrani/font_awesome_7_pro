@@ -4616,5 +4616,14 @@ window.FA_PUBLISHED = [
 "cart-flatbed:20",
 "table-cells-header-unlock:24",
 "circle-gf:9",
-"message-arrow-up-right:26"
+"message-arrow-up-right:26",
+"folder-user:9",
+"clock-one:8",
+"lightbulb-slash:23",
+"square-kip:24",
+"scanner-keyboard:25",
+"poll:8",
+"sack:21",
+"wand:8",
+"square-bolt:23"
 ];

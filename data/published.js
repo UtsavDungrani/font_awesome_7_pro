@@ -4814,5 +4814,14 @@ window.FA_PUBLISHED = [
 "laptop:5",
 "bridge-circle-check:2",
 "lungs-virus:19",
-"phone-hangup:6"
+"phone-hangup:6",
+"lightbulb-cfl-on:9",
+"plane-circle-check:2",
+"user-astronaut:3",
+"mill-sign:23",
+"star:11",
+"y:20",
+"arrow-down-9-1:3",
+"u-turn-down-left:3",
+"arrow-down-left-and-arrow-up-right-to-center:23"
 ];

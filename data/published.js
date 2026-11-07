@@ -4724,5 +4724,14 @@ window.FA_PUBLISHED = [
 "bowl-food:22",
 "glass:23",
 "plus-minus:1",
-"microphone-alt-slash:21"
+"microphone-alt-slash:21",
+"shop-lock:9",
+"cruzeiro-sign:19",
+"trash-can-list:7",
+"square-ring:25",
+"user-vneck:20",
+"person-walking-arrow-right:1",
+"house-chimney-heart:2",
+"shrimp:0",
+"comment-medical:25"
 ];

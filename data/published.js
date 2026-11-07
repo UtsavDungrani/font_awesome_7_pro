@@ -4706,5 +4706,14 @@ window.FA_PUBLISHED = [
 "book-dead:0",
 "x-ray:25",
 "circle-sort-down:2",
-"home-user:9"
+"home-user:9",
+"thumbs-down:25",
+"ribbon:26",
+"language:24",
+"clock:13",
+"right-to-dotted-line:26",
+"sidebar-flip:0",
+"face-worried:25",
+"pan-food:22",
+"phone-alt:21"
 ];

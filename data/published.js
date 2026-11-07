@@ -4769,5 +4769,14 @@ window.FA_PUBLISHED = [
 "ban-smoking:19",
 "chart-waterfall:19",
 "m:26",
-"webhook:22"
+"webhook:22",
+"red-river:4",
+"comment-alt-arrow-up:20",
+"check:18",
+"cloud-hail:21",
+"bring-front:7",
+"square-cent:21",
+"microphone-stand:26",
+"sparkle:22",
+"camera-clock:22"
 ];

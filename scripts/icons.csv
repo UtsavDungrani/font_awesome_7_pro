@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-red-river,4,fa-brands fa-red-river,Red River,Brands
-comment-alt-arrow-up,20,fa-sharp fa-regular fa-comment-alt-arrow-up,Comment Alt Arrow Up,Sharp Regular
-check,18,fa-pixel fa-regular fa-check,Check,Pixel Regular
-cloud-hail,21,fa-sharp fa-solid fa-cloud-hail,Cloud Hail,Sharp Solid
-bring-front,7,fa-duotone fa-light fa-bring-front,Bring Front,Duotone Light
-square-cent,21,fa-sharp fa-solid fa-square-cent,Square Cent,Sharp Solid
-microphone-stand,26,fa-sharp-duotone fa-thin fa-microphone-stand,Microphone Stand,Sharp Duotone Thin
-sparkle,22,fa-sharp fa-thin fa-sparkle,Sparkle,Sharp Thin
-camera-clock,22,fa-sharp fa-thin fa-camera-clock,Camera Clock,Sharp Thin
 circle-exclamation-check,22,fa-sharp fa-thin fa-circle-exclamation-check,Circle Exclamation Check,Sharp Thin
 motorcycle,24,fa-sharp-duotone fa-regular fa-motorcycle,Motorcycle,Sharp Duotone Regular
 hourglass,21,fa-sharp fa-solid fa-hourglass,Hourglass,Sharp Solid

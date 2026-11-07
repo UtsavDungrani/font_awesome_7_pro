@@ -4760,5 +4760,14 @@ window.FA_PUBLISHED = [
 "scroll-torah:8",
 "fish-cooked:9",
 "hyphen:23",
-"question:12"
+"question:12",
+"radio-alt:19",
+"distribute-spacing-horizontal:21",
+"square-virus:20",
+"clipboard-exclamation:8",
+"paper-plane:24",
+"ban-smoking:19",
+"chart-waterfall:19",
+"m:26",
+"webhook:22"
 ];

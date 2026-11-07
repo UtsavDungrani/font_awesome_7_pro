@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-radio-alt,19,fa-sharp fa-light fa-radio-alt,Radio Alt,Sharp Light
-distribute-spacing-horizontal,21,fa-sharp fa-solid fa-distribute-spacing-horizontal,Distribute Spacing Horizontal,Sharp Solid
-square-virus,20,fa-sharp fa-regular fa-square-virus,Square Virus,Sharp Regular
-clipboard-exclamation,8,fa-duotone fa-regular fa-clipboard-exclamation,Clipboard Exclamation,Duotone Regular
-paper-plane,24,fa-sharp-duotone fa-regular fa-paper-plane,Paper Plane,Sharp Duotone Regular
-ban-smoking,19,fa-sharp fa-light fa-ban-smoking,Ban Smoking,Sharp Light
-chart-waterfall,19,fa-sharp fa-light fa-chart-waterfall,Chart Waterfall,Sharp Light
-m,26,fa-sharp-duotone fa-thin fa-m,M,Sharp Duotone Thin
-webhook,22,fa-sharp fa-thin fa-webhook,Webhook,Sharp Thin
 red-river,4,fa-brands fa-red-river,Red River,Brands
 comment-alt-arrow-up,20,fa-sharp fa-regular fa-comment-alt-arrow-up,Comment Alt Arrow Up,Sharp Regular
 check,18,fa-pixel fa-regular fa-check,Check,Pixel Regular

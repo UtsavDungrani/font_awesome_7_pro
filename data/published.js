@@ -4778,5 +4778,14 @@ window.FA_PUBLISHED = [
 "square-cent:21",
 "microphone-stand:26",
 "sparkle:22",
-"camera-clock:22"
+"camera-clock:22",
+"circle-exclamation-check:22",
+"motorcycle:24",
+"hourglass:21",
+"circle:30",
+"list:9",
+"arrow-right-arrow-left:1",
+"pentagon:20",
+"person-rifle:3",
+"block:9"
 ];

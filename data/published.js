@@ -4715,5 +4715,14 @@ window.FA_PUBLISHED = [
 "sidebar-flip:0",
 "face-worried:25",
 "pan-food:22",
-"phone-alt:21"
+"phone-alt:21",
+"butter:22",
+"arrow-alt-from-left:19",
+"power-off:8",
+"hand-holding-droplet:26",
+"mouse-field:8",
+"bowl-food:22",
+"glass:23",
+"plus-minus:1",
+"microphone-alt-slash:21"
 ];

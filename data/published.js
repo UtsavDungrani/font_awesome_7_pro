@@ -4805,5 +4805,14 @@ window.FA_PUBLISHED = [
 "chart-line:24",
 "infinity:19",
 "face-viewfinder:1",
-"brackets:19"
+"brackets:19",
+"file-award:24",
+"square-ellipsis-vertical:1",
+"truck-monster:2",
+"virus-covid-slash:2",
+"phone-plus:6",
+"laptop:5",
+"bridge-circle-check:2",
+"lungs-virus:19",
+"phone-hangup:6"
 ];

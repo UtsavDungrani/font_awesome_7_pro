@@ -4733,5 +4733,14 @@ window.FA_PUBLISHED = [
 "person-walking-arrow-right:1",
 "house-chimney-heart:2",
 "shrimp:0",
-"comment-medical:25"
+"comment-medical:25",
+"arrow-right-rotate:6",
+"chart-bullet:24",
+"stocking:7",
+"arrow-left-from-bracket:26",
+"square-guarani:0",
+"comment-nodes:0",
+"person-soccer:3",
+"memo-circle-check:2",
+"chart-waterfall:21"
 ];

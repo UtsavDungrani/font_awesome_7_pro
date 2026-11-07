@@ -4787,5 +4787,14 @@ window.FA_PUBLISHED = [
 "arrow-right-arrow-left:1",
 "pentagon:20",
 "person-rifle:3",
-"block:9"
+"block:9",
+"address-card:16",
+"house-flood-water-circle-arrow-right:22",
+"podium:6",
+"medkit:20",
+"utility-can:25",
+"display-chart-up:9",
+"arrow-right-arrow-left:13",
+"shish-kebab:26",
+"star-half:32"
 ];

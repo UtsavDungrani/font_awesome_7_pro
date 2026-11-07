@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-address-card,16,fa-notdog fa-solid fa-address-card,Address Card,Notdog Solid
-house-flood-water-circle-arrow-right,22,fa-sharp fa-thin fa-house-flood-water-circle-arrow-right,House Flood Water Circle Arrow Right,Sharp Thin
-podium,6,fa-duotone fa-podium,Podium,Duotone Solid
-medkit,20,fa-sharp fa-regular fa-medkit,Medkit,Sharp Regular
-utility-can,25,fa-sharp-duotone fa-solid fa-utility-can,Utility Can,Sharp Duotone Solid
-display-chart-up,9,fa-duotone fa-thin fa-display-chart-up,Display Chart Up,Duotone Thin
-arrow-right-arrow-left,13,fa-jelly-duo fa-regular fa-arrow-right-arrow-left,Arrow Right Arrow Left,Jelly Duo Regular
-shish-kebab,26,fa-sharp-duotone fa-thin fa-shish-kebab,Shish Kebab,Sharp Duotone Thin
-star-half,32,fa-utility fa-semibold fa-star-half,Star Half,Utility Semibold
 bars-staggered,22,fa-sharp fa-thin fa-bars-staggered,Bars Staggered,Sharp Thin
 candy,21,fa-sharp fa-solid fa-candy,Candy,Sharp Solid
 circle-c,19,fa-sharp fa-light fa-circle-c,Circle C,Sharp Light

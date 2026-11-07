@@ -4751,5 +4751,14 @@ window.FA_PUBLISHED = [
 "piano-keyboard:8",
 "cloud-slash:8",
 "space-station-moon:9",
-"circle-t:7"
+"circle-t:7",
+"oars:2",
+"caret-square-right:21",
+"shield-cross:22",
+"keyboard-brightness-low:19",
+"envelopes:20",
+"scroll-torah:8",
+"fish-cooked:9",
+"hyphen:23",
+"question:12"
 ];

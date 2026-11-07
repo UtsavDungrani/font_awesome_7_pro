@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-oars,2,fa-light fa-oars,Oars,Light
-caret-square-right,21,fa-sharp fa-solid fa-caret-square-right,Caret Square Right,Sharp Solid
-shield-cross,22,fa-sharp fa-thin fa-shield-cross,Shield Cross,Sharp Thin
-keyboard-brightness-low,19,fa-sharp fa-light fa-keyboard-brightness-low,Keyboard Brightness Low,Sharp Light
-envelopes,20,fa-sharp fa-regular fa-envelopes,Envelopes,Sharp Regular
-scroll-torah,8,fa-duotone fa-regular fa-scroll-torah,Scroll Torah,Duotone Regular
-fish-cooked,9,fa-duotone fa-thin fa-fish-cooked,Fish Cooked,Duotone Thin
-hyphen,23,fa-sharp-duotone fa-light fa-hyphen,Hyphen,Sharp Duotone Light
-question,12,fa-jelly fa-regular fa-question,Question,Jelly Regular
 radio-alt,19,fa-sharp fa-light fa-radio-alt,Radio Alt,Sharp Light
 distribute-spacing-horizontal,21,fa-sharp fa-solid fa-distribute-spacing-horizontal,Distribute Spacing Horizontal,Sharp Solid
 square-virus,20,fa-sharp fa-regular fa-square-virus,Square Virus,Sharp Regular

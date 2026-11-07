@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-bars-staggered,22,fa-sharp fa-thin fa-bars-staggered,Bars Staggered,Sharp Thin
-candy,21,fa-sharp fa-solid fa-candy,Candy,Sharp Solid
-circle-c,19,fa-sharp fa-light fa-circle-c,Circle C,Sharp Light
-border-none,24,fa-sharp-duotone fa-regular fa-border-none,Border None,Sharp Duotone Regular
-bug-slash,26,fa-sharp-duotone fa-thin fa-bug-slash,Bug Slash,Sharp Duotone Thin
-chart-line,24,fa-sharp-duotone fa-regular fa-chart-line,Chart Line,Sharp Duotone Regular
-infinity,19,fa-sharp fa-light fa-infinity,Infinity,Sharp Light
-face-viewfinder,1,fa-regular fa-face-viewfinder,Face Viewfinder,Regular
-brackets,19,fa-sharp fa-light fa-brackets,Brackets,Sharp Light
 file-award,24,fa-sharp-duotone fa-regular fa-file-award,File Award,Sharp Duotone Regular
 square-ellipsis-vertical,1,fa-regular fa-square-ellipsis-vertical,Square Ellipsis Vertical,Regular
 truck-monster,2,fa-light fa-truck-monster,Truck Monster,Light

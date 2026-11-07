@@ -4796,5 +4796,14 @@ window.FA_PUBLISHED = [
 "display-chart-up:9",
 "arrow-right-arrow-left:13",
 "shish-kebab:26",
-"star-half:32"
+"star-half:32",
+"bars-staggered:22",
+"candy:21",
+"circle-c:19",
+"border-none:24",
+"bug-slash:26",
+"chart-line:24",
+"infinity:19",
+"face-viewfinder:1",
+"brackets:19"
 ];

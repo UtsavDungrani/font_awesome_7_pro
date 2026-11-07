@@ -4742,5 +4742,14 @@ window.FA_PUBLISHED = [
 "comment-nodes:0",
 "person-soccer:3",
 "memo-circle-check:2",
-"chart-waterfall:21"
+"chart-waterfall:21",
+"fish-bones:22",
+"user-pilot:25",
+"candy-corn:19",
+"calendar-lines-pen:0",
+"broom:26",
+"piano-keyboard:8",
+"cloud-slash:8",
+"space-station-moon:9",
+"circle-t:7"
 ];

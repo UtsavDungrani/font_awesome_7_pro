@@ -4850,5 +4850,14 @@ window.FA_PUBLISHED = [
 "arrow-down-short-wide:1",
 "arrow-to-top:23",
 "location-arrow-up:6",
-"folder-check:24"
+"folder-check:24",
+"globe-pointer:26",
+"paperclip:33",
+"phone-arrow-up:33",
+"hockey-mask:24",
+"trombone:25",
+"bus-alt:26",
+"tank-recovery:19",
+"user-circle-plus:7",
+"badminton:6"
 ];

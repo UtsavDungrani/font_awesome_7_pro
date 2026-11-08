@@ -4868,5 +4868,14 @@ window.FA_PUBLISHED = [
 "caret-circle-down:6",
 "genderless:21",
 "people-simple:1",
-"tv-retro:31"
+"tv-retro:31",
+"shipping-timed:24",
+"spinner:7",
+"hat-cowboy-side:6",
+"file-css:3",
+"person-walking:7",
+"file-minus:2",
+"face-shush:23",
+"watch:8",
+"virus-slash:7"
 ];

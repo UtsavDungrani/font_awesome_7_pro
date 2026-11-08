@@ -4877,5 +4877,14 @@ window.FA_PUBLISHED = [
 "file-minus:2",
 "face-shush:23",
 "watch:8",
-"virus-slash:7"
+"virus-slash:7",
+"arrow-alt-square-right:7",
+"anchor-circle-exclamation:1",
+"pipe:20",
+"archive:30",
+"caret-square-left:26",
+"signal-3:22",
+"house-flood:3",
+"pickleball:0",
+"claw-marks:26"
 ];

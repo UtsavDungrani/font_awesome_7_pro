@@ -4823,5 +4823,14 @@ window.FA_PUBLISHED = [
 "y:20",
 "arrow-down-9-1:3",
 "u-turn-down-left:3",
-"arrow-down-left-and-arrow-up-right-to-center:23"
+"arrow-down-left-and-arrow-up-right-to-center:23",
+"baseball-bat:6",
+"book-quran:25",
+"dong-sign:0",
+"seal:9",
+"arrow-right:24",
+"image-landscape:0",
+"cloud-hail:2",
+"clipboard-prescription:22",
+"blind:24"
 ];

@@ -4832,5 +4832,14 @@ window.FA_PUBLISHED = [
 "image-landscape:0",
 "cloud-hail:2",
 "clipboard-prescription:22",
-"blind:24"
+"blind:24",
+"magnifying-glass-minus:24",
+"creemee:25",
+"paper-plane:8",
+"home:14",
+"circle-w:22",
+"file-medical:0",
+"file-excel:23",
+"face-sad-cry:20",
+"barcode:8"
 ];

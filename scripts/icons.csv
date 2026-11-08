@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-magnifying-glass-minus,24,fa-sharp-duotone fa-regular fa-magnifying-glass-minus,Magnifying Glass Minus,Sharp Duotone Regular
-creemee,25,fa-sharp-duotone fa-solid fa-creemee,Creemee,Sharp Duotone Solid
-paper-plane,8,fa-duotone fa-regular fa-paper-plane,Paper Plane,Duotone Regular
-home,14,fa-jelly-fill fa-regular fa-home,Home,Jelly Fill Regular
-circle-w,22,fa-sharp fa-thin fa-circle-w,Circle W,Sharp Thin
-file-medical,0,fa-solid fa-file-medical,File Medical,Solid
-file-excel,23,fa-sharp-duotone fa-light fa-file-excel,File Excel,Sharp Duotone Light
-face-sad-cry,20,fa-sharp fa-regular fa-face-sad-cry,Face Sad Cry,Sharp Regular
-barcode,8,fa-duotone fa-regular fa-barcode,Barcode,Duotone Regular
 face-mask,22,fa-sharp fa-thin fa-face-mask,Face Mask,Sharp Thin
 kazoo,2,fa-light fa-kazoo,Kazoo,Light
 transporter-4,3,fa-thin fa-transporter-4,Transporter 4,Thin

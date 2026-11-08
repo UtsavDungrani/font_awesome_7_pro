@@ -4859,5 +4859,14 @@ window.FA_PUBLISHED = [
 "bus-alt:26",
 "tank-recovery:19",
 "user-circle-plus:7",
-"badminton:6"
+"badminton:6",
+"fire-hydrant:25",
+"user-plus:1",
+"excavator:8",
+"coin:9",
+"window-restore:8",
+"caret-circle-down:6",
+"genderless:21",
+"people-simple:1",
+"tv-retro:31"
 ];

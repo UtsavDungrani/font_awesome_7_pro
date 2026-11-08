@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-fire-hydrant,25,fa-sharp-duotone fa-solid fa-fire-hydrant,Fire Hydrant,Sharp Duotone Solid
-user-plus,1,fa-regular fa-user-plus,User Plus,Regular
-excavator,8,fa-duotone fa-regular fa-excavator,Excavator,Duotone Regular
-coin,9,fa-duotone fa-thin fa-coin,Coin,Duotone Thin
-window-restore,8,fa-duotone fa-regular fa-window-restore,Window Restore,Duotone Regular
-caret-circle-down,6,fa-duotone fa-caret-circle-down,Caret Circle Down,Duotone Solid
-genderless,21,fa-sharp fa-solid fa-genderless,Genderless,Sharp Solid
-people-simple,1,fa-regular fa-people-simple,People Simple,Regular
-tv-retro,31,fa-thumbprint fa-light fa-tv-retro,Tv Retro,Thumbprint Light
 shipping-timed,24,fa-sharp-duotone fa-regular fa-shipping-timed,Shipping Timed,Sharp Duotone Regular
 spinner,7,fa-duotone fa-light fa-spinner,Spinner,Duotone Light
 hat-cowboy-side,6,fa-duotone fa-hat-cowboy-side,Hat Cowboy Side,Duotone Solid

@@ -4886,5 +4886,14 @@ window.FA_PUBLISHED = [
 "signal-3:22",
 "house-flood:3",
 "pickleball:0",
-"claw-marks:26"
+"claw-marks:26",
+"user-police-hair-long:21",
+"cart-flatbed:24",
+"truck-fire:22",
+"chart-scatter:25",
+"binoculars:23",
+"arrows-down-to-people:20",
+"arrow-up-from-bracket:6",
+"qrcode-read:1",
+"code-branch:20"
 ];

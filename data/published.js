@@ -4841,5 +4841,14 @@ window.FA_PUBLISHED = [
 "file-medical:0",
 "file-excel:23",
 "face-sad-cry:20",
-"barcode:8"
+"barcode:8",
+"face-mask:22",
+"kazoo:2",
+"transporter-4:3",
+"equals:25",
+"cloud-bolt-sun:23",
+"arrow-down-short-wide:1",
+"arrow-to-top:23",
+"location-arrow-up:6",
+"folder-check:24"
 ];

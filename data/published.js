@@ -4994,5 +4994,14 @@ window.FA_PUBLISHED = [
 "house-signal:26",
 "face-tired:25",
 "piano-keyboard:0",
-"person-cane:23"
+"person-cane:23",
+"kazoo:21",
+"box-isometric:3",
+"right-long-to-line:24",
+"microphone-slash:17",
+"arrow-trend-up:1",
+"cloud-rainbow:2",
+"chess-clock-alt:24",
+"backward-fast:6",
+"road:19"
 ];

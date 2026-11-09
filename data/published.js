@@ -4976,5 +4976,14 @@ window.FA_PUBLISHED = [
 "cup-straw:1",
 "temperature-hot:1",
 "bee:25",
-"image-circle-check:7"
+"image-circle-check:7",
+"meter-droplet:24",
+"space-station-moon-alt:7",
+"u-turn-down-right:25",
+"file-html:7",
+"oil-can:19",
+"podium:9",
+"hand:35",
+"mailbox-flag-up:19",
+"paintbrush-pencil:19"
 ];

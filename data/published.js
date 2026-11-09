@@ -4895,5 +4895,14 @@ window.FA_PUBLISHED = [
 "arrows-down-to-people:20",
 "arrow-up-from-bracket:6",
 "qrcode-read:1",
-"code-branch:20"
+"code-branch:20",
+"seal:24",
+"angle-double-left:0",
+"arrow-down-9-1:22",
+"arrow-down-square-triangle:2",
+"circle-yen:25",
+"virgo:19",
+"reply-clock:7",
+"shorts:2",
+"car-bolt:25"
 ];

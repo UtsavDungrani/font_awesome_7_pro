@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-seal,24,fa-sharp-duotone fa-regular fa-seal,Seal,Sharp Duotone Regular
-angle-double-left,0,fa-solid fa-angle-double-left,Angle Double Left,Solid
-arrow-down-9-1,22,fa-sharp fa-thin fa-arrow-down-9-1,Arrow Down 9 1,Sharp Thin
-arrow-down-square-triangle,2,fa-light fa-arrow-down-square-triangle,Arrow Down Square Triangle,Light
-circle-yen,25,fa-sharp-duotone fa-solid fa-circle-yen,Circle Yen,Sharp Duotone Solid
-virgo,19,fa-sharp fa-light fa-virgo,Virgo,Sharp Light
-reply-clock,7,fa-duotone fa-light fa-reply-clock,Reply Clock,Duotone Light
-shorts,2,fa-light fa-shorts,Shorts,Light
-car-bolt,25,fa-sharp-duotone fa-solid fa-car-bolt,Car Bolt,Sharp Duotone Solid
 minus-octagon,6,fa-duotone fa-minus-octagon,Minus Octagon,Duotone Solid
 image-slash,24,fa-sharp-duotone fa-regular fa-image-slash,Image Slash,Sharp Duotone Regular
 chess-queen,20,fa-sharp fa-regular fa-chess-queen,Chess Queen,Sharp Regular

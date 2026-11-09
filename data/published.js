@@ -4904,5 +4904,14 @@ window.FA_PUBLISHED = [
 "virgo:19",
 "reply-clock:7",
 "shorts:2",
-"car-bolt:25"
+"car-bolt:25",
+"minus-octagon:6",
+"image-slash:24",
+"chess-queen:20",
+"square-shekel:2",
+"battery-slash:21",
+"square-b:6",
+"car-bus:19",
+"pretzel:0",
+"gauge-simple-max:26"
 ];

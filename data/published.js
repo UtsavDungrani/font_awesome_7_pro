@@ -4985,5 +4985,14 @@ window.FA_PUBLISHED = [
 "podium:9",
 "hand:35",
 "mailbox-flag-up:19",
-"paintbrush-pencil:19"
+"paintbrush-pencil:19",
+"screwdriver:6",
+"rectangles-mixed:26",
+"option:1",
+"engine-exclamation:8",
+"angles-up-down:7",
+"house-signal:26",
+"face-tired:25",
+"piano-keyboard:0",
+"person-cane:23"
 ];

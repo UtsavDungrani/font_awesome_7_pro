@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-parachute-box,19,fa-sharp fa-light fa-parachute-box,Parachute Box,Sharp Light
-burger-cheese,24,fa-sharp-duotone fa-regular fa-burger-cheese,Burger Cheese,Sharp Duotone Regular
-ampersand,3,fa-thin fa-ampersand,Ampersand,Thin
-neuter,7,fa-duotone fa-light fa-neuter,Neuter,Duotone Light
-level-up-alt,7,fa-duotone fa-light fa-level-up-alt,Level Up Alt,Duotone Light
-layer,2,fa-light fa-layer,Layer,Light
-arrow-circle-right,19,fa-sharp fa-light fa-arrow-circle-right,Arrow Circle Right,Sharp Light
-mask,0,fa-solid fa-mask,Mask,Solid
-font,15,fa-mosaic fa-solid fa-font,Font,Mosaic Solid
 signal-stream-slash,25,fa-sharp-duotone fa-solid fa-signal-stream-slash,Signal Stream Slash,Sharp Duotone Solid
 hat-chef,26,fa-sharp-duotone fa-thin fa-hat-chef,Hat Chef,Sharp Duotone Thin
 circle-y,24,fa-sharp-duotone fa-regular fa-circle-y,Circle Y,Sharp Duotone Regular

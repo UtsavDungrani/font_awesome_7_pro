@@ -4931,5 +4931,14 @@ window.FA_PUBLISHED = [
 "keyboard-left:0",
 "camera:13",
 "triple-chevrons-right:23",
-"money-from-bracket:2"
+"money-from-bracket:2",
+"parachute-box:19",
+"burger-cheese:24",
+"ampersand:3",
+"neuter:7",
+"level-up-alt:7",
+"layer:2",
+"arrow-circle-right:19",
+"mask:0",
+"font:15"
 ];

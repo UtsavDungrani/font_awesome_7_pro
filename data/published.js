@@ -4958,5 +4958,14 @@ window.FA_PUBLISHED = [
 "money-bill:20",
 "tamale:24",
 "x:21",
-"signal:31"
+"signal:31",
+"grid-round-5:19",
+"envelope-certificate:20",
+"flask-poison:9",
+"clipboard:17",
+"building-circle-check:7",
+"window-maximize:2",
+"map:21",
+"satellite-dish:9",
+"toolbox:25"
 ];

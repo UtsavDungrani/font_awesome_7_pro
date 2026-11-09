@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grid-round-5,19,fa-sharp fa-light fa-grid-round-5,Grid Round 5,Sharp Light
-envelope-certificate,20,fa-sharp fa-regular fa-envelope-certificate,Envelope Certificate,Sharp Regular
-flask-poison,9,fa-duotone fa-thin fa-flask-poison,Flask Poison,Duotone Thin
-clipboard,17,fa-notdog-duo fa-solid fa-clipboard,Clipboard,Notdog Duo Solid
-building-circle-check,7,fa-duotone fa-light fa-building-circle-check,Building Circle Check,Duotone Light
-window-maximize,2,fa-light fa-window-maximize,Window Maximize,Light
-map,21,fa-sharp fa-solid fa-map,Map,Sharp Solid
-satellite-dish,9,fa-duotone fa-thin fa-satellite-dish,Satellite Dish,Duotone Thin
-toolbox,25,fa-sharp-duotone fa-solid fa-toolbox,Toolbox,Sharp Duotone Solid
 pants,6,fa-duotone fa-pants,Pants,Duotone Solid
 table-rows-merge-next,9,fa-duotone fa-thin fa-table-rows-merge-next,Table Rows Merge Next,Duotone Thin
 right-from-dotted-line,25,fa-sharp-duotone fa-solid fa-right-from-dotted-line,Right From Dotted Line,Sharp Duotone Solid

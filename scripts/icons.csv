@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-terminal,2,fa-light fa-square-terminal,Square Terminal,Light
-person-praying,6,fa-duotone fa-person-praying,Person Praying,Duotone Solid
-rectangle-video-on-demand,3,fa-thin fa-rectangle-video-on-demand,Rectangle Video On Demand,Thin
-ellipsis-v,19,fa-sharp fa-light fa-ellipsis-v,Ellipsis V,Sharp Light
-table-tennis-paddle,22,fa-sharp fa-thin fa-table-tennis-paddle,Table Tennis Paddle,Sharp Thin
-arrow-down,29,fa-slab-press fa-regular fa-arrow-down,Arrow Down,Slab Press Regular
-bed-bunk,1,fa-regular fa-bed-bunk,Bed Bunk,Regular
-camera-slash,10,fa-etch fa-solid fa-camera-slash,Camera Slash,Etch Solid
-face-anguished,23,fa-sharp-duotone fa-light fa-face-anguished,Face Anguished,Sharp Duotone Light
 oven,9,fa-duotone fa-thin fa-oven,Oven,Duotone Thin
 thought-bubble,2,fa-light fa-thought-bubble,Thought Bubble,Light
 bed-bunk,7,fa-duotone fa-light fa-bed-bunk,Bed Bunk,Duotone Light

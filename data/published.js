@@ -4913,5 +4913,14 @@ window.FA_PUBLISHED = [
 "square-b:6",
 "car-bus:19",
 "pretzel:0",
-"gauge-simple-max:26"
+"gauge-simple-max:26",
+"square-terminal:2",
+"person-praying:6",
+"rectangle-video-on-demand:3",
+"ellipsis-v:19",
+"table-tennis-paddle:22",
+"arrow-down:29",
+"bed-bunk:1",
+"camera-slash:10",
+"face-anguished:23"
 ];

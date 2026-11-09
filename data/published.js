@@ -4940,5 +4940,14 @@ window.FA_PUBLISHED = [
 "layer:2",
 "arrow-circle-right:19",
 "mask:0",
-"font:15"
+"font:15",
+"signal-stream-slash:25",
+"hat-chef:26",
+"circle-y:24",
+"pause:12",
+"circle-malaysian-ringgit:23",
+"teddy-bear:21",
+"user-key:23",
+"pills:6",
+"font-case:14"
 ];

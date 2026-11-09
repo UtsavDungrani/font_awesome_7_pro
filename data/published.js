@@ -4922,5 +4922,14 @@ window.FA_PUBLISHED = [
 "arrow-down:29",
 "bed-bunk:1",
 "camera-slash:10",
-"face-anguished:23"
+"face-anguished:23",
+"oven:9",
+"thought-bubble:2",
+"bed-bunk:7",
+"allergies:21",
+"bell-concierge:9",
+"keyboard-left:0",
+"camera:13",
+"triple-chevrons-right:23",
+"money-from-bracket:2"
 ];

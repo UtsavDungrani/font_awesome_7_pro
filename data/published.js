@@ -4949,5 +4949,14 @@ window.FA_PUBLISHED = [
 "teddy-bear:21",
 "user-key:23",
 "pills:6",
-"font-case:14"
+"font-case:14",
+"expand:24",
+"icicles:24",
+"clock-nine-thirty:2",
+"brackets-round:2",
+"fingerprint:0",
+"money-bill:20",
+"tamale:24",
+"x:21",
+"signal:31"
 ];

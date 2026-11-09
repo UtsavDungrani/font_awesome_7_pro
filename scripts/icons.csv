@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-expand,24,fa-sharp-duotone fa-regular fa-expand,Expand,Sharp Duotone Regular
-icicles,24,fa-sharp-duotone fa-regular fa-icicles,Icicles,Sharp Duotone Regular
-clock-nine-thirty,2,fa-light fa-clock-nine-thirty,Clock Nine Thirty,Light
-brackets-round,2,fa-light fa-brackets-round,Brackets Round,Light
-fingerprint,0,fa-solid fa-fingerprint,Fingerprint,Solid
-money-bill,20,fa-sharp fa-regular fa-money-bill,Money Bill,Sharp Regular
-tamale,24,fa-sharp-duotone fa-regular fa-tamale,Tamale,Sharp Duotone Regular
-x,21,fa-sharp fa-solid fa-x,X,Sharp Solid
-signal,31,fa-thumbprint fa-light fa-signal,Signal,Thumbprint Light
 grid-round-5,19,fa-sharp fa-light fa-grid-round-5,Grid Round 5,Sharp Light
 envelope-certificate,20,fa-sharp fa-regular fa-envelope-certificate,Envelope Certificate,Sharp Regular
 flask-poison,9,fa-duotone fa-thin fa-flask-poison,Flask Poison,Duotone Thin

@@ -4967,5 +4967,14 @@ window.FA_PUBLISHED = [
 "window-maximize:2",
 "map:21",
 "satellite-dish:9",
-"toolbox:25"
+"toolbox:25",
+"pants:6",
+"table-rows-merge-next:9",
+"right-from-dotted-line:25",
+"ladder-water:23",
+"hat-witch:19",
+"cup-straw:1",
+"temperature-hot:1",
+"bee:25",
+"image-circle-check:7"
 ];

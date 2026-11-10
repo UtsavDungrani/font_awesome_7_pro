@@ -5021,5 +5021,14 @@ window.FA_PUBLISHED = [
 "expand:13",
 "person-seat:3",
 "square-baht:21",
-"face-viewfinder:22"
+"face-viewfinder:22",
+"file-magnifying-glass:24",
+"frog:20",
+"mailbox:21",
+"cloud-xmark:24",
+"swords-laser:6",
+"comment-waveform:9",
+"hand-back-point-right:2",
+"jug-bottle:3",
+"calculator-alt:22"
 ];

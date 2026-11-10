@@ -5039,5 +5039,14 @@ window.FA_PUBLISHED = [
 "bus:12",
 "camera-viewfinder:0",
 "cabinet-filing:0",
-"arrow-left-long-to-line:8"
+"arrow-left-long-to-line:8",
+"pi:22",
+"flute:26",
+"gas-pump:8",
+"laptop:9",
+"chevron-square-down:20",
+"chart-mixed-up-circle-currency:2",
+"skull:19",
+"person-burst:9",
+"user-visor:20"
 ];

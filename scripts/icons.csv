@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-pi,22,fa-sharp fa-thin fa-pi,Pi,Sharp Thin
-flute,26,fa-sharp-duotone fa-thin fa-flute,Flute,Sharp Duotone Thin
-gas-pump,8,fa-duotone fa-regular fa-gas-pump,Gas Pump,Duotone Regular
-laptop,9,fa-duotone fa-thin fa-laptop,Laptop,Duotone Thin
-chevron-square-down,20,fa-sharp fa-regular fa-chevron-square-down,Chevron Square Down,Sharp Regular
-chart-mixed-up-circle-currency,2,fa-light fa-chart-mixed-up-circle-currency,Chart Mixed Up Circle Currency,Light
-skull,19,fa-sharp fa-light fa-skull,Skull,Sharp Light
-person-burst,9,fa-duotone fa-thin fa-person-burst,Person Burst,Duotone Thin
-user-visor,20,fa-sharp fa-regular fa-user-visor,User Visor,Sharp Regular
 table-cells-column-unlock,0,fa-solid fa-table-cells-column-unlock,Table Cells Column Unlock,Solid
 lari-sign,19,fa-sharp fa-light fa-lari-sign,Lari Sign,Sharp Light
 head-side-headphones,0,fa-solid fa-head-side-headphones,Head Side Headphones,Solid

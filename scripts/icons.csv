@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-alarm-minus,1,fa-regular fa-alarm-minus,Alarm Minus,Regular
-arrow-square-up,24,fa-sharp-duotone fa-regular fa-arrow-square-up,Arrow Square Up,Sharp Duotone Regular
-arrows-repeat-1,6,fa-duotone fa-arrows-repeat-1,Arrows Repeat 1,Duotone Solid
-fish,36,fa-whiteboard fa-semibold fa-fish,Fish,Whiteboard Semibold
-user-alien,24,fa-sharp-duotone fa-regular fa-user-alien,User Alien,Sharp Duotone Regular
-florin-sign,6,fa-duotone fa-florin-sign,Florin Sign,Duotone Solid
-folder-arrow-right,25,fa-sharp-duotone fa-solid fa-folder-arrow-right,Folder Arrow Right,Sharp Duotone Solid
-forklift,20,fa-sharp fa-regular fa-forklift,Forklift,Sharp Regular
-arrow-right-from-file,2,fa-light fa-arrow-right-from-file,Arrow Right From File,Light
 chain-broken,6,fa-duotone fa-chain-broken,Chain Broken,Duotone Solid
 clock-two-thirty,7,fa-duotone fa-light fa-clock-two-thirty,Clock Two Thirty,Duotone Light
 text-size,20,fa-sharp fa-regular fa-text-size,Text Size,Sharp Regular

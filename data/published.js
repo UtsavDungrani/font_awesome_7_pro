@@ -5057,5 +5057,14 @@ window.FA_PUBLISHED = [
 "check-circle:34",
 "book-font:25",
 "square-quote:8",
-"mobile-slash:22"
+"mobile-slash:22",
+"alarm-minus:1",
+"arrow-square-up:24",
+"arrows-repeat-1:6",
+"fish:36",
+"user-alien:24",
+"florin-sign:6",
+"folder-arrow-right:25",
+"forklift:20",
+"arrow-right-from-file:2"
 ];

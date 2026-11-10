@@ -5084,5 +5084,14 @@ window.FA_PUBLISHED = [
 "stopwatch:32",
 "chess-rook:2",
 "people:24",
-"square-sterling:3"
+"square-sterling:3",
+"laptop-slash:26",
+"battery:33",
+"arrow-down-big-small:19",
+"archive:33",
+"comment-alt-arrow-down:6",
+"duck:20",
+"person-breastfeeding:8",
+"xbox:4",
+"pencil:5"
 ];

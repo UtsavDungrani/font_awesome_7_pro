@@ -5030,5 +5030,14 @@ window.FA_PUBLISHED = [
 "comment-waveform:9",
 "hand-back-point-right:2",
 "jug-bottle:3",
-"calculator-alt:22"
+"calculator-alt:22",
+"face-anguished:8",
+"snowflakes:22",
+"circle-baht:3",
+"bags-shopping:2",
+"tent:25",
+"bus:12",
+"camera-viewfinder:0",
+"cabinet-filing:0",
+"arrow-left-long-to-line:8"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chain-broken,6,fa-duotone fa-chain-broken,Chain Broken,Duotone Solid
-clock-two-thirty,7,fa-duotone fa-light fa-clock-two-thirty,Clock Two Thirty,Duotone Light
-text-size,20,fa-sharp fa-regular fa-text-size,Text Size,Sharp Regular
-columns-3,8,fa-duotone fa-regular fa-columns-3,Columns 3,Duotone Regular
-knife,25,fa-sharp-duotone fa-solid fa-knife,Knife,Sharp Duotone Solid
-jedi,20,fa-sharp fa-regular fa-jedi,Jedi,Sharp Regular
-shipping-fast,22,fa-sharp fa-thin fa-shipping-fast,Shipping Fast,Sharp Thin
-vault,26,fa-sharp-duotone fa-thin fa-vault,Vault,Sharp Duotone Thin
-minus,14,fa-jelly-fill fa-regular fa-minus,Minus,Jelly Fill Regular
 hood-cloak,22,fa-sharp fa-thin fa-hood-cloak,Hood Cloak,Sharp Thin
 bridge-lock,2,fa-light fa-bridge-lock,Bridge Lock,Light
 raygun,2,fa-light fa-raygun,Raygun,Light

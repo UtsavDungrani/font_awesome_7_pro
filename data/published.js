@@ -5066,5 +5066,14 @@ window.FA_PUBLISHED = [
 "florin-sign:6",
 "folder-arrow-right:25",
 "forklift:20",
-"arrow-right-from-file:2"
+"arrow-right-from-file:2",
+"chain-broken:6",
+"clock-two-thirty:7",
+"text-size:20",
+"columns-3:8",
+"knife:25",
+"jedi:20",
+"shipping-fast:22",
+"vault:26",
+"minus:14"
 ];

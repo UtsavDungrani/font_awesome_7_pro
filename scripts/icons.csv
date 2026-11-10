@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hood-cloak,22,fa-sharp fa-thin fa-hood-cloak,Hood Cloak,Sharp Thin
-bridge-lock,2,fa-light fa-bridge-lock,Bridge Lock,Light
-raygun,2,fa-light fa-raygun,Raygun,Light
-arrow-right-arrow-left,36,fa-whiteboard fa-semibold fa-arrow-right-arrow-left,Arrow Right Arrow Left,Whiteboard Semibold
-user-microphone,24,fa-sharp-duotone fa-regular fa-user-microphone,User Microphone,Sharp Duotone Regular
-stopwatch,32,fa-utility fa-semibold fa-stopwatch,Stopwatch,Utility Semibold
-chess-rook,2,fa-light fa-chess-rook,Chess Rook,Light
-people,24,fa-sharp-duotone fa-regular fa-people,People,Sharp Duotone Regular
-square-sterling,3,fa-thin fa-square-sterling,Square Sterling,Thin
 laptop-slash,26,fa-sharp-duotone fa-thin fa-laptop-slash,Laptop Slash,Sharp Duotone Thin
 battery,33,fa-utility-duo fa-semibold fa-battery,Battery,Utility Duo Semibold
 arrow-down-big-small,19,fa-sharp fa-light fa-arrow-down-big-small,Arrow Down Big Small,Sharp Light

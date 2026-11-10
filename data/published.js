@@ -5075,5 +5075,14 @@ window.FA_PUBLISHED = [
 "jedi:20",
 "shipping-fast:22",
 "vault:26",
-"minus:14"
+"minus:14",
+"hood-cloak:22",
+"bridge-lock:2",
+"raygun:2",
+"arrow-right-arrow-left:36",
+"user-microphone:24",
+"stopwatch:32",
+"chess-rook:2",
+"people:24",
+"square-sterling:3"
 ];

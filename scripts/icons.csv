@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hand-middle-finger,1,fa-regular fa-hand-middle-finger,Hand Middle Finger,Regular
-street-view,19,fa-sharp fa-light fa-street-view,Street View,Sharp Light
-circle-e,24,fa-sharp-duotone fa-regular fa-circle-e,Circle E,Sharp Duotone Regular
-messages-question,6,fa-duotone fa-messages-question,Messages Question,Duotone Solid
-crop,21,fa-sharp fa-solid fa-crop,Crop,Sharp Solid
-expand,13,fa-jelly-duo fa-regular fa-expand,Expand,Jelly Duo Regular
-person-seat,3,fa-thin fa-person-seat,Person Seat,Thin
-square-baht,21,fa-sharp fa-solid fa-square-baht,Square Baht,Sharp Solid
-face-viewfinder,22,fa-sharp fa-thin fa-face-viewfinder,Face Viewfinder,Sharp Thin
 file-magnifying-glass,24,fa-sharp-duotone fa-regular fa-file-magnifying-glass,File Magnifying Glass,Sharp Duotone Regular
 frog,20,fa-sharp fa-regular fa-frog,Frog,Sharp Regular
 mailbox,21,fa-sharp fa-solid fa-mailbox,Mailbox,Sharp Solid

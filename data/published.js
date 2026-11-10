@@ -5012,5 +5012,14 @@ window.FA_PUBLISHED = [
 "circle-peruvian-soles:21",
 "close:29",
 "burn:7",
-"window-frame-open:19"
+"window-frame-open:19",
+"hand-middle-finger:1",
+"street-view:19",
+"circle-e:24",
+"messages-question:6",
+"crop:21",
+"expand:13",
+"person-seat:3",
+"square-baht:21",
+"face-viewfinder:22"
 ];

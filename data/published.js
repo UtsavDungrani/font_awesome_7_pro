@@ -5003,5 +5003,14 @@ window.FA_PUBLISHED = [
 "cloud-rainbow:2",
 "chess-clock-alt:24",
 "backward-fast:6",
-"road:19"
+"road:19",
+"user-police-hair-long:20",
+"00:24",
+"floppy-disk:25",
+"mace:7",
+"vihara:21",
+"circle-peruvian-soles:21",
+"close:29",
+"burn:7",
+"window-frame-open:19"
 ];

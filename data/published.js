@@ -5048,5 +5048,14 @@ window.FA_PUBLISHED = [
 "chart-mixed-up-circle-currency:2",
 "skull:19",
 "person-burst:9",
-"user-visor:20"
+"user-visor:20",
+"table-cells-column-unlock:0",
+"lari-sign:19",
+"head-side-headphones:0",
+"tornado:22",
+"thumbs-down:13",
+"check-circle:34",
+"book-font:25",
+"square-quote:8",
+"mobile-slash:22"
 ];

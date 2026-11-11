@@ -5201,5 +5201,14 @@ window.FA_PUBLISHED = [
 "can-food:1",
 "plane-circle-exclamation:7",
 "genderless:22",
-"face-mask:23"
+"face-mask:23",
+"box-magnifying-glass:19",
+"eye-dropper:7",
+"table-columns-remove-after:21",
+"remove-format:26",
+"upload:25",
+"snowflake:15",
+"brazilian-real-sign:19",
+"arrow-from-right:22",
+"circle-6:23"
 ];

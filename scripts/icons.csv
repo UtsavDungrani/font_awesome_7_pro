@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-box-magnifying-glass,19,fa-sharp fa-light fa-box-magnifying-glass,Box Magnifying Glass,Sharp Light
-eye-dropper,7,fa-duotone fa-light fa-eye-dropper,Eye Dropper,Duotone Light
-table-columns-remove-after,21,fa-sharp fa-solid fa-table-columns-remove-after,Table Columns Remove After,Sharp Solid
-remove-format,26,fa-sharp-duotone fa-thin fa-remove-format,Remove Format,Sharp Duotone Thin
-upload,25,fa-sharp-duotone fa-solid fa-upload,Upload,Sharp Duotone Solid
-snowflake,15,fa-mosaic fa-solid fa-snowflake,Snowflake,Mosaic Solid
-brazilian-real-sign,19,fa-sharp fa-light fa-brazilian-real-sign,Brazilian Real Sign,Sharp Light
-arrow-from-right,22,fa-sharp fa-thin fa-arrow-from-right,Arrow From Right,Sharp Thin
-circle-6,23,fa-sharp-duotone fa-light fa-circle-6,Circle 6,Sharp Duotone Light
 star-christmas,9,fa-duotone fa-thin fa-star-christmas,Star Christmas,Duotone Thin
 file-html,20,fa-sharp fa-regular fa-file-html,File Html,Sharp Regular
 toilet,1,fa-regular fa-toilet,Toilet,Regular

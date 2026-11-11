@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-meter-droplet,7,fa-duotone fa-light fa-meter-droplet,Meter Droplet,Duotone Light
-table-dining,3,fa-thin fa-table-dining,Table Dining,Thin
-trash,7,fa-duotone fa-light fa-trash,Trash,Duotone Light
-colon-sign,25,fa-sharp-duotone fa-solid fa-colon-sign,Colon Sign,Sharp Duotone Solid
-trash-can-arrow-up,24,fa-sharp-duotone fa-regular fa-trash-can-arrow-up,Trash Can Arrow Up,Sharp Duotone Regular
-comment-question,8,fa-duotone fa-regular fa-comment-question,Comment Question,Duotone Regular
-sagittarius,26,fa-sharp-duotone fa-thin fa-sagittarius,Sagittarius,Sharp Duotone Thin
-cart-circle-xmark,21,fa-sharp fa-solid fa-cart-circle-xmark,Cart Circle Xmark,Sharp Solid
-people-simple,26,fa-sharp-duotone fa-thin fa-people-simple,People Simple,Sharp Duotone Thin
 flower,10,fa-etch fa-solid fa-flower,Flower,Etch Solid
 circleapore-dollar,1,fa-regular fa-circleapore-dollar,Circleapore Dollar,Regular
 burger-fries,26,fa-sharp-duotone fa-thin fa-burger-fries,Burger Fries,Sharp Duotone Thin

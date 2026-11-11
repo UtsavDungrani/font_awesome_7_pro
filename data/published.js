@@ -5165,5 +5165,14 @@ window.FA_PUBLISHED = [
 "truck-fire:25",
 "reflect-both:3",
 "hand-holding-star:7",
-"magnifying-glass-location:7"
+"magnifying-glass-location:7",
+"meter-droplet:7",
+"table-dining:3",
+"trash:7",
+"colon-sign:25",
+"trash-can-arrow-up:24",
+"comment-question:8",
+"sagittarius:26",
+"cart-circle-xmark:21",
+"people-simple:26"
 ];

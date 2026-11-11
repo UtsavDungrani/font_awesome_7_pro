@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-flower,10,fa-etch fa-solid fa-flower,Flower,Etch Solid
-circleapore-dollar,1,fa-regular fa-circleapore-dollar,Circleapore Dollar,Regular
-burger-fries,26,fa-sharp-duotone fa-thin fa-burger-fries,Burger Fries,Sharp Duotone Thin
-oars,8,fa-duotone fa-regular fa-oars,Oars,Duotone Regular
-rectangle-hdr,7,fa-duotone fa-light fa-rectangle-hdr,Rectangle Hdr,Duotone Light
-crow,24,fa-sharp-duotone fa-regular fa-crow,Crow,Sharp Duotone Regular
-tags,1,fa-regular fa-tags,Tags,Regular
-file-times,20,fa-sharp fa-regular fa-file-times,File Times,Sharp Regular
-square-peruvian-soles,0,fa-solid fa-square-peruvian-soles,Square Peruvian Soles,Solid
 bridge-lock,22,fa-sharp fa-thin fa-bridge-lock,Bridge Lock,Sharp Thin
 champagne-glasses,25,fa-sharp-duotone fa-solid fa-champagne-glasses,Champagne Glasses,Sharp Duotone Solid
 css,4,fa-brands fa-css,Css,Brands

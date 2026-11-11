@@ -5174,5 +5174,14 @@ window.FA_PUBLISHED = [
 "comment-question:8",
 "sagittarius:26",
 "cart-circle-xmark:21",
-"people-simple:26"
+"people-simple:26",
+"flower:10",
+"circleapore-dollar:1",
+"burger-fries:26",
+"oars:8",
+"rectangle-hdr:7",
+"crow:24",
+"tags:1",
+"file-times:20",
+"square-peruvian-soles:0"
 ];

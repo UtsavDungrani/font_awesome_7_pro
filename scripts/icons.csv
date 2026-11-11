@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-cloud-bolt-sun,7,fa-duotone fa-light fa-cloud-bolt-sun,Cloud Bolt Sun,Duotone Light
-arrow-up-to-bracket,24,fa-sharp-duotone fa-regular fa-arrow-up-to-bracket,Arrow Up To Bracket,Sharp Duotone Regular
-lock-a,8,fa-duotone fa-regular fa-lock-a,Lock A,Duotone Regular
-mask-snorkel,7,fa-duotone fa-light fa-mask-snorkel,Mask Snorkel,Duotone Light
-pro,20,fa-sharp fa-regular fa-pro,Pro,Sharp Regular
-circle-d,6,fa-duotone fa-circle-d,Circle D,Duotone Solid
-school-circle-check,1,fa-regular fa-school-circle-check,School Circle Check,Regular
-overline,19,fa-sharp fa-light fa-overline,Overline,Sharp Light
-pen-square,20,fa-sharp fa-regular fa-pen-square,Pen Square,Sharp Regular
 arrow-left-to-line,3,fa-thin fa-arrow-left-to-line,Arrow Left To Line,Thin
 danish-krone-sign,22,fa-sharp fa-thin fa-danish-krone-sign,Danish Krone Sign,Sharp Thin
 clock-six,21,fa-sharp fa-solid fa-clock-six,Clock Six,Sharp Solid

@@ -5093,5 +5093,14 @@ window.FA_PUBLISHED = [
 "duck:20",
 "person-breastfeeding:8",
 "xbox:4",
-"pencil:5"
+"pencil:5",
+"cloud-bolt-sun:7",
+"arrow-up-to-bracket:24",
+"lock-a:8",
+"mask-snorkel:7",
+"pro:20",
+"circle-d:6",
+"school-circle-check:1",
+"overline:19",
+"pen-square:20"
 ];

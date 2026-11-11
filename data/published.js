@@ -5129,5 +5129,14 @@ window.FA_PUBLISHED = [
 "square-rupee:22",
 "skull-crossbones:33",
 "wave-triangle:3",
-"mug-hot:13"
+"mug-hot:13",
+"arrow-circle-left:24",
+"circle-down-left:26",
+"arrow-down-to-bracket:26",
+"circle-user:32",
+"objects-align-center-vertical:25",
+"futbol:6",
+"wrench:11",
+"cassette-vhs:6",
+"horse-saddle:1"
 ];

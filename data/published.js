@@ -5147,5 +5147,14 @@ window.FA_PUBLISHED = [
 "volume:29",
 "temperature-slash:3",
 "slash-back:0",
-"flux-capacitor:19"
+"flux-capacitor:19",
+"file-arrow-up:22",
+"taco:22",
+"luchador:3",
+"heart:10",
+"angle-left:14",
+"key:19",
+"filter-circle-dollar:23",
+"image-portrait:19",
+"circle-xmark:0"
 ];

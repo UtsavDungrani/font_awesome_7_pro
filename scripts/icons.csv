@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-arrow-up,22,fa-sharp fa-thin fa-file-arrow-up,File Arrow Up,Sharp Thin
-taco,22,fa-sharp fa-thin fa-taco,Taco,Sharp Thin
-luchador,3,fa-thin fa-luchador,Luchador,Thin
-heart,10,fa-etch fa-solid fa-heart,Heart,Etch Solid
-angle-left,14,fa-jelly-fill fa-regular fa-angle-left,Angle Left,Jelly Fill Regular
-key,19,fa-sharp fa-light fa-key,Key,Sharp Light
-filter-circle-dollar,23,fa-sharp-duotone fa-light fa-filter-circle-dollar,Filter Circle Dollar,Sharp Duotone Light
-image-portrait,19,fa-sharp fa-light fa-image-portrait,Image Portrait,Sharp Light
-circle-xmark,0,fa-solid fa-circle-xmark,Circle Xmark,Solid
 melon,24,fa-sharp-duotone fa-regular fa-melon,Melon,Sharp Duotone Regular
 truck-couch,8,fa-duotone fa-regular fa-truck-couch,Truck Couch,Duotone Regular
 person-meditating,21,fa-sharp fa-solid fa-person-meditating,Person Meditating,Sharp Solid

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-left-to-line,3,fa-thin fa-arrow-left-to-line,Arrow Left To Line,Thin
-danish-krone-sign,22,fa-sharp fa-thin fa-danish-krone-sign,Danish Krone Sign,Sharp Thin
-clock-six,21,fa-sharp fa-solid fa-clock-six,Clock Six,Sharp Solid
-bomb,9,fa-duotone fa-thin fa-bomb,Bomb,Duotone Thin
-bell-slash,7,fa-duotone fa-light fa-bell-slash,Bell Slash,Duotone Light
-circle-bitcoin,0,fa-solid fa-circle-bitcoin,Circle Bitcoin,Solid
-moon-star,20,fa-sharp fa-regular fa-moon-star,Moon Star,Sharp Regular
-trophy,17,fa-notdog-duo fa-solid fa-trophy,Trophy,Notdog Duo Solid
-book-arrow-right,7,fa-duotone fa-light fa-book-arrow-right,Book Arrow Right,Duotone Light
 list-1-2,19,fa-sharp fa-light fa-list-1-2,List 1 2,Sharp Light
 slash,1,fa-regular fa-slash,Slash,Regular
 person-dress-burst,19,fa-sharp fa-light fa-person-dress-burst,Person Dress Burst,Sharp Light

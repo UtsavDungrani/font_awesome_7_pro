@@ -5102,5 +5102,14 @@ window.FA_PUBLISHED = [
 "circle-d:6",
 "school-circle-check:1",
 "overline:19",
-"pen-square:20"
+"pen-square:20",
+"arrow-left-to-line:3",
+"danish-krone-sign:22",
+"clock-six:21",
+"bomb:9",
+"bell-slash:7",
+"circle-bitcoin:0",
+"moon-star:20",
+"trophy:17",
+"book-arrow-right:7"
 ];

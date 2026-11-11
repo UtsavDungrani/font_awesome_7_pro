@@ -5111,5 +5111,14 @@ window.FA_PUBLISHED = [
 "circle-bitcoin:0",
 "moon-star:20",
 "trophy:17",
-"book-arrow-right:7"
+"book-arrow-right:7",
+"list-1-2:19",
+"slash:1",
+"person-dress-burst:19",
+"backward-step:5",
+"tv-retro:24",
+"arrow-right:16",
+"circle-bolt:21",
+"bone:1",
+"square-microphone:25"
 ];

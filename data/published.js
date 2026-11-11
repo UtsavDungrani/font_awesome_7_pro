@@ -5138,5 +5138,14 @@ window.FA_PUBLISHED = [
 "futbol:6",
 "wrench:11",
 "cassette-vhs:6",
-"horse-saddle:1"
+"horse-saddle:1",
+"ban-bug:9",
+"staff:2",
+"palette-boxes:21",
+"face-confused:23",
+"dice-three:7",
+"volume:29",
+"temperature-slash:3",
+"slash-back:0",
+"flux-capacitor:19"
 ];

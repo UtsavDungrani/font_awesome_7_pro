@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-ban-bug,9,fa-duotone fa-thin fa-ban-bug,Ban Bug,Duotone Thin
-staff,2,fa-light fa-staff,Staff,Light
-palette-boxes,21,fa-sharp fa-solid fa-palette-boxes,Palette Boxes,Sharp Solid
-face-confused,23,fa-sharp-duotone fa-light fa-face-confused,Face Confused,Sharp Duotone Light
-dice-three,7,fa-duotone fa-light fa-dice-three,Dice Three,Duotone Light
-volume,29,fa-slab-press fa-regular fa-volume,Volume,Slab Press Regular
-temperature-slash,3,fa-thin fa-temperature-slash,Temperature Slash,Thin
-slash-back,0,fa-solid fa-slash-back,Slash Back,Solid
-flux-capacitor,19,fa-sharp fa-light fa-flux-capacitor,Flux Capacitor,Sharp Light
 file-arrow-up,22,fa-sharp fa-thin fa-file-arrow-up,File Arrow Up,Sharp Thin
 taco,22,fa-sharp fa-thin fa-taco,Taco,Sharp Thin
 luchador,3,fa-thin fa-luchador,Luchador,Thin

@@ -5192,5 +5192,14 @@ window.FA_PUBLISHED = [
 "gauge-simple-max:7",
 "peseta-sign:9",
 "face-hand-peeking:7",
-"u-turn-down-left:22"
+"u-turn-down-left:22",
+"mars-stroke-h:24",
+"square-brazilian-real:7",
+"square-j:9",
+"head-side-headphones:19",
+"dice-five:2",
+"can-food:1",
+"plane-circle-exclamation:7",
+"genderless:22",
+"face-mask:23"
 ];

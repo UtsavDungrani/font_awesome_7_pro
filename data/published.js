@@ -5120,5 +5120,14 @@ window.FA_PUBLISHED = [
 "arrow-right:16",
 "circle-bolt:21",
 "bone:1",
-"square-microphone:25"
+"square-microphone:25",
+"chevron-circle-right:1",
+"square-indian-rupee:23",
+"angle-up:10",
+"arrow-down-square-triangle:7",
+"gift:28",
+"square-rupee:22",
+"skull-crossbones:33",
+"wave-triangle:3",
+"mug-hot:13"
 ];

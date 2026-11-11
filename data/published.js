@@ -5156,5 +5156,14 @@ window.FA_PUBLISHED = [
 "key:19",
 "filter-circle-dollar:23",
 "image-portrait:19",
-"circle-xmark:0"
+"circle-xmark:0",
+"melon:24",
+"truck-couch:8",
+"person-meditating:21",
+"arrow-alt-circle-left:3",
+"id-badge:24",
+"truck-fire:25",
+"reflect-both:3",
+"hand-holding-star:7",
+"magnifying-glass-location:7"
 ];

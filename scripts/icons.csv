@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-melon,24,fa-sharp-duotone fa-regular fa-melon,Melon,Sharp Duotone Regular
-truck-couch,8,fa-duotone fa-regular fa-truck-couch,Truck Couch,Duotone Regular
-person-meditating,21,fa-sharp fa-solid fa-person-meditating,Person Meditating,Sharp Solid
-arrow-alt-circle-left,3,fa-thin fa-arrow-alt-circle-left,Arrow Alt Circle Left,Thin
-id-badge,24,fa-sharp-duotone fa-regular fa-id-badge,Id Badge,Sharp Duotone Regular
-truck-fire,25,fa-sharp-duotone fa-solid fa-truck-fire,Truck Fire,Sharp Duotone Solid
-reflect-both,3,fa-thin fa-reflect-both,Reflect Both,Thin
-hand-holding-star,7,fa-duotone fa-light fa-hand-holding-star,Hand Holding Star,Duotone Light
-magnifying-glass-location,7,fa-duotone fa-light fa-magnifying-glass-location,Magnifying Glass Location,Duotone Light
 meter-droplet,7,fa-duotone fa-light fa-meter-droplet,Meter Droplet,Duotone Light
 table-dining,3,fa-thin fa-table-dining,Table Dining,Thin
 trash,7,fa-duotone fa-light fa-trash,Trash,Duotone Light

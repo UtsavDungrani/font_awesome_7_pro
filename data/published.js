@@ -5183,5 +5183,14 @@ window.FA_PUBLISHED = [
 "crow:24",
 "tags:1",
 "file-times:20",
-"square-peruvian-soles:0"
+"square-peruvian-soles:0",
+"bridge-lock:22",
+"champagne-glasses:25",
+"css:4",
+"pen-paintbrush:1",
+"carrot:8",
+"gauge-simple-max:7",
+"peseta-sign:9",
+"face-hand-peeking:7",
+"u-turn-down-left:22"
 ];

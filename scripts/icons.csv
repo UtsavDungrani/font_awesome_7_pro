@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-siren-on,21,fa-sharp fa-solid fa-siren-on,Siren On,Sharp Solid
-cloud-moon-rain,25,fa-sharp-duotone fa-solid fa-cloud-moon-rain,Cloud Moon Rain,Sharp Duotone Solid
-square-v,22,fa-sharp fa-thin fa-square-v,Square V,Sharp Thin
-tree-decorated,7,fa-duotone fa-light fa-tree-decorated,Tree Decorated,Duotone Light
-clipboard-exclamation,19,fa-sharp fa-light fa-clipboard-exclamation,Clipboard Exclamation,Sharp Light
-nose,3,fa-thin fa-nose,Nose,Thin
-donut,23,fa-sharp-duotone fa-light fa-donut,Donut,Sharp Duotone Light
-construction,0,fa-solid fa-construction,Construction,Solid
-piano-keyboard,20,fa-sharp fa-regular fa-piano-keyboard,Piano Keyboard,Sharp Regular
 grip-dots,0,fa-solid fa-grip-dots,Grip Dots,Solid
 u-turn-right-down,6,fa-duotone fa-u-turn-right-down,U Turn Right Down,Duotone Solid
 meter,21,fa-sharp fa-solid fa-meter,Meter,Sharp Solid

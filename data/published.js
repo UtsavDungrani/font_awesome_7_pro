@@ -5246,5 +5246,14 @@ window.FA_PUBLISHED = [
 "battery-4:21",
 "rv:1",
 "person-military-to-person:19",
-"crystal-ball:25"
+"crystal-ball:25",
+"siren-on:21",
+"cloud-moon-rain:25",
+"square-v:22",
+"tree-decorated:7",
+"clipboard-exclamation:19",
+"nose:3",
+"donut:23",
+"construction:0",
+"piano-keyboard:20"
 ];

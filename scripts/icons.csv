@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grip-dots,0,fa-solid fa-grip-dots,Grip Dots,Solid
-u-turn-right-down,6,fa-duotone fa-u-turn-right-down,U Turn Right Down,Duotone Solid
-meter,21,fa-sharp fa-solid fa-meter,Meter,Sharp Solid
-square-terminal,21,fa-sharp fa-solid fa-square-terminal,Square Terminal,Sharp Solid
-face-kiss-closed-eyes,20,fa-sharp fa-regular fa-face-kiss-closed-eyes,Face Kiss Closed Eyes,Sharp Regular
-window-alt,23,fa-sharp-duotone fa-light fa-window-alt,Window Alt,Sharp Duotone Light
-money-bill,0,fa-solid fa-money-bill,Money Bill,Solid
-head-side-circuit,7,fa-duotone fa-light fa-head-side-circuit,Head Side Circuit,Duotone Light
-rainbow,20,fa-sharp fa-regular fa-rainbow,Rainbow,Sharp Regular
 quotes,24,fa-sharp-duotone fa-regular fa-quotes,Quotes,Sharp Duotone Regular
 cart-minus,26,fa-sharp-duotone fa-thin fa-cart-minus,Cart Minus,Sharp Duotone Thin
 game-console-handheld,23,fa-sharp-duotone fa-light fa-game-console-handheld,Game Console Handheld,Sharp Duotone Light

@@ -5255,5 +5255,14 @@ window.FA_PUBLISHED = [
 "nose:3",
 "donut:23",
 "construction:0",
-"piano-keyboard:20"
+"piano-keyboard:20",
+"grip-dots:0",
+"u-turn-right-down:6",
+"meter:21",
+"square-terminal:21",
+"face-kiss-closed-eyes:20",
+"window-alt:23",
+"money-bill:0",
+"head-side-circuit:7",
+"rainbow:20"
 ];

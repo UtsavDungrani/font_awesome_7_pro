@@ -5228,5 +5228,14 @@ window.FA_PUBLISHED = [
 "coin-blank:6",
 "hydra:22",
 "dashboard:24",
-"garlic:1"
+"garlic:1",
+"fragile:7",
+"pen-alt-slash:25",
+"bus-alt:1",
+"dice-two:7",
+"lightbulb-dollar:7",
+"archive:2",
+"book:33",
+"person-skating:2",
+"bezier-curve:24"
 ];

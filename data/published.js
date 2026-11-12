@@ -5273,5 +5273,14 @@ window.FA_PUBLISHED = [
 "head-side-speak:0",
 "pallet-box:22",
 "block-brick-fire:21",
-"arrow-u-turn-right-down:6"
+"arrow-u-turn-right-down:6",
+"arrow-down-from-line:1",
+"pants:1",
+"toilet-paper-blank-under:3",
+"ruler-vertical:8",
+"arrows-up-down:20",
+"pear:25",
+"envelope-open-text:26",
+"person-circle-plus:2",
+"comment-alt-times:9"
 ];

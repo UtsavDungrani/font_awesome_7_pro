@@ -5264,5 +5264,14 @@ window.FA_PUBLISHED = [
 "window-alt:23",
 "money-bill:0",
 "head-side-circuit:7",
-"rainbow:20"
+"rainbow:20",
+"quotes:24",
+"cart-minus:26",
+"game-console-handheld:23",
+"arrow-up-a-z:2",
+"exploding-head:22",
+"head-side-speak:0",
+"pallet-box:22",
+"block-brick-fire:21",
+"arrow-u-turn-right-down:6"
 ];

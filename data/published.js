@@ -5282,5 +5282,14 @@ window.FA_PUBLISHED = [
 "pear:25",
 "envelope-open-text:26",
 "person-circle-plus:2",
-"comment-alt-times:9"
+"comment-alt-times:9",
+"desktop-arrow-down:24",
+"remove-format:8",
+"forward:11",
+"newspaper:12",
+"hat-cowboy-side:24",
+"comment-sms:6",
+"citrus:7",
+"arrow-from-bottom:1",
+"crystal-ball:9"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-star-christmas,9,fa-duotone fa-thin fa-star-christmas,Star Christmas,Duotone Thin
-file-html,20,fa-sharp fa-regular fa-file-html,File Html,Sharp Regular
-toilet,1,fa-regular fa-toilet,Toilet,Regular
-address-card,35,fa-vellum fa-solid fa-address-card,Address Card,Vellum Solid
-signal-3,23,fa-sharp-duotone fa-light fa-signal-3,Signal 3,Sharp Duotone Light
-ticket,24,fa-sharp-duotone fa-regular fa-ticket,Ticket,Sharp Duotone Regular
-box-tissue,22,fa-sharp fa-thin fa-box-tissue,Box Tissue,Sharp Thin
-hand-holding-box,25,fa-sharp-duotone fa-solid fa-hand-holding-box,Hand Holding Box,Sharp Duotone Solid
-circle-user-circle-user,0,fa-solid fa-circle-user-circle-user,Circle User Circle User,Solid
 route-interstate,7,fa-duotone fa-light fa-route-interstate,Route Interstate,Duotone Light
 backspace,25,fa-sharp-duotone fa-solid fa-backspace,Backspace,Sharp Duotone Solid
 tank-recovery,7,fa-duotone fa-light fa-tank-recovery,Tank Recovery,Duotone Light

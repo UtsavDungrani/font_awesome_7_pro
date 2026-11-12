@@ -5210,5 +5210,14 @@ window.FA_PUBLISHED = [
 "snowflake:15",
 "brazilian-real-sign:19",
 "arrow-from-right:22",
-"circle-6:23"
+"circle-6:23",
+"star-christmas:9",
+"file-html:20",
+"toilet:1",
+"address-card:35",
+"signal-3:23",
+"ticket:24",
+"box-tissue:22",
+"hand-holding-box:25",
+"circle-user-circle-user:0"
 ];

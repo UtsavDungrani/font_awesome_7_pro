@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-crown,5,fa-chisel fa-regular fa-crown,Crown,Chisel Regular
-circle-ellipsis-vertical,20,fa-sharp fa-regular fa-circle-ellipsis-vertical,Circle Ellipsis Vertical,Sharp Regular
-face-relieved,25,fa-sharp-duotone fa-solid fa-face-relieved,Face Relieved,Sharp Duotone Solid
-book,25,fa-sharp-duotone fa-solid fa-book,Book,Sharp Duotone Solid
-i-cursor,24,fa-sharp-duotone fa-regular fa-i-cursor,I Cursor,Sharp Duotone Regular
-battery-4,21,fa-sharp fa-solid fa-battery-4,Battery 4,Sharp Solid
-rv,1,fa-regular fa-rv,Rv,Regular
-person-military-to-person,19,fa-sharp fa-light fa-person-military-to-person,Person Military To Person,Sharp Light
-crystal-ball,25,fa-sharp-duotone fa-solid fa-crystal-ball,Crystal Ball,Sharp Duotone Solid
 siren-on,21,fa-sharp fa-solid fa-siren-on,Siren On,Sharp Solid
 cloud-moon-rain,25,fa-sharp-duotone fa-solid fa-cloud-moon-rain,Cloud Moon Rain,Sharp Duotone Solid
 square-v,22,fa-sharp fa-thin fa-square-v,Square V,Sharp Thin

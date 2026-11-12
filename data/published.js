@@ -5237,5 +5237,14 @@ window.FA_PUBLISHED = [
 "archive:2",
 "book:33",
 "person-skating:2",
-"bezier-curve:24"
+"bezier-curve:24",
+"crown:5",
+"circle-ellipsis-vertical:20",
+"face-relieved:25",
+"book:25",
+"i-cursor:24",
+"battery-4:21",
+"rv:1",
+"person-military-to-person:19",
+"crystal-ball:25"
 ];

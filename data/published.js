@@ -5219,5 +5219,14 @@ window.FA_PUBLISHED = [
 "ticket:24",
 "box-tissue:22",
 "hand-holding-box:25",
-"circle-user-circle-user:0"
+"circle-user-circle-user:0",
+"route-interstate:7",
+"backspace:25",
+"tank-recovery:7",
+"circle-wifi-circle-wifi:21",
+"arrow-right-to-file:8",
+"coin-blank:6",
+"hydra:22",
+"dashboard:24",
+"garlic:1"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-smile-halo,24,fa-sharp-duotone fa-regular fa-face-smile-halo,Face Smile Halo,Sharp Duotone Regular
-album-collection,22,fa-sharp fa-thin fa-album-collection,Album Collection,Sharp Thin
-window-alt,7,fa-duotone fa-light fa-window-alt,Window Alt,Duotone Light
-cloud-bolt,7,fa-duotone fa-light fa-cloud-bolt,Cloud Bolt,Duotone Light
-plate-utensils,20,fa-sharp fa-regular fa-plate-utensils,Plate Utensils,Sharp Regular
-pizza-slice,6,fa-duotone fa-pizza-slice,Pizza Slice,Duotone Solid
-u-turn-up-left,23,fa-sharp-duotone fa-light fa-u-turn-up-left,U Turn Up Left,Sharp Duotone Light
-adjust,2,fa-light fa-adjust,Adjust,Light
-lambda,3,fa-thin fa-lambda,Lambda,Thin
 paper-plane,19,fa-sharp fa-light fa-paper-plane,Paper Plane,Sharp Light
 delete-right,1,fa-regular fa-delete-right,Delete Right,Regular
 champagne-glass,3,fa-thin fa-champagne-glass,Champagne Glass,Thin

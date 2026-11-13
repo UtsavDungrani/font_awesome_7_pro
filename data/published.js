@@ -5336,5 +5336,14 @@ window.FA_PUBLISHED = [
 "arrow-right-to-bracket:33",
 "book-arrow-right:21",
 "person-swimming-water:19",
-"nigiri:23"
+"nigiri:23",
+"face-smile-halo:24",
+"album-collection:22",
+"window-alt:7",
+"cloud-bolt:7",
+"plate-utensils:20",
+"pizza-slice:6",
+"u-turn-up-left:23",
+"adjust:2",
+"lambda:3"
 ];

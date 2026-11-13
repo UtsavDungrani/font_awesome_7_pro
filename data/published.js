@@ -5291,5 +5291,14 @@ window.FA_PUBLISHED = [
 "comment-sms:6",
 "citrus:7",
 "arrow-from-bottom:1",
-"crystal-ball:9"
+"crystal-ball:9",
+"credit-card:15",
+"clone-plus:9",
+"link-simple:0",
+"face-meh:21",
+"globe-wifi:19",
+"comment-alt-dots:20",
+"ruler-triangle:26",
+"pipe-collar:2",
+"wrench-simple:20"
 ];

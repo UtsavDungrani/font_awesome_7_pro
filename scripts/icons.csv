@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-credit-card,15,fa-mosaic fa-solid fa-credit-card,Credit Card,Mosaic Solid
-clone-plus,9,fa-duotone fa-thin fa-clone-plus,Clone Plus,Duotone Thin
-link-simple,0,fa-solid fa-link-simple,Link Simple,Solid
-face-meh,21,fa-sharp fa-solid fa-face-meh,Face Meh,Sharp Solid
-globe-wifi,19,fa-sharp fa-light fa-globe-wifi,Globe Wifi,Sharp Light
-comment-alt-dots,20,fa-sharp fa-regular fa-comment-alt-dots,Comment Alt Dots,Sharp Regular
-ruler-triangle,26,fa-sharp-duotone fa-thin fa-ruler-triangle,Ruler Triangle,Sharp Duotone Thin
-pipe-collar,2,fa-light fa-pipe-collar,Pipe Collar,Light
-wrench-simple,20,fa-sharp fa-regular fa-wrench-simple,Wrench Simple,Sharp Regular
 video,14,fa-jelly-fill fa-regular fa-video,Video,Jelly Fill Regular
 folder-user,8,fa-duotone fa-regular fa-folder-user,Folder User,Duotone Regular
 archway,20,fa-sharp fa-regular fa-archway,Archway,Sharp Regular

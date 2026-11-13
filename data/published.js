@@ -5309,5 +5309,14 @@ window.FA_PUBLISHED = [
 "shuttle-van:23",
 "box-arrow-up:8",
 "utility-pole-double:25",
-"biohazard:24"
+"biohazard:24",
+"window-alt:19",
+"arrow-down-from-bracket:22",
+"share-alt-square:1",
+"face-smile-hearts:22",
+"trailer:3",
+"brain:0",
+"themeisle:4",
+"arrow-u-turn-left-up:1",
+"oil-can-drip:8"
 ];

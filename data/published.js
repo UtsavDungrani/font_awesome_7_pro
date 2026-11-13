@@ -5363,5 +5363,14 @@ window.FA_PUBLISHED = [
 "keyboard-down:6",
 "face-cowboy-hat:7",
 "comment:14",
-"arrows-rotate:11"
+"arrows-rotate:11",
+"excavator:1",
+"pallet-box:0",
+"arrows-down-to-people:2",
+"link-simple:3",
+"face-tissue:1",
+"file-heart:8",
+"crop:1",
+"cubes-stacked:21",
+"magic:28"
 ];

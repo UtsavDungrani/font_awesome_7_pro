@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-excavator,1,fa-regular fa-excavator,Excavator,Regular
-pallet-box,0,fa-solid fa-pallet-box,Pallet Box,Solid
-arrows-down-to-people,2,fa-light fa-arrows-down-to-people,Arrows Down To People,Light
-link-simple,3,fa-thin fa-link-simple,Link Simple,Thin
-face-tissue,1,fa-regular fa-face-tissue,Face Tissue,Regular
-file-heart,8,fa-duotone fa-regular fa-file-heart,File Heart,Duotone Regular
-crop,1,fa-regular fa-crop,Crop,Regular
-cubes-stacked,21,fa-sharp fa-solid fa-cubes-stacked,Cubes Stacked,Sharp Solid
-magic,28,fa-slab-duo fa-regular fa-magic,Magic,Slab Duo Regular
 whale,6,fa-duotone fa-whale,Whale,Duotone Solid
 flag-checkered,21,fa-sharp fa-solid fa-flag-checkered,Flag Checkered,Sharp Solid
 chart-user,3,fa-thin fa-chart-user,Chart User,Thin

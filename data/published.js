@@ -5318,5 +5318,14 @@ window.FA_PUBLISHED = [
 "brain:0",
 "themeisle:4",
 "arrow-u-turn-left-up:1",
-"oil-can-drip:8"
+"oil-can-drip:8",
+"memo:7",
+"lamp:26",
+"times-to-slot:6",
+"hourglass:30",
+"house-circle-xmark:6",
+"republican:25",
+"location-minus:23",
+"person-military-rifle:0",
+"aeropress:7"
 ];

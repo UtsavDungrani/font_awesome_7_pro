@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-memo,7,fa-duotone fa-light fa-memo,Memo,Duotone Light
-lamp,26,fa-sharp-duotone fa-thin fa-lamp,Lamp,Sharp Duotone Thin
-times-to-slot,6,fa-duotone fa-times-to-slot,Times To Slot,Duotone Solid
-hourglass,30,fa-slab-press-duo fa-regular fa-hourglass,Hourglass,Slab Press Duo Regular
-house-circle-xmark,6,fa-duotone fa-house-circle-xmark,House Circle Xmark,Duotone Solid
-republican,25,fa-sharp-duotone fa-solid fa-republican,Republican,Sharp Duotone Solid
-location-minus,23,fa-sharp-duotone fa-light fa-location-minus,Location Minus,Sharp Duotone Light
-person-military-rifle,0,fa-solid fa-person-military-rifle,Person Military Rifle,Solid
-aeropress,7,fa-duotone fa-light fa-aeropress,Aeropress,Duotone Light
 circle,17,fa-notdog-duo fa-solid fa-circle,Circle,Notdog Duo Solid
 grid-2,0,fa-solid fa-grid-2,Grid 2,Solid
 computer-mouse,22,fa-sharp fa-thin fa-computer-mouse,Computer Mouse,Sharp Thin

@@ -5381,5 +5381,14 @@ window.FA_PUBLISHED = [
 "z:19",
 "arrow-down-long:7",
 "9:2",
-"waveform:23"
+"waveform:23",
+"clipboard-exclamation:20",
+"comment-arrow-up-right:6",
+"pie:19",
+"house-signal:1",
+"compass-drafting:19",
+"function:19",
+"plate-utensils:7",
+"jeans-straight:20",
+"sign-posts:0"
 ];

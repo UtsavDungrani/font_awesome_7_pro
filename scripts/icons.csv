@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clipboard-exclamation,20,fa-sharp fa-regular fa-clipboard-exclamation,Clipboard Exclamation,Sharp Regular
-comment-arrow-up-right,6,fa-duotone fa-comment-arrow-up-right,Comment Arrow Up Right,Duotone Solid
-pie,19,fa-sharp fa-light fa-pie,Pie,Sharp Light
-house-signal,1,fa-regular fa-house-signal,House Signal,Regular
-compass-drafting,19,fa-sharp fa-light fa-compass-drafting,Compass Drafting,Sharp Light
-function,19,fa-sharp fa-light fa-function,Function,Sharp Light
-plate-utensils,7,fa-duotone fa-light fa-plate-utensils,Plate Utensils,Duotone Light
-jeans-straight,20,fa-sharp fa-regular fa-jeans-straight,Jeans Straight,Sharp Regular
-sign-posts,0,fa-solid fa-sign-posts,Sign Posts,Solid
 siren-on,24,fa-sharp-duotone fa-regular fa-siren-on,Siren On,Sharp Duotone Regular
 square-b,0,fa-solid fa-square-b,Square B,Solid
 folder-grid,21,fa-sharp fa-solid fa-folder-grid,Folder Grid,Sharp Solid

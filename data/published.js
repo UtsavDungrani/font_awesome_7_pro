@@ -5300,5 +5300,14 @@ window.FA_PUBLISHED = [
 "comment-alt-dots:20",
 "ruler-triangle:26",
 "pipe-collar:2",
-"wrench-simple:20"
+"wrench-simple:20",
+"video:14",
+"folder-user:8",
+"archway:20",
+"gear-complex-code:20",
+"champagne-glasses:9",
+"shuttle-van:23",
+"box-arrow-up:8",
+"utility-pole-double:25",
+"biohazard:24"
 ];

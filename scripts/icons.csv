@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-siren-on,24,fa-sharp-duotone fa-regular fa-siren-on,Siren On,Sharp Duotone Regular
-square-b,0,fa-solid fa-square-b,Square B,Solid
-folder-grid,21,fa-sharp fa-solid fa-folder-grid,Folder Grid,Sharp Solid
-chevron-circle-right,6,fa-duotone fa-chevron-circle-right,Chevron Circle Right,Duotone Solid
-hexagon-nodes-bolt,22,fa-sharp fa-thin fa-hexagon-nodes-bolt,Hexagon Nodes Bolt,Sharp Thin
-file-magnifying-glass,1,fa-regular fa-file-magnifying-glass,File Magnifying Glass,Regular
-h4,19,fa-sharp fa-light fa-h4,H4,Sharp Light
-car-key,25,fa-sharp-duotone fa-solid fa-car-key,Car Key,Sharp Duotone Solid
-bus,30,fa-slab-press-duo fa-regular fa-bus,Bus,Slab Press Duo Regular
 file-exclamation,26,fa-sharp-duotone fa-thin fa-file-exclamation,File Exclamation,Sharp Duotone Thin
 popsicle,21,fa-sharp fa-solid fa-popsicle,Popsicle,Sharp Solid
 droplet-slash,9,fa-duotone fa-thin fa-droplet-slash,Droplet Slash,Duotone Thin

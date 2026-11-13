@@ -5390,5 +5390,14 @@ window.FA_PUBLISHED = [
 "function:19",
 "plate-utensils:7",
 "jeans-straight:20",
-"sign-posts:0"
+"sign-posts:0",
+"siren-on:24",
+"square-b:0",
+"folder-grid:21",
+"chevron-circle-right:6",
+"hexagon-nodes-bolt:22",
+"file-magnifying-glass:1",
+"h4:19",
+"car-key:25",
+"bus:30"
 ];

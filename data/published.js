@@ -5372,5 +5372,14 @@ window.FA_PUBLISHED = [
 "file-heart:8",
 "crop:1",
 "cubes-stacked:21",
-"magic:28"
+"magic:28",
+"whale:6",
+"flag-checkered:21",
+"chart-user:3",
+"vr-cardboard:6",
+"sun:9",
+"z:19",
+"arrow-down-long:7",
+"9:2",
+"waveform:23"
 ];

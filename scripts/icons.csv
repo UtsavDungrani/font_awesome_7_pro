@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-whale,6,fa-duotone fa-whale,Whale,Duotone Solid
-flag-checkered,21,fa-sharp fa-solid fa-flag-checkered,Flag Checkered,Sharp Solid
-chart-user,3,fa-thin fa-chart-user,Chart User,Thin
-vr-cardboard,6,fa-duotone fa-vr-cardboard,Vr Cardboard,Duotone Solid
-sun,9,fa-duotone fa-thin fa-sun,Sun,Duotone Thin
-z,19,fa-sharp fa-light fa-z,Z,Sharp Light
-arrow-down-long,7,fa-duotone fa-light fa-arrow-down-long,Arrow Down Long,Duotone Light
-9,2,fa-light fa-9,9,Light
-waveform,23,fa-sharp-duotone fa-light fa-waveform,Waveform,Sharp Duotone Light
 clipboard-exclamation,20,fa-sharp fa-regular fa-clipboard-exclamation,Clipboard Exclamation,Sharp Regular
 comment-arrow-up-right,6,fa-duotone fa-comment-arrow-up-right,Comment Arrow Up Right,Duotone Solid
 pie,19,fa-sharp fa-light fa-pie,Pie,Sharp Light

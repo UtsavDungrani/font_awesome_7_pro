@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-krw,3,fa-thin fa-krw,Krw,Thin
-hand-point-down,2,fa-light fa-hand-point-down,Hand Point Down,Light
-hand-heart,9,fa-duotone fa-thin fa-hand-heart,Hand Heart,Duotone Thin
-building-flag,3,fa-thin fa-building-flag,Building Flag,Thin
-plane-arrival,24,fa-sharp-duotone fa-regular fa-plane-arrival,Plane Arrival,Sharp Duotone Regular
-arrow-up-short-wide,26,fa-sharp-duotone fa-thin fa-arrow-up-short-wide,Arrow Up Short Wide,Sharp Duotone Thin
-letterboxd,4,fa-brands fa-letterboxd,Letterboxd,Brands
-keyboard-down,21,fa-sharp fa-solid fa-keyboard-down,Keyboard Down,Sharp Solid
-cloud-moon-rain,20,fa-sharp fa-regular fa-cloud-moon-rain,Cloud Moon Rain,Sharp Regular
 u-turn,20,fa-sharp fa-regular fa-u-turn,U Turn,Sharp Regular
 square-a-lock,8,fa-duotone fa-regular fa-square-a-lock,Square A Lock,Duotone Regular
 burrito,0,fa-solid fa-burrito,Burrito,Solid

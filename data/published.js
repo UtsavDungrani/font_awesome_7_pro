@@ -5408,5 +5408,14 @@ window.FA_PUBLISHED = [
 "arrow-u-turn-right-up:21",
 "chart-line-up:21",
 "frog:22",
-"circle-heart:26"
+"circle-heart:26",
+"krw:3",
+"hand-point-down:2",
+"hand-heart:9",
+"building-flag:3",
+"plane-arrival:24",
+"arrow-up-short-wide:26",
+"letterboxd:4",
+"keyboard-down:21",
+"cloud-moon-rain:20"
 ];

@@ -5399,5 +5399,14 @@ window.FA_PUBLISHED = [
 "file-magnifying-glass:1",
 "h4:19",
 "car-key:25",
-"bus:30"
+"bus:30",
+"file-exclamation:26",
+"popsicle:21",
+"droplet-slash:9",
+"map:11",
+"arrow-alt-square-right:9",
+"arrow-u-turn-right-up:21",
+"chart-line-up:21",
+"frog:22",
+"circle-heart:26"
 ];

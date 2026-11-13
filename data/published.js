@@ -5354,5 +5354,14 @@ window.FA_PUBLISHED = [
 "olive:0",
 "user-times:36",
 "level-up-alt:9",
-"arrow-alt-circle-down:8"
+"arrow-alt-circle-down:8",
+"house-fire:24",
+"arrow-right-from-arc:2",
+"hand-holding-circle-dollar:1",
+"van:1",
+"anchor-circle-check:19",
+"keyboard-down:6",
+"face-cowboy-hat:7",
+"comment:14",
+"arrows-rotate:11"
 ];

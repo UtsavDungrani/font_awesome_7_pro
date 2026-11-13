@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle,17,fa-notdog-duo fa-solid fa-circle,Circle,Notdog Duo Solid
-grid-2,0,fa-solid fa-grid-2,Grid 2,Solid
-computer-mouse,22,fa-sharp fa-thin fa-computer-mouse,Computer Mouse,Sharp Thin
-bed,7,fa-duotone fa-light fa-bed,Bed,Duotone Light
-arrow-up-square-triangle,19,fa-sharp fa-light fa-arrow-up-square-triangle,Arrow Up Square Triangle,Sharp Light
-arrow-right-to-bracket,33,fa-utility-duo fa-semibold fa-arrow-right-to-bracket,Arrow Right To Bracket,Utility Duo Semibold
-book-arrow-right,21,fa-sharp fa-solid fa-book-arrow-right,Book Arrow Right,Sharp Solid
-person-swimming-water,19,fa-sharp fa-light fa-person-swimming-water,Person Swimming Water,Sharp Light
-nigiri,23,fa-sharp-duotone fa-light fa-nigiri,Nigiri,Sharp Duotone Light
 face-smile-halo,24,fa-sharp-duotone fa-regular fa-face-smile-halo,Face Smile Halo,Sharp Duotone Regular
 album-collection,22,fa-sharp fa-thin fa-album-collection,Album Collection,Sharp Thin
 window-alt,7,fa-duotone fa-light fa-window-alt,Window Alt,Duotone Light

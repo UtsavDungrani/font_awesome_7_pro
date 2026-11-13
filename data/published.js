@@ -5327,5 +5327,14 @@ window.FA_PUBLISHED = [
 "republican:25",
 "location-minus:23",
 "person-military-rifle:0",
-"aeropress:7"
+"aeropress:7",
+"circle:17",
+"grid-2:0",
+"computer-mouse:22",
+"bed:7",
+"arrow-up-square-triangle:19",
+"arrow-right-to-bracket:33",
+"book-arrow-right:21",
+"person-swimming-water:19",
+"nigiri:23"
 ];

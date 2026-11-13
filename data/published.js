@@ -5345,5 +5345,14 @@ window.FA_PUBLISHED = [
 "pizza-slice:6",
 "u-turn-up-left:23",
 "adjust:2",
-"lambda:3"
+"lambda:3",
+"paper-plane:19",
+"delete-right:1",
+"champagne-glass:3",
+"baht-sign:0",
+"registered:8",
+"olive:0",
+"user-times:36",
+"level-up-alt:9",
+"arrow-alt-circle-down:8"
 ];

@@ -5507,5 +5507,14 @@ window.FA_PUBLISHED = [
 "arrow-u-turn-left-down:20",
 "lasso-sparkles:26",
 "rectangle-wide:31",
-"arrow-down-a-z:22"
+"arrow-down-a-z:22",
+"hourglass-clock:8",
+"empty-set:25",
+"party-horn:24",
+"arrow-up-arrow-down:6",
+"hand-horns:22",
+"list-music:9",
+"campfire:8",
+"crutches:19",
+"ellipsis:2"
 ];

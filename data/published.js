@@ -5489,5 +5489,14 @@ window.FA_PUBLISHED = [
 "arrow-to-top:22",
 "fireplace:21",
 "arrows-up-to-line:6",
-"border-style:1"
+"border-style:1",
+"spell-check:8",
+"paperclip:17",
+"pool-8-ball:23",
+"broom-wide:20",
+"user-ninja:7",
+"volume:7",
+"shower:22",
+"transmission:24",
+"square-arrow-down-left:26"
 ];

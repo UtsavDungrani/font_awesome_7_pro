@@ -5453,5 +5453,14 @@ window.FA_PUBLISHED = [
 "wifi:36",
 "arrow-down-from-arc:1",
 "shield-cross:24",
-"face-head-bandage:2"
+"face-head-bandage:2",
+"pepper-hot:24",
+"tidal:4",
+"mill-sign:6",
+"planet-ringed:23",
+"drivers-license:21",
+"plane-arrival:20",
+"magic:23",
+"cart-flatbed-suitcase:23",
+"equals:8"
 ];

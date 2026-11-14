@@ -5471,5 +5471,14 @@ window.FA_PUBLISHED = [
 "hurricane:8",
 "braille:6",
 "border-center-h:26",
-"hand-point-left:6"
+"hand-point-left:6",
+"card-club:22",
+"calendar-alt:8",
+"pencil-line:6",
+"transporter-7:25",
+"calendar-week:25",
+"album-collection:3",
+"slash:22",
+"table-columns-merge-next:21",
+"sportsball:26"
 ];

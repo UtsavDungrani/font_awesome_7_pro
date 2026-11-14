@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-card-club,22,fa-sharp fa-thin fa-card-club,Card Club,Sharp Thin
-calendar-alt,8,fa-duotone fa-regular fa-calendar-alt,Calendar Alt,Duotone Regular
-pencil-line,6,fa-duotone fa-pencil-line,Pencil Line,Duotone Solid
-transporter-7,25,fa-sharp-duotone fa-solid fa-transporter-7,Transporter 7,Sharp Duotone Solid
-calendar-week,25,fa-sharp-duotone fa-solid fa-calendar-week,Calendar Week,Sharp Duotone Solid
-album-collection,3,fa-thin fa-album-collection,Album Collection,Thin
-slash,22,fa-sharp fa-thin fa-slash,Slash,Sharp Thin
-table-columns-merge-next,21,fa-sharp fa-solid fa-table-columns-merge-next,Table Columns Merge Next,Sharp Solid
-sportsball,26,fa-sharp-duotone fa-thin fa-sportsball,Sportsball,Sharp Duotone Thin
 circle-stop,2,fa-light fa-circle-stop,Circle Stop,Light
 circle-user-circle-check,19,fa-sharp fa-light fa-circle-user-circle-check,Circle User Circle Check,Sharp Light
 gift-card,21,fa-sharp fa-solid fa-gift-card,Gift Card,Sharp Solid

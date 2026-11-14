@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-windsock,20,fa-sharp fa-regular fa-windsock,Windsock,Sharp Regular
-bowl-chopsticks,8,fa-duotone fa-regular fa-bowl-chopsticks,Bowl Chopsticks,Duotone Regular
-trash-can-clock,6,fa-duotone fa-trash-can-clock,Trash Can Clock,Duotone Solid
-turn-left-up,21,fa-sharp fa-solid fa-turn-left-up,Turn Left Up,Sharp Solid
-keyboard-down,7,fa-duotone fa-light fa-keyboard-down,Keyboard Down,Duotone Light
-mobile-android-alt,24,fa-sharp-duotone fa-regular fa-mobile-android-alt,Mobile Android Alt,Sharp Duotone Regular
-building,2,fa-light fa-building,Building,Light
-smog,22,fa-sharp fa-thin fa-smog,Smog,Sharp Thin
-t-rex,20,fa-sharp fa-regular fa-t-rex,T Rex,Sharp Regular
 drum,21,fa-sharp fa-solid fa-drum,Drum,Sharp Solid
 square-w,2,fa-light fa-square-w,Square W,Light
 3,21,fa-sharp fa-solid fa-3,3,Sharp Solid

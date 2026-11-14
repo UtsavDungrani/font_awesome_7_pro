@@ -5435,5 +5435,14 @@ window.FA_PUBLISHED = [
 "face-sleeping:6",
 "house-night:21",
 "piano-keyboard:26",
-"diamond-half:22"
+"diamond-half:22",
+"windsock:20",
+"bowl-chopsticks:8",
+"trash-can-clock:6",
+"turn-left-up:21",
+"keyboard-down:7",
+"mobile-android-alt:24",
+"building:2",
+"smog:22",
+"t-rex:20"
 ];

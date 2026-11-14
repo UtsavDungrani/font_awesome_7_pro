@@ -5462,5 +5462,14 @@ window.FA_PUBLISHED = [
 "plane-arrival:20",
 "magic:23",
 "cart-flatbed-suitcase:23",
-"equals:8"
+"equals:8",
+"dumpster:24",
+"plug-circle-xmark:1",
+"turn-right:9",
+"user-bounty-hunter:8",
+"equals:28",
+"hurricane:8",
+"braille:6",
+"border-center-h:26",
+"hand-point-left:6"
 ];

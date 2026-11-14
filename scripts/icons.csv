@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-dumpster,24,fa-sharp-duotone fa-regular fa-dumpster,Dumpster,Sharp Duotone Regular
-plug-circle-xmark,1,fa-regular fa-plug-circle-xmark,Plug Circle Xmark,Regular
-turn-right,9,fa-duotone fa-thin fa-turn-right,Turn Right,Duotone Thin
-user-bounty-hunter,8,fa-duotone fa-regular fa-user-bounty-hunter,User Bounty Hunter,Duotone Regular
-equals,28,fa-slab-duo fa-regular fa-equals,Equals,Slab Duo Regular
-hurricane,8,fa-duotone fa-regular fa-hurricane,Hurricane,Duotone Regular
-braille,6,fa-duotone fa-braille,Braille,Duotone Solid
-border-center-h,26,fa-sharp-duotone fa-thin fa-border-center-h,Border Center H,Sharp Duotone Thin
-hand-point-left,6,fa-duotone fa-hand-point-left,Hand Point Left,Duotone Solid
 card-club,22,fa-sharp fa-thin fa-card-club,Card Club,Sharp Thin
 calendar-alt,8,fa-duotone fa-regular fa-calendar-alt,Calendar Alt,Duotone Regular
 pencil-line,6,fa-duotone fa-pencil-line,Pencil Line,Duotone Solid

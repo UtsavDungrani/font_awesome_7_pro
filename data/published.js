@@ -5444,5 +5444,14 @@ window.FA_PUBLISHED = [
 "mobile-android-alt:24",
 "building:2",
 "smog:22",
-"t-rex:20"
+"t-rex:20",
+"drum:21",
+"square-w:2",
+"3:21",
+"envelope-badge:3",
+"light-emergency:3",
+"wifi:36",
+"arrow-down-from-arc:1",
+"shield-cross:24",
+"face-head-bandage:2"
 ];

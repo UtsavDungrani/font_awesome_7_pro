@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-drum,21,fa-sharp fa-solid fa-drum,Drum,Sharp Solid
-square-w,2,fa-light fa-square-w,Square W,Light
-3,21,fa-sharp fa-solid fa-3,3,Sharp Solid
-envelope-badge,3,fa-thin fa-envelope-badge,Envelope Badge,Thin
-light-emergency,3,fa-thin fa-light-emergency,Light Emergency,Thin
-wifi,36,fa-whiteboard fa-semibold fa-wifi,Wifi,Whiteboard Semibold
-arrow-down-from-arc,1,fa-regular fa-arrow-down-from-arc,Arrow Down From Arc,Regular
-shield-cross,24,fa-sharp-duotone fa-regular fa-shield-cross,Shield Cross,Sharp Duotone Regular
-face-head-bandage,2,fa-light fa-face-head-bandage,Face Head Bandage,Light
 pepper-hot,24,fa-sharp-duotone fa-regular fa-pepper-hot,Pepper Hot,Sharp Duotone Regular
 tidal,4,fa-brands fa-tidal,Tidal,Brands
 mill-sign,6,fa-duotone fa-mill-sign,Mill Sign,Duotone Solid

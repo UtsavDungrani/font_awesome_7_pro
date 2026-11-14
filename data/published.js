@@ -5426,5 +5426,14 @@ window.FA_PUBLISHED = [
 "bowl-scoop:3",
 "book:1",
 "calendar-minus:25",
-"arrow-down-to-arc:0"
+"arrow-down-to-arc:0",
+"lips:1",
+"axe:8",
+"aries:22",
+"tombstone-alt:23",
+"circle:13",
+"face-sleeping:6",
+"house-night:21",
+"piano-keyboard:26",
+"diamond-half:22"
 ];

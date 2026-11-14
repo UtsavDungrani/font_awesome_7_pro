@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-lips,1,fa-regular fa-lips,Lips,Regular
-axe,8,fa-duotone fa-regular fa-axe,Axe,Duotone Regular
-aries,22,fa-sharp fa-thin fa-aries,Aries,Sharp Thin
-tombstone-alt,23,fa-sharp-duotone fa-light fa-tombstone-alt,Tombstone Alt,Sharp Duotone Light
-circle,13,fa-jelly-duo fa-regular fa-circle,Circle,Jelly Duo Regular
-face-sleeping,6,fa-duotone fa-face-sleeping,Face Sleeping,Duotone Solid
-house-night,21,fa-sharp fa-solid fa-house-night,House Night,Sharp Solid
-piano-keyboard,26,fa-sharp-duotone fa-thin fa-piano-keyboard,Piano Keyboard,Sharp Duotone Thin
-diamond-half,22,fa-sharp fa-thin fa-diamond-half,Diamond Half,Sharp Thin
 windsock,20,fa-sharp fa-regular fa-windsock,Windsock,Sharp Regular
 bowl-chopsticks,8,fa-duotone fa-regular fa-bowl-chopsticks,Bowl Chopsticks,Duotone Regular
 trash-can-clock,6,fa-duotone fa-trash-can-clock,Trash Can Clock,Duotone Solid

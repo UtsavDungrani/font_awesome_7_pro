@@ -5480,5 +5480,14 @@ window.FA_PUBLISHED = [
 "album-collection:3",
 "slash:22",
 "table-columns-merge-next:21",
-"sportsball:26"
+"sportsball:26",
+"circle-stop:2",
+"circle-user-circle-check:19",
+"gift-card:21",
+"shipping-timed:2",
+"shower-alt:23",
+"arrow-to-top:22",
+"fireplace:21",
+"arrows-up-to-line:6",
+"border-style:1"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-stop,2,fa-light fa-circle-stop,Circle Stop,Light
-circle-user-circle-check,19,fa-sharp fa-light fa-circle-user-circle-check,Circle User Circle Check,Sharp Light
-gift-card,21,fa-sharp fa-solid fa-gift-card,Gift Card,Sharp Solid
-shipping-timed,2,fa-light fa-shipping-timed,Shipping Timed,Light
-shower-alt,23,fa-sharp-duotone fa-light fa-shower-alt,Shower Alt,Sharp Duotone Light
-arrow-to-top,22,fa-sharp fa-thin fa-arrow-to-top,Arrow To Top,Sharp Thin
-fireplace,21,fa-sharp fa-solid fa-fireplace,Fireplace,Sharp Solid
-arrows-up-to-line,6,fa-duotone fa-arrows-up-to-line,Arrows Up To Line,Duotone Solid
-border-style,1,fa-regular fa-border-style,Border Style,Regular
 spell-check,8,fa-duotone fa-regular fa-spell-check,Spell Check,Duotone Regular
 paperclip,17,fa-notdog-duo fa-solid fa-paperclip,Paperclip,Notdog Duo Solid
 pool-8-ball,23,fa-sharp-duotone fa-light fa-pool-8-ball,Pool 8 Ball,Sharp Duotone Light

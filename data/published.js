@@ -5498,5 +5498,14 @@ window.FA_PUBLISHED = [
 "volume:7",
 "shower:22",
 "transmission:24",
-"square-arrow-down-left:26"
+"square-arrow-down-left:26",
+"weibo:4",
+"square-u:24",
+"arrow-down-to-bracket:36",
+"arrow-down-to-bracket:0",
+"highlighter-line:2",
+"arrow-u-turn-left-down:20",
+"lasso-sparkles:26",
+"rectangle-wide:31",
+"arrow-down-a-z:22"
 ];

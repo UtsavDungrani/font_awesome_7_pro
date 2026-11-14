@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-weibo,4,fa-brands fa-weibo,Weibo,Brands
-square-u,24,fa-sharp-duotone fa-regular fa-square-u,Square U,Sharp Duotone Regular
-arrow-down-to-bracket,36,fa-whiteboard fa-semibold fa-arrow-down-to-bracket,Arrow Down To Bracket,Whiteboard Semibold
-arrow-down-to-bracket,0,fa-solid fa-arrow-down-to-bracket,Arrow Down To Bracket,Solid
-highlighter-line,2,fa-light fa-highlighter-line,Highlighter Line,Light
-arrow-u-turn-left-down,20,fa-sharp fa-regular fa-arrow-u-turn-left-down,Arrow U Turn Left Down,Sharp Regular
-lasso-sparkles,26,fa-sharp-duotone fa-thin fa-lasso-sparkles,Lasso Sparkles,Sharp Duotone Thin
-rectangle-wide,31,fa-thumbprint fa-light fa-rectangle-wide,Rectangle Wide,Thumbprint Light
-arrow-down-a-z,22,fa-sharp fa-thin fa-arrow-down-a-z,Arrow Down A Z,Sharp Thin
 hourglass-clock,8,fa-duotone fa-regular fa-hourglass-clock,Hourglass Clock,Duotone Regular
 empty-set,25,fa-sharp-duotone fa-solid fa-empty-set,Empty Set,Sharp Duotone Solid
 party-horn,24,fa-sharp-duotone fa-regular fa-party-horn,Party Horn,Sharp Duotone Regular

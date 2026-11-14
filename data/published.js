@@ -5417,5 +5417,14 @@ window.FA_PUBLISHED = [
 "arrow-up-short-wide:26",
 "letterboxd:4",
 "keyboard-down:21",
-"cloud-moon-rain:20"
+"cloud-moon-rain:20",
+"u-turn:20",
+"square-a-lock:8",
+"burrito:0",
+"wheelchair-alt:9",
+"skull:3",
+"bowl-scoop:3",
+"book:1",
+"calendar-minus:25",
+"arrow-down-to-arc:0"
 ];

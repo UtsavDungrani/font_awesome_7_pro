@@ -5588,5 +5588,14 @@ window.FA_PUBLISHED = [
 "square-malaysian-ringgit:9",
 "bore-hole:22",
 "seat-airline:21",
-"ferris-wheel:6"
+"ferris-wheel:6",
+"circle-0:21",
+"window:8",
+"car-tilt:22",
+"arrow-down-to-bracket:3",
+"venus-double:1",
+"screwdriver-wrench:6",
+"stopwatch:26",
+"tablet-alt:19",
+"microphone-slash:7"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-comments-question-check,6,fa-duotone fa-comments-question-check,Comments Question Check,Duotone Solid
-a,1,fa-regular fa-a,A,Regular
-brackets-round,9,fa-duotone fa-thin fa-brackets-round,Brackets Round,Duotone Thin
-newspaper,5,fa-chisel fa-regular fa-newspaper,Newspaper,Chisel Regular
-user-construction,7,fa-duotone fa-light fa-user-construction,User Construction,Duotone Light
-calculator-alt,21,fa-sharp fa-solid fa-calculator-alt,Calculator Alt,Sharp Solid
-circle-lira,20,fa-sharp fa-regular fa-circle-lira,Circle Lira,Sharp Regular
-sportsball,0,fa-solid fa-sportsball,Sportsball,Solid
-comment-nodes,21,fa-sharp fa-solid fa-comment-nodes,Comment Nodes,Sharp Solid
 window-maximize,6,fa-duotone fa-window-maximize,Window Maximize,Duotone Solid
 face-nauseated,8,fa-duotone fa-regular fa-face-nauseated,Face Nauseated,Duotone Regular
 car-people,26,fa-sharp-duotone fa-thin fa-car-people,Car People,Sharp Duotone Thin

@@ -5561,5 +5561,14 @@ window.FA_PUBLISHED = [
 "comment-alt-captions:9",
 "file-circle-xmark:7",
 "battery-slash:32",
-"barcode-scan:19"
+"barcode-scan:19",
+"comments-question-check:6",
+"a:1",
+"brackets-round:9",
+"newspaper:5",
+"user-construction:7",
+"calculator-alt:21",
+"circle-lira:20",
+"sportsball:0",
+"comment-nodes:21"
 ];

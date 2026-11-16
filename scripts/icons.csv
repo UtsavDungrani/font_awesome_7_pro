@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-window-maximize,6,fa-duotone fa-window-maximize,Window Maximize,Duotone Solid
-face-nauseated,8,fa-duotone fa-regular fa-face-nauseated,Face Nauseated,Duotone Regular
-car-people,26,fa-sharp-duotone fa-thin fa-car-people,Car People,Sharp Duotone Thin
-ship-large,8,fa-duotone fa-regular fa-ship-large,Ship Large,Duotone Regular
-face-grin-squint,1,fa-regular fa-face-grin-squint,Face Grin Squint,Regular
-glass-citrus,26,fa-sharp-duotone fa-thin fa-glass-citrus,Glass Citrus,Sharp Duotone Thin
-cogs,7,fa-duotone fa-light fa-cogs,Cogs,Duotone Light
-hockey-stick,19,fa-sharp fa-light fa-hockey-stick,Hockey Stick,Sharp Light
-film-stack,3,fa-thin fa-film-stack,Film Stack,Thin
 table-cells-rows,21,fa-sharp fa-solid fa-table-cells-rows,Table Cells Rows,Sharp Solid
 calendar-circle-user,21,fa-sharp fa-solid fa-calendar-circle-user,Calendar Circle User,Sharp Solid
 paperclip,0,fa-solid fa-paperclip,Paperclip,Solid

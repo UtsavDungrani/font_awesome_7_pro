@@ -5570,5 +5570,14 @@ window.FA_PUBLISHED = [
 "calculator-alt:21",
 "circle-lira:20",
 "sportsball:0",
-"comment-nodes:21"
+"comment-nodes:21",
+"window-maximize:6",
+"face-nauseated:8",
+"car-people:26",
+"ship-large:8",
+"face-grin-squint:1",
+"glass-citrus:26",
+"cogs:7",
+"hockey-stick:19",
+"film-stack:3"
 ];

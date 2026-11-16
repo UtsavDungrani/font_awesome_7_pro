@@ -5579,5 +5579,14 @@ window.FA_PUBLISHED = [
 "glass-citrus:26",
 "cogs:7",
 "hockey-stick:19",
-"film-stack:3"
+"film-stack:3",
+"table-cells-rows:21",
+"calendar-circle-user:21",
+"paperclip:0",
+"code-pull-request-closed:3",
+"layer:25",
+"square-malaysian-ringgit:9",
+"bore-hole:22",
+"seat-airline:21",
+"ferris-wheel:6"
 ];

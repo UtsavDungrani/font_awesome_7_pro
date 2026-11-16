@@ -5543,5 +5543,14 @@ window.FA_PUBLISHED = [
 "circle-dollar:25",
 "family:6",
 "telescope:7",
-"mobile-rotate-reverse:0"
+"mobile-rotate-reverse:0",
+"hexagon-plus:2",
+"backward:24",
+"bars-filter:8",
+"address-card:28",
+"volume:13",
+"crown:26",
+"list-dropdown:22",
+"arrow-down-to-line:29",
+"rectangle-portrait:27"
 ];

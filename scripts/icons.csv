@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hexagon-plus,2,fa-light fa-hexagon-plus,Hexagon Plus,Light
-backward,24,fa-sharp-duotone fa-regular fa-backward,Backward,Sharp Duotone Regular
-bars-filter,8,fa-duotone fa-regular fa-bars-filter,Bars Filter,Duotone Regular
-address-card,28,fa-slab-duo fa-regular fa-address-card,Address Card,Slab Duo Regular
-volume,13,fa-jelly-duo fa-regular fa-volume,Volume,Jelly Duo Regular
-crown,26,fa-sharp-duotone fa-thin fa-crown,Crown,Sharp Duotone Thin
-list-dropdown,22,fa-sharp fa-thin fa-list-dropdown,List Dropdown,Sharp Thin
-arrow-down-to-line,29,fa-slab-press fa-regular fa-arrow-down-to-line,Arrow Down To Line,Slab Press Regular
-rectangle-portrait,27,fa-slab fa-regular fa-rectangle-portrait,Rectangle Portrait,Slab Regular
 download,9,fa-duotone fa-thin fa-download,Download,Duotone Thin
 wind,22,fa-sharp fa-thin fa-wind,Wind,Sharp Thin
 dial-low,20,fa-sharp fa-regular fa-dial-low,Dial Low,Sharp Regular

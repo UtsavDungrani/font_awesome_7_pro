@@ -5516,5 +5516,14 @@ window.FA_PUBLISHED = [
 "list-music:9",
 "campfire:8",
 "crutches:19",
-"ellipsis:2"
+"ellipsis:2",
+"money-check:26",
+"bracket-square-right:3",
+"mars-double:19",
+"calendar:21",
+"car-mechanic:21",
+"comment:20",
+"wheat:0",
+"arrow-alt-circle-up:9",
+"city:23"
 ];

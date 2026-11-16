@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-money-check,26,fa-sharp-duotone fa-thin fa-money-check,Money Check,Sharp Duotone Thin
-bracket-square-right,3,fa-thin fa-bracket-square-right,Bracket Square Right,Thin
-mars-double,19,fa-sharp fa-light fa-mars-double,Mars Double,Sharp Light
-calendar,21,fa-sharp fa-solid fa-calendar,Calendar,Sharp Solid
-car-mechanic,21,fa-sharp fa-solid fa-car-mechanic,Car Mechanic,Sharp Solid
-comment,20,fa-sharp fa-regular fa-comment,Comment,Sharp Regular
-wheat,0,fa-solid fa-wheat,Wheat,Solid
-arrow-alt-circle-up,9,fa-duotone fa-thin fa-arrow-alt-circle-up,Arrow Alt Circle Up,Duotone Thin
-city,23,fa-sharp-duotone fa-light fa-city,City,Sharp Duotone Light
 steak,23,fa-sharp-duotone fa-light fa-steak,Steak,Sharp Duotone Light
 person-shelter,22,fa-sharp fa-thin fa-person-shelter,Person Shelter,Sharp Thin
 person-military-pointing,3,fa-thin fa-person-military-pointing,Person Military Pointing,Thin

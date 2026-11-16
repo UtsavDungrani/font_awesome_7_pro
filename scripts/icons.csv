@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-steak,23,fa-sharp-duotone fa-light fa-steak,Steak,Sharp Duotone Light
-person-shelter,22,fa-sharp fa-thin fa-person-shelter,Person Shelter,Sharp Thin
-person-military-pointing,3,fa-thin fa-person-military-pointing,Person Military Pointing,Thin
-first-aid,20,fa-sharp fa-regular fa-first-aid,First Aid,Sharp Regular
-backward-fast,1,fa-regular fa-backward-fast,Backward Fast,Regular
-bowl-food,23,fa-sharp-duotone fa-light fa-bowl-food,Bowl Food,Sharp Duotone Light
-file-caret-down,19,fa-sharp fa-light fa-file-caret-down,File Caret Down,Sharp Light
-cherries,26,fa-sharp-duotone fa-thin fa-cherries,Cherries,Sharp Duotone Thin
-gear-code,23,fa-sharp-duotone fa-light fa-gear-code,Gear Code,Sharp Duotone Light
 hotdog,9,fa-duotone fa-thin fa-hotdog,Hotdog,Duotone Thin
 trash-can-check,2,fa-light fa-trash-can-check,Trash Can Check,Light
 block,2,fa-light fa-block,Block,Light

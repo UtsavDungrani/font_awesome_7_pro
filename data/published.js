@@ -5525,5 +5525,14 @@ window.FA_PUBLISHED = [
 "comment:20",
 "wheat:0",
 "arrow-alt-circle-up:9",
-"city:23"
+"city:23",
+"steak:23",
+"person-shelter:22",
+"person-military-pointing:3",
+"first-aid:20",
+"backward-fast:1",
+"bowl-food:23",
+"file-caret-down:19",
+"cherries:26",
+"gear-code:23"
 ];

@@ -5552,5 +5552,14 @@ window.FA_PUBLISHED = [
 "crown:26",
 "list-dropdown:22",
 "arrow-down-to-line:29",
-"rectangle-portrait:27"
+"rectangle-portrait:27",
+"download:9",
+"wind:22",
+"dial-low:20",
+"castle:22",
+"award-simple:1",
+"comment-alt-captions:9",
+"file-circle-xmark:7",
+"battery-slash:32",
+"barcode-scan:19"
 ];

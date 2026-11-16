@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-download,9,fa-duotone fa-thin fa-download,Download,Duotone Thin
-wind,22,fa-sharp fa-thin fa-wind,Wind,Sharp Thin
-dial-low,20,fa-sharp fa-regular fa-dial-low,Dial Low,Sharp Regular
-castle,22,fa-sharp fa-thin fa-castle,Castle,Sharp Thin
-award-simple,1,fa-regular fa-award-simple,Award Simple,Regular
-comment-alt-captions,9,fa-duotone fa-thin fa-comment-alt-captions,Comment Alt Captions,Duotone Thin
-file-circle-xmark,7,fa-duotone fa-light fa-file-circle-xmark,File Circle Xmark,Duotone Light
-battery-slash,32,fa-utility fa-semibold fa-battery-slash,Battery Slash,Utility Semibold
-barcode-scan,19,fa-sharp fa-light fa-barcode-scan,Barcode Scan,Sharp Light
 comments-question-check,6,fa-duotone fa-comments-question-check,Comments Question Check,Duotone Solid
 a,1,fa-regular fa-a,A,Regular
 brackets-round,9,fa-duotone fa-thin fa-brackets-round,Brackets Round,Duotone Thin

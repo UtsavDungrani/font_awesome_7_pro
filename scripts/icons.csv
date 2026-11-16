@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hotdog,9,fa-duotone fa-thin fa-hotdog,Hotdog,Duotone Thin
-trash-can-check,2,fa-light fa-trash-can-check,Trash Can Check,Light
-block,2,fa-light fa-block,Block,Light
-battery-3,24,fa-sharp-duotone fa-regular fa-battery-3,Battery 3,Sharp Duotone Regular
-pagelines,4,fa-brands fa-pagelines,Pagelines,Brands
-circle-dollar,25,fa-sharp-duotone fa-solid fa-circle-dollar,Circle Dollar,Sharp Duotone Solid
-family,6,fa-duotone fa-family,Family,Duotone Solid
-telescope,7,fa-duotone fa-light fa-telescope,Telescope,Duotone Light
-mobile-rotate-reverse,0,fa-solid fa-mobile-rotate-reverse,Mobile Rotate Reverse,Solid
 hexagon-plus,2,fa-light fa-hexagon-plus,Hexagon Plus,Light
 backward,24,fa-sharp-duotone fa-regular fa-backward,Backward,Sharp Duotone Regular
 bars-filter,8,fa-duotone fa-regular fa-bars-filter,Bars Filter,Duotone Regular

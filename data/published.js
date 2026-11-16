@@ -5534,5 +5534,14 @@ window.FA_PUBLISHED = [
 "bowl-food:23",
 "file-caret-down:19",
 "cherries:26",
-"gear-code:23"
+"gear-code:23",
+"hotdog:9",
+"trash-can-check:2",
+"block:2",
+"battery-3:24",
+"pagelines:4",
+"circle-dollar:25",
+"family:6",
+"telescope:7",
+"mobile-rotate-reverse:0"
 ];

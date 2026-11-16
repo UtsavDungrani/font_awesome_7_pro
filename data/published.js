@@ -5597,5 +5597,14 @@ window.FA_PUBLISHED = [
 "screwdriver-wrench:6",
 "stopwatch:26",
 "tablet-alt:19",
-"microphone-slash:7"
+"microphone-slash:7",
+"money-from-bracket:20",
+"biohazard:19",
+"stadium:8",
+"person-water-arms-raised:6",
+"cookie-bite:20",
+"block-quote:0",
+"bra:19",
+"box-fragile:19",
+"caravan-alt:20"
 ];

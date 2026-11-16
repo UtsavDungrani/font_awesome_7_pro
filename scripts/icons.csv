@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-money-from-bracket,20,fa-sharp fa-regular fa-money-from-bracket,Money From Bracket,Sharp Regular
-biohazard,19,fa-sharp fa-light fa-biohazard,Biohazard,Sharp Light
-stadium,8,fa-duotone fa-regular fa-stadium,Stadium,Duotone Regular
-person-water-arms-raised,6,fa-duotone fa-person-water-arms-raised,Person Water Arms Raised,Duotone Solid
-cookie-bite,20,fa-sharp fa-regular fa-cookie-bite,Cookie Bite,Sharp Regular
-block-quote,0,fa-solid fa-block-quote,Block Quote,Solid
-bra,19,fa-sharp fa-light fa-bra,Bra,Sharp Light
-box-fragile,19,fa-sharp fa-light fa-box-fragile,Box Fragile,Sharp Light
-caravan-alt,20,fa-sharp fa-regular fa-caravan-alt,Caravan Alt,Sharp Regular
 location-pin-slash,7,fa-duotone fa-light fa-location-pin-slash,Location Pin Slash,Duotone Light
 hand-wave,26,fa-sharp-duotone fa-thin fa-hand-wave,Hand Wave,Sharp Duotone Thin
 file-exclamation,3,fa-thin fa-file-exclamation,File Exclamation,Thin

@@ -5615,5 +5615,14 @@ window.FA_PUBLISHED = [
 "spell-check:3",
 "circle-bolt:25",
 "landmark:21",
-"arrow-up-from-square:25"
+"arrow-up-from-square:25",
+"tooth:8",
+"cloud-drizzle:22",
+"watch-smart:25",
+"helmet-un:24",
+"arrows-repeat:20",
+"xmark-large:21",
+"comment-text:26",
+"square-tugrik:21",
+"user-hat-tie-magnifying-glass:24"
 ];

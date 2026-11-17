@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-tooth,8,fa-duotone fa-regular fa-tooth,Tooth,Duotone Regular
-cloud-drizzle,22,fa-sharp fa-thin fa-cloud-drizzle,Cloud Drizzle,Sharp Thin
-watch-smart,25,fa-sharp-duotone fa-solid fa-watch-smart,Watch Smart,Sharp Duotone Solid
-helmet-un,24,fa-sharp-duotone fa-regular fa-helmet-un,Helmet Un,Sharp Duotone Regular
-arrows-repeat,20,fa-sharp fa-regular fa-arrows-repeat,Arrows Repeat,Sharp Regular
-xmark-large,21,fa-sharp fa-solid fa-xmark-large,Xmark Large,Sharp Solid
-comment-text,26,fa-sharp-duotone fa-thin fa-comment-text,Comment Text,Sharp Duotone Thin
-square-tugrik,21,fa-sharp fa-solid fa-square-tugrik,Square Tugrik,Sharp Solid
-user-hat-tie-magnifying-glass,24,fa-sharp-duotone fa-regular fa-user-hat-tie-magnifying-glass,User Hat Tie Magnifying Glass,Sharp Duotone Regular
 person-walking,20,fa-sharp fa-regular fa-person-walking,Person Walking,Sharp Regular
 bar-progress-empty,20,fa-sharp fa-regular fa-bar-progress-empty,Bar Progress Empty,Sharp Regular
 horizontal-rule,3,fa-thin fa-horizontal-rule,Horizontal Rule,Thin

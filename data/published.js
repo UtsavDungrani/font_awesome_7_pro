@@ -5642,5 +5642,14 @@ window.FA_PUBLISHED = [
 "list-timeline:6",
 "left-to-dotted-line:2",
 "dolly:23",
-"terminal:6"
+"terminal:6",
+"folder-magnifying-glass:20",
+"face-grin-tongue-wink:22",
+"chevron-double-left:0",
+"desktop-medical:1",
+"burger-fries:25",
+"braille:20",
+"mars-stroke-up:9",
+"face-smile-upside-down:7",
+"share-alt:15"
 ];

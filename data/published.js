@@ -5651,5 +5651,14 @@ window.FA_PUBLISHED = [
 "braille:20",
 "mars-stroke-up:9",
 "face-smile-upside-down:7",
-"share-alt:15"
+"share-alt:15",
+"vest-patches:24",
+"question-square:7",
+"shield-user:1",
+"poll:20",
+"manat-sign:19",
+"calendar-plus:20",
+"cookie-bite:3",
+"arrow-up-small-big:1",
+"spider:1"
 ];

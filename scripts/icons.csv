@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-thumbs-up,25,fa-sharp-duotone fa-solid fa-thumbs-up,Thumbs Up,Sharp Duotone Solid
-chain-broken,19,fa-sharp fa-light fa-chain-broken,Chain Broken,Sharp Light
-onion,23,fa-sharp-duotone fa-light fa-onion,Onion,Sharp Duotone Light
-table-layout,8,fa-duotone fa-regular fa-table-layout,Table Layout,Duotone Regular
-cookie-bite,1,fa-regular fa-cookie-bite,Cookie Bite,Regular
-chess-knight-alt,25,fa-sharp-duotone fa-solid fa-chess-knight-alt,Chess Knight Alt,Sharp Duotone Solid
-plate-wheat,1,fa-regular fa-plate-wheat,Plate Wheat,Regular
-left-from-bracket,19,fa-sharp fa-light fa-left-from-bracket,Left From Bracket,Sharp Light
-arrow-pointer,2,fa-light fa-arrow-pointer,Arrow Pointer,Light
 card-club,21,fa-sharp fa-solid fa-card-club,Card Club,Sharp Solid
 spiral,20,fa-sharp fa-regular fa-spiral,Spiral,Sharp Regular
 bar-progress-three-quarters,20,fa-sharp fa-regular fa-bar-progress-three-quarters,Bar Progress Three Quarters,Sharp Regular

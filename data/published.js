@@ -5669,5 +5669,14 @@ window.FA_PUBLISHED = [
 "comment-minus:3",
 "objects-align-top:8",
 "sword-laser-alt:21",
-"album:3"
+"album:3",
+"thumbs-up:25",
+"chain-broken:19",
+"onion:23",
+"table-layout:8",
+"cookie-bite:1",
+"chess-knight-alt:25",
+"plate-wheat:1",
+"left-from-bracket:19",
+"arrow-pointer:2"
 ];

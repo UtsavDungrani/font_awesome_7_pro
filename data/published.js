@@ -5723,5 +5723,14 @@ window.FA_PUBLISHED = [
 "circle-star:6",
 "paintbrush-fine-slash:19",
 "music:0",
-"arrow-square-right:19"
+"arrow-square-right:19",
+"traffic-light-stop:24",
+"phone-arrow-down:26",
+"comet:22",
+"cloud-moon:6",
+"clock:3",
+"00:20",
+"money-bill-simple-wave:26",
+"square-swedish-krona:6",
+"garage-open:25"
 ];

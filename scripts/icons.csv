@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-traffic-light-stop,24,fa-sharp-duotone fa-regular fa-traffic-light-stop,Traffic Light Stop,Sharp Duotone Regular
-phone-arrow-down,26,fa-sharp-duotone fa-thin fa-phone-arrow-down,Phone Arrow Down,Sharp Duotone Thin
-comet,22,fa-sharp fa-thin fa-comet,Comet,Sharp Thin
-cloud-moon,6,fa-duotone fa-cloud-moon,Cloud Moon,Duotone Solid
-clock,3,fa-thin fa-clock,Clock,Thin
-00,20,fa-sharp fa-regular fa-00,00,Sharp Regular
-money-bill-simple-wave,26,fa-sharp-duotone fa-thin fa-money-bill-simple-wave,Money Bill Simple Wave,Sharp Duotone Thin
-square-swedish-krona,6,fa-duotone fa-square-swedish-krona,Square Swedish Krona,Duotone Solid
-garage-open,25,fa-sharp-duotone fa-solid fa-garage-open,Garage Open,Sharp Duotone Solid
 hexagon,3,fa-thin fa-hexagon,Hexagon,Thin
 signal-alt-slash,21,fa-sharp fa-solid fa-signal-alt-slash,Signal Alt Slash,Sharp Solid
 circle-dong,23,fa-sharp-duotone fa-light fa-circle-dong,Circle Dong,Sharp Duotone Light

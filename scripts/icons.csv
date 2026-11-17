@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-dashed,22,fa-sharp fa-thin fa-circle-dashed,Circle Dashed,Sharp Thin
-archive,19,fa-sharp fa-light fa-archive,Archive,Sharp Light
-qrcode-read,3,fa-thin fa-qrcode-read,Qrcode Read,Thin
-face-smile-wink,19,fa-sharp fa-light fa-face-smile-wink,Face Smile Wink,Sharp Light
-envelope-open-text,19,fa-sharp fa-light fa-envelope-open-text,Envelope Open Text,Sharp Light
-comment-minus,3,fa-thin fa-comment-minus,Comment Minus,Thin
-objects-align-top,8,fa-duotone fa-regular fa-objects-align-top,Objects Align Top,Duotone Regular
-sword-laser-alt,21,fa-sharp fa-solid fa-sword-laser-alt,Sword Laser Alt,Sharp Solid
-album,3,fa-thin fa-album,Album,Thin
 thumbs-up,25,fa-sharp-duotone fa-solid fa-thumbs-up,Thumbs Up,Sharp Duotone Solid
 chain-broken,19,fa-sharp fa-light fa-chain-broken,Chain Broken,Sharp Light
 onion,23,fa-sharp-duotone fa-light fa-onion,Onion,Sharp Duotone Light

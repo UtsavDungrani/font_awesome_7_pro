@@ -5660,5 +5660,14 @@ window.FA_PUBLISHED = [
 "calendar-plus:20",
 "cookie-bite:3",
 "arrow-up-small-big:1",
-"spider:1"
+"spider:1",
+"circle-dashed:22",
+"archive:19",
+"qrcode-read:3",
+"face-smile-wink:19",
+"envelope-open-text:19",
+"comment-minus:3",
+"objects-align-top:8",
+"sword-laser-alt:21",
+"album:3"
 ];

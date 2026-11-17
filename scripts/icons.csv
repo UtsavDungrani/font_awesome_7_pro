@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-angle-up,34,fa-utility-fill fa-semibold fa-angle-up,Angle Up,Utility Fill Semibold
-superscript,2,fa-light fa-superscript,Superscript,Light
-check,27,fa-slab fa-regular fa-check,Check,Slab Regular
-clinic-medical,0,fa-solid fa-clinic-medical,Clinic Medical,Solid
-angle-right,0,fa-solid fa-angle-right,Angle Right,Solid
-microscope,23,fa-sharp-duotone fa-light fa-microscope,Microscope,Sharp Duotone Light
-unlock,22,fa-sharp fa-thin fa-unlock,Unlock,Sharp Thin
-pen-line,24,fa-sharp-duotone fa-regular fa-pen-line,Pen Line,Sharp Duotone Regular
-backward-fast,2,fa-light fa-backward-fast,Backward Fast,Light
 file-arrow-up,20,fa-sharp fa-regular fa-file-arrow-up,File Arrow Up,Sharp Regular
 face-confused,20,fa-sharp fa-regular fa-face-confused,Face Confused,Sharp Regular
 bow-archery,1,fa-regular fa-bow-archery,Bow Archery,Regular

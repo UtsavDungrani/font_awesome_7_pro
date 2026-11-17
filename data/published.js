@@ -5696,5 +5696,14 @@ window.FA_PUBLISHED = [
 "trillium:1",
 "arrow-up-from-water-pump:2",
 "umbrella-alt:6",
-"banana:22"
+"banana:22",
+"angle-up:34",
+"superscript:2",
+"check:27",
+"clinic-medical:0",
+"angle-right:0",
+"microscope:23",
+"unlock:22",
+"pen-line:24",
+"backward-fast:2"
 ];

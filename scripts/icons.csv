@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-walking,20,fa-sharp fa-regular fa-person-walking,Person Walking,Sharp Regular
-bar-progress-empty,20,fa-sharp fa-regular fa-bar-progress-empty,Bar Progress Empty,Sharp Regular
-horizontal-rule,3,fa-thin fa-horizontal-rule,Horizontal Rule,Thin
-gift-card,26,fa-sharp-duotone fa-thin fa-gift-card,Gift Card,Sharp Duotone Thin
-child-combatant,1,fa-regular fa-child-combatant,Child Combatant,Regular
-paint-brush,2,fa-light fa-paint-brush,Paint Brush,Light
-cart-arrow-up,8,fa-duotone fa-regular fa-cart-arrow-up,Cart Arrow Up,Duotone Regular
-shield-dog,23,fa-sharp-duotone fa-light fa-shield-dog,Shield Dog,Sharp Duotone Light
-file-wav,21,fa-sharp fa-solid fa-file-wav,File Wav,Sharp Solid
 popsicle,7,fa-duotone fa-light fa-popsicle,Popsicle,Duotone Light
 folder-plus,36,fa-whiteboard fa-semibold fa-folder-plus,Folder Plus,Whiteboard Semibold
 file-edit,26,fa-sharp-duotone fa-thin fa-file-edit,File Edit,Sharp Duotone Thin

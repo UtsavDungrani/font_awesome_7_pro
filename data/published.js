@@ -5624,5 +5624,14 @@ window.FA_PUBLISHED = [
 "xmark-large:21",
 "comment-text:26",
 "square-tugrik:21",
-"user-hat-tie-magnifying-glass:24"
+"user-hat-tie-magnifying-glass:24",
+"person-walking:20",
+"bar-progress-empty:20",
+"horizontal-rule:3",
+"gift-card:26",
+"child-combatant:1",
+"paint-brush:2",
+"cart-arrow-up:8",
+"shield-dog:23",
+"file-wav:21"
 ];

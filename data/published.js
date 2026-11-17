@@ -5606,5 +5606,14 @@ window.FA_PUBLISHED = [
 "block-quote:0",
 "bra:19",
 "box-fragile:19",
-"caravan-alt:20"
+"caravan-alt:20",
+"location-pin-slash:7",
+"hand-wave:26",
+"file-exclamation:3",
+"m:6",
+"solar-panel:23",
+"spell-check:3",
+"circle-bolt:25",
+"landmark:21",
+"arrow-up-from-square:25"
 ];

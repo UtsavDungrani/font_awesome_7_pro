@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-location-pin-slash,7,fa-duotone fa-light fa-location-pin-slash,Location Pin Slash,Duotone Light
-hand-wave,26,fa-sharp-duotone fa-thin fa-hand-wave,Hand Wave,Sharp Duotone Thin
-file-exclamation,3,fa-thin fa-file-exclamation,File Exclamation,Thin
-m,6,fa-duotone fa-m,M,Duotone Solid
-solar-panel,23,fa-sharp-duotone fa-light fa-solar-panel,Solar Panel,Sharp Duotone Light
-spell-check,3,fa-thin fa-spell-check,Spell Check,Thin
-circle-bolt,25,fa-sharp-duotone fa-solid fa-circle-bolt,Circle Bolt,Sharp Duotone Solid
-landmark,21,fa-sharp fa-solid fa-landmark,Landmark,Sharp Solid
-arrow-up-from-square,25,fa-sharp-duotone fa-solid fa-arrow-up-from-square,Arrow Up From Square,Sharp Duotone Solid
 tooth,8,fa-duotone fa-regular fa-tooth,Tooth,Duotone Regular
 cloud-drizzle,22,fa-sharp fa-thin fa-cloud-drizzle,Cloud Drizzle,Sharp Thin
 watch-smart,25,fa-sharp-duotone fa-solid fa-watch-smart,Watch Smart,Sharp Duotone Solid

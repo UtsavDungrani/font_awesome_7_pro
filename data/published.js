@@ -5687,5 +5687,14 @@ window.FA_PUBLISHED = [
 "hands:6",
 "cog:27",
 "users:22",
-"earth-europe:9"
+"earth-europe:9",
+"comment-alt-quote:8",
+"slot-machine:9",
+"spine:22",
+"tree-city:3",
+"arrow-down-left:22",
+"trillium:1",
+"arrow-up-from-water-pump:2",
+"umbrella-alt:6",
+"banana:22"
 ];

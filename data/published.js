@@ -5705,5 +5705,14 @@ window.FA_PUBLISHED = [
 "microscope:23",
 "unlock:22",
 "pen-line:24",
-"backward-fast:2"
+"backward-fast:2",
+"file-arrow-up:20",
+"face-confused:20",
+"bow-archery:1",
+"6:25",
+"angle-90:9",
+"bag-seedling:19",
+"calendar-star:26",
+"arrow-up-short-wide:21",
+"arrow-from-bottom:25"
 ];

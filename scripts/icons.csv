@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-popsicle,7,fa-duotone fa-light fa-popsicle,Popsicle,Duotone Light
-folder-plus,36,fa-whiteboard fa-semibold fa-folder-plus,Folder Plus,Whiteboard Semibold
-file-edit,26,fa-sharp-duotone fa-thin fa-file-edit,File Edit,Sharp Duotone Thin
-adjust,35,fa-vellum fa-solid fa-adjust,Adjust,Vellum Solid
-arrow-right,14,fa-jelly-fill fa-regular fa-arrow-right,Arrow Right,Jelly Fill Regular
-list-timeline,6,fa-duotone fa-list-timeline,List Timeline,Duotone Solid
-left-to-dotted-line,2,fa-light fa-left-to-dotted-line,Left To Dotted Line,Light
-dolly,23,fa-sharp-duotone fa-light fa-dolly,Dolly,Sharp Duotone Light
-terminal,6,fa-duotone fa-terminal,Terminal,Duotone Solid
 folder-magnifying-glass,20,fa-sharp fa-regular fa-folder-magnifying-glass,Folder Magnifying Glass,Sharp Regular
 face-grin-tongue-wink,22,fa-sharp fa-thin fa-face-grin-tongue-wink,Face Grin Tongue Wink,Sharp Thin
 chevron-double-left,0,fa-solid fa-chevron-double-left,Chevron Double Left,Solid

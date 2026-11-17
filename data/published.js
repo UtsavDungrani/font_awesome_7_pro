@@ -5633,5 +5633,14 @@ window.FA_PUBLISHED = [
 "paint-brush:2",
 "cart-arrow-up:8",
 "shield-dog:23",
-"file-wav:21"
+"file-wav:21",
+"popsicle:7",
+"folder-plus:36",
+"file-edit:26",
+"adjust:35",
+"arrow-right:14",
+"list-timeline:6",
+"left-to-dotted-line:2",
+"dolly:23",
+"terminal:6"
 ];

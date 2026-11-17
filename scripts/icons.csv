@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-label,9,fa-duotone fa-thin fa-label,Label,Duotone Thin
-face-viewfinder,19,fa-sharp fa-light fa-face-viewfinder,Face Viewfinder,Sharp Light
-square-full,7,fa-duotone fa-light fa-square-full,Square Full,Duotone Light
-alt,26,fa-sharp-duotone fa-thin fa-alt,Alt,Sharp Duotone Thin
-earth-europe,2,fa-light fa-earth-europe,Earth Europe,Light
-circle-star,6,fa-duotone fa-circle-star,Circle Star,Duotone Solid
-paintbrush-fine-slash,19,fa-sharp fa-light fa-paintbrush-fine-slash,Paintbrush Fine Slash,Sharp Light
-music,0,fa-solid fa-music,Music,Solid
-arrow-square-right,19,fa-sharp fa-light fa-arrow-square-right,Arrow Square Right,Sharp Light
 traffic-light-stop,24,fa-sharp-duotone fa-regular fa-traffic-light-stop,Traffic Light Stop,Sharp Duotone Regular
 phone-arrow-down,26,fa-sharp-duotone fa-thin fa-phone-arrow-down,Phone Arrow Down,Sharp Duotone Thin
 comet,22,fa-sharp fa-thin fa-comet,Comet,Sharp Thin

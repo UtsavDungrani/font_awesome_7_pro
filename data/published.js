@@ -5714,5 +5714,14 @@ window.FA_PUBLISHED = [
 "bag-seedling:19",
 "calendar-star:26",
 "arrow-up-short-wide:21",
-"arrow-from-bottom:25"
+"arrow-from-bottom:25",
+"label:9",
+"face-viewfinder:19",
+"square-full:7",
+"alt:26",
+"earth-europe:2",
+"circle-star:6",
+"paintbrush-fine-slash:19",
+"music:0",
+"arrow-square-right:19"
 ];

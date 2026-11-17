@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-card-club,21,fa-sharp fa-solid fa-card-club,Card Club,Sharp Solid
-spiral,20,fa-sharp fa-regular fa-spiral,Spiral,Sharp Regular
-bar-progress-three-quarters,20,fa-sharp fa-regular fa-bar-progress-three-quarters,Bar Progress Three Quarters,Sharp Regular
-filter-list,21,fa-sharp fa-solid fa-filter-list,Filter List,Sharp Solid
-pro,3,fa-thin fa-pro,Pro,Thin
-hands,6,fa-duotone fa-hands,Hands,Duotone Solid
-cog,27,fa-slab fa-regular fa-cog,Cog,Slab Regular
-users,22,fa-sharp fa-thin fa-users,Users,Sharp Thin
-earth-europe,9,fa-duotone fa-thin fa-earth-europe,Earth Europe,Duotone Thin
 comment-alt-quote,8,fa-duotone fa-regular fa-comment-alt-quote,Comment Alt Quote,Duotone Regular
 slot-machine,9,fa-duotone fa-thin fa-slot-machine,Slot Machine,Duotone Thin
 spine,22,fa-sharp fa-thin fa-spine,Spine,Sharp Thin

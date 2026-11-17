@@ -5678,5 +5678,14 @@ window.FA_PUBLISHED = [
 "chess-knight-alt:25",
 "plate-wheat:1",
 "left-from-bracket:19",
-"arrow-pointer:2"
+"arrow-pointer:2",
+"card-club:21",
+"spiral:20",
+"bar-progress-three-quarters:20",
+"filter-list:21",
+"pro:3",
+"hands:6",
+"cog:27",
+"users:22",
+"earth-europe:9"
 ];

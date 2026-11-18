@@ -5777,5 +5777,14 @@ window.FA_PUBLISHED = [
 "person-drowning:2",
 "floppy-disk:36",
 "arrow-up-right-and-arrow-down-left-from-center:21",
-"angle-up:3"
+"angle-up:3",
+"face-grin-wink:2",
+"plane-up:6",
+"arrow-down-a-z:8",
+"calendar-range:26",
+"light-switch-off:19",
+"plug-circle-minus:26",
+"user-police-tie:20",
+"bed-empty:33",
+"grip-dots:6"
 ];

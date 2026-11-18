@@ -5786,5 +5786,14 @@ window.FA_PUBLISHED = [
 "plug-circle-minus:26",
 "user-police-tie:20",
 "bed-empty:33",
-"grip-dots:6"
+"grip-dots:6",
+"trailer:22",
+"forward-step:16",
+"naira-sign:6",
+"bat:22",
+"lightbulb-slash:21",
+"mortar-pestle:1",
+"blender:21",
+"folder-user:1",
+"satellite:8"
 ];

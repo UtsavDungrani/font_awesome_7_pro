@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trailer,22,fa-sharp fa-thin fa-trailer,Trailer,Sharp Thin
-forward-step,16,fa-notdog fa-solid fa-forward-step,Forward Step,Notdog Solid
-naira-sign,6,fa-duotone fa-naira-sign,Naira Sign,Duotone Solid
-bat,22,fa-sharp fa-thin fa-bat,Bat,Sharp Thin
-lightbulb-slash,21,fa-sharp fa-solid fa-lightbulb-slash,Lightbulb Slash,Sharp Solid
-mortar-pestle,1,fa-regular fa-mortar-pestle,Mortar Pestle,Regular
-blender,21,fa-sharp fa-solid fa-blender,Blender,Sharp Solid
-folder-user,1,fa-regular fa-folder-user,Folder User,Regular
-satellite,8,fa-duotone fa-regular fa-satellite,Satellite,Duotone Regular
 monument,26,fa-sharp-duotone fa-thin fa-monument,Monument,Sharp Duotone Thin
 circle-colon,8,fa-duotone fa-regular fa-circle-colon,Circle Colon,Duotone Regular
 egg,23,fa-sharp-duotone fa-light fa-egg,Egg,Sharp Duotone Light

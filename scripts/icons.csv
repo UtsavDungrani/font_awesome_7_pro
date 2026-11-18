@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-monument,26,fa-sharp-duotone fa-thin fa-monument,Monument,Sharp Duotone Thin
-circle-colon,8,fa-duotone fa-regular fa-circle-colon,Circle Colon,Duotone Regular
-egg,23,fa-sharp-duotone fa-light fa-egg,Egg,Sharp Duotone Light
-arrow-alt-up,25,fa-sharp-duotone fa-solid fa-arrow-alt-up,Arrow Alt Up,Sharp Duotone Solid
-crop,2,fa-light fa-crop,Crop,Light
-at,3,fa-thin fa-at,At,Thin
-user-ninja,8,fa-duotone fa-regular fa-user-ninja,User Ninja,Duotone Regular
-circle-hryvnia,24,fa-sharp-duotone fa-regular fa-circle-hryvnia,Circle Hryvnia,Sharp Duotone Regular
-display-arrow-down,26,fa-sharp-duotone fa-thin fa-display-arrow-down,Display Arrow Down,Sharp Duotone Thin
 trombone,8,fa-duotone fa-regular fa-trombone,Trombone,Duotone Regular
 building-magnifying-glass,8,fa-duotone fa-regular fa-building-magnifying-glass,Building Magnifying Glass,Duotone Regular
 calendar-circle,21,fa-sharp fa-solid fa-calendar-circle,Calendar Circle,Sharp Solid

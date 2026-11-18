@@ -5795,5 +5795,14 @@ window.FA_PUBLISHED = [
 "mortar-pestle:1",
 "blender:21",
 "folder-user:1",
-"satellite:8"
+"satellite:8",
+"monument:26",
+"circle-colon:8",
+"egg:23",
+"arrow-alt-up:25",
+"crop:2",
+"at:3",
+"user-ninja:8",
+"circle-hryvnia:24",
+"display-arrow-down:26"
 ];

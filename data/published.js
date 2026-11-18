@@ -5813,5 +5813,14 @@ window.FA_PUBLISHED = [
 "triple-chevrons-up:22",
 "square-terminal:24",
 "spine:20",
-"user-edit:20"
+"user-edit:20",
+"laptop-binary:24",
+"location-exclamation:1",
+"user-visor:24",
+"gun-squirt:0",
+"umbrella:22",
+"magnifying-glass-plus:12",
+"book-copy:9",
+"golf-flag-hole:24",
+"mobile-alt:7"
 ];

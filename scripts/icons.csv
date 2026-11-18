@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-laptop-binary,24,fa-sharp-duotone fa-regular fa-laptop-binary,Laptop Binary,Sharp Duotone Regular
-location-exclamation,1,fa-regular fa-location-exclamation,Location Exclamation,Regular
-user-visor,24,fa-sharp-duotone fa-regular fa-user-visor,User Visor,Sharp Duotone Regular
-gun-squirt,0,fa-solid fa-gun-squirt,Gun Squirt,Solid
-umbrella,22,fa-sharp fa-thin fa-umbrella,Umbrella,Sharp Thin
-magnifying-glass-plus,12,fa-jelly fa-regular fa-magnifying-glass-plus,Magnifying Glass Plus,Jelly Regular
-book-copy,9,fa-duotone fa-thin fa-book-copy,Book Copy,Duotone Thin
-golf-flag-hole,24,fa-sharp-duotone fa-regular fa-golf-flag-hole,Golf Flag Hole,Sharp Duotone Regular
-mobile-alt,7,fa-duotone fa-light fa-mobile-alt,Mobile Alt,Duotone Light
 user-hat-tie,0,fa-solid fa-user-hat-tie,User Hat Tie,Solid
 bed,6,fa-duotone fa-bed,Bed,Duotone Solid
 bore-hole,24,fa-sharp-duotone fa-regular fa-bore-hole,Bore Hole,Sharp Duotone Regular

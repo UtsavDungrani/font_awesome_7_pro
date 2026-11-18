@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-truck-bolt,19,fa-sharp fa-light fa-truck-bolt,Truck Bolt,Sharp Light
-spade,8,fa-duotone fa-regular fa-spade,Spade,Duotone Regular
-phone-square-down,6,fa-duotone fa-phone-square-down,Phone Square Down,Duotone Solid
-chart-pie-simple-circle-dollar,8,fa-duotone fa-regular fa-chart-pie-simple-circle-dollar,Chart Pie Simple Circle Dollar,Duotone Regular
-book-medical,6,fa-duotone fa-book-medical,Book Medical,Duotone Solid
-chain-horizontal-slash,0,fa-solid fa-chain-horizontal-slash,Chain Horizontal Slash,Solid
-circle-radiation,8,fa-duotone fa-regular fa-circle-radiation,Circle Radiation,Duotone Regular
-joint,1,fa-regular fa-joint,Joint,Regular
-calendar-circle-exclamation,6,fa-duotone fa-calendar-circle-exclamation,Calendar Circle Exclamation,Duotone Solid
 calendar-circle-exclamation,21,fa-sharp fa-solid fa-calendar-circle-exclamation,Calendar Circle Exclamation,Sharp Solid
 face-dotted,6,fa-duotone fa-face-dotted,Face Dotted,Duotone Solid
 temperature-list,1,fa-regular fa-temperature-list,Temperature List,Regular

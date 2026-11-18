@@ -5759,5 +5759,14 @@ window.FA_PUBLISHED = [
 "taurus:25",
 "comment-plus:2",
 "kiwi-bird:2",
-"bag-shopping-plus:1"
+"bag-shopping-plus:1",
+"truck-bolt:19",
+"spade:8",
+"phone-square-down:6",
+"chart-pie-simple-circle-dollar:8",
+"book-medical:6",
+"chain-horizontal-slash:0",
+"circle-radiation:8",
+"joint:1",
+"calendar-circle-exclamation:6"
 ];

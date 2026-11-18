@@ -5768,5 +5768,14 @@ window.FA_PUBLISHED = [
 "chain-horizontal-slash:0",
 "circle-radiation:8",
 "joint:1",
-"calendar-circle-exclamation:6"
+"calendar-circle-exclamation:6",
+"calendar-circle-exclamation:21",
+"face-dotted:6",
+"temperature-list:1",
+"sd-card:3",
+"cloud-arrow-down:8",
+"person-drowning:2",
+"floppy-disk:36",
+"arrow-up-right-and-arrow-down-left-from-center:21",
+"angle-up:3"
 ];

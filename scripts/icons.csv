@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-calendar-circle-exclamation,21,fa-sharp fa-solid fa-calendar-circle-exclamation,Calendar Circle Exclamation,Sharp Solid
-face-dotted,6,fa-duotone fa-face-dotted,Face Dotted,Duotone Solid
-temperature-list,1,fa-regular fa-temperature-list,Temperature List,Regular
-sd-card,3,fa-thin fa-sd-card,Sd Card,Thin
-cloud-arrow-down,8,fa-duotone fa-regular fa-cloud-arrow-down,Cloud Arrow Down,Duotone Regular
-person-drowning,2,fa-light fa-person-drowning,Person Drowning,Light
-floppy-disk,36,fa-whiteboard fa-semibold fa-floppy-disk,Floppy Disk,Whiteboard Semibold
-arrow-up-right-and-arrow-down-left-from-center,21,fa-sharp fa-solid fa-arrow-up-right-and-arrow-down-left-from-center,Arrow Up Right And Arrow Down Left From Center,Sharp Solid
-angle-up,3,fa-thin fa-angle-up,Angle Up,Thin
 face-grin-wink,2,fa-light fa-face-grin-wink,Face Grin Wink,Light
 plane-up,6,fa-duotone fa-plane-up,Plane Up,Duotone Solid
 arrow-down-a-z,8,fa-duotone fa-regular fa-arrow-down-a-z,Arrow Down A Z,Duotone Regular

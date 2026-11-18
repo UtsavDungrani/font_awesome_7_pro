@@ -5750,5 +5750,14 @@ window.FA_PUBLISHED = [
 "arrow-u-turn-left-up:2",
 "flask-vial:24",
 "up-long-to-line:26",
-"bread-slice-butter:1"
+"bread-slice-butter:1",
+"up-long-to-line:9",
+"donut:8",
+"share-alt-square:21",
+"code-pull-request:19",
+"square-ring:22",
+"taurus:25",
+"comment-plus:2",
+"kiwi-bird:2",
+"bag-shopping-plus:1"
 ];

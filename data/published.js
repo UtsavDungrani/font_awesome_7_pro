@@ -5804,5 +5804,14 @@ window.FA_PUBLISHED = [
 "at:3",
 "user-ninja:8",
 "circle-hryvnia:24",
-"display-arrow-down:26"
+"display-arrow-down:26",
+"trombone:8",
+"building-magnifying-glass:8",
+"calendar-circle:21",
+"wifi:32",
+"signal-alt-1:26",
+"triple-chevrons-up:22",
+"square-terminal:24",
+"spine:20",
+"user-edit:20"
 ];

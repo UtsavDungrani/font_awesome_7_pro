@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-trombone,8,fa-duotone fa-regular fa-trombone,Trombone,Duotone Regular
-building-magnifying-glass,8,fa-duotone fa-regular fa-building-magnifying-glass,Building Magnifying Glass,Duotone Regular
-calendar-circle,21,fa-sharp fa-solid fa-calendar-circle,Calendar Circle,Sharp Solid
-wifi,32,fa-utility fa-semibold fa-wifi,Wifi,Utility Semibold
-signal-alt-1,26,fa-sharp-duotone fa-thin fa-signal-alt-1,Signal Alt 1,Sharp Duotone Thin
-triple-chevrons-up,22,fa-sharp fa-thin fa-triple-chevrons-up,Triple Chevrons Up,Sharp Thin
-square-terminal,24,fa-sharp-duotone fa-regular fa-square-terminal,Square Terminal,Sharp Duotone Regular
-spine,20,fa-sharp fa-regular fa-spine,Spine,Sharp Regular
-user-edit,20,fa-sharp fa-regular fa-user-edit,User Edit,Sharp Regular
 laptop-binary,24,fa-sharp-duotone fa-regular fa-laptop-binary,Laptop Binary,Sharp Duotone Regular
 location-exclamation,1,fa-regular fa-location-exclamation,Location Exclamation,Regular
 user-visor,24,fa-sharp-duotone fa-regular fa-user-visor,User Visor,Sharp Duotone Regular

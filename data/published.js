@@ -5732,5 +5732,14 @@ window.FA_PUBLISHED = [
 "00:20",
 "money-bill-simple-wave:26",
 "square-swedish-krona:6",
-"garage-open:25"
+"garage-open:25",
+"hexagon:3",
+"signal-alt-slash:21",
+"circle-dong:23",
+"hexagon-nodes:1",
+"objects-align-right:24",
+"shield-minus:23",
+"phone-square:23",
+"file-half-dashed:8",
+"square-austral:2"
 ];

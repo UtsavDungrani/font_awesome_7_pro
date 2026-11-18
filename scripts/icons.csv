@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hexagon,3,fa-thin fa-hexagon,Hexagon,Thin
-signal-alt-slash,21,fa-sharp fa-solid fa-signal-alt-slash,Signal Alt Slash,Sharp Solid
-circle-dong,23,fa-sharp-duotone fa-light fa-circle-dong,Circle Dong,Sharp Duotone Light
-hexagon-nodes,1,fa-regular fa-hexagon-nodes,Hexagon Nodes,Regular
-objects-align-right,24,fa-sharp-duotone fa-regular fa-objects-align-right,Objects Align Right,Sharp Duotone Regular
-shield-minus,23,fa-sharp-duotone fa-light fa-shield-minus,Shield Minus,Sharp Duotone Light
-phone-square,23,fa-sharp-duotone fa-light fa-phone-square,Phone Square,Sharp Duotone Light
-file-half-dashed,8,fa-duotone fa-regular fa-file-half-dashed,File Half Dashed,Duotone Regular
-square-austral,2,fa-light fa-square-austral,Square Austral,Light
 hard-drive,19,fa-sharp fa-light fa-hard-drive,Hard Drive,Sharp Light
 rabbit,2,fa-light fa-rabbit,Rabbit,Light
 book-spine,20,fa-sharp fa-regular fa-book-spine,Book Spine,Sharp Regular

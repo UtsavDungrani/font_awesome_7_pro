@@ -5741,5 +5741,14 @@ window.FA_PUBLISHED = [
 "shield-minus:23",
 "phone-square:23",
 "file-half-dashed:8",
-"square-austral:2"
+"square-austral:2",
+"hard-drive:19",
+"rabbit:2",
+"book-spine:20",
+"font:10",
+"arrow-alt-from-left:20",
+"arrow-u-turn-left-up:2",
+"flask-vial:24",
+"up-long-to-line:26",
+"bread-slice-butter:1"
 ];

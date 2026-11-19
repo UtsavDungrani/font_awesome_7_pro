@@ -5831,5 +5831,14 @@ window.FA_PUBLISHED = [
 "face-grin-squint-tears:3",
 "arrows-retweet:26",
 "bowl-chopsticks-noodles:0",
-"audio-description-slash:26"
+"audio-description-slash:26",
+"burger-glass:9",
+"amp-guitar:19",
+"transporter-5:6",
+"battery-bolt:29",
+"square-m:22",
+"square-m:9",
+"square-u:1",
+"cart-minus:23",
+"watch-fitness:8"
 ];

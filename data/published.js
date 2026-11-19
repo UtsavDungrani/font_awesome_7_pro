@@ -5894,5 +5894,14 @@ window.FA_PUBLISHED = [
 "comment-alt-smile:22",
 "peruvian-soles-sign:8",
 "ruler-vertical:20",
-"hand-spock:19"
+"hand-spock:19",
+"squirrel:26",
+"bus-stop:9",
+"jedi-order:4",
+"person-sign:7",
+"hospital-user:19",
+"k:21",
+"flag-pennant:0",
+"cart-flatbed-suitcase:3",
+"coffee-togo:2"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-squirrel,26,fa-sharp-duotone fa-thin fa-squirrel,Squirrel,Sharp Duotone Thin
-bus-stop,9,fa-duotone fa-thin fa-bus-stop,Bus Stop,Duotone Thin
-jedi-order,4,fa-brands fa-jedi-order,Jedi Order,Brands
-person-sign,7,fa-duotone fa-light fa-person-sign,Person Sign,Duotone Light
-hospital-user,19,fa-sharp fa-light fa-hospital-user,Hospital User,Sharp Light
-k,21,fa-sharp fa-solid fa-k,K,Sharp Solid
-flag-pennant,0,fa-solid fa-flag-pennant,Flag Pennant,Solid
-cart-flatbed-suitcase,3,fa-thin fa-cart-flatbed-suitcase,Cart Flatbed Suitcase,Thin
-coffee-togo,2,fa-light fa-coffee-togo,Coffee Togo,Light
 message-question,23,fa-sharp-duotone fa-light fa-message-question,Message Question,Sharp Duotone Light
 equals,15,fa-mosaic fa-solid fa-equals,Equals,Mosaic Solid
 box-tissue,26,fa-sharp-duotone fa-thin fa-box-tissue,Box Tissue,Sharp Duotone Thin

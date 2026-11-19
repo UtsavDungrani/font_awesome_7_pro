@@ -5849,5 +5849,14 @@ window.FA_PUBLISHED = [
 "money-simple-from-bracket:9",
 "user-magnifying-glass:7",
 "bag-shopping:13",
-"ship:34"
+"ship:34",
+"circle-bangladeshi-taka:2",
+"thumbtack-angle:19",
+"square-dashed-circle-plus:0",
+"drumstick-bite:21",
+"comments-dollar:6",
+"peanuts:0",
+"hands-bound:26",
+"bookmark-plus:21",
+"taco:0"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-bangladeshi-taka,2,fa-light fa-circle-bangladeshi-taka,Circle Bangladeshi Taka,Light
-thumbtack-angle,19,fa-sharp fa-light fa-thumbtack-angle,Thumbtack Angle,Sharp Light
-square-dashed-circle-plus,0,fa-solid fa-square-dashed-circle-plus,Square Dashed Circle Plus,Solid
-drumstick-bite,21,fa-sharp fa-solid fa-drumstick-bite,Drumstick Bite,Sharp Solid
-comments-dollar,6,fa-duotone fa-comments-dollar,Comments Dollar,Duotone Solid
-peanuts,0,fa-solid fa-peanuts,Peanuts,Solid
-hands-bound,26,fa-sharp-duotone fa-thin fa-hands-bound,Hands Bound,Sharp Duotone Thin
-bookmark-plus,21,fa-sharp fa-solid fa-bookmark-plus,Bookmark Plus,Sharp Solid
-taco,0,fa-solid fa-taco,Taco,Solid
 boxes,24,fa-sharp-duotone fa-regular fa-boxes,Boxes,Sharp Duotone Regular
 file-gif,20,fa-sharp fa-regular fa-file-gif,File Gif,Sharp Regular
 cloud,1,fa-regular fa-cloud,Cloud,Regular

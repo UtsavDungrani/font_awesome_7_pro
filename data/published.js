@@ -5867,5 +5867,14 @@ window.FA_PUBLISHED = [
 "universal-access:16",
 "folder-heart:19",
 "cutlery:24",
-"acorn:26"
+"acorn:26",
+"arrow-alt-from-bottom:8",
+"square-bolt:20",
+"face-grin-stars:25",
+"pencil-line:25",
+"house-circle-check:19",
+"circle-user-circle-user:6",
+"peach:24",
+"circle-h:1",
+"text:21"
 ];

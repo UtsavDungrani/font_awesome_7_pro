@@ -5840,5 +5840,14 @@ window.FA_PUBLISHED = [
 "square-m:9",
 "square-u:1",
 "cart-minus:23",
-"watch-fitness:8"
+"watch-fitness:8",
+"spell-check:25",
+"sun-cloud:9",
+"chain-broken:3",
+"basket-shopping-simple:0",
+"sun:35",
+"money-simple-from-bracket:9",
+"user-magnifying-glass:7",
+"bag-shopping:13",
+"ship:34"
 ];

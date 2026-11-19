@@ -5858,5 +5858,14 @@ window.FA_PUBLISHED = [
 "peanuts:0",
 "hands-bound:26",
 "bookmark-plus:21",
-"taco:0"
+"taco:0",
+"boxes:24",
+"file-gif:20",
+"cloud:1",
+"store-24:2",
+"u-turn-up-left:1",
+"universal-access:16",
+"folder-heart:19",
+"cutlery:24",
+"acorn:26"
 ];

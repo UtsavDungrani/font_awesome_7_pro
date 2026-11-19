@@ -5903,5 +5903,14 @@ window.FA_PUBLISHED = [
 "k:21",
 "flag-pennant:0",
 "cart-flatbed-suitcase:3",
-"coffee-togo:2"
+"coffee-togo:2",
+"message-question:23",
+"equals:15",
+"box-tissue:26",
+"circle-ellipsis-vertical:24",
+"user-group-simple:3",
+"circle-sort-down:20",
+"square-peseta:6",
+"gifts:8",
+"eye-dropper-full:7"
 ];

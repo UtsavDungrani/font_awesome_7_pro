@@ -5876,5 +5876,14 @@ window.FA_PUBLISHED = [
 "circle-user-circle-user:6",
 "peach:24",
 "circle-h:1",
-"text:21"
+"text:21",
+"eclipse-alt:24",
+"abacus:21",
+"bolt:27",
+"barcode:6",
+"train-stop:25",
+"file-midi:9",
+"stumbleupon-circle:4",
+"paperclip-vertical:0",
+"candy-cane:23"
 ];

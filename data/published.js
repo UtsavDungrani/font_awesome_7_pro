@@ -5822,5 +5822,14 @@ window.FA_PUBLISHED = [
 "magnifying-glass-plus:12",
 "book-copy:9",
 "golf-flag-hole:24",
-"mobile-alt:7"
+"mobile-alt:7",
+"user-hat-tie:0",
+"bed:6",
+"bore-hole:24",
+"forward-step:32",
+"train-track:22",
+"face-grin-squint-tears:3",
+"arrows-retweet:26",
+"bowl-chopsticks-noodles:0",
+"audio-description-slash:26"
 ];

@@ -5885,5 +5885,14 @@ window.FA_PUBLISHED = [
 "file-midi:9",
 "stumbleupon-circle:4",
 "paperclip-vertical:0",
-"candy-cane:23"
+"candy-cane:23",
+"atom:22",
+"square-rupiah:23",
+"sliders:26",
+"hands-bound:24",
+"gun:7",
+"comment-alt-smile:22",
+"peruvian-soles-sign:8",
+"ruler-vertical:20",
+"hand-spock:19"
 ];

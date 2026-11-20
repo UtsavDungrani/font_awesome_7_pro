@@ -5930,5 +5930,14 @@ window.FA_PUBLISHED = [
 "face-hand-over-mouth:7",
 "award-simple:19",
 "square-8:0",
-"disease:26"
+"disease:26",
+"wagon-covered:25",
+"scribble:8",
+"diamond-half-stroke:21",
+"square-m:25",
+"arrow-alt-up:6",
+"comment-alt-minus:2",
+"users:31",
+"h-square:24",
+"table-tennis-paddle:23"
 ];

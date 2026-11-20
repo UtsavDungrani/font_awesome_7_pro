@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chess-board,2,fa-light fa-chess-board,Chess Board,Light
-k,26,fa-sharp-duotone fa-thin fa-k,K,Sharp Duotone Thin
-cancer,22,fa-sharp fa-thin fa-cancer,Cancer,Sharp Thin
-stop,1,fa-regular fa-stop,Stop,Regular
-arrow-left-from-bracket,1,fa-regular fa-arrow-left-from-bracket,Arrow Left From Bracket,Regular
-bin-recycle,2,fa-light fa-bin-recycle,Bin Recycle,Light
-cars,0,fa-solid fa-cars,Cars,Solid
-tablet-android-alt,7,fa-duotone fa-light fa-tablet-android-alt,Tablet Android Alt,Duotone Light
-desktop,16,fa-notdog fa-solid fa-desktop,Desktop,Notdog Solid
 square,36,fa-whiteboard fa-semibold fa-square,Square,Whiteboard Semibold
 person-rifle,7,fa-duotone fa-light fa-person-rifle,Person Rifle,Duotone Light
 circle-naira,7,fa-duotone fa-light fa-circle-naira,Circle Naira,Duotone Light

@@ -5957,5 +5957,14 @@ window.FA_PUBLISHED = [
 "trash:5",
 "eclipse-alt:20",
 "chess-clock-alt:9",
-"circle-k:1"
+"circle-k:1",
+"chess-board:2",
+"k:26",
+"cancer:22",
+"stop:1",
+"arrow-left-from-bracket:1",
+"bin-recycle:2",
+"cars:0",
+"tablet-android-alt:7",
+"desktop:16"
 ];

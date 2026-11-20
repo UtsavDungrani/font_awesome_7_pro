@@ -5993,5 +5993,14 @@ window.FA_PUBLISHED = [
 "envelope-circle-check:3",
 "person-harassing:26",
 "chevron-double-right:6",
-"bus:24"
+"bus:24",
+"camera-polaroid:25",
+"spade:0",
+"square-half-horizontal:26",
+"question-square:25",
+"microphone-slash:29",
+"computer-speaker:22",
+"rv:2",
+"radio:33",
+"h-square:26"
 ];

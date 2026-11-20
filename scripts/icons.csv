@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-camera-polaroid,25,fa-sharp-duotone fa-solid fa-camera-polaroid,Camera Polaroid,Sharp Duotone Solid
-spade,0,fa-solid fa-spade,Spade,Solid
-square-half-horizontal,26,fa-sharp-duotone fa-thin fa-square-half-horizontal,Square Half Horizontal,Sharp Duotone Thin
-question-square,25,fa-sharp-duotone fa-solid fa-question-square,Question Square,Sharp Duotone Solid
-microphone-slash,29,fa-slab-press fa-regular fa-microphone-slash,Microphone Slash,Slab Press Regular
-computer-speaker,22,fa-sharp fa-thin fa-computer-speaker,Computer Speaker,Sharp Thin
-rv,2,fa-light fa-rv,Rv,Light
-radio,33,fa-utility-duo fa-semibold fa-radio,Radio,Utility Duo Semibold
-h-square,26,fa-sharp-duotone fa-thin fa-h-square,H Square,Sharp Duotone Thin
 location-plus,26,fa-sharp-duotone fa-thin fa-location-plus,Location Plus,Sharp Duotone Thin
 square-peruvian-soles,6,fa-duotone fa-square-peruvian-soles,Square Peruvian Soles,Duotone Solid
 meter-fire,23,fa-sharp-duotone fa-light fa-meter-fire,Meter Fire,Sharp Duotone Light

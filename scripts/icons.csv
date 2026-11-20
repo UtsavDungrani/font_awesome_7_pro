@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grill,1,fa-regular fa-grill,Grill,Regular
-square-mill,26,fa-sharp-duotone fa-thin fa-square-mill,Square Mill,Sharp Duotone Thin
-circle-renminbi,22,fa-sharp fa-thin fa-circle-renminbi,Circle Renminbi,Sharp Thin
-train-tram,19,fa-sharp fa-light fa-train-tram,Train Tram,Sharp Light
-circle-up-left,19,fa-sharp fa-light fa-circle-up-left,Circle Up Left,Sharp Light
-hearts,20,fa-sharp fa-regular fa-hearts,Hearts,Sharp Regular
-crow,3,fa-thin fa-crow,Crow,Thin
-square-user,26,fa-sharp-duotone fa-thin fa-square-user,Square User,Sharp Duotone Thin
-comment-exclamation,8,fa-duotone fa-regular fa-comment-exclamation,Comment Exclamation,Duotone Regular
 hand-point-left,1,fa-regular fa-hand-point-left,Hand Point Left,Regular
 hand-heart,20,fa-sharp fa-regular fa-hand-heart,Hand Heart,Sharp Regular
 square-3,21,fa-sharp fa-solid fa-square-3,Square 3,Sharp Solid

@@ -5912,5 +5912,14 @@ window.FA_PUBLISHED = [
 "circle-sort-down:20",
 "square-peseta:6",
 "gifts:8",
-"eye-dropper-full:7"
+"eye-dropper-full:7",
+"grill:1",
+"square-mill:26",
+"circle-renminbi:22",
+"train-tram:19",
+"circle-up-left:19",
+"hearts:20",
+"crow:3",
+"square-user:26",
+"comment-exclamation:8"
 ];

@@ -5921,5 +5921,14 @@ window.FA_PUBLISHED = [
 "hearts:20",
 "crow:3",
 "square-user:26",
-"comment-exclamation:8"
+"comment-exclamation:8",
+"hand-point-left:1",
+"hand-heart:20",
+"square-3:21",
+"meter-droplet:22",
+"comment-exclamation:21",
+"face-hand-over-mouth:7",
+"award-simple:19",
+"square-8:0",
+"disease:26"
 ];

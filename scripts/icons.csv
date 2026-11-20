@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-hand-point-left,1,fa-regular fa-hand-point-left,Hand Point Left,Regular
-hand-heart,20,fa-sharp fa-regular fa-hand-heart,Hand Heart,Sharp Regular
-square-3,21,fa-sharp fa-solid fa-square-3,Square 3,Sharp Solid
-meter-droplet,22,fa-sharp fa-thin fa-meter-droplet,Meter Droplet,Sharp Thin
-comment-exclamation,21,fa-sharp fa-solid fa-comment-exclamation,Comment Exclamation,Sharp Solid
-face-hand-over-mouth,7,fa-duotone fa-light fa-face-hand-over-mouth,Face Hand Over Mouth,Duotone Light
-award-simple,19,fa-sharp fa-light fa-award-simple,Award Simple,Sharp Light
-square-8,0,fa-solid fa-square-8,Square 8,Solid
-disease,26,fa-sharp-duotone fa-thin fa-disease,Disease,Sharp Duotone Thin
 wagon-covered,25,fa-sharp-duotone fa-solid fa-wagon-covered,Wagon Covered,Sharp Duotone Solid
 scribble,8,fa-duotone fa-regular fa-scribble,Scribble,Duotone Regular
 diamond-half-stroke,21,fa-sharp fa-solid fa-diamond-half-stroke,Diamond Half Stroke,Sharp Solid

@@ -5984,5 +5984,14 @@ window.FA_PUBLISHED = [
 "face-sunglasses:23",
 "crystal-ball:21",
 "image-circle-check:9",
-"turntable:26"
+"turntable:26",
+"block-quote:36",
+"cassette-vhs:19",
+"plate-wheat:19",
+"dial-high:26",
+"garage-car:19",
+"envelope-circle-check:3",
+"person-harassing:26",
+"chevron-double-right:6",
+"bus:24"
 ];

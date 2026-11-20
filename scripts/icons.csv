@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-block-quote,36,fa-whiteboard fa-semibold fa-block-quote,Block Quote,Whiteboard Semibold
-cassette-vhs,19,fa-sharp fa-light fa-cassette-vhs,Cassette Vhs,Sharp Light
-plate-wheat,19,fa-sharp fa-light fa-plate-wheat,Plate Wheat,Sharp Light
-dial-high,26,fa-sharp-duotone fa-thin fa-dial-high,Dial High,Sharp Duotone Thin
-garage-car,19,fa-sharp fa-light fa-garage-car,Garage Car,Sharp Light
-envelope-circle-check,3,fa-thin fa-envelope-circle-check,Envelope Circle Check,Thin
-person-harassing,26,fa-sharp-duotone fa-thin fa-person-harassing,Person Harassing,Sharp Duotone Thin
-chevron-double-right,6,fa-duotone fa-chevron-double-right,Chevron Double Right,Duotone Solid
-bus,24,fa-sharp-duotone fa-regular fa-bus,Bus,Sharp Duotone Regular
 camera-polaroid,25,fa-sharp-duotone fa-solid fa-camera-polaroid,Camera Polaroid,Sharp Duotone Solid
 spade,0,fa-solid fa-spade,Spade,Solid
 square-half-horizontal,26,fa-sharp-duotone fa-thin fa-square-half-horizontal,Square Half Horizontal,Sharp Duotone Thin

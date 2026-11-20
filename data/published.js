@@ -5966,5 +5966,14 @@ window.FA_PUBLISHED = [
 "bin-recycle:2",
 "cars:0",
 "tablet-android-alt:7",
-"desktop:16"
+"desktop:16",
+"square:36",
+"person-rifle:7",
+"circle-naira:7",
+"splotch:26",
+"amp-guitar:20",
+"wifi-exclamation:3",
+"circle-share-nodes:9",
+"0:21",
+"plane-landing-gear:6"
 ];

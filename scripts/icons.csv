@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square,36,fa-whiteboard fa-semibold fa-square,Square,Whiteboard Semibold
-person-rifle,7,fa-duotone fa-light fa-person-rifle,Person Rifle,Duotone Light
-circle-naira,7,fa-duotone fa-light fa-circle-naira,Circle Naira,Duotone Light
-splotch,26,fa-sharp-duotone fa-thin fa-splotch,Splotch,Sharp Duotone Thin
-amp-guitar,20,fa-sharp fa-regular fa-amp-guitar,Amp Guitar,Sharp Regular
-wifi-exclamation,3,fa-thin fa-wifi-exclamation,Wifi Exclamation,Thin
-circle-share-nodes,9,fa-duotone fa-thin fa-circle-share-nodes,Circle Share Nodes,Duotone Thin
-0,21,fa-sharp fa-solid fa-0,0,Sharp Solid
-plane-landing-gear,6,fa-duotone fa-plane-landing-gear,Plane Landing Gear,Duotone Solid
 arrow-circle-right,6,fa-duotone fa-arrow-circle-right,Arrow Circle Right,Duotone Solid
 kite,7,fa-duotone fa-light fa-kite,Kite,Duotone Light
 triangle-instrument,0,fa-solid fa-triangle-instrument,Triangle Instrument,Solid

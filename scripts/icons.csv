@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-circle-right,6,fa-duotone fa-arrow-circle-right,Arrow Circle Right,Duotone Solid
-kite,7,fa-duotone fa-light fa-kite,Kite,Duotone Light
-triangle-instrument,0,fa-solid fa-triangle-instrument,Triangle Instrument,Solid
-dryer-alt,23,fa-sharp-duotone fa-light fa-dryer-alt,Dryer Alt,Sharp Duotone Light
-octagon,21,fa-sharp fa-solid fa-octagon,Octagon,Sharp Solid
-face-sunglasses,23,fa-sharp-duotone fa-light fa-face-sunglasses,Face Sunglasses,Sharp Duotone Light
-crystal-ball,21,fa-sharp fa-solid fa-crystal-ball,Crystal Ball,Sharp Solid
-image-circle-check,9,fa-duotone fa-thin fa-image-circle-check,Image Circle Check,Duotone Thin
-turntable,26,fa-sharp-duotone fa-thin fa-turntable,Turntable,Sharp Duotone Thin
 block-quote,36,fa-whiteboard fa-semibold fa-block-quote,Block Quote,Whiteboard Semibold
 cassette-vhs,19,fa-sharp fa-light fa-cassette-vhs,Cassette Vhs,Sharp Light
 plate-wheat,19,fa-sharp fa-light fa-plate-wheat,Plate Wheat,Sharp Light

@@ -5975,5 +5975,14 @@ window.FA_PUBLISHED = [
 "wifi-exclamation:3",
 "circle-share-nodes:9",
 "0:21",
-"plane-landing-gear:6"
+"plane-landing-gear:6",
+"arrow-circle-right:6",
+"kite:7",
+"triangle-instrument:0",
+"dryer-alt:23",
+"octagon:21",
+"face-sunglasses:23",
+"crystal-ball:21",
+"image-circle-check:9",
+"turntable:26"
 ];

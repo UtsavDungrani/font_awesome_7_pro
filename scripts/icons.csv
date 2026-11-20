@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-clock-seven-thirty,9,fa-duotone fa-thin fa-clock-seven-thirty,Clock Seven Thirty,Duotone Thin
-cloud-music,8,fa-duotone fa-regular fa-cloud-music,Cloud Music,Duotone Regular
-stool,21,fa-sharp fa-solid fa-stool,Stool,Sharp Solid
-gitee,4,fa-brands fa-gitee,Gitee,Brands
-do-not-enter,23,fa-sharp-duotone fa-light fa-do-not-enter,Do Not Enter,Sharp Duotone Light
-trash,5,fa-chisel fa-regular fa-trash,Trash,Chisel Regular
-eclipse-alt,20,fa-sharp fa-regular fa-eclipse-alt,Eclipse Alt,Sharp Regular
-chess-clock-alt,9,fa-duotone fa-thin fa-chess-clock-alt,Chess Clock Alt,Duotone Thin
-circle-k,1,fa-regular fa-circle-k,Circle K,Regular
 chess-board,2,fa-light fa-chess-board,Chess Board,Light
 k,26,fa-sharp-duotone fa-thin fa-k,K,Sharp Duotone Thin
 cancer,22,fa-sharp fa-thin fa-cancer,Cancer,Sharp Thin

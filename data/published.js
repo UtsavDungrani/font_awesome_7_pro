@@ -5948,5 +5948,14 @@ window.FA_PUBLISHED = [
 "list-radio:8",
 "head-side-cough:19",
 "phone-xmark:21",
-"user-sith:20"
+"user-sith:20",
+"clock-seven-thirty:9",
+"cloud-music:8",
+"stool:21",
+"gitee:4",
+"do-not-enter:23",
+"trash:5",
+"eclipse-alt:20",
+"chess-clock-alt:9",
+"circle-k:1"
 ];

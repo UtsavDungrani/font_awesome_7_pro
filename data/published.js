@@ -5939,5 +5939,14 @@ window.FA_PUBLISHED = [
 "comment-alt-minus:2",
 "users:31",
 "h-square:24",
-"table-tennis-paddle:23"
+"table-tennis-paddle:23",
+"circle-renminbi:3",
+"flag-alt:26",
+"user-pilot-tie-hair-long:0",
+"box-isometric-tape:7",
+"images-user:22",
+"list-radio:8",
+"head-side-cough:19",
+"phone-xmark:21",
+"user-sith:20"
 ];

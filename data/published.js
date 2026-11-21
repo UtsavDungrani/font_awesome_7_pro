@@ -6110,5 +6110,14 @@ window.FA_PUBLISHED = [
 "cup-straw:2",
 "colon:8",
 "sandwich:1",
-"location-pen:0"
+"location-pen:0",
+"eye-evil:9",
+"rectangle-api:24",
+"bridge:7",
+"exclamation-triangle:28",
+"gauge-simple-min:0",
+"signal-alt-3:27",
+"plant-wilt:7",
+"comment-arrow-up:7",
+"shield-check:19"
 ];

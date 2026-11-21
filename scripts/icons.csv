@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-mug-hot,10,fa-etch fa-solid fa-mug-hot,Mug Hot,Etch Solid
-code-pull-request,6,fa-duotone fa-code-pull-request,Code Pull Request,Duotone Solid
-face-kiss-wink-heart,0,fa-solid fa-face-kiss-wink-heart,Face Kiss Wink Heart,Solid
-chart-radar,26,fa-sharp-duotone fa-thin fa-chart-radar,Chart Radar,Sharp Duotone Thin
-hands-bubbles,3,fa-thin fa-hands-bubbles,Hands Bubbles,Thin
-wifi-exclamation,9,fa-duotone fa-thin fa-wifi-exclamation,Wifi Exclamation,Duotone Thin
-arrow-left-to-arc,25,fa-sharp-duotone fa-solid fa-arrow-left-to-arc,Arrow Left To Arc,Sharp Duotone Solid
-home,34,fa-utility-fill fa-semibold fa-home,Home,Utility Fill Semibold
-calendar-times,8,fa-duotone fa-regular fa-calendar-times,Calendar Times,Duotone Regular
 home,19,fa-sharp fa-light fa-home,Home,Sharp Light
 tire-rugged,21,fa-sharp fa-solid fa-tire-rugged,Tire Rugged,Sharp Solid
 gallery-thumbnails,0,fa-solid fa-gallery-thumbnails,Gallery Thumbnails,Solid

@@ -6074,5 +6074,14 @@ window.FA_PUBLISHED = [
 "skull-crossbones:36",
 "house-leave:2",
 "steering-wheel:9",
-"jedi:7"
+"jedi:7",
+"mug-hot:10",
+"code-pull-request:6",
+"face-kiss-wink-heart:0",
+"chart-radar:26",
+"hands-bubbles:3",
+"wifi-exclamation:9",
+"arrow-left-to-arc:25",
+"home:34",
+"calendar-times:8"
 ];

@@ -6065,5 +6065,14 @@ window.FA_PUBLISHED = [
 "location-dot:33",
 "circle-notch:23",
 "paper-plane:0",
-"betamax:24"
+"betamax:24",
+"glass-water:24",
+"table-pivot:1",
+"sun-dust:21",
+"italic:25",
+"pen-alt:25",
+"skull-crossbones:36",
+"house-leave:2",
+"steering-wheel:9",
+"jedi:7"
 ];

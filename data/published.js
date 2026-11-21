@@ -6047,5 +6047,14 @@ window.FA_PUBLISHED = [
 "microchip:2",
 "code-pull-request-draft:1",
 "umbrella:6",
-"chimney:8"
+"chimney:8",
+"down-to-dotted-line:22",
+"face-surprise:25",
+"aperture:25",
+"circle-9:6",
+"lobster:2",
+"chart-pie:24",
+"home-user:6",
+"border-none:7",
+"square-bangladeshi-taka:21"
 ];

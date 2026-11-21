@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-down-to-dotted-line,22,fa-sharp fa-thin fa-down-to-dotted-line,Down To Dotted Line,Sharp Thin
-face-surprise,25,fa-sharp-duotone fa-solid fa-face-surprise,Face Surprise,Sharp Duotone Solid
-aperture,25,fa-sharp-duotone fa-solid fa-aperture,Aperture,Sharp Duotone Solid
-circle-9,6,fa-duotone fa-circle-9,Circle 9,Duotone Solid
-lobster,2,fa-light fa-lobster,Lobster,Light
-chart-pie,24,fa-sharp-duotone fa-regular fa-chart-pie,Chart Pie,Sharp Duotone Regular
-home-user,6,fa-duotone fa-home-user,Home User,Duotone Solid
-border-none,7,fa-duotone fa-light fa-border-none,Border None,Duotone Light
-square-bangladeshi-taka,21,fa-sharp fa-solid fa-square-bangladeshi-taka,Square Bangladeshi Taka,Sharp Solid
 chart-tree-map,23,fa-sharp-duotone fa-light fa-chart-tree-map,Chart Tree Map,Sharp Duotone Light
 pen-ruler,19,fa-sharp fa-light fa-pen-ruler,Pen Ruler,Sharp Light
 u-turn-up-left,8,fa-duotone fa-regular fa-u-turn-up-left,U Turn Up Left,Duotone Regular

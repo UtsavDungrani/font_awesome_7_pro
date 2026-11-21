@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-person-falling-burst,19,fa-sharp fa-light fa-person-falling-burst,Person Falling Burst,Sharp Light
-person-sign,25,fa-sharp-duotone fa-solid fa-person-sign,Person Sign,Sharp Duotone Solid
-cart-shopping,19,fa-sharp fa-light fa-cart-shopping,Cart Shopping,Sharp Light
-tents,3,fa-thin fa-tents,Tents,Thin
-bitcoin-sign,3,fa-thin fa-bitcoin-sign,Bitcoin Sign,Thin
-cup-straw,2,fa-light fa-cup-straw,Cup Straw,Light
-colon,8,fa-duotone fa-regular fa-colon,Colon,Duotone Regular
-sandwich,1,fa-regular fa-sandwich,Sandwich,Regular
-location-pen,0,fa-solid fa-location-pen,Location Pen,Solid
 eye-evil,9,fa-duotone fa-thin fa-eye-evil,Eye Evil,Duotone Thin
 rectangle-api,24,fa-sharp-duotone fa-regular fa-rectangle-api,Rectangle Api,Sharp Duotone Regular
 bridge,7,fa-duotone fa-light fa-bridge,Bridge,Duotone Light

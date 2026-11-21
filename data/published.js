@@ -6101,5 +6101,14 @@ window.FA_PUBLISHED = [
 "file-js:22",
 "circle-notch:26",
 "film-music:7",
-"pedestal:0"
+"pedestal:0",
+"person-falling-burst:19",
+"person-sign:25",
+"cart-shopping:19",
+"tents:3",
+"bitcoin-sign:3",
+"cup-straw:2",
+"colon:8",
+"sandwich:1",
+"location-pen:0"
 ];

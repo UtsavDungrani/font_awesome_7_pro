@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-skull,34,fa-utility-fill fa-semibold fa-skull,Skull,Utility Fill Semibold
-file-shield,19,fa-sharp fa-light fa-file-shield,File Shield,Sharp Light
-user-times,3,fa-thin fa-user-times,User Times,Thin
-angle-right,35,fa-vellum fa-solid fa-angle-right,Angle Right,Vellum Solid
-octagon-equals,25,fa-sharp-duotone fa-solid fa-octagon-equals,Octagon Equals,Sharp Duotone Solid
-microchip,2,fa-light fa-microchip,Microchip,Light
-code-pull-request-draft,1,fa-regular fa-code-pull-request-draft,Code Pull Request Draft,Regular
-umbrella,6,fa-duotone fa-umbrella,Umbrella,Duotone Solid
-chimney,8,fa-duotone fa-regular fa-chimney,Chimney,Duotone Regular
 down-to-dotted-line,22,fa-sharp fa-thin fa-down-to-dotted-line,Down To Dotted Line,Sharp Thin
 face-surprise,25,fa-sharp-duotone fa-solid fa-face-surprise,Face Surprise,Sharp Duotone Solid
 aperture,25,fa-sharp-duotone fa-solid fa-aperture,Aperture,Sharp Duotone Solid

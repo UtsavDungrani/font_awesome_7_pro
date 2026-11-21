@@ -6038,5 +6038,14 @@ window.FA_PUBLISHED = [
 "file-circle-question:23",
 "sausage:9",
 "shorts:9",
-"hashtag-lock:24"
+"hashtag-lock:24",
+"skull:34",
+"file-shield:19",
+"user-times:3",
+"angle-right:35",
+"octagon-equals:25",
+"microchip:2",
+"code-pull-request-draft:1",
+"umbrella:6",
+"chimney:8"
 ];

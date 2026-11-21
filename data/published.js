@@ -6011,5 +6011,14 @@ window.FA_PUBLISHED = [
 "file-html:3",
 "crosshairs:2",
 "leaf:19",
-"capsules:2"
+"capsules:2",
+"temperature-3:6",
+"basket-shopping-simple:26",
+"moon:0",
+"face-grin:30",
+"ufo-beam:3",
+"file:10",
+"code-pull-request-draft:24",
+"arrow-down-to-line:9",
+"diagnoses:8"
 ];

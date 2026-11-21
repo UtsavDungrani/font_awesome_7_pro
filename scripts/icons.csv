@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-temperature-3,6,fa-duotone fa-temperature-3,Temperature 3,Duotone Solid
-basket-shopping-simple,26,fa-sharp-duotone fa-thin fa-basket-shopping-simple,Basket Shopping Simple,Sharp Duotone Thin
-moon,0,fa-solid fa-moon,Moon,Solid
-face-grin,30,fa-slab-press-duo fa-regular fa-face-grin,Face Grin,Slab Press Duo Regular
-ufo-beam,3,fa-thin fa-ufo-beam,Ufo Beam,Thin
-file,10,fa-etch fa-solid fa-file,File,Etch Solid
-code-pull-request-draft,24,fa-sharp-duotone fa-regular fa-code-pull-request-draft,Code Pull Request Draft,Sharp Duotone Regular
-arrow-down-to-line,9,fa-duotone fa-thin fa-arrow-down-to-line,Arrow Down To Line,Duotone Thin
-diagnoses,8,fa-duotone fa-regular fa-diagnoses,Diagnoses,Duotone Regular
 mug-tea-saucer,19,fa-sharp fa-light fa-mug-tea-saucer,Mug Tea Saucer,Sharp Light
 grid-round-2-plus,25,fa-sharp-duotone fa-solid fa-grid-round-2-plus,Grid Round 2 Plus,Sharp Duotone Solid
 bell-exclamation,26,fa-sharp-duotone fa-thin fa-bell-exclamation,Bell Exclamation,Sharp Duotone Thin

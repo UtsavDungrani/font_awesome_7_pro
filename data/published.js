@@ -6029,5 +6029,14 @@ window.FA_PUBLISHED = [
 "arrow-u-turn-left-up:20",
 "circle-bangladeshi-taka:21",
 "pickaxe:3",
-"bus-alt:19"
+"bus-alt:19",
+"dice-two:20",
+"hexagon-divide:3",
+"panties:26",
+"arrow-alt-to-bottom:3",
+"road-circle-xmark:22",
+"file-circle-question:23",
+"sausage:9",
+"shorts:9",
+"hashtag-lock:24"
 ];

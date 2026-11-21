@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-tenge,24,fa-sharp-duotone fa-regular fa-square-tenge,Square Tenge,Sharp Duotone Regular
-table-columns-add-after,9,fa-duotone fa-thin fa-table-columns-add-after,Table Columns Add After,Duotone Thin
-bin-recycle,26,fa-sharp-duotone fa-thin fa-bin-recycle,Bin Recycle,Sharp Duotone Thin
-user-dashed,19,fa-sharp fa-light fa-user-dashed,User Dashed,Sharp Light
-subway-tunnel,6,fa-duotone fa-subway-tunnel,Subway Tunnel,Duotone Solid
-file-js,22,fa-sharp fa-thin fa-file-js,File Js,Sharp Thin
-circle-notch,26,fa-sharp-duotone fa-thin fa-circle-notch,Circle Notch,Sharp Duotone Thin
-film-music,7,fa-duotone fa-light fa-film-music,Film Music,Duotone Light
-pedestal,0,fa-solid fa-pedestal,Pedestal,Solid
 person-falling-burst,19,fa-sharp fa-light fa-person-falling-burst,Person Falling Burst,Sharp Light
 person-sign,25,fa-sharp-duotone fa-solid fa-person-sign,Person Sign,Sharp Duotone Solid
 cart-shopping,19,fa-sharp fa-light fa-cart-shopping,Cart Shopping,Sharp Light

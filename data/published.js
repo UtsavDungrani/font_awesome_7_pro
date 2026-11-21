@@ -6092,5 +6092,14 @@ window.FA_PUBLISHED = [
 "phone-rotary:22",
 "address-book:1",
 "fire-alt:7",
-"radar:21"
+"radar:21",
+"square-tenge:24",
+"table-columns-add-after:9",
+"bin-recycle:26",
+"user-dashed:19",
+"subway-tunnel:6",
+"file-js:22",
+"circle-notch:26",
+"film-music:7",
+"pedestal:0"
 ];

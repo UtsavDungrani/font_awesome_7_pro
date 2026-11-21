@@ -6119,5 +6119,14 @@ window.FA_PUBLISHED = [
 "signal-alt-3:27",
 "plant-wilt:7",
 "comment-arrow-up:7",
-"shield-check:19"
+"shield-check:19",
+"border-center-v:0",
+"clock-one:24",
+"clipboard-exclamation:26",
+"eye-low-vision:1",
+"dice-four:1",
+"arrow-up-long-to-line:0",
+"binary:21",
+"globe:9",
+"chemex:25"
 ];

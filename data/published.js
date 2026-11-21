@@ -6083,5 +6083,14 @@ window.FA_PUBLISHED = [
 "wifi-exclamation:9",
 "arrow-left-to-arc:25",
 "home:34",
-"calendar-times:8"
+"calendar-times:8",
+"home:19",
+"tire-rugged:21",
+"gallery-thumbnails:0",
+"laptop:17",
+"comment-alt-arrow-down:24",
+"phone-rotary:22",
+"address-book:1",
+"fire-alt:7",
+"radar:21"
 ];

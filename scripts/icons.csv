@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-location-plus,26,fa-sharp-duotone fa-thin fa-location-plus,Location Plus,Sharp Duotone Thin
-square-peruvian-soles,6,fa-duotone fa-square-peruvian-soles,Square Peruvian Soles,Duotone Solid
-meter-fire,23,fa-sharp-duotone fa-light fa-meter-fire,Meter Fire,Sharp Duotone Light
-basket-shopping,7,fa-duotone fa-light fa-basket-shopping,Basket Shopping,Duotone Light
-file-arrow-up,25,fa-sharp-duotone fa-solid fa-file-arrow-up,File Arrow Up,Sharp Duotone Solid
-file-html,3,fa-thin fa-file-html,File Html,Thin
-crosshairs,2,fa-light fa-crosshairs,Crosshairs,Light
-leaf,19,fa-sharp fa-light fa-leaf,Leaf,Sharp Light
-capsules,2,fa-light fa-capsules,Capsules,Light
 temperature-3,6,fa-duotone fa-temperature-3,Temperature 3,Duotone Solid
 basket-shopping-simple,26,fa-sharp-duotone fa-thin fa-basket-shopping-simple,Basket Shopping Simple,Sharp Duotone Thin
 moon,0,fa-solid fa-moon,Moon,Solid

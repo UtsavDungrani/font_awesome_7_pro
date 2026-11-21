@@ -6002,5 +6002,14 @@ window.FA_PUBLISHED = [
 "computer-speaker:22",
 "rv:2",
 "radio:33",
-"h-square:26"
+"h-square:26",
+"location-plus:26",
+"square-peruvian-soles:6",
+"meter-fire:23",
+"basket-shopping:7",
+"file-arrow-up:25",
+"file-html:3",
+"crosshairs:2",
+"leaf:19",
+"capsules:2"
 ];

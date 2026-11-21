@@ -6056,5 +6056,14 @@ window.FA_PUBLISHED = [
 "chart-pie:24",
 "home-user:6",
 "border-none:7",
-"square-bangladeshi-taka:21"
+"square-bangladeshi-taka:21",
+"chart-tree-map:23",
+"pen-ruler:19",
+"u-turn-up-left:8",
+"comment-middle:19",
+"grid-2-plus:2",
+"location-dot:33",
+"circle-notch:23",
+"paper-plane:0",
+"betamax:24"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-chart-tree-map,23,fa-sharp-duotone fa-light fa-chart-tree-map,Chart Tree Map,Sharp Duotone Light
-pen-ruler,19,fa-sharp fa-light fa-pen-ruler,Pen Ruler,Sharp Light
-u-turn-up-left,8,fa-duotone fa-regular fa-u-turn-up-left,U Turn Up Left,Duotone Regular
-comment-middle,19,fa-sharp fa-light fa-comment-middle,Comment Middle,Sharp Light
-grid-2-plus,2,fa-light fa-grid-2-plus,Grid 2 Plus,Light
-location-dot,33,fa-utility-duo fa-semibold fa-location-dot,Location Dot,Utility Duo Semibold
-circle-notch,23,fa-sharp-duotone fa-light fa-circle-notch,Circle Notch,Sharp Duotone Light
-paper-plane,0,fa-solid fa-paper-plane,Paper Plane,Solid
-betamax,24,fa-sharp-duotone fa-regular fa-betamax,Betamax,Sharp Duotone Regular
 glass-water,24,fa-sharp-duotone fa-regular fa-glass-water,Glass Water,Sharp Duotone Regular
 table-pivot,1,fa-regular fa-table-pivot,Table Pivot,Regular
 sun-dust,21,fa-sharp fa-solid fa-sun-dust,Sun Dust,Sharp Solid

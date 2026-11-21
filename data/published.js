@@ -6128,5 +6128,14 @@ window.FA_PUBLISHED = [
 "arrow-up-long-to-line:0",
 "binary:21",
 "globe:9",
-"chemex:25"
+"chemex:25",
+"shirt:20",
+"cloud-showers-heavy:7",
+"star:19",
+"circle-arrow-down-left:0",
+"clock-eleven-thirty:0",
+"air-conditioner:20",
+"dial-low:7",
+"face-grin-stars:6",
+"folder-arrow-down:6"
 ];

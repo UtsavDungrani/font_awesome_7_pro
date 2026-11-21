@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-shirt,20,fa-sharp fa-regular fa-shirt,Shirt,Sharp Regular
-cloud-showers-heavy,7,fa-duotone fa-light fa-cloud-showers-heavy,Cloud Showers Heavy,Duotone Light
-star,19,fa-sharp fa-light fa-star,Star,Sharp Light
-circle-arrow-down-left,0,fa-solid fa-circle-arrow-down-left,Circle Arrow Down Left,Solid
-clock-eleven-thirty,0,fa-solid fa-clock-eleven-thirty,Clock Eleven Thirty,Solid
-air-conditioner,20,fa-sharp fa-regular fa-air-conditioner,Air Conditioner,Sharp Regular
-dial-low,7,fa-duotone fa-light fa-dial-low,Dial Low,Duotone Light
-face-grin-stars,6,fa-duotone fa-face-grin-stars,Face Grin Stars,Duotone Solid
-folder-arrow-down,6,fa-duotone fa-folder-arrow-down,Folder Arrow Down,Duotone Solid
 pickleball,19,fa-sharp fa-light fa-pickleball,Pickleball,Sharp Light
 circle-colon,24,fa-sharp-duotone fa-regular fa-circle-colon,Circle Colon,Sharp Duotone Regular
 peace,21,fa-sharp fa-solid fa-peace,Peace,Sharp Solid

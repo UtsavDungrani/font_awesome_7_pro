@@ -6020,5 +6020,14 @@ window.FA_PUBLISHED = [
 "file:10",
 "code-pull-request-draft:24",
 "arrow-down-to-line:9",
-"diagnoses:8"
+"diagnoses:8",
+"mug-tea-saucer:19",
+"grid-round-2-plus:25",
+"bell-exclamation:26",
+"image-circle-check:1",
+"image-stack:23",
+"arrow-u-turn-left-up:20",
+"circle-bangladeshi-taka:21",
+"pickaxe:3",
+"bus-alt:19"
 ];

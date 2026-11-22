@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-video,15,fa-mosaic fa-solid fa-video,Video,Mosaic Solid
-user-doctor-message,8,fa-duotone fa-regular fa-user-doctor-message,User Doctor Message,Duotone Regular
-oil-well,7,fa-duotone fa-light fa-oil-well,Oil Well,Duotone Light
-circle-m,25,fa-sharp-duotone fa-solid fa-circle-m,Circle M,Sharp Duotone Solid
-arrow-circle-left,0,fa-solid fa-arrow-circle-left,Arrow Circle Left,Solid
-lambda,2,fa-light fa-lambda,Lambda,Light
-notdef,31,fa-thumbprint fa-light fa-notdef,Notdef,Thumbprint Light
-deer-rudolph,26,fa-sharp-duotone fa-thin fa-deer-rudolph,Deer Rudolph,Sharp Duotone Thin
-up-long-to-line,3,fa-thin fa-up-long-to-line,Up Long To Line,Thin
 headphones,35,fa-vellum fa-solid fa-headphones,Headphones,Vellum Solid
 excavator,3,fa-thin fa-excavator,Excavator,Thin
 paperclip,15,fa-mosaic fa-solid fa-paperclip,Paperclip,Mosaic Solid

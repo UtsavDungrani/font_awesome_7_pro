@@ -6191,5 +6191,14 @@ window.FA_PUBLISHED = [
 "washer:26",
 "bible:24",
 "border-top:24",
-"cart-circle-xmark:20"
+"cart-circle-xmark:20",
+"video:15",
+"user-doctor-message:8",
+"oil-well:7",
+"circle-m:25",
+"arrow-circle-left:0",
+"lambda:2",
+"notdef:31",
+"deer-rudolph:26",
+"up-long-to-line:3"
 ];

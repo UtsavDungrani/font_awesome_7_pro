@@ -6155,5 +6155,14 @@ window.FA_PUBLISHED = [
 "turn-left-up:8",
 "money-bill-simple:6",
 "book-bookmark:0",
-"paint-brush:24"
+"paint-brush:24",
+"image-circle-arrow-down:1",
+"wine-glass:2",
+"down-from-bracket:7",
+"boxes-packing:3",
+"arrow-alt-from-bottom:25",
+"walker:8",
+"face-monocle:6",
+"arrow-alt-right:20",
+"people-robbery:1"
 ];

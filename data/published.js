@@ -6182,5 +6182,14 @@ window.FA_PUBLISHED = [
 "child-dress:7",
 "bed-pulse:3",
 "n:20",
-"face-grin-stars:21"
+"face-grin-stars:21",
+"head-side-goggles:19",
+"swords:23",
+"arrow-down-left:23",
+"cutlery:31",
+"olive:23",
+"washer:26",
+"bible:24",
+"border-top:24",
+"cart-circle-xmark:20"
 ];

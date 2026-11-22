@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-head-side-goggles,19,fa-sharp fa-light fa-head-side-goggles,Head Side Goggles,Sharp Light
-swords,23,fa-sharp-duotone fa-light fa-swords,Swords,Sharp Duotone Light
-arrow-down-left,23,fa-sharp-duotone fa-light fa-arrow-down-left,Arrow Down Left,Sharp Duotone Light
-cutlery,31,fa-thumbprint fa-light fa-cutlery,Cutlery,Thumbprint Light
-olive,23,fa-sharp-duotone fa-light fa-olive,Olive,Sharp Duotone Light
-washer,26,fa-sharp-duotone fa-thin fa-washer,Washer,Sharp Duotone Thin
-bible,24,fa-sharp-duotone fa-regular fa-bible,Bible,Sharp Duotone Regular
-border-top,24,fa-sharp-duotone fa-regular fa-border-top,Border Top,Sharp Duotone Regular
-cart-circle-xmark,20,fa-sharp fa-regular fa-cart-circle-xmark,Cart Circle Xmark,Sharp Regular
 video,15,fa-mosaic fa-solid fa-video,Video,Mosaic Solid
 user-doctor-message,8,fa-duotone fa-regular fa-user-doctor-message,User Doctor Message,Duotone Regular
 oil-well,7,fa-duotone fa-light fa-oil-well,Oil Well,Duotone Light

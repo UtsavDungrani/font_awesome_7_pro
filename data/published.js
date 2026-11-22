@@ -6218,5 +6218,14 @@ window.FA_PUBLISHED = [
 "mars-and-venus:9",
 "garage-open:26",
 "toilets-portable:21",
-"file-slash:8"
+"file-slash:8",
+"flag:27",
+"microphone-alt-slash:3",
+"dice-d20:25",
+"paperclip-vertical:19",
+"tree-alt:1",
+"temperature-3:3",
+"stop:31",
+"bullseye-pointer:21",
+"barcode-alt:7"
 ];

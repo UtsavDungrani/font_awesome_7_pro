@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-flag,27,fa-slab fa-regular fa-flag,Flag,Slab Regular
-microphone-alt-slash,3,fa-thin fa-microphone-alt-slash,Microphone Alt Slash,Thin
-dice-d20,25,fa-sharp-duotone fa-solid fa-dice-d20,Dice D20,Sharp Duotone Solid
-paperclip-vertical,19,fa-sharp fa-light fa-paperclip-vertical,Paperclip Vertical,Sharp Light
-tree-alt,1,fa-regular fa-tree-alt,Tree Alt,Regular
-temperature-3,3,fa-thin fa-temperature-3,Temperature 3,Thin
-stop,31,fa-thumbprint fa-light fa-stop,Stop,Thumbprint Light
-bullseye-pointer,21,fa-sharp fa-solid fa-bullseye-pointer,Bullseye Pointer,Sharp Solid
-barcode-alt,7,fa-duotone fa-light fa-barcode-alt,Barcode Alt,Duotone Light
 file-video,20,fa-sharp fa-regular fa-file-video,File Video,Sharp Regular
 water-temp,1,fa-regular fa-water-temp,Water Temp,Regular
 code-pull-request-closed,23,fa-sharp-duotone fa-light fa-code-pull-request-closed,Code Pull Request Closed,Sharp Duotone Light

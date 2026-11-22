@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-sidebar,9,fa-duotone fa-thin fa-sidebar,Sidebar,Duotone Thin
-comment-minus,26,fa-sharp-duotone fa-thin fa-comment-minus,Comment Minus,Sharp Duotone Thin
-reflect-both,24,fa-sharp-duotone fa-regular fa-reflect-both,Reflect Both,Sharp Duotone Regular
-tally-4,0,fa-solid fa-tally-4,Tally 4,Solid
-mars-and-venus-burst,7,fa-duotone fa-light fa-mars-and-venus-burst,Mars And Venus Burst,Duotone Light
-mars-and-venus,9,fa-duotone fa-thin fa-mars-and-venus,Mars And Venus,Duotone Thin
-garage-open,26,fa-sharp-duotone fa-thin fa-garage-open,Garage Open,Sharp Duotone Thin
-toilets-portable,21,fa-sharp fa-solid fa-toilets-portable,Toilets Portable,Sharp Solid
-file-slash,8,fa-duotone fa-regular fa-file-slash,File Slash,Duotone Regular
 flag,27,fa-slab fa-regular fa-flag,Flag,Slab Regular
 microphone-alt-slash,3,fa-thin fa-microphone-alt-slash,Microphone Alt Slash,Thin
 dice-d20,25,fa-sharp-duotone fa-solid fa-dice-d20,Dice D20,Sharp Duotone Solid

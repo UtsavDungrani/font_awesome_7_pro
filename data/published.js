@@ -6209,5 +6209,14 @@ window.FA_PUBLISHED = [
 "house-circle-check:20",
 "subway-tunnel:24",
 "seat:9",
-"chess-king-alt:19"
+"chess-king-alt:19",
+"sidebar:9",
+"comment-minus:26",
+"reflect-both:24",
+"tally-4:0",
+"mars-and-venus-burst:7",
+"mars-and-venus:9",
+"garage-open:26",
+"toilets-portable:21",
+"file-slash:8"
 ];

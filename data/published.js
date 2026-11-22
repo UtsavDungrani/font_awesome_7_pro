@@ -6137,5 +6137,14 @@ window.FA_PUBLISHED = [
 "air-conditioner:20",
 "dial-low:7",
 "face-grin-stars:6",
-"folder-arrow-down:6"
+"folder-arrow-down:6",
+"pickleball:19",
+"circle-colon:24",
+"peace:21",
+"comment-alt-quote:7",
+"viruses:26",
+"square-shekel:8",
+"arrows-repeat:0",
+"padel:7",
+"arrows-to-eye:22"
 ];

@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-headphones,35,fa-vellum fa-solid fa-headphones,Headphones,Vellum Solid
-excavator,3,fa-thin fa-excavator,Excavator,Thin
-paperclip,15,fa-mosaic fa-solid fa-paperclip,Paperclip,Mosaic Solid
-jug,25,fa-sharp-duotone fa-solid fa-jug,Jug,Sharp Duotone Solid
-pipe,25,fa-sharp-duotone fa-solid fa-pipe,Pipe,Sharp Duotone Solid
-house-circle-check,20,fa-sharp fa-regular fa-house-circle-check,House Circle Check,Sharp Regular
-subway-tunnel,24,fa-sharp-duotone fa-regular fa-subway-tunnel,Subway Tunnel,Sharp Duotone Regular
-seat,9,fa-duotone fa-thin fa-seat,Seat,Duotone Thin
-chess-king-alt,19,fa-sharp fa-light fa-chess-king-alt,Chess King Alt,Sharp Light
 sidebar,9,fa-duotone fa-thin fa-sidebar,Sidebar,Duotone Thin
 comment-minus,26,fa-sharp-duotone fa-thin fa-comment-minus,Comment Minus,Sharp Duotone Thin
 reflect-both,24,fa-sharp-duotone fa-regular fa-reflect-both,Reflect Both,Sharp Duotone Regular

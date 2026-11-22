@@ -6200,5 +6200,14 @@ window.FA_PUBLISHED = [
 "lambda:2",
 "notdef:31",
 "deer-rudolph:26",
-"up-long-to-line:3"
+"up-long-to-line:3",
+"headphones:35",
+"excavator:3",
+"paperclip:15",
+"jug:25",
+"pipe:25",
+"house-circle-check:20",
+"subway-tunnel:24",
+"seat:9",
+"chess-king-alt:19"
 ];

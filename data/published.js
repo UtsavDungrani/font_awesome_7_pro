@@ -6146,5 +6146,14 @@ window.FA_PUBLISHED = [
 "square-shekel:8",
 "arrows-repeat:0",
 "padel:7",
-"arrows-to-eye:22"
+"arrows-to-eye:22",
+"squid:9",
+"chestnut:25",
+"caret-down:7",
+"flag:7",
+"hand-horns:6",
+"turn-left-up:8",
+"money-bill-simple:6",
+"book-bookmark:0",
+"paint-brush:24"
 ];

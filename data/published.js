@@ -6173,5 +6173,14 @@ window.FA_PUBLISHED = [
 "female:25",
 "circle-star:9",
 "cart-circle-plus:3",
-"mailbox-open-letter:26"
+"mailbox-open-letter:26",
+"birthday-cake:12",
+"circle-arrow-up-left:25",
+"cart-flatbed-boxes:8",
+"square-tugrik:3",
+"pot-food:8",
+"child-dress:7",
+"bed-pulse:3",
+"n:20",
+"face-grin-stars:21"
 ];

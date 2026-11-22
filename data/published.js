@@ -6164,5 +6164,14 @@ window.FA_PUBLISHED = [
 "walker:8",
 "face-monocle:6",
 "arrow-alt-right:20",
-"people-robbery:1"
+"people-robbery:1",
+"film-canister:7",
+"cassette-tape:24",
+"caravan-alt:1",
+"face-laugh-wink:8",
+"mobile-iphone:25",
+"female:25",
+"circle-star:9",
+"cart-circle-plus:3",
+"mailbox-open-letter:26"
 ];

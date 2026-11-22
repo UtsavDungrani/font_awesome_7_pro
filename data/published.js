@@ -6227,5 +6227,14 @@ window.FA_PUBLISHED = [
 "temperature-3:3",
 "stop:31",
 "bullseye-pointer:21",
-"barcode-alt:7"
+"barcode-alt:7",
+"file-video:20",
+"water-temp:1",
+"code-pull-request-closed:23",
+"clock-ten-thirty:0",
+"display-chart-up-circle-currency:26",
+"plane:21",
+"crown:10",
+"book-law:19",
+"coffee-bean:8"
 ];

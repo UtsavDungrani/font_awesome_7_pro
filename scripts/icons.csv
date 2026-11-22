@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-file-video,20,fa-sharp fa-regular fa-file-video,File Video,Sharp Regular
-water-temp,1,fa-regular fa-water-temp,Water Temp,Regular
-code-pull-request-closed,23,fa-sharp-duotone fa-light fa-code-pull-request-closed,Code Pull Request Closed,Sharp Duotone Light
-clock-ten-thirty,0,fa-solid fa-clock-ten-thirty,Clock Ten Thirty,Solid
-display-chart-up-circle-currency,26,fa-sharp-duotone fa-thin fa-display-chart-up-circle-currency,Display Chart Up Circle Currency,Sharp Duotone Thin
-plane,21,fa-sharp fa-solid fa-plane,Plane,Sharp Solid
-crown,10,fa-etch fa-solid fa-crown,Crown,Etch Solid
-book-law,19,fa-sharp fa-light fa-book-law,Book Law,Sharp Light
-coffee-bean,8,fa-duotone fa-regular fa-coffee-bean,Coffee Bean,Duotone Regular
 arrow-down-from-arc,6,fa-duotone fa-arrow-down-from-arc,Arrow Down From Arc,Duotone Solid
 face-beam-hand-over-mouth,8,fa-duotone fa-regular fa-face-beam-hand-over-mouth,Face Beam Hand Over Mouth,Duotone Regular
 add,26,fa-sharp-duotone fa-thin fa-add,Add,Sharp Duotone Thin

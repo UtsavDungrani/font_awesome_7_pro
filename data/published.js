@@ -6245,5 +6245,14 @@ window.FA_PUBLISHED = [
 "ribbon:9",
 "school-lock:20",
 "mobile-iphone:26",
-"arrow-up-left-from-circle:20"
+"arrow-up-left-from-circle:20",
+"level-down-alt:19",
+"compact-disc:10",
+"dice-two:6",
+"arrow-down-z-a:8",
+"file-lock:21",
+"book-arrow-right:20",
+"train-tram:6",
+"flatbread:26",
+"tents:6"
 ];

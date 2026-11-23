@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-level-down-alt,19,fa-sharp fa-light fa-level-down-alt,Level Down Alt,Sharp Light
-compact-disc,10,fa-etch fa-solid fa-compact-disc,Compact Disc,Etch Solid
-dice-two,6,fa-duotone fa-dice-two,Dice Two,Duotone Solid
-arrow-down-z-a,8,fa-duotone fa-regular fa-arrow-down-z-a,Arrow Down Z A,Duotone Regular
-file-lock,21,fa-sharp fa-solid fa-file-lock,File Lock,Sharp Solid
-book-arrow-right,20,fa-sharp fa-regular fa-book-arrow-right,Book Arrow Right,Sharp Regular
-train-tram,6,fa-duotone fa-train-tram,Train Tram,Duotone Solid
-flatbread,26,fa-sharp-duotone fa-thin fa-flatbread,Flatbread,Sharp Duotone Thin
-tents,6,fa-duotone fa-tents,Tents,Duotone Solid
 cart-shopping,13,fa-jelly-duo fa-regular fa-cart-shopping,Cart Shopping,Jelly Duo Regular
 file-odf,3,fa-thin fa-file-odf,File Odf,Thin
 theta,7,fa-duotone fa-light fa-theta,Theta,Duotone Light

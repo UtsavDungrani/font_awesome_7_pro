@@ -6236,5 +6236,14 @@ window.FA_PUBLISHED = [
 "plane:21",
 "crown:10",
 "book-law:19",
-"coffee-bean:8"
+"coffee-bean:8",
+"arrow-down-from-arc:6",
+"face-beam-hand-over-mouth:8",
+"add:26",
+"panel-ews:23",
+"sun-plant-wilt:21",
+"ribbon:9",
+"school-lock:20",
+"mobile-iphone:26",
+"arrow-up-left-from-circle:20"
 ];

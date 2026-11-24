@@ -6254,5 +6254,14 @@ window.FA_PUBLISHED = [
 "book-arrow-right:20",
 "train-tram:6",
 "flatbread:26",
-"tents:6"
+"tents:6",
+"cart-shopping:13",
+"file-odf:3",
+"theta:7",
+"bookmark-circle:25",
+"dresser:26",
+"heart-circle-exclamation:7",
+"magnifying-glass-arrows-rotate:9",
+"camera-retro:22",
+"circle-bangladeshi-taka:26"
 ];

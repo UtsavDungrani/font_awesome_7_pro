@@ -6290,5 +6290,14 @@ window.FA_PUBLISHED = [
 "square-6:23",
 "cloud-check:21",
 "weight-hanging:26",
-"rss-square:3"
+"rss-square:3",
+"box-up:6",
+"tablet-button:24",
+"image:33",
+"filter-circle-xmark:25",
+"bar-chart:20",
+"bolt-slash:9",
+"lightbulb-on:9",
+"pencil-line:3",
+"nfc-trash:9"
 ];

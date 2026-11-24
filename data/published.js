@@ -6272,5 +6272,14 @@ window.FA_PUBLISHED = [
 "broom-wide:8",
 "map:9",
 "arrows-to-dotted-line:23",
-"mask:3"
+"mask:3",
+"dial-high:24",
+"money-simple-from-bracket:8",
+"mountains:9",
+"user-doctor-hair-mullet:7",
+"wind-circle-exclamation:6",
+"eye-slash:26",
+"mushroom:19",
+"arrow-alt-left:24",
+"heart-half-alt:1"
 ];

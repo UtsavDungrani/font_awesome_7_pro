@@ -6263,5 +6263,14 @@ window.FA_PUBLISHED = [
 "heart-circle-exclamation:7",
 "magnifying-glass-arrows-rotate:9",
 "camera-retro:22",
-"circle-bangladeshi-taka:26"
+"circle-bangladeshi-taka:26",
+"toggle-on:3",
+"school-lock:8",
+"plane-departure:6",
+"square-arrow-up-left:6",
+"box-arrow-down-arrow-up:24",
+"broom-wide:8",
+"map:9",
+"arrows-to-dotted-line:23",
+"mask:3"
 ];

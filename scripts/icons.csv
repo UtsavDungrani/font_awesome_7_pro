@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-toggle-on,3,fa-thin fa-toggle-on,Toggle On,Thin
-school-lock,8,fa-duotone fa-regular fa-school-lock,School Lock,Duotone Regular
-plane-departure,6,fa-duotone fa-plane-departure,Plane Departure,Duotone Solid
-square-arrow-up-left,6,fa-duotone fa-square-arrow-up-left,Square Arrow Up Left,Duotone Solid
-box-arrow-down-arrow-up,24,fa-sharp-duotone fa-regular fa-box-arrow-down-arrow-up,Box Arrow Down Arrow Up,Sharp Duotone Regular
-broom-wide,8,fa-duotone fa-regular fa-broom-wide,Broom Wide,Duotone Regular
-map,9,fa-duotone fa-thin fa-map,Map,Duotone Thin
-arrows-to-dotted-line,23,fa-sharp-duotone fa-light fa-arrows-to-dotted-line,Arrows To Dotted Line,Sharp Duotone Light
-mask,3,fa-thin fa-mask,Mask,Thin
 dial-high,24,fa-sharp-duotone fa-regular fa-dial-high,Dial High,Sharp Duotone Regular
 money-simple-from-bracket,8,fa-duotone fa-regular fa-money-simple-from-bracket,Money Simple From Bracket,Duotone Regular
 mountains,9,fa-duotone fa-thin fa-mountains,Mountains,Duotone Thin

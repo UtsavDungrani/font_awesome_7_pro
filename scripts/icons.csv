@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-kiss,19,fa-sharp fa-light fa-face-kiss,Face Kiss,Sharp Light
-bell-exclamation,24,fa-sharp-duotone fa-regular fa-bell-exclamation,Bell Exclamation,Sharp Duotone Regular
-eye,6,fa-duotone fa-eye,Eye,Duotone Solid
-eclipse-alt,19,fa-sharp fa-light fa-eclipse-alt,Eclipse Alt,Sharp Light
-store-24,1,fa-regular fa-store-24,Store 24,Regular
-boombox,0,fa-solid fa-boombox,Boombox,Solid
-cart-arrow-up,19,fa-sharp fa-light fa-cart-arrow-up,Cart Arrow Up,Sharp Light
-credit-card,28,fa-slab-duo fa-regular fa-credit-card,Credit Card,Slab Duo Regular
-hand-back-point-ribbon,7,fa-duotone fa-light fa-hand-back-point-ribbon,Hand Back Point Ribbon,Duotone Light
 map,32,fa-utility fa-semibold fa-map,Map,Utility Semibold
 landmark,19,fa-sharp fa-light fa-landmark,Landmark,Sharp Light
 circle-plus,13,fa-jelly-duo fa-regular fa-circle-plus,Circle Plus,Jelly Duo Regular

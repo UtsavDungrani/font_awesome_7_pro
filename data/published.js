@@ -6308,5 +6308,14 @@ window.FA_PUBLISHED = [
 "bar-progress-quarter:7",
 "bowl-chopsticks-noodles:20",
 "banjo:19",
-"square-rupiah:0"
+"square-rupiah:0",
+"face-kiss:19",
+"bell-exclamation:24",
+"eye:6",
+"eclipse-alt:19",
+"store-24:1",
+"boombox:0",
+"cart-arrow-up:19",
+"credit-card:28",
+"hand-back-point-ribbon:7"
 ];

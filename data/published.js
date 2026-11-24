@@ -6281,5 +6281,14 @@ window.FA_PUBLISHED = [
 "eye-slash:26",
 "mushroom:19",
 "arrow-alt-left:24",
-"heart-half-alt:1"
+"heart-half-alt:1",
+"non-binary:20",
+"book-open-lines:7",
+"flux-capacitor:26",
+"octagon-exclamation:0",
+"cloud-word:0",
+"square-6:23",
+"cloud-check:21",
+"weight-hanging:26",
+"rss-square:3"
 ];

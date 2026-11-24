@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-non-binary,20,fa-sharp fa-regular fa-non-binary,Non Binary,Sharp Regular
-book-open-lines,7,fa-duotone fa-light fa-book-open-lines,Book Open Lines,Duotone Light
-flux-capacitor,26,fa-sharp-duotone fa-thin fa-flux-capacitor,Flux Capacitor,Sharp Duotone Thin
-octagon-exclamation,0,fa-solid fa-octagon-exclamation,Octagon Exclamation,Solid
-cloud-word,0,fa-solid fa-cloud-word,Cloud Word,Solid
-square-6,23,fa-sharp-duotone fa-light fa-square-6,Square 6,Sharp Duotone Light
-cloud-check,21,fa-sharp fa-solid fa-cloud-check,Cloud Check,Sharp Solid
-weight-hanging,26,fa-sharp-duotone fa-thin fa-weight-hanging,Weight Hanging,Sharp Duotone Thin
-rss-square,3,fa-thin fa-rss-square,Rss Square,Thin
 box-up,6,fa-duotone fa-box-up,Box Up,Duotone Solid
 tablet-button,24,fa-sharp-duotone fa-regular fa-tablet-button,Tablet Button,Sharp Duotone Regular
 image,33,fa-utility-duo fa-semibold fa-image,Image,Utility Duo Semibold

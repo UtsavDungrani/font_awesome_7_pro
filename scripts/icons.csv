@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-badge-percent,8,fa-duotone fa-regular fa-badge-percent,Badge Percent,Duotone Regular
-table-cells-unlock,6,fa-duotone fa-table-cells-unlock,Table Cells Unlock,Duotone Solid
-megaphone,2,fa-light fa-megaphone,Megaphone,Light
-tesla,4,fa-brands fa-tesla,Tesla,Brands
-badge-dollar,6,fa-duotone fa-badge-dollar,Badge Dollar,Duotone Solid
-square,0,fa-solid fa-square,Square,Solid
-restroom-simple,25,fa-sharp-duotone fa-solid fa-restroom-simple,Restroom Simple,Sharp Duotone Solid
-wine-glass-alt,22,fa-sharp fa-thin fa-wine-glass-alt,Wine Glass Alt,Sharp Thin
-box-full,2,fa-light fa-box-full,Box Full,Light
 arrow-down-from-bracket,23,fa-sharp-duotone fa-light fa-arrow-down-from-bracket,Arrow Down From Bracket,Sharp Duotone Light
 circle-user-circle-question,6,fa-duotone fa-circle-user-circle-question,Circle User Circle Question,Duotone Solid
 sliders-v-square,21,fa-sharp fa-solid fa-sliders-v-square,Sliders V Square,Sharp Solid

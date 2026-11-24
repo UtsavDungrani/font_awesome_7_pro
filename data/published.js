@@ -6326,5 +6326,14 @@ window.FA_PUBLISHED = [
 "cloud-hail:0",
 "angle-right:17",
 "staff:23",
-"pen-alt-slash:9"
+"pen-alt-slash:9",
+"badge-percent:8",
+"table-cells-unlock:6",
+"megaphone:2",
+"tesla:4",
+"badge-dollar:6",
+"square:0",
+"restroom-simple:25",
+"wine-glass-alt:22",
+"box-full:2"
 ];

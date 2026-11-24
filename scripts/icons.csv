@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-map,32,fa-utility fa-semibold fa-map,Map,Utility Semibold
-landmark,19,fa-sharp fa-light fa-landmark,Landmark,Sharp Light
-circle-plus,13,fa-jelly-duo fa-regular fa-circle-plus,Circle Plus,Jelly Duo Regular
-clipboard-list-check,20,fa-sharp fa-regular fa-clipboard-list-check,Clipboard List Check,Sharp Regular
-cookie-bite,0,fa-solid fa-cookie-bite,Cookie Bite,Solid
-cloud-hail,0,fa-solid fa-cloud-hail,Cloud Hail,Solid
-angle-right,17,fa-notdog-duo fa-solid fa-angle-right,Angle Right,Notdog Duo Solid
-staff,23,fa-sharp-duotone fa-light fa-staff,Staff,Sharp Duotone Light
-pen-alt-slash,9,fa-duotone fa-thin fa-pen-alt-slash,Pen Alt Slash,Duotone Thin
 badge-percent,8,fa-duotone fa-regular fa-badge-percent,Badge Percent,Duotone Regular
 table-cells-unlock,6,fa-duotone fa-table-cells-unlock,Table Cells Unlock,Duotone Solid
 megaphone,2,fa-light fa-megaphone,Megaphone,Light

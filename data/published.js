@@ -6317,5 +6317,14 @@ window.FA_PUBLISHED = [
 "boombox:0",
 "cart-arrow-up:19",
 "credit-card:28",
-"hand-back-point-ribbon:7"
+"hand-back-point-ribbon:7",
+"map:32",
+"landmark:19",
+"circle-plus:13",
+"clipboard-list-check:20",
+"cookie-bite:0",
+"cloud-hail:0",
+"angle-right:17",
+"staff:23",
+"pen-alt-slash:9"
 ];

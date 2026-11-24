@@ -6299,5 +6299,14 @@ window.FA_PUBLISHED = [
 "bolt-slash:9",
 "lightbulb-on:9",
 "pencil-line:3",
-"nfc-trash:9"
+"nfc-trash:9",
+"headset:7",
+"user-question:24",
+"egg-fried:25",
+"briefcase-clock:3",
+"dashboard:23",
+"bar-progress-quarter:7",
+"bowl-chopsticks-noodles:20",
+"banjo:19",
+"square-rupiah:0"
 ];

@@ -6380,5 +6380,14 @@ window.FA_PUBLISHED = [
 "dice-d4:1",
 "car-circle-bolt:3",
 "chart-simple:35",
-"arrow-up-from-arc:23"
+"arrow-up-from-arc:23",
+"heart:24",
+"peach:6",
+"magnifying-glass:25",
+"automobile:22",
+"box-arrow-down-magnifying-glass:6",
+"dryer:0",
+"arrows-maximize:24",
+"sickle:24",
+"gauge-max:3"
 ];

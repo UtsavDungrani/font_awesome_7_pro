@@ -6398,5 +6398,14 @@ window.FA_PUBLISHED = [
 "code-commit:1",
 "circle-radiation:20",
 "rotate-exclamation:22",
-"t:9"
+"t:9",
+"eject:19",
+"pencil:8",
+"text:7",
+"face-grin:23",
+"hamsa:1",
+"text:9",
+"radiation:0",
+"face-shaking:2",
+"stairs:6"
 ];

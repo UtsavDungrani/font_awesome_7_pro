@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-eject,19,fa-sharp fa-light fa-eject,Eject,Sharp Light
-pencil,8,fa-duotone fa-regular fa-pencil,Pencil,Duotone Regular
-text,7,fa-duotone fa-light fa-text,Text,Duotone Light
-face-grin,23,fa-sharp-duotone fa-light fa-face-grin,Face Grin,Sharp Duotone Light
-hamsa,1,fa-regular fa-hamsa,Hamsa,Regular
-text,9,fa-duotone fa-thin fa-text,Text,Duotone Thin
-radiation,0,fa-solid fa-radiation,Radiation,Solid
-face-shaking,2,fa-light fa-face-shaking,Face Shaking,Light
-stairs,6,fa-duotone fa-stairs,Stairs,Duotone Solid
 face-grin-beam-sweat,7,fa-duotone fa-light fa-face-grin-beam-sweat,Face Grin Beam Sweat,Duotone Light
 pompebled,23,fa-sharp-duotone fa-light fa-pompebled,Pompebled,Sharp Duotone Light
 arrows-alt-v,23,fa-sharp-duotone fa-light fa-arrows-alt-v,Arrows Alt V,Sharp Duotone Light

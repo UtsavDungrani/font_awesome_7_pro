@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-grid-horizontal,21,fa-sharp fa-solid fa-grid-horizontal,Grid Horizontal,Sharp Solid
-cart-circle-exclamation,22,fa-sharp fa-thin fa-cart-circle-exclamation,Cart Circle Exclamation,Sharp Thin
-blanket-fire,20,fa-sharp fa-regular fa-blanket-fire,Blanket Fire,Sharp Regular
-rectangle-4k,25,fa-sharp-duotone fa-solid fa-rectangle-4k,Rectangle 4K,Sharp Duotone Solid
-file-xls,7,fa-duotone fa-light fa-file-xls,File Xls,Duotone Light
-code-commit,1,fa-regular fa-code-commit,Code Commit,Regular
-circle-radiation,20,fa-sharp fa-regular fa-circle-radiation,Circle Radiation,Sharp Regular
-rotate-exclamation,22,fa-sharp fa-thin fa-rotate-exclamation,Rotate Exclamation,Sharp Thin
-t,9,fa-duotone fa-thin fa-t,T,Duotone Thin
 eject,19,fa-sharp fa-light fa-eject,Eject,Sharp Light
 pencil,8,fa-duotone fa-regular fa-pencil,Pencil,Duotone Regular
 text,7,fa-duotone fa-light fa-text,Text,Duotone Light

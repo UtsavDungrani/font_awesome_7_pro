@@ -6389,5 +6389,14 @@ window.FA_PUBLISHED = [
 "dryer:0",
 "arrows-maximize:24",
 "sickle:24",
-"gauge-max:3"
+"gauge-max:3",
+"grid-horizontal:21",
+"cart-circle-exclamation:22",
+"blanket-fire:20",
+"rectangle-4k:25",
+"file-xls:7",
+"code-commit:1",
+"circle-radiation:20",
+"rotate-exclamation:22",
+"t:9"
 ];

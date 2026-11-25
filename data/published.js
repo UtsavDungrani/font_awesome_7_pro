@@ -6416,5 +6416,14 @@ window.FA_PUBLISHED = [
 "thumb-tack-slash:7",
 "bookmark-slash:24",
 "paperclip:29",
-"squirrel:22"
+"squirrel:22",
+"pen-alt-slash:21",
+"car-tilt:24",
+"chart-scatter-3d:0",
+"splotch:23",
+"face-kiss-wink-heart:21",
+"pen-circle:7",
+"check-square:21",
+"circle-heart:21",
+"fish-fins:2"
 ];

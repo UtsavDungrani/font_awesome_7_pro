@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-a,20,fa-sharp fa-regular fa-square-a,Square A,Sharp Regular
-comment-alt-text,26,fa-sharp-duotone fa-thin fa-comment-alt-text,Comment Alt Text,Sharp Duotone Thin
-cloud-sun-rain,6,fa-duotone fa-cloud-sun-rain,Cloud Sun Rain,Duotone Solid
-party-bell,0,fa-solid fa-party-bell,Party Bell,Solid
-ladder-water,19,fa-sharp fa-light fa-ladder-water,Ladder Water,Sharp Light
-dice-d4,1,fa-regular fa-dice-d4,Dice D4,Regular
-car-circle-bolt,3,fa-thin fa-car-circle-bolt,Car Circle Bolt,Thin
-chart-simple,35,fa-vellum fa-solid fa-chart-simple,Chart Simple,Vellum Solid
-arrow-up-from-arc,23,fa-sharp-duotone fa-light fa-arrow-up-from-arc,Arrow Up From Arc,Sharp Duotone Light
 heart,24,fa-sharp-duotone fa-regular fa-heart,Heart,Sharp Duotone Regular
 peach,6,fa-duotone fa-peach,Peach,Duotone Solid
 magnifying-glass,25,fa-sharp-duotone fa-solid fa-magnifying-glass,Magnifying Glass,Sharp Duotone Solid

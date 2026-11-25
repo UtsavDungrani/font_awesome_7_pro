@@ -6371,5 +6371,14 @@ window.FA_PUBLISHED = [
 "cut:0",
 "square-m:0",
 "long-arrow-alt-up:1",
-"trowel:19"
+"trowel:19",
+"square-a:20",
+"comment-alt-text:26",
+"cloud-sun-rain:6",
+"party-bell:0",
+"ladder-water:19",
+"dice-d4:1",
+"car-circle-bolt:3",
+"chart-simple:35",
+"arrow-up-from-arc:23"
 ];

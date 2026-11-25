@@ -6434,5 +6434,14 @@ window.FA_PUBLISHED = [
 "turntable:25",
 "trash-slash:2",
 "exclamation-square:7",
-"user-music:3"
+"user-music:3",
+"car-tunnel:26",
+"transporter-7:0",
+"rocket-launch:21",
+"taco:23",
+"shorts:24",
+"bin:2",
+"circle-dollar-to-slot:24",
+"egg-fried:2",
+"send-backward:24"
 ];

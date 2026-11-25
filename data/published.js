@@ -6362,5 +6362,14 @@ window.FA_PUBLISHED = [
 "chart-simple:34",
 "tent-circus:8",
 "person-dolly:20",
-"square-mill:20"
+"square-mill:20",
+"peach:19",
+"chart-pyramid:20",
+"bacon:1",
+"face-eyes-xmarks:26",
+"signal-alt-3:24",
+"cut:0",
+"square-m:0",
+"long-arrow-alt-up:1",
+"trowel:19"
 ];

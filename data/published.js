@@ -6407,5 +6407,14 @@ window.FA_PUBLISHED = [
 "text:9",
 "radiation:0",
 "face-shaking:2",
-"stairs:6"
+"stairs:6",
+"face-grin-beam-sweat:7",
+"pompebled:23",
+"arrows-alt-v:23",
+"arrow-circle-right:36",
+"face-grin-beam:2",
+"thumb-tack-slash:7",
+"bookmark-slash:24",
+"paperclip:29",
+"squirrel:22"
 ];

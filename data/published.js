@@ -6335,5 +6335,14 @@ window.FA_PUBLISHED = [
 "square:0",
 "restroom-simple:25",
 "wine-glass-alt:22",
-"box-full:2"
+"box-full:2",
+"arrow-down-from-bracket:23",
+"circle-user-circle-question:6",
+"sliders-v-square:21",
+"wheat-awn-circle-exclamation:24",
+"hands-holding:8",
+"inventory:20",
+"sword-laser-alt:2",
+"camera-rotate:24",
+"folder-cog:25"
 ];

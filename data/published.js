@@ -6425,5 +6425,14 @@ window.FA_PUBLISHED = [
 "pen-circle:7",
 "check-square:21",
 "circle-heart:21",
-"fish-fins:2"
+"fish-fins:2",
+"circle-litecoin:0",
+"bug:27",
+"transporter-1:20",
+"square-7:0",
+"notdef:3",
+"turntable:25",
+"trash-slash:2",
+"exclamation-square:7",
+"user-music:3"
 ];

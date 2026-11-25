@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-circle-litecoin,0,fa-solid fa-circle-litecoin,Circle Litecoin,Solid
-bug,27,fa-slab fa-regular fa-bug,Bug,Slab Regular
-transporter-1,20,fa-sharp fa-regular fa-transporter-1,Transporter 1,Sharp Regular
-square-7,0,fa-solid fa-square-7,Square 7,Solid
-notdef,3,fa-thin fa-notdef,Notdef,Thin
-turntable,25,fa-sharp-duotone fa-solid fa-turntable,Turntable,Sharp Duotone Solid
-trash-slash,2,fa-light fa-trash-slash,Trash Slash,Light
-exclamation-square,7,fa-duotone fa-light fa-exclamation-square,Exclamation Square,Duotone Light
-user-music,3,fa-thin fa-user-music,User Music,Thin
 car-tunnel,26,fa-sharp-duotone fa-thin fa-car-tunnel,Car Tunnel,Sharp Duotone Thin
 transporter-7,0,fa-solid fa-transporter-7,Transporter 7,Solid
 rocket-launch,21,fa-sharp fa-solid fa-rocket-launch,Rocket Launch,Sharp Solid

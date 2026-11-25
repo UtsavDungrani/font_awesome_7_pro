@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-wave-sine,6,fa-duotone fa-wave-sine,Wave Sine,Duotone Solid
-user-edit,25,fa-sharp-duotone fa-solid fa-user-edit,User Edit,Sharp Duotone Solid
-masks-theater,9,fa-duotone fa-thin fa-masks-theater,Masks Theater,Duotone Thin
-skull,32,fa-utility fa-semibold fa-skull,Skull,Utility Semibold
-h,21,fa-sharp fa-solid fa-h,H,Sharp Solid
-temperature-0,23,fa-sharp-duotone fa-light fa-temperature-0,Temperature 0,Sharp Duotone Light
-language,25,fa-sharp-duotone fa-solid fa-language,Language,Sharp Duotone Solid
-tree-christmas,6,fa-duotone fa-tree-christmas,Tree Christmas,Duotone Solid
-train-tram,3,fa-thin fa-train-tram,Train Tram,Thin
 square-f,21,fa-sharp fa-solid fa-square-f,Square F,Sharp Solid
 circle-user-circle-minus,19,fa-sharp fa-light fa-circle-user-circle-minus,Circle User Circle Minus,Sharp Light
 school-circle-exclamation,3,fa-thin fa-school-circle-exclamation,School Circle Exclamation,Thin

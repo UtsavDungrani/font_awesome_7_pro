@@ -6344,5 +6344,14 @@ window.FA_PUBLISHED = [
 "inventory:20",
 "sword-laser-alt:2",
 "camera-rotate:24",
-"folder-cog:25"
+"folder-cog:25",
+"wave-sine:6",
+"user-edit:25",
+"masks-theater:9",
+"skull:32",
+"h:21",
+"temperature-0:23",
+"language:25",
+"tree-christmas:6",
+"train-tram:3"
 ];

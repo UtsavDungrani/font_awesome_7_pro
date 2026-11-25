@@ -6353,5 +6353,14 @@ window.FA_PUBLISHED = [
 "temperature-0:23",
 "language:25",
 "tree-christmas:6",
-"train-tram:3"
+"train-tram:3",
+"square-f:21",
+"circle-user-circle-minus:19",
+"school-circle-exclamation:3",
+"user-unlock:21",
+"calendar-day:3",
+"chart-simple:34",
+"tent-circus:8",
+"person-dolly:20",
+"square-mill:20"
 ];

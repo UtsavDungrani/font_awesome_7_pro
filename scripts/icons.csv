@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-square-f,21,fa-sharp fa-solid fa-square-f,Square F,Sharp Solid
-circle-user-circle-minus,19,fa-sharp fa-light fa-circle-user-circle-minus,Circle User Circle Minus,Sharp Light
-school-circle-exclamation,3,fa-thin fa-school-circle-exclamation,School Circle Exclamation,Thin
-user-unlock,21,fa-sharp fa-solid fa-user-unlock,User Unlock,Sharp Solid
-calendar-day,3,fa-thin fa-calendar-day,Calendar Day,Thin
-chart-simple,34,fa-utility-fill fa-semibold fa-chart-simple,Chart Simple,Utility Fill Semibold
-tent-circus,8,fa-duotone fa-regular fa-tent-circus,Tent Circus,Duotone Regular
-person-dolly,20,fa-sharp fa-regular fa-person-dolly,Person Dolly,Sharp Regular
-square-mill,20,fa-sharp fa-regular fa-square-mill,Square Mill,Sharp Regular
 peach,19,fa-sharp fa-light fa-peach,Peach,Sharp Light
 chart-pyramid,20,fa-sharp fa-regular fa-chart-pyramid,Chart Pyramid,Sharp Regular
 bacon,1,fa-regular fa-bacon,Bacon,Regular

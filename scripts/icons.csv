@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-face-meh-blank,24,fa-sharp-duotone fa-regular fa-face-meh-blank,Face Meh Blank,Sharp Duotone Regular
-circle-bitcoin,25,fa-sharp-duotone fa-solid fa-circle-bitcoin,Circle Bitcoin,Sharp Duotone Solid
-calendar-day,21,fa-sharp fa-solid fa-calendar-day,Calendar Day,Sharp Solid
-user-visor,2,fa-light fa-user-visor,User Visor,Light
-fire-flame,21,fa-sharp fa-solid fa-fire-flame,Fire Flame,Sharp Solid
-flask-potion,8,fa-duotone fa-regular fa-flask-potion,Flask Potion,Duotone Regular
-arrow-up-to-bracket,26,fa-sharp-duotone fa-thin fa-arrow-up-to-bracket,Arrow Up To Bracket,Sharp Duotone Thin
-shovel-snow,2,fa-light fa-shovel-snow,Shovel Snow,Light
-backward-step,3,fa-thin fa-backward-step,Backward Step,Thin
 cart-shopping,15,fa-mosaic fa-solid fa-cart-shopping,Cart Shopping,Mosaic Solid
 less-than-equal,3,fa-thin fa-less-than-equal,Less Than Equal,Thin
 cowbell,8,fa-duotone fa-regular fa-cowbell,Cowbell,Duotone Regular

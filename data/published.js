@@ -6461,5 +6461,14 @@ window.FA_PUBLISHED = [
 "folder-user:3",
 "starship:24",
 "coffee-bean:24",
-"arrow-up-short-wide:22"
+"arrow-up-short-wide:22",
+"face-meh-blank:24",
+"circle-bitcoin:25",
+"calendar-day:21",
+"user-visor:2",
+"fire-flame:21",
+"flask-potion:8",
+"arrow-up-to-bracket:26",
+"shovel-snow:2",
+"backward-step:3"
 ];

@@ -6488,5 +6488,14 @@ window.FA_PUBLISHED = [
 "square-indian-rupee:21",
 "check-circle:7",
 "cutlery:3",
-"arrow-up-long:24"
+"arrow-up-long:24",
+"key:22",
+"user-doctor-hair:9",
+"desktop-slash:8",
+"signature:8",
+"single-quote-right:25",
+"siren-on:23",
+"clipboard-question:3",
+"cable-car:0",
+"video-plus:19"
 ];

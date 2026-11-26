@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-key,22,fa-sharp fa-thin fa-key,Key,Sharp Thin
-user-doctor-hair,9,fa-duotone fa-thin fa-user-doctor-hair,User Doctor Hair,Duotone Thin
-desktop-slash,8,fa-duotone fa-regular fa-desktop-slash,Desktop Slash,Duotone Regular
-signature,8,fa-duotone fa-regular fa-signature,Signature,Duotone Regular
-single-quote-right,25,fa-sharp-duotone fa-solid fa-single-quote-right,Single Quote Right,Sharp Duotone Solid
-siren-on,23,fa-sharp-duotone fa-light fa-siren-on,Siren On,Sharp Duotone Light
-clipboard-question,3,fa-thin fa-clipboard-question,Clipboard Question,Thin
-cable-car,0,fa-solid fa-cable-car,Cable Car,Solid
-video-plus,19,fa-sharp fa-light fa-video-plus,Video Plus,Sharp Light
 square-quote,23,fa-sharp-duotone fa-light fa-square-quote,Square Quote,Sharp Duotone Light
 bench-tree,24,fa-sharp-duotone fa-regular fa-bench-tree,Bench Tree,Sharp Duotone Regular
 thumbtack-angle-slash,7,fa-duotone fa-light fa-thumbtack-angle-slash,Thumbtack Angle Slash,Duotone Light

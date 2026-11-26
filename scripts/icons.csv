@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-phone,20,fa-sharp fa-regular fa-phone,Phone,Sharp Regular
-table-slash,22,fa-sharp fa-thin fa-table-slash,Table Slash,Sharp Thin
-grip-lines,22,fa-sharp fa-thin fa-grip-lines,Grip Lines,Sharp Thin
-bagel,2,fa-light fa-bagel,Bagel,Light
-gamepad,3,fa-thin fa-gamepad,Gamepad,Thin
-square-indian-rupee,21,fa-sharp fa-solid fa-square-indian-rupee,Square Indian Rupee,Sharp Solid
-check-circle,7,fa-duotone fa-light fa-check-circle,Check Circle,Duotone Light
-cutlery,3,fa-thin fa-cutlery,Cutlery,Thin
-arrow-up-long,24,fa-sharp-duotone fa-regular fa-arrow-up-long,Arrow Up Long,Sharp Duotone Regular
 key,22,fa-sharp fa-thin fa-key,Key,Sharp Thin
 user-doctor-hair,9,fa-duotone fa-thin fa-user-doctor-hair,User Doctor Hair,Duotone Thin
 desktop-slash,8,fa-duotone fa-regular fa-desktop-slash,Desktop Slash,Duotone Regular

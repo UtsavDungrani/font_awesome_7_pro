@@ -6479,5 +6479,14 @@ window.FA_PUBLISHED = [
 "rupiah-sign:19",
 "signal-alt-3:12",
 "scalpel-line-dashed:6",
-"popsicle:20"
+"popsicle:20",
+"phone:20",
+"table-slash:22",
+"grip-lines:22",
+"bagel:2",
+"gamepad:3",
+"square-indian-rupee:21",
+"check-circle:7",
+"cutlery:3",
+"arrow-up-long:24"
 ];

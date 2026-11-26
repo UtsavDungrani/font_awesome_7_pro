@@ -6470,5 +6470,14 @@ window.FA_PUBLISHED = [
 "flask-potion:8",
 "arrow-up-to-bracket:26",
 "shovel-snow:2",
-"backward-step:3"
+"backward-step:3",
+"cart-shopping:15",
+"less-than-equal:3",
+"cowbell:8",
+"bridge-circle-xmark:20",
+"trophy:7",
+"rupiah-sign:19",
+"signal-alt-3:12",
+"scalpel-line-dashed:6",
+"popsicle:20"
 ];

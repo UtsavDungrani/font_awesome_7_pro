@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-cart-shopping,15,fa-mosaic fa-solid fa-cart-shopping,Cart Shopping,Mosaic Solid
-less-than-equal,3,fa-thin fa-less-than-equal,Less Than Equal,Thin
-cowbell,8,fa-duotone fa-regular fa-cowbell,Cowbell,Duotone Regular
-bridge-circle-xmark,20,fa-sharp fa-regular fa-bridge-circle-xmark,Bridge Circle Xmark,Sharp Regular
-trophy,7,fa-duotone fa-light fa-trophy,Trophy,Duotone Light
-rupiah-sign,19,fa-sharp fa-light fa-rupiah-sign,Rupiah Sign,Sharp Light
-signal-alt-3,12,fa-jelly fa-regular fa-signal-alt-3,Signal Alt 3,Jelly Regular
-scalpel-line-dashed,6,fa-duotone fa-scalpel-line-dashed,Scalpel Line Dashed,Duotone Solid
-popsicle,20,fa-sharp fa-regular fa-popsicle,Popsicle,Sharp Regular
 phone,20,fa-sharp fa-regular fa-phone,Phone,Sharp Regular
 table-slash,22,fa-sharp fa-thin fa-table-slash,Table Slash,Sharp Thin
 grip-lines,22,fa-sharp fa-thin fa-grip-lines,Grip Lines,Sharp Thin

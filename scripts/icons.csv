@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-briefcase-clock,19,fa-sharp fa-light fa-briefcase-clock,Briefcase Clock,Sharp Light
-jeans-straight,23,fa-sharp-duotone fa-light fa-jeans-straight,Jeans Straight,Sharp Duotone Light
-square-9,2,fa-light fa-square-9,Square 9,Light
-drivers-license,20,fa-sharp fa-regular fa-drivers-license,Drivers License,Sharp Regular
-pump-impeller,1,fa-regular fa-pump-impeller,Pump Impeller,Regular
-circle-t,3,fa-thin fa-circle-t,Circle T,Thin
-down-from-dotted-line,1,fa-regular fa-down-from-dotted-line,Down From Dotted Line,Regular
-plane-arrival,9,fa-duotone fa-thin fa-plane-arrival,Plane Arrival,Duotone Thin
-train-tram,23,fa-sharp-duotone fa-light fa-train-tram,Train Tram,Sharp Duotone Light
 bow-arrow,1,fa-regular fa-bow-arrow,Bow Arrow,Regular
 umbrella,33,fa-utility-duo fa-semibold fa-umbrella,Umbrella,Utility Duo Semibold
 moped,3,fa-thin fa-moped,Moped,Thin

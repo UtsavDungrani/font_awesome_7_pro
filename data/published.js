@@ -6506,5 +6506,14 @@ window.FA_PUBLISHED = [
 "clipboard-list:24",
 "table-cells-large:7",
 "bars-sort:3",
-"anchor:5"
+"anchor:5",
+"briefcase-clock:19",
+"jeans-straight:23",
+"square-9:2",
+"drivers-license:20",
+"pump-impeller:1",
+"circle-t:3",
+"down-from-dotted-line:1",
+"plane-arrival:9",
+"train-tram:23"
 ];

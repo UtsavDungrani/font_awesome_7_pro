@@ -6452,5 +6452,14 @@ window.FA_PUBLISHED = [
 "guitars:2",
 "globe-stand:2",
 "earth-africa:3",
-"h4:8"
+"h4:8",
+"arrow-right-to-line:0",
+"tarp-droplet:7",
+"percent:7",
+"anchor-lock:25",
+"comment-check:7",
+"folder-user:3",
+"starship:24",
+"coffee-bean:24",
+"arrow-up-short-wide:22"
 ];

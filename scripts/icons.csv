@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-arrow-right-to-line,0,fa-solid fa-arrow-right-to-line,Arrow Right To Line,Solid
-tarp-droplet,7,fa-duotone fa-light fa-tarp-droplet,Tarp Droplet,Duotone Light
-percent,7,fa-duotone fa-light fa-percent,Percent,Duotone Light
-anchor-lock,25,fa-sharp-duotone fa-solid fa-anchor-lock,Anchor Lock,Sharp Duotone Solid
-comment-check,7,fa-duotone fa-light fa-comment-check,Comment Check,Duotone Light
-folder-user,3,fa-thin fa-folder-user,Folder User,Thin
-starship,24,fa-sharp-duotone fa-regular fa-starship,Starship,Sharp Duotone Regular
-coffee-bean,24,fa-sharp-duotone fa-regular fa-coffee-bean,Coffee Bean,Sharp Duotone Regular
-arrow-up-short-wide,22,fa-sharp fa-thin fa-arrow-up-short-wide,Arrow Up Short Wide,Sharp Thin
 face-meh-blank,24,fa-sharp-duotone fa-regular fa-face-meh-blank,Face Meh Blank,Sharp Duotone Regular
 circle-bitcoin,25,fa-sharp-duotone fa-solid fa-circle-bitcoin,Circle Bitcoin,Sharp Duotone Solid
 calendar-day,21,fa-sharp fa-solid fa-calendar-day,Calendar Day,Sharp Solid

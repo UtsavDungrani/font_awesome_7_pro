@@ -6497,5 +6497,14 @@ window.FA_PUBLISHED = [
 "siren-on:23",
 "clipboard-question:3",
 "cable-car:0",
-"video-plus:19"
+"video-plus:19",
+"square-quote:23",
+"bench-tree:24",
+"thumbtack-angle-slash:7",
+"hand-wave:22",
+"wave:8",
+"clipboard-list:24",
+"table-cells-large:7",
+"bars-sort:3",
+"anchor:5"
 ];

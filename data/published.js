@@ -6443,5 +6443,14 @@ window.FA_PUBLISHED = [
 "bin:2",
 "circle-dollar-to-slot:24",
 "egg-fried:2",
-"send-backward:24"
+"send-backward:24",
+"keynote:0",
+"sort:36",
+"file-binary:26",
+"table-cells-unlock:23",
+"arrow-down-small-big:24",
+"guitars:2",
+"globe-stand:2",
+"earth-africa:3",
+"h4:8"
 ];

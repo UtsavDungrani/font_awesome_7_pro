@@ -1,13 +1,4 @@
 name,style,classes,label,style_label
-keynote,0,fa-solid fa-keynote,Keynote,Solid
-sort,36,fa-whiteboard fa-semibold fa-sort,Sort,Whiteboard Semibold
-file-binary,26,fa-sharp-duotone fa-thin fa-file-binary,File Binary,Sharp Duotone Thin
-table-cells-unlock,23,fa-sharp-duotone fa-light fa-table-cells-unlock,Table Cells Unlock,Sharp Duotone Light
-arrow-down-small-big,24,fa-sharp-duotone fa-regular fa-arrow-down-small-big,Arrow Down Small Big,Sharp Duotone Regular
-guitars,2,fa-light fa-guitars,Guitars,Light
-globe-stand,2,fa-light fa-globe-stand,Globe Stand,Light
-earth-africa,3,fa-thin fa-earth-africa,Earth Africa,Thin
-h4,8,fa-duotone fa-regular fa-h4,H4,Duotone Regular
 arrow-right-to-line,0,fa-solid fa-arrow-right-to-line,Arrow Right To Line,Solid
 tarp-droplet,7,fa-duotone fa-light fa-tarp-droplet,Tarp Droplet,Duotone Light
 percent,7,fa-duotone fa-light fa-percent,Percent,Duotone Light
